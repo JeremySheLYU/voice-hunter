@@ -1,0 +1,99 @@
+{
+  "rows": [
+    {
+      "film": "bbb",
+      "start": 60,
+      "split": "train",
+      "fixed_sisdr_db": 0.8391400867701209,
+      "learned_sisdr_db": 4.74580358160268,
+      "improvement_db": 3.9066634948325594,
+      "fixed_zero_lag_cosine": 0.740374534163381
+    },
+    {
+      "film": "bbb",
+      "start": 180,
+      "split": "train",
+      "fixed_sisdr_db": -0.06864902073074364,
+      "learned_sisdr_db": 1.5455657960474691,
+      "improvement_db": 1.6142148167782127,
+      "fixed_zero_lag_cosine": 0.7043047295690197
+    },
+    {
+      "film": "bbb",
+      "start": 300,
+      "split": "train",
+      "fixed_sisdr_db": 2.186788642252713,
+      "learned_sisdr_db": 4.4756531139284315,
+      "improvement_db": 2.2888644716757183,
+      "fixed_zero_lag_cosine": 0.7894857463617407
+    },
+    {
+      "film": "bbb",
+      "start": 420,
+      "split": "train",
+      "fixed_sisdr_db": -0.6702938463666284,
+      "learned_sisdr_db": 2.424474627541345,
+      "improvement_db": 3.0947684739079735,
+      "fixed_zero_lag_cosine": 0.6793212768765952
+    },
+    {
+      "film": "sintel",
+      "start": 60,
+      "split": "test",
+      "fixed_sisdr_db": 7.118734433730188,
+      "learned_sisdr_db": 3.7055070518771354,
+      "improvement_db": -3.4132273818530523,
+      "fixed_zero_lag_cosine": 0.9151025416122511
+    },
+    {
+      "film": "sintel",
+      "start": 180,
+      "split": "test",
+      "fixed_sisdr_db": 15.303105662651822,
+      "learned_sisdr_db": -5.711182581410443,
+      "improvement_db": -21.014288244062264,
+      "fixed_zero_lag_cosine": 0.985572836294197
+    },
+    {
+      "film": "sintel",
+      "start": 300,
+      "split": "test",
+      "fixed_sisdr_db": 8.383958603974232,
+      "learned_sisdr_db": 2.74126739563589,
+      "improvement_db": -5.642691208338342,
+      "fixed_zero_lag_cosine": 0.9345064515269952
+    },
+    {
+      "film": "sintel",
+      "start": 420,
+      "split": "test",
+      "fixed_sisdr_db": 4.646030026268859,
+      "learned_sisdr_db": 6.282006651079327,
+      "improvement_db": 1.6359766248104686,
+      "fixed_zero_lag_cosine": 0.8626635251076922
+    }
+  ],
+  "weights": [
+    0.9896397086487773,
+    0.029120964880597927,
+    0.5048147385866262,
+    -0.0021799303991424635
+  ],
+  "baseline": [
+    1.0,
+    0.7071067811865476,
+    0.7071067811865476,
+    0.0
+  ],
+  "median_improvement_db": {
+    "train": 2.691816472791846,
+    "test": -4.527959295095697
+  },
+  "weight_names": [
+    "front",
+    "centre",
+    "ipsilateral surround",
+    "contralateral surround"
+  ],
+  "lfe_weight": 0
+}

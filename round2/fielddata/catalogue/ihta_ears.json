@@ -1,0 +1,725 @@
+{
+  "dataset": "ihta_ears",
+  "record": "11184517",
+  "url": "https://zenodo.org/api/records/11184517/files/Binaural.zip/content",
+  "archive": "Binaural.zip",
+  "archive_checksum": "md5:494c76c46eebb55ba4fc66ce51fdef4b",
+  "full_zip_size": 1068732078,
+  "seconds": 4,
+  "files": [
+    {
+      "name": "Binaural/20220202_Wed_12h00_Pos1_30sec.wav",
+      "offset": 39,
+      "compressed": 10649014,
+      "method": 8,
+      "crc32": 1355326697
+    },
+    {
+      "name": "Binaural/20220202_Wed_12h00_Pos2_30sec.wav",
+      "offset": 10649125,
+      "compressed": 10641645,
+      "method": 8,
+      "crc32": 832845930
+    },
+    {
+      "name": "Binaural/20220202_Wed_12h00_Pos3_30sec.wav",
+      "offset": 21290842,
+      "compressed": 10665243,
+      "method": 8,
+      "crc32": 1619134689
+    },
+    {
+      "name": "Binaural/20220202_Wed_12h00_Pos4_30sec.wav",
+      "offset": 31956157,
+      "compressed": 10653955,
+      "method": 8,
+      "crc32": 2851792235
+    },
+    {
+      "name": "Binaural/20220202_Wed_12h00_Pos5_30sec.wav",
+      "offset": 42610184,
+      "compressed": 10645151,
+      "method": 8,
+      "crc32": 4043487776
+    },
+    {
+      "name": "Binaural/20220203_Thu_09h00_Pos1_30sec.wav",
+      "offset": 53255407,
+      "compressed": 10645231,
+      "method": 8,
+      "crc32": 162347164
+    },
+    {
+      "name": "Binaural/20220203_Thu_09h00_Pos2_30sec.wav",
+      "offset": 63900710,
+      "compressed": 10655742,
+      "method": 8,
+      "crc32": 3587418436
+    },
+    {
+      "name": "Binaural/20220203_Thu_09h00_Pos3_30sec.wav",
+      "offset": 74556524,
+      "compressed": 10593756,
+      "method": 8,
+      "crc32": 2823115446
+    },
+    {
+      "name": "Binaural/20220203_Thu_09h00_Pos4_30sec.wav",
+      "offset": 85150352,
+      "compressed": 10635668,
+      "method": 8,
+      "crc32": 3693668289
+    },
+    {
+      "name": "Binaural/20220203_Thu_09h00_Pos5_30sec.wav",
+      "offset": 95786092,
+      "compressed": 10628357,
+      "method": 8,
+      "crc32": 1776091112
+    },
+    {
+      "name": "Binaural/20220204_Fri_11h30_Pos1_30sec.wav",
+      "offset": 106414521,
+      "compressed": 10637500,
+      "method": 8,
+      "crc32": 1386891482
+    },
+    {
+      "name": "Binaural/20220204_Fri_11h30_Pos2_30sec.wav",
+      "offset": 117052093,
+      "compressed": 10569328,
+      "method": 8,
+      "crc32": 3330185296
+    },
+    {
+      "name": "Binaural/20220204_Fri_11h30_Pos3_30sec.wav",
+      "offset": 127621493,
+      "compressed": 10591056,
+      "method": 8,
+      "crc32": 1399980837
+    },
+    {
+      "name": "Binaural/20220204_Fri_11h30_Pos5_30sec.wav",
+      "offset": 138212621,
+      "compressed": 10631038,
+      "method": 8,
+      "crc32": 2620611371
+    },
+    {
+      "name": "Binaural/20220205_Sat_08h30_Pos1_30sec.wav",
+      "offset": 148843731,
+      "compressed": 10627848,
+      "method": 8,
+      "crc32": 75564081
+    },
+    {
+      "name": "Binaural/20220205_Sat_08h30_Pos2_30sec.wav",
+      "offset": 159471651,
+      "compressed": 10606485,
+      "method": 8,
+      "crc32": 481306492
+    },
+    {
+      "name": "Binaural/20220205_Sat_08h30_Pos3_30sec.wav",
+      "offset": 170078208,
+      "compressed": 10632362,
+      "method": 8,
+      "crc32": 690401424
+    },
+    {
+      "name": "Binaural/20220205_Sat_08h30_Pos4_30sec.wav",
+      "offset": 180710642,
+      "compressed": 10623745,
+      "method": 8,
+      "crc32": 1081676857
+    },
+    {
+      "name": "Binaural/20220208_Tue_12h00_Pos1_30sec.wav",
+      "offset": 191334459,
+      "compressed": 10650396,
+      "method": 8,
+      "crc32": 941193009
+    },
+    {
+      "name": "Binaural/20220208_Tue_12h00_Pos2_30sec.wav",
+      "offset": 201984927,
+      "compressed": 10647536,
+      "method": 8,
+      "crc32": 195011031
+    },
+    {
+      "name": "Binaural/20220208_Tue_12h00_Pos3_30sec.wav",
+      "offset": 212632535,
+      "compressed": 10642495,
+      "method": 8,
+      "crc32": 1459222664
+    },
+    {
+      "name": "Binaural/20220208_Tue_12h00_Pos4_30sec.wav",
+      "offset": 223275102,
+      "compressed": 10627433,
+      "method": 8,
+      "crc32": 4084798624
+    },
+    {
+      "name": "Binaural/20220208_Tue_12h00_Pos5_30sec.wav",
+      "offset": 233902607,
+      "compressed": 10649988,
+      "method": 8,
+      "crc32": 1679848235
+    },
+    {
+      "name": "Binaural/20220210_Thu_11h00_Pos1_30sec.wav",
+      "offset": 244552667,
+      "compressed": 10661564,
+      "method": 8,
+      "crc32": 1948486088
+    },
+    {
+      "name": "Binaural/20220210_Thu_11h00_Pos2_30sec.wav",
+      "offset": 255214303,
+      "compressed": 10649616,
+      "method": 8,
+      "crc32": 1843625121
+    },
+    {
+      "name": "Binaural/20220210_Thu_11h00_Pos3_30sec.wav",
+      "offset": 265863991,
+      "compressed": 10651554,
+      "method": 8,
+      "crc32": 97909298
+    },
+    {
+      "name": "Binaural/20220210_Thu_11h00_Pos4_30sec.wav",
+      "offset": 276515617,
+      "compressed": 10662168,
+      "method": 8,
+      "crc32": 201095820
+    },
+    {
+      "name": "Binaural/20220210_Thu_11h00_Pos5_30sec.wav",
+      "offset": 287177857,
+      "compressed": 10658052,
+      "method": 8,
+      "crc32": 4274795962
+    },
+    {
+      "name": "Binaural/20220211_Fri_17h00_Pos1_30sec.wav",
+      "offset": 297835981,
+      "compressed": 10635940,
+      "method": 8,
+      "crc32": 4225510011
+    },
+    {
+      "name": "Binaural/20220211_Fri_17h00_Pos2_30sec.wav",
+      "offset": 308471993,
+      "compressed": 10638034,
+      "method": 8,
+      "crc32": 3372549219
+    },
+    {
+      "name": "Binaural/20220211_Fri_17h00_Pos3_30sec.wav",
+      "offset": 319110099,
+      "compressed": 10642592,
+      "method": 8,
+      "crc32": 2058216300
+    },
+    {
+      "name": "Binaural/20220211_Fri_17h00_Pos4_30sec.wav",
+      "offset": 329752763,
+      "compressed": 10635149,
+      "method": 8,
+      "crc32": 3922484638
+    },
+    {
+      "name": "Binaural/20220211_Fri_17h00_Pos5_30sec.wav",
+      "offset": 340387984,
+      "compressed": 10647442,
+      "method": 8,
+      "crc32": 669436176
+    },
+    {
+      "name": "Binaural/20220212_Sat_16h30_Pos1_30sec.wav",
+      "offset": 351035498,
+      "compressed": 10660643,
+      "method": 8,
+      "crc32": 4255760320
+    },
+    {
+      "name": "Binaural/20220212_Sat_16h30_Pos2_30sec.wav",
+      "offset": 361696213,
+      "compressed": 10635817,
+      "method": 8,
+      "crc32": 2320630873
+    },
+    {
+      "name": "Binaural/20220212_Sat_16h30_Pos3_30sec.wav",
+      "offset": 372332102,
+      "compressed": 10636253,
+      "method": 8,
+      "crc32": 3457505146
+    },
+    {
+      "name": "Binaural/20220212_Sat_16h30_Pos4_30sec.wav",
+      "offset": 382968427,
+      "compressed": 10637115,
+      "method": 8,
+      "crc32": 45299560
+    },
+    {
+      "name": "Binaural/20220212_Sat_16h30_Pos5_30sec.wav",
+      "offset": 393605614,
+      "compressed": 10631012,
+      "method": 8,
+      "crc32": 4032978259
+    },
+    {
+      "name": "Binaural/20220212_Sat_23h00_Pos1_30sec.wav",
+      "offset": 404236698,
+      "compressed": 10636221,
+      "method": 8,
+      "crc32": 658622487
+    },
+    {
+      "name": "Binaural/20220212_Sat_23h00_Pos2_30sec.wav",
+      "offset": 414872991,
+      "compressed": 10640896,
+      "method": 8,
+      "crc32": 1726567293
+    },
+    {
+      "name": "Binaural/20220212_Sat_23h00_Pos3_30sec.wav",
+      "offset": 425513959,
+      "compressed": 10631142,
+      "method": 8,
+      "crc32": 1506403710
+    },
+    {
+      "name": "Binaural/20220212_Sat_23h00_Pos4_30sec.wav",
+      "offset": 436145173,
+      "compressed": 10627508,
+      "method": 8,
+      "crc32": 2066684048
+    },
+    {
+      "name": "Binaural/20220212_Sat_23h00_Pos5_30sec.wav",
+      "offset": 446772753,
+      "compressed": 10643085,
+      "method": 8,
+      "crc32": 4097000263
+    },
+    {
+      "name": "Binaural/20220213_Sun_10h00_Pos1_30sec.wav",
+      "offset": 457415910,
+      "compressed": 10647865,
+      "method": 8,
+      "crc32": 1068710489
+    },
+    {
+      "name": "Binaural/20220213_Sun_10h00_Pos2_30sec.wav",
+      "offset": 468063847,
+      "compressed": 10629197,
+      "method": 8,
+      "crc32": 4228450392
+    },
+    {
+      "name": "Binaural/20220213_Sun_10h00_Pos3_30sec.wav",
+      "offset": 478693116,
+      "compressed": 10638930,
+      "method": 8,
+      "crc32": 1652952097
+    },
+    {
+      "name": "Binaural/20220213_Sun_10h00_Pos4_30sec.wav",
+      "offset": 489332118,
+      "compressed": 10630319,
+      "method": 8,
+      "crc32": 3998354385
+    },
+    {
+      "name": "Binaural/20220213_Sun_10h00_Pos5_30sec.wav",
+      "offset": 499962509,
+      "compressed": 10650253,
+      "method": 8,
+      "crc32": 3165612940
+    },
+    {
+      "name": "Binaural/20220218_Fri_10h30_Pos1_30sec.wav",
+      "offset": 510612834,
+      "compressed": 10647746,
+      "method": 8,
+      "crc32": 2749202587
+    },
+    {
+      "name": "Binaural/20220420_Wed_17h30_Pos1_30sec.wav",
+      "offset": 521260652,
+      "compressed": 9770225,
+      "method": 8,
+      "crc32": 2237449555
+    },
+    {
+      "name": "Binaural/20220420_Wed_17h30_Pos2_30sec.wav",
+      "offset": 531030949,
+      "compressed": 9795466,
+      "method": 8,
+      "crc32": 3553793065
+    },
+    {
+      "name": "Binaural/20220420_Wed_17h30_Pos3_30sec.wav",
+      "offset": 540826487,
+      "compressed": 9802880,
+      "method": 8,
+      "crc32": 2255451753
+    },
+    {
+      "name": "Binaural/20220420_Wed_17h30_Pos4_30sec.wav",
+      "offset": 550629439,
+      "compressed": 9799637,
+      "method": 8,
+      "crc32": 2403767257
+    },
+    {
+      "name": "Binaural/20220420_Wed_17h30_Pos5_30sec.wav",
+      "offset": 560429148,
+      "compressed": 9798504,
+      "method": 8,
+      "crc32": 3433125237
+    },
+    {
+      "name": "Binaural/20220421_Thu_12h00_Pos1_30sec.wav",
+      "offset": 570227724,
+      "compressed": 9783809,
+      "method": 8,
+      "crc32": 507772966
+    },
+    {
+      "name": "Binaural/20220421_Thu_12h00_Pos2_30sec.wav",
+      "offset": 580011605,
+      "compressed": 9795559,
+      "method": 8,
+      "crc32": 2024164969
+    },
+    {
+      "name": "Binaural/20220421_Thu_12h00_Pos3_30sec.wav",
+      "offset": 589807236,
+      "compressed": 9808558,
+      "method": 8,
+      "crc32": 1588992232
+    },
+    {
+      "name": "Binaural/20220421_Thu_12h00_Pos4_30sec.wav",
+      "offset": 599615866,
+      "compressed": 9792244,
+      "method": 8,
+      "crc32": 2017874919
+    },
+    {
+      "name": "Binaural/20220421_Thu_12h00_Pos5_30sec.wav",
+      "offset": 609408182,
+      "compressed": 9787264,
+      "method": 8,
+      "crc32": 1288014351
+    },
+    {
+      "name": "Binaural/20220429_Fri_18h00_Pos1_30sec.wav",
+      "offset": 619195518,
+      "compressed": 10658737,
+      "method": 8,
+      "crc32": 76210535
+    },
+    {
+      "name": "Binaural/20220429_Fri_18h00_Pos2_30sec.wav",
+      "offset": 629854327,
+      "compressed": 10672415,
+      "method": 8,
+      "crc32": 2692116325
+    },
+    {
+      "name": "Binaural/20220429_Fri_18h00_Pos3_30sec.wav",
+      "offset": 640526814,
+      "compressed": 10663664,
+      "method": 8,
+      "crc32": 2068452695
+    },
+    {
+      "name": "Binaural/20220429_Fri_18h00_Pos4_30sec.wav",
+      "offset": 651190550,
+      "compressed": 10666473,
+      "method": 8,
+      "crc32": 4099724716
+    },
+    {
+      "name": "Binaural/20220429_Fri_18h00_Pos5_30sec.wav",
+      "offset": 661857095,
+      "compressed": 10667528,
+      "method": 8,
+      "crc32": 897469434
+    },
+    {
+      "name": "Binaural/20220429_Fri_22h00_Pos1_30sec.wav",
+      "offset": 672524695,
+      "compressed": 10672658,
+      "method": 8,
+      "crc32": 3317861788
+    },
+    {
+      "name": "Binaural/20220429_Fri_22h00_Pos2_30sec.wav",
+      "offset": 683197425,
+      "compressed": 10669379,
+      "method": 8,
+      "crc32": 3370088946
+    },
+    {
+      "name": "Binaural/20220429_Fri_22h00_Pos3_30sec.wav",
+      "offset": 693866876,
+      "compressed": 10657735,
+      "method": 8,
+      "crc32": 3138729173
+    },
+    {
+      "name": "Binaural/20220429_Fri_22h00_Pos4_30sec.wav",
+      "offset": 704524683,
+      "compressed": 10638131,
+      "method": 8,
+      "crc32": 4182657659
+    },
+    {
+      "name": "Binaural/20220429_Fri_22h00_Pos5_30sec.wav",
+      "offset": 715162886,
+      "compressed": 10641923,
+      "method": 8,
+      "crc32": 1168727720
+    },
+    {
+      "name": "Binaural/20220430_Sat_08h00_Pos1_30sec.wav",
+      "offset": 725804881,
+      "compressed": 10647660,
+      "method": 8,
+      "crc32": 3535979925
+    },
+    {
+      "name": "Binaural/20220430_Sat_08h00_Pos2_30sec.wav",
+      "offset": 736452613,
+      "compressed": 10645740,
+      "method": 8,
+      "crc32": 1933600931
+    },
+    {
+      "name": "Binaural/20220430_Sat_08h00_Pos3_30sec.wav",
+      "offset": 747098425,
+      "compressed": 10642923,
+      "method": 8,
+      "crc32": 2442930635
+    },
+    {
+      "name": "Binaural/20220430_Sat_08h00_Pos4_30sec.wav",
+      "offset": 757741420,
+      "compressed": 10638590,
+      "method": 8,
+      "crc32": 3557591996
+    },
+    {
+      "name": "Binaural/20220430_Sat_08h00_Pos5_30sec.wav",
+      "offset": 768380082,
+      "compressed": 10636232,
+      "method": 8,
+      "crc32": 3251535040
+    },
+    {
+      "name": "Binaural/20220430_Sat_16h30_Pos1_30sec.wav",
+      "offset": 779016386,
+      "compressed": 10657847,
+      "method": 8,
+      "crc32": 1037518919
+    },
+    {
+      "name": "Binaural/20220430_Sat_16h30_Pos2_30sec.wav",
+      "offset": 789674305,
+      "compressed": 10647587,
+      "method": 8,
+      "crc32": 3755846075
+    },
+    {
+      "name": "Binaural/20220430_Sat_16h30_Pos3_30sec.wav",
+      "offset": 800321964,
+      "compressed": 10644936,
+      "method": 8,
+      "crc32": 3493833127
+    },
+    {
+      "name": "Binaural/20220430_Sat_16h30_Pos4_30sec.wav",
+      "offset": 810966972,
+      "compressed": 10663443,
+      "method": 8,
+      "crc32": 568163280
+    },
+    {
+      "name": "Binaural/20220430_Sat_16h30_Pos5_30sec.wav",
+      "offset": 821630487,
+      "compressed": 10646707,
+      "method": 8,
+      "crc32": 4061086932
+    },
+    {
+      "name": "Binaural/20220430_Sat_20h00_Pos2_30sec.wav",
+      "offset": 832277266,
+      "compressed": 10658054,
+      "method": 8,
+      "crc32": 3568529687
+    },
+    {
+      "name": "Binaural/20220430_Sat_20h00_Pos3_30sec.wav",
+      "offset": 842935392,
+      "compressed": 10651980,
+      "method": 8,
+      "crc32": 2121853906
+    },
+    {
+      "name": "Binaural/20220430_Sat_20h00_Pos4_30sec.wav",
+      "offset": 853587444,
+      "compressed": 10647708,
+      "method": 8,
+      "crc32": 175033319
+    },
+    {
+      "name": "Binaural/20220501_Sun_09h00_Pos1_30sec.wav",
+      "offset": 864235224,
+      "compressed": 10660652,
+      "method": 8,
+      "crc32": 431899173
+    },
+    {
+      "name": "Binaural/20220501_Sun_09h00_Pos2_30sec.wav",
+      "offset": 874895948,
+      "compressed": 10645490,
+      "method": 8,
+      "crc32": 3356635478
+    },
+    {
+      "name": "Binaural/20220501_Sun_09h00_Pos3_30sec.wav",
+      "offset": 885541510,
+      "compressed": 10656250,
+      "method": 8,
+      "crc32": 3016405018
+    },
+    {
+      "name": "Binaural/20220501_Sun_09h00_Pos4_30sec.wav",
+      "offset": 896197832,
+      "compressed": 10667792,
+      "method": 8,
+      "crc32": 2796613764
+    },
+    {
+      "name": "Binaural/20220501_Sun_09h00_Pos5_30sec.wav",
+      "offset": 906865696,
+      "compressed": 10666793,
+      "method": 8,
+      "crc32": 1191941419
+    },
+    {
+      "name": "Binaural/20220502_Mon_06h30_Pos1_30sec.wav",
+      "offset": 917532561,
+      "compressed": 10651224,
+      "method": 8,
+      "crc32": 3092144046
+    },
+    {
+      "name": "Binaural/20220502_Mon_06h30_Pos2_30sec.wav",
+      "offset": 928183857,
+      "compressed": 10649060,
+      "method": 8,
+      "crc32": 2244640907
+    },
+    {
+      "name": "Binaural/20220502_Mon_06h30_Pos3_30sec.wav",
+      "offset": 938832989,
+      "compressed": 10643774,
+      "method": 8,
+      "crc32": 2164891098
+    },
+    {
+      "name": "Binaural/20220502_Mon_06h30_Pos4_30sec.wav",
+      "offset": 949476835,
+      "compressed": 10642718,
+      "method": 8,
+      "crc32": 4029238006
+    },
+    {
+      "name": "Binaural/20220502_Mon_06h30_Pos5_30sec.wav",
+      "offset": 960119625,
+      "compressed": 10660779,
+      "method": 8,
+      "crc32": 1275804523
+    },
+    {
+      "name": "Binaural/20221205_Mon_12h51_Pos1_30sec.wav",
+      "offset": 970780476,
+      "compressed": 9800101,
+      "method": 8,
+      "crc32": 2503720946
+    },
+    {
+      "name": "Binaural/20221205_Mon_12h51_Pos2_30sec.wav",
+      "offset": 980580649,
+      "compressed": 9804778,
+      "method": 8,
+      "crc32": 2815131388
+    },
+    {
+      "name": "Binaural/20221205_Mon_12h51_Pos3_30sec.wav",
+      "offset": 990385499,
+      "compressed": 9809271,
+      "method": 8,
+      "crc32": 118127215
+    },
+    {
+      "name": "Binaural/20221205_Mon_12h51_Pos4_30sec.wav",
+      "offset": 1000194842,
+      "compressed": 9794322,
+      "method": 8,
+      "crc32": 4290732280
+    },
+    {
+      "name": "Binaural/20221205_Mon_12h51_Pos5_30sec.wav",
+      "offset": 1009989236,
+      "compressed": 9772641,
+      "method": 8,
+      "crc32": 1786496421
+    },
+    {
+      "name": "Binaural/20221215_Thu_12h27_Pos1_30sec.wav",
+      "offset": 1019761949,
+      "compressed": 9794427,
+      "method": 8,
+      "crc32": 4162175030
+    },
+    {
+      "name": "Binaural/20221215_Thu_12h27_Pos2_30sec.wav",
+      "offset": 1029556448,
+      "compressed": 9782212,
+      "method": 8,
+      "crc32": 648553885
+    },
+    {
+      "name": "Binaural/20221215_Thu_12h27_Pos3_30sec.wav",
+      "offset": 1039338732,
+      "compressed": 9782954,
+      "method": 8,
+      "crc32": 3836549853
+    },
+    {
+      "name": "Binaural/20221215_Thu_12h27_Pos4_30sec.wav",
+      "offset": 1049121758,
+      "compressed": 9797408,
+      "method": 8,
+      "crc32": 4084049532
+    },
+    {
+      "name": "Binaural/20221215_Thu_12h27_Pos5_30sec.wav",
+      "offset": 1058919238,
+      "compressed": 9800007,
+      "method": 8,
+      "crc32": 1809310919
+    }
+  ]
+}

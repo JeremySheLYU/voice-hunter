@@ -1,0 +1,2417 @@
+{
+  "persistent": {
+    "n": 55,
+    "tp": 44,
+    "fp": 13,
+    "f1": 0.7857142857142857,
+    "acc": 0.7818181818181819,
+    "useful": 44,
+    "harmful": 0,
+    "oracle_useful": 55,
+    "oracle_median": 49.88450786516094,
+    "quality_percentiles": [
+      [
+        0.010192743502557278,
+        0.13633909821510315
+      ],
+      [
+        0.023272451013326645,
+        0.13861902058124542
+      ],
+      [
+        0.06554104387760162,
+        0.20329780876636505
+      ],
+      [
+        0.1077448233962059,
+        0.32210325002670287
+      ],
+      [
+        0.13216868042945862,
+        0.32985207438468933
+      ]
+    ],
+    "rows": [
+      {
+        "target": "guitar",
+        "source_id": "37794",
+        "distractor": "piano",
+        "background_id": "43743",
+        "absent": "speech",
+        "kind": "persistent",
+        "delta": 43.224950529797034,
+        "absent_returned": false,
+        "quality": [
+          0.098428875207901,
+          0.20611117780208588
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "42373",
+        "distractor": "speech",
+        "background_id": "79598",
+        "absent": "train",
+        "kind": "persistent",
+        "delta": 54.58008901110389,
+        "absent_returned": false,
+        "quality": [
+          0.10717453807592392,
+          0.32216036319732666
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "171353",
+        "distractor": "train",
+        "background_id": "57787",
+        "absent": "wind",
+        "kind": "persistent",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.0706728920340538,
+          0.15468280017375946
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "260204",
+        "distractor": "wind",
+        "background_id": "207481",
+        "absent": "piano",
+        "kind": "persistent",
+        "delta": 51.366325063396744,
+        "absent_returned": false,
+        "quality": [
+          0.10752754658460617,
+          0.1392708271741867
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "265986",
+        "distractor": "piano",
+        "background_id": "256684",
+        "absent": "speech",
+        "kind": "persistent",
+        "delta": 43.436456032392314,
+        "absent_returned": false,
+        "quality": [
+          0.11120739579200745,
+          0.23793140053749084
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "276576",
+        "distractor": "speech",
+        "background_id": "209661",
+        "absent": "piano",
+        "kind": "persistent",
+        "delta": 47.26241057990127,
+        "absent_returned": false,
+        "quality": [
+          0.02676355093717575,
+          0.20321550965309143
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "316995",
+        "distractor": "train",
+        "background_id": "277368",
+        "absent": "speech",
+        "kind": "persistent",
+        "delta": 39.789818461525805,
+        "absent_returned": false,
+        "quality": [
+          0.046084724366664886,
+          0.3229461908340454
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "329838",
+        "distractor": "wind",
+        "background_id": "380941",
+        "absent": "train",
+        "kind": "persistent",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.013547725975513458,
+          0.1590667963027954
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "333632",
+        "distractor": "piano",
+        "background_id": "382495",
+        "absent": "wind",
+        "kind": "persistent",
+        "delta": 53.35001467142628,
+        "absent_returned": false,
+        "quality": [
+          0.02992411144077778,
+          0.13815808296203613
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "334100",
+        "distractor": "speech",
+        "background_id": "342983",
+        "absent": "piano",
+        "kind": "persistent",
+        "delta": 65.07576474021157,
+        "absent_returned": false,
+        "quality": [
+          0.0866389200091362,
+          0.23524020612239838
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "365795",
+        "distractor": "train",
+        "background_id": "389761",
+        "absent": "piano",
+        "kind": "persistent",
+        "delta": 66.54143779975496,
+        "absent_returned": false,
+        "quality": [
+          0.08728473633527756,
+          0.20310765504837036
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "43743",
+        "distractor": "speech",
+        "background_id": "86938",
+        "absent": "train",
+        "kind": "persistent",
+        "delta": 55.67427961563641,
+        "absent_returned": false,
+        "quality": [
+          0.07734163105487823,
+          0.32141628861427307
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "89764",
+        "distractor": "train",
+        "background_id": "127826",
+        "absent": "wind",
+        "kind": "persistent",
+        "delta": 39.93859051003942,
+        "absent_returned": true,
+        "quality": [
+          0.06950417160987854,
+          0.14875148236751556
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "159118",
+        "distractor": "wind",
+        "background_id": "320693",
+        "absent": "guitar",
+        "kind": "persistent",
+        "delta": null,
+        "absent_returned": true,
+        "quality": [
+          0.08735984563827515,
+          0.1392235904932022
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "176492",
+        "distractor": "guitar",
+        "background_id": "276576",
+        "absent": "speech",
+        "kind": "persistent",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.019654961302876472,
+          0.23247909545898438
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "256684",
+        "distractor": "speech",
+        "background_id": "215990",
+        "absent": "train",
+        "kind": "persistent",
+        "delta": 52.74802172489595,
+        "absent_returned": false,
+        "quality": [
+          0.10713572055101395,
+          0.20421914756298065
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "277086",
+        "distractor": "train",
+        "background_id": "336877",
+        "absent": "speech",
+        "kind": "persistent",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.07067468762397766,
+          0.3220175802707672
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "343418",
+        "distractor": "wind",
+        "background_id": "393004",
+        "absent": "train",
+        "kind": "persistent",
+        "delta": 53.23992753004546,
+        "absent_returned": true,
+        "quality": [
+          0.0411611907184124,
+          0.15247201919555664
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "361924",
+        "distractor": "guitar",
+        "background_id": "334100",
+        "absent": "wind",
+        "kind": "persistent",
+        "delta": 53.83019425667885,
+        "absent_returned": false,
+        "quality": [
+          0.06554104387760162,
+          0.13633909821510315
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "382495",
+        "distractor": "speech",
+        "background_id": "389993",
+        "absent": "guitar",
+        "kind": "persistent",
+        "delta": 35.07248436751028,
+        "absent_returned": true,
+        "quality": [
+          0.12660431861877441,
+          0.21462103724479675
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "405566",
+        "distractor": "train",
+        "background_id": "17851",
+        "absent": "speech",
+        "kind": "persistent",
+        "delta": 39.11713798347097,
+        "absent_returned": false,
+        "quality": [
+          0.07678968459367752,
+          0.21278101205825806
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "419667",
+        "distractor": "wind",
+        "background_id": "152980",
+        "absent": "speech",
+        "kind": "persistent",
+        "delta": 53.00883318969495,
+        "absent_returned": false,
+        "quality": [
+          0.055756088346242905,
+          0.3202255666255951
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "59512",
+        "distractor": "train",
+        "background_id": "174882",
+        "absent": "wind",
+        "kind": "persistent",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.049325574189424515,
+          0.1555372178554535
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "79598",
+        "distractor": "wind",
+        "background_id": "333900",
+        "absent": "guitar",
+        "kind": "persistent",
+        "delta": 53.70401304564716,
+        "absent_returned": false,
+        "quality": [
+          0.08398134261369705,
+          0.13717438280582428
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "86938",
+        "distractor": "guitar",
+        "background_id": "316995",
+        "absent": "piano",
+        "kind": "persistent",
+        "delta": 50.91746463285188,
+        "absent_returned": false,
+        "quality": [
+          0.07179349660873413,
+          0.23617298901081085
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "90422",
+        "distractor": "piano",
+        "background_id": "361924",
+        "absent": "train",
+        "kind": "persistent",
+        "delta": 53.89395245257137,
+        "absent_returned": false,
+        "quality": [
+          0.011306523345410824,
+          0.20195125043392181
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "152418",
+        "distractor": "train",
+        "background_id": "339874",
+        "absent": "wind",
+        "kind": "persistent",
+        "delta": 35.9747887672754,
+        "absent_returned": false,
+        "quality": [
+          0.10788967460393906,
+          0.32985207438468933
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "209661",
+        "distractor": "wind",
+        "background_id": "402801",
+        "absent": "train",
+        "kind": "persistent",
+        "delta": 39.69485104489773,
+        "absent_returned": false,
+        "quality": [
+          0.1229940801858902,
+          0.16129596531391144
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "215990",
+        "distractor": "guitar",
+        "background_id": "365795",
+        "absent": "wind",
+        "kind": "persistent",
+        "delta": null,
+        "absent_returned": true,
+        "quality": [
+          0.06455983966588974,
+          0.13938601315021515
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "220458",
+        "distractor": "piano",
+        "background_id": "43743",
+        "absent": "guitar",
+        "kind": "persistent",
+        "delta": 46.0178400305544,
+        "absent_returned": false,
+        "quality": [
+          0.010192743502557278,
+          0.2344537228345871
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "332047",
+        "distractor": "train",
+        "background_id": "25888",
+        "absent": "piano",
+        "kind": "persistent",
+        "delta": 46.40512884700059,
+        "absent_returned": false,
+        "quality": [
+          0.043294187635183334,
+          0.20824100077152252
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "342983",
+        "distractor": "wind",
+        "background_id": "162417",
+        "absent": "train",
+        "kind": "persistent",
+        "delta": 45.10494856936875,
+        "absent_returned": true,
+        "quality": [
+          0.02387390285730362,
+          0.32545721530914307
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "389993",
+        "distractor": "guitar",
+        "background_id": "260204",
+        "absent": "train",
+        "kind": "persistent",
+        "delta": 37.81208706503755,
+        "absent_returned": false,
+        "quality": [
+          0.11147119104862213,
+          0.15633288025856018
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "17851",
+        "distractor": "wind",
+        "background_id": "367328",
+        "absent": "guitar",
+        "kind": "persistent",
+        "delta": 43.32642792143183,
+        "absent_returned": false,
+        "quality": [
+          0.05852818489074707,
+          0.13759532570838928
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "25888",
+        "distractor": "guitar",
+        "background_id": "329838",
+        "absent": "piano",
+        "kind": "persistent",
+        "delta": 61.60444457843919,
+        "absent_returned": true,
+        "quality": [
+          0.019508004188537598,
+          0.23518159985542297
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "57787",
+        "distractor": "piano",
+        "background_id": "382495",
+        "absent": "speech",
+        "kind": "persistent",
+        "delta": 52.44947506168681,
+        "absent_returned": false,
+        "quality": [
+          0.08198033273220062,
+          0.20311178267002106
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "127826",
+        "distractor": "speech",
+        "background_id": "342983",
+        "absent": "wind",
+        "kind": "persistent",
+        "delta": 38.66685232298727,
+        "absent_returned": true,
+        "quality": [
+          0.08838291466236115,
+          0.3148720860481262
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "174882",
+        "distractor": "wind",
+        "background_id": "422866",
+        "absent": "guitar",
+        "kind": "persistent",
+        "delta": 53.032016402693024,
+        "absent_returned": false,
+        "quality": [
+          0.048770077526569366,
+          0.15647545456886292
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "185124",
+        "distractor": "guitar",
+        "background_id": "37794",
+        "absent": "wind",
+        "kind": "persistent",
+        "delta": 45.97792619800057,
+        "absent_returned": false,
+        "quality": [
+          0.03219088166952133,
+          0.13816307485103607
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "277368",
+        "distractor": "piano",
+        "background_id": "89764",
+        "absent": "guitar",
+        "kind": "persistent",
+        "delta": 53.43339614384238,
+        "absent_returned": false,
+        "quality": [
+          0.05268855020403862,
+          0.23421460390090942
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "336877",
+        "distractor": "speech",
+        "background_id": "86938",
+        "absent": "piano",
+        "kind": "persistent",
+        "delta": 53.46427198603049,
+        "absent_returned": false,
+        "quality": [
+          0.0462360717356205,
+          0.20329780876636505
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "339874",
+        "distractor": "wind",
+        "background_id": "207481",
+        "absent": "speech",
+        "kind": "persistent",
+        "delta": 49.33052487668816,
+        "absent_returned": false,
+        "quality": [
+          0.0493532158434391,
+          0.3239467740058899
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "380680",
+        "distractor": "guitar",
+        "background_id": "265986",
+        "absent": "wind",
+        "kind": "persistent",
+        "delta": 48.64761991267823,
+        "absent_returned": false,
+        "quality": [
+          0.066563680768013,
+          0.1576012670993805
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "389761",
+        "distractor": "piano",
+        "background_id": "277086",
+        "absent": "wind",
+        "kind": "persistent",
+        "delta": null,
+        "absent_returned": true,
+        "quality": [
+          0.13216868042945862,
+          0.13923496007919312
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "76404",
+        "distractor": "guitar",
+        "background_id": "333632",
+        "absent": "piano",
+        "kind": "persistent",
+        "delta": 36.94246347938703,
+        "absent_returned": false,
+        "quality": [
+          0.04534066095948219,
+          0.22678346931934357
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "152980",
+        "distractor": "piano",
+        "background_id": "405566",
+        "absent": "speech",
+        "kind": "persistent",
+        "delta": 36.13791922428626,
+        "absent_returned": false,
+        "quality": [
+          0.06709263473749161,
+          0.2053167074918747
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "162417",
+        "distractor": "speech",
+        "background_id": "389993",
+        "absent": "train",
+        "kind": "persistent",
+        "delta": null,
+        "absent_returned": true,
+        "quality": [
+          0.06491200625896454,
+          0.3175636827945709
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "207481",
+        "distractor": "train",
+        "background_id": "17851",
+        "absent": "guitar",
+        "kind": "persistent",
+        "delta": 35.54295715948585,
+        "absent_returned": false,
+        "quality": [
+          0.04068203642964363,
+          0.15427130460739136
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "320693",
+        "distractor": "guitar",
+        "background_id": "42373",
+        "absent": "piano",
+        "kind": "persistent",
+        "delta": null,
+        "absent_returned": true,
+        "quality": [
+          0.10078420490026474,
+          0.13821597397327423
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "333900",
+        "distractor": "piano",
+        "background_id": "159118",
+        "absent": "guitar",
+        "kind": "persistent",
+        "delta": 51.854877765219705,
+        "absent_returned": true,
+        "quality": [
+          0.07595442980527878,
+          0.23520100116729736
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "367328",
+        "distractor": "speech",
+        "background_id": "90422",
+        "absent": "piano",
+        "kind": "persistent",
+        "delta": 57.29327751579006,
+        "absent_returned": false,
+        "quality": [
+          0.09955323487520218,
+          0.20216096937656403
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "380941",
+        "distractor": "train",
+        "background_id": "174882",
+        "absent": "speech",
+        "kind": "persistent",
+        "delta": 39.50156072832358,
+        "absent_returned": false,
+        "quality": [
+          0.046976085752248764,
+          0.32261690497398376
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "393004",
+        "distractor": "guitar",
+        "background_id": "276576",
+        "absent": "train",
+        "kind": "persistent",
+        "delta": null,
+        "absent_returned": true,
+        "quality": [
+          0.022871483117341995,
+          0.15248379111289978
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "402801",
+        "distractor": "piano",
+        "background_id": "343418",
+        "absent": "guitar",
+        "kind": "persistent",
+        "delta": 50.45268116210389,
+        "absent_returned": false,
+        "quality": [
+          0.04512311890721321,
+          0.13950546085834503
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "422866",
+        "distractor": "speech",
+        "background_id": "220458",
+        "absent": "guitar",
+        "kind": "persistent",
+        "delta": 63.0580994189005,
+        "absent_returned": false,
+        "quality": [
+          0.02666591852903366,
+          0.2349526435136795
+        ]
+      }
+    ]
+  },
+  "intermittent": {
+    "n": 55,
+    "tp": 43,
+    "fp": 13,
+    "f1": 0.7747747747747747,
+    "acc": 0.7727272727272727,
+    "useful": 43,
+    "harmful": 0,
+    "oracle_useful": 55,
+    "oracle_median": 49.84961313155497,
+    "quality_percentiles": [
+      [
+        0.009222780354321003,
+        0.1361917108297348
+      ],
+      [
+        0.014550430700182915,
+        0.13792030215263368
+      ],
+      [
+        0.040804170072078705,
+        0.20267000794410706
+      ],
+      [
+        0.06114680171012879,
+        0.3214097857475281
+      ],
+      [
+        0.08010315150022507,
+        0.32334622740745544
+      ]
+    ],
+    "rows": [
+      {
+        "target": "guitar",
+        "source_id": "37794",
+        "distractor": "piano",
+        "background_id": "43743",
+        "absent": "speech",
+        "kind": "intermittent",
+        "delta": 44.535674619651964,
+        "absent_returned": false,
+        "quality": [
+          0.08010315150022507,
+          0.2007041871547699
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "42373",
+        "distractor": "speech",
+        "background_id": "79598",
+        "absent": "train",
+        "kind": "intermittent",
+        "delta": 43.13295408372254,
+        "absent_returned": false,
+        "quality": [
+          0.05857883021235466,
+          0.32239827513694763
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "171353",
+        "distractor": "train",
+        "background_id": "57787",
+        "absent": "wind",
+        "kind": "intermittent",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.04959748312830925,
+          0.1529434770345688
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "260204",
+        "distractor": "wind",
+        "background_id": "207481",
+        "absent": "piano",
+        "kind": "intermittent",
+        "delta": 52.065085690939256,
+        "absent_returned": false,
+        "quality": [
+          0.05943505838513374,
+          0.1369318664073944
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "265986",
+        "distractor": "piano",
+        "background_id": "256684",
+        "absent": "speech",
+        "kind": "intermittent",
+        "delta": 42.39433555342742,
+        "absent_returned": false,
+        "quality": [
+          0.0699475109577179,
+          0.23823511600494385
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "276576",
+        "distractor": "speech",
+        "background_id": "209661",
+        "absent": "piano",
+        "kind": "intermittent",
+        "delta": 50.30290495534919,
+        "absent_returned": false,
+        "quality": [
+          0.018672388046979904,
+          0.20324112474918365
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "316995",
+        "distractor": "train",
+        "background_id": "277368",
+        "absent": "speech",
+        "kind": "intermittent",
+        "delta": 40.32557134628154,
+        "absent_returned": false,
+        "quality": [
+          0.035377055406570435,
+          0.3230507969856262
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "329838",
+        "distractor": "wind",
+        "background_id": "380941",
+        "absent": "train",
+        "kind": "intermittent",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.013107776641845703,
+          0.16074030101299286
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "333632",
+        "distractor": "piano",
+        "background_id": "382495",
+        "absent": "wind",
+        "kind": "intermittent",
+        "delta": 62.480013649947374,
+        "absent_returned": false,
+        "quality": [
+          0.016767187044024467,
+          0.1378880739212036
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "334100",
+        "distractor": "speech",
+        "background_id": "342983",
+        "absent": "piano",
+        "kind": "intermittent",
+        "delta": 69.74595400677931,
+        "absent_returned": false,
+        "quality": [
+          0.049416083842515945,
+          0.2350965440273285
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "365795",
+        "distractor": "train",
+        "background_id": "389761",
+        "absent": "piano",
+        "kind": "intermittent",
+        "delta": 60.44568032736941,
+        "absent_returned": false,
+        "quality": [
+          0.04962743818759918,
+          0.20246252417564392
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "43743",
+        "distractor": "speech",
+        "background_id": "86938",
+        "absent": "train",
+        "kind": "intermittent",
+        "delta": 58.94267152125033,
+        "absent_returned": false,
+        "quality": [
+          0.04026401787996292,
+          0.3209347128868103
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "89764",
+        "distractor": "train",
+        "background_id": "127826",
+        "absent": "wind",
+        "kind": "intermittent",
+        "delta": 40.016720748356846,
+        "absent_returned": true,
+        "quality": [
+          0.04897688701748848,
+          0.14697471261024475
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "159118",
+        "distractor": "wind",
+        "background_id": "320693",
+        "absent": "guitar",
+        "kind": "intermittent",
+        "delta": null,
+        "absent_returned": true,
+        "quality": [
+          0.05337143316864967,
+          0.1384032517671585
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "176492",
+        "distractor": "guitar",
+        "background_id": "276576",
+        "absent": "speech",
+        "kind": "intermittent",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.012923925183713436,
+          0.2347082942724228
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "256684",
+        "distractor": "speech",
+        "background_id": "215990",
+        "absent": "train",
+        "kind": "intermittent",
+        "delta": 49.84961313155497,
+        "absent_returned": false,
+        "quality": [
+          0.062287963926792145,
+          0.20499128103256226
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "277086",
+        "distractor": "train",
+        "background_id": "336877",
+        "absent": "speech",
+        "kind": "intermittent",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.04310174658894539,
+          0.32334622740745544
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "343418",
+        "distractor": "wind",
+        "background_id": "393004",
+        "absent": "train",
+        "kind": "intermittent",
+        "delta": 61.677353348195545,
+        "absent_returned": true,
+        "quality": [
+          0.026294654235243797,
+          0.15470999479293823
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "361924",
+        "distractor": "guitar",
+        "background_id": "334100",
+        "absent": "wind",
+        "kind": "intermittent",
+        "delta": 52.97931419336497,
+        "absent_returned": false,
+        "quality": [
+          0.04214528575539589,
+          0.13713841140270233
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "382495",
+        "distractor": "speech",
+        "background_id": "389993",
+        "absent": "guitar",
+        "kind": "intermittent",
+        "delta": 65.573489639587,
+        "absent_returned": true,
+        "quality": [
+          0.058382827788591385,
+          0.23491941392421722
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "405566",
+        "distractor": "train",
+        "background_id": "17851",
+        "absent": "speech",
+        "kind": "intermittent",
+        "delta": 41.22956183567455,
+        "absent_returned": false,
+        "quality": [
+          0.053082406520843506,
+          0.2092270404100418
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "419667",
+        "distractor": "wind",
+        "background_id": "152980",
+        "absent": "speech",
+        "kind": "intermittent",
+        "delta": 52.28678873887844,
+        "absent_returned": true,
+        "quality": [
+          0.030611276626586914,
+          0.3217265009880066
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "59512",
+        "distractor": "train",
+        "background_id": "174882",
+        "absent": "wind",
+        "kind": "intermittent",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.040804170072078705,
+          0.15769924223423004
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "79598",
+        "distractor": "wind",
+        "background_id": "333900",
+        "absent": "guitar",
+        "kind": "intermittent",
+        "delta": 59.204160893955816,
+        "absent_returned": false,
+        "quality": [
+          0.04334001988172531,
+          0.1371985226869583
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "86938",
+        "distractor": "guitar",
+        "background_id": "316995",
+        "absent": "piano",
+        "kind": "intermittent",
+        "delta": 54.0209997190265,
+        "absent_returned": false,
+        "quality": [
+          0.04463234916329384,
+          0.23571792244911194
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "90422",
+        "distractor": "piano",
+        "background_id": "361924",
+        "absent": "train",
+        "kind": "intermittent",
+        "delta": 60.01641922410538,
+        "absent_returned": false,
+        "quality": [
+          0.009222780354321003,
+          0.20267000794410706
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "152418",
+        "distractor": "train",
+        "background_id": "339874",
+        "absent": "wind",
+        "kind": "intermittent",
+        "delta": 42.88758811712519,
+        "absent_returned": false,
+        "quality": [
+          0.0749044269323349,
+          0.3174198865890503
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "209661",
+        "distractor": "wind",
+        "background_id": "402801",
+        "absent": "train",
+        "kind": "intermittent",
+        "delta": 46.06663141012657,
+        "absent_returned": false,
+        "quality": [
+          0.06512479484081268,
+          0.15706972777843475
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "215990",
+        "distractor": "guitar",
+        "background_id": "365795",
+        "absent": "wind",
+        "kind": "intermittent",
+        "delta": null,
+        "absent_returned": true,
+        "quality": [
+          0.040495749562978745,
+          0.13796864449977875
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "220458",
+        "distractor": "piano",
+        "background_id": "43743",
+        "absent": "guitar",
+        "kind": "intermittent",
+        "delta": 32.97120332501681,
+        "absent_returned": false,
+        "quality": [
+          0.014933626167476177,
+          0.2341524362564087
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "332047",
+        "distractor": "train",
+        "background_id": "25888",
+        "absent": "piano",
+        "kind": "intermittent",
+        "delta": 45.88851301231916,
+        "absent_returned": false,
+        "quality": [
+          0.024690011516213417,
+          0.20777973532676697
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "342983",
+        "distractor": "wind",
+        "background_id": "162417",
+        "absent": "train",
+        "kind": "intermittent",
+        "delta": 51.21357218905881,
+        "absent_returned": true,
+        "quality": [
+          0.01266710739582777,
+          0.32296234369277954
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "389993",
+        "distractor": "guitar",
+        "background_id": "260204",
+        "absent": "train",
+        "kind": "intermittent",
+        "delta": 41.177899950972495,
+        "absent_returned": false,
+        "quality": [
+          0.06505103409290314,
+          0.15217140316963196
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "17851",
+        "distractor": "wind",
+        "background_id": "367328",
+        "absent": "guitar",
+        "kind": "intermittent",
+        "delta": 44.726346580785396,
+        "absent_returned": false,
+        "quality": [
+          0.03864235058426857,
+          0.1361917108297348
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "25888",
+        "distractor": "guitar",
+        "background_id": "329838",
+        "absent": "piano",
+        "kind": "intermittent",
+        "delta": 61.29893066908598,
+        "absent_returned": true,
+        "quality": [
+          0.012122755870223045,
+          0.23519790172576904
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "57787",
+        "distractor": "piano",
+        "background_id": "382495",
+        "absent": "speech",
+        "kind": "intermittent",
+        "delta": 47.286398947238396,
+        "absent_returned": false,
+        "quality": [
+          0.04881526529788971,
+          0.20067965984344482
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "127826",
+        "distractor": "speech",
+        "background_id": "342983",
+        "absent": "wind",
+        "kind": "intermittent",
+        "delta": null,
+        "absent_returned": true,
+        "quality": [
+          0.05610057711601257,
+          0.31800052523612976
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "174882",
+        "distractor": "wind",
+        "background_id": "422866",
+        "absent": "guitar",
+        "kind": "intermittent",
+        "delta": 47.86202249470749,
+        "absent_returned": false,
+        "quality": [
+          0.030431952327489853,
+          0.15366743505001068
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "185124",
+        "distractor": "guitar",
+        "background_id": "37794",
+        "absent": "wind",
+        "kind": "intermittent",
+        "delta": 37.85434617258224,
+        "absent_returned": false,
+        "quality": [
+          0.03623080253601074,
+          0.14080914855003357
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "277368",
+        "distractor": "piano",
+        "background_id": "89764",
+        "absent": "guitar",
+        "kind": "intermittent",
+        "delta": 43.501873639800614,
+        "absent_returned": false,
+        "quality": [
+          0.0426190011203289,
+          0.23434461653232574
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "336877",
+        "distractor": "speech",
+        "background_id": "86938",
+        "absent": "piano",
+        "kind": "intermittent",
+        "delta": 73.07404645939124,
+        "absent_returned": false,
+        "quality": [
+          0.025898706167936325,
+          0.20315240323543549
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "339874",
+        "distractor": "wind",
+        "background_id": "207481",
+        "absent": "speech",
+        "kind": "intermittent",
+        "delta": 47.48928281083577,
+        "absent_returned": false,
+        "quality": [
+          0.032162878662347794,
+          0.3185289800167084
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "380680",
+        "distractor": "guitar",
+        "background_id": "265986",
+        "absent": "wind",
+        "kind": "intermittent",
+        "delta": 51.44983558469147,
+        "absent_returned": false,
+        "quality": [
+          0.023618092760443687,
+          0.15675421059131622
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "389761",
+        "distractor": "piano",
+        "background_id": "277086",
+        "absent": "wind",
+        "kind": "intermittent",
+        "delta": null,
+        "absent_returned": true,
+        "quality": [
+          0.04815587401390076,
+          0.1366344839334488
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "76404",
+        "distractor": "guitar",
+        "background_id": "333632",
+        "absent": "piano",
+        "kind": "intermittent",
+        "delta": 35.66966411707513,
+        "absent_returned": false,
+        "quality": [
+          0.034686844795942307,
+          0.22509153187274933
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "152980",
+        "distractor": "piano",
+        "background_id": "405566",
+        "absent": "speech",
+        "kind": "intermittent",
+        "delta": 48.469932122900566,
+        "absent_returned": false,
+        "quality": [
+          0.03951309621334076,
+          0.2017814666032791
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "162417",
+        "distractor": "speech",
+        "background_id": "389993",
+        "absent": "train",
+        "kind": "intermittent",
+        "delta": null,
+        "absent_returned": true,
+        "quality": [
+          0.04440990462899208,
+          0.31826847791671753
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "207481",
+        "distractor": "train",
+        "background_id": "17851",
+        "absent": "guitar",
+        "kind": "intermittent",
+        "delta": 39.81936844842023,
+        "absent_returned": false,
+        "quality": [
+          0.02869618497788906,
+          0.15414677560329437
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "320693",
+        "distractor": "guitar",
+        "background_id": "42373",
+        "absent": "piano",
+        "kind": "intermittent",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.058730173856019974,
+          0.13944600522518158
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "333900",
+        "distractor": "piano",
+        "background_id": "159118",
+        "absent": "guitar",
+        "kind": "intermittent",
+        "delta": 65.75228747868125,
+        "absent_returned": true,
+        "quality": [
+          0.04534235596656799,
+          0.2346057891845703
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "367328",
+        "distractor": "speech",
+        "background_id": "90422",
+        "absent": "piano",
+        "kind": "intermittent",
+        "delta": 53.27674921199666,
+        "absent_returned": false,
+        "quality": [
+          0.05361676588654518,
+          0.20237402617931366
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "380941",
+        "distractor": "train",
+        "background_id": "174882",
+        "absent": "speech",
+        "kind": "intermittent",
+        "delta": 39.76048753954735,
+        "absent_returned": false,
+        "quality": [
+          0.03484412655234337,
+          0.3232864439487457
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "393004",
+        "distractor": "guitar",
+        "background_id": "276576",
+        "absent": "train",
+        "kind": "intermittent",
+        "delta": null,
+        "absent_returned": true,
+        "quality": [
+          0.01429496705532074,
+          0.15472669899463654
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "402801",
+        "distractor": "piano",
+        "background_id": "343418",
+        "absent": "guitar",
+        "kind": "intermittent",
+        "delta": 54.58471307230461,
+        "absent_returned": false,
+        "quality": [
+          0.029384922236204147,
+          0.1387956142425537
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "422866",
+        "distractor": "speech",
+        "background_id": "220458",
+        "absent": "guitar",
+        "kind": "intermittent",
+        "delta": 55.65543676614762,
+        "absent_returned": false,
+        "quality": [
+          0.025045055896043777,
+          0.23383428156375885
+        ]
+      }
+    ]
+  },
+  "room": {
+    "n": 55,
+    "tp": 28,
+    "fp": 10,
+    "f1": 0.6021505376344086,
+    "acc": 0.6636363636363637,
+    "useful": 0,
+    "harmful": 26,
+    "oracle_useful": 0,
+    "oracle_median": -2.7281405467631727,
+    "quality_percentiles": [
+      [
+        0.2201429009437561,
+        -0.45973318815231323
+      ],
+      [
+        0.2527822971343994,
+        -0.34412285685539246
+      ],
+      [
+        0.30805695056915283,
+        -0.11310887336730957
+      ],
+      [
+        0.36954537630081175,
+        0.004879150539636612
+      ],
+      [
+        0.401663213968277,
+        0.03820153325796127
+      ]
+    ],
+    "rows": [
+      {
+        "target": "guitar",
+        "source_id": "37794",
+        "distractor": "piano",
+        "background_id": "43743",
+        "absent": "speech",
+        "kind": "room",
+        "delta": -2.2409895086562877,
+        "absent_returned": false,
+        "quality": [
+          0.2685241997241974,
+          -0.31693035364151
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "42373",
+        "distractor": "speech",
+        "background_id": "79598",
+        "absent": "train",
+        "kind": "room",
+        "delta": -0.8081839009703906,
+        "absent_returned": false,
+        "quality": [
+          0.3363983929157257,
+          -0.0020111394114792347
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "171353",
+        "distractor": "train",
+        "background_id": "57787",
+        "absent": "wind",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": true,
+        "quality": [
+          0.3190675973892212,
+          0.0012737668585032225
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "260204",
+        "distractor": "wind",
+        "background_id": "207481",
+        "absent": "piano",
+        "kind": "room",
+        "delta": -2.470924910771207,
+        "absent_returned": false,
+        "quality": [
+          0.3366565704345703,
+          -0.3204050660133362
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "265986",
+        "distractor": "piano",
+        "background_id": "256684",
+        "absent": "speech",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.31185925006866455,
+          -0.25711584091186523
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "276576",
+        "distractor": "speech",
+        "background_id": "209661",
+        "absent": "piano",
+        "kind": "room",
+        "delta": -4.38939036867541,
+        "absent_returned": false,
+        "quality": [
+          0.2793145179748535,
+          -0.03447500243782997
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "316995",
+        "distractor": "train",
+        "background_id": "277368",
+        "absent": "speech",
+        "kind": "room",
+        "delta": -4.784705408377384,
+        "absent_returned": false,
+        "quality": [
+          0.37029075622558594,
+          0.012468086555600166
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "329838",
+        "distractor": "wind",
+        "background_id": "380941",
+        "absent": "train",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": true,
+        "quality": [
+          0.2590523362159729,
+          -0.1757180392742157
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "333632",
+        "distractor": "piano",
+        "background_id": "382495",
+        "absent": "wind",
+        "kind": "room",
+        "delta": -5.638064242618603,
+        "absent_returned": false,
+        "quality": [
+          0.3205486834049225,
+          -0.2730894982814789
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "334100",
+        "distractor": "speech",
+        "background_id": "342983",
+        "absent": "piano",
+        "kind": "room",
+        "delta": -12.460027884836318,
+        "absent_returned": false,
+        "quality": [
+          0.2981041967868805,
+          -0.10784716159105301
+        ]
+      },
+      {
+        "target": "guitar",
+        "source_id": "365795",
+        "distractor": "train",
+        "background_id": "389761",
+        "absent": "piano",
+        "kind": "room",
+        "delta": -10.240838371173211,
+        "absent_returned": false,
+        "quality": [
+          0.36153170466423035,
+          -0.2938007116317749
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "43743",
+        "distractor": "speech",
+        "background_id": "86938",
+        "absent": "train",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.29502207040786743,
+          -0.16475939750671387
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "89764",
+        "distractor": "train",
+        "background_id": "127826",
+        "absent": "wind",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.38037610054016113,
+          -0.4596448242664337
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "159118",
+        "distractor": "wind",
+        "background_id": "320693",
+        "absent": "guitar",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": true,
+        "quality": [
+          0.3703850209712982,
+          -0.15078212320804596
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "176492",
+        "distractor": "guitar",
+        "background_id": "276576",
+        "absent": "speech",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.29291924834251404,
+          -0.08775435388088226
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "256684",
+        "distractor": "speech",
+        "background_id": "215990",
+        "absent": "train",
+        "kind": "room",
+        "delta": -5.330478272138271,
+        "absent_returned": false,
+        "quality": [
+          0.3315902650356293,
+          -0.3684060871601105
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "277086",
+        "distractor": "train",
+        "background_id": "336877",
+        "absent": "speech",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.36113327741622925,
+          -0.09085338562726974
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "343418",
+        "distractor": "wind",
+        "background_id": "393004",
+        "absent": "train",
+        "kind": "room",
+        "delta": -2.3173676341353735,
+        "absent_returned": true,
+        "quality": [
+          0.252139687538147,
+          -0.06800775974988937
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "361924",
+        "distractor": "guitar",
+        "background_id": "334100",
+        "absent": "wind",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.3810891807079315,
+          0.023989496752619743
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "382495",
+        "distractor": "speech",
+        "background_id": "389993",
+        "absent": "guitar",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.30367040634155273,
+          -0.23906762897968292
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "405566",
+        "distractor": "train",
+        "background_id": "17851",
+        "absent": "speech",
+        "kind": "room",
+        "delta": 0.16252142307885287,
+        "absent_returned": false,
+        "quality": [
+          0.35100188851356506,
+          -0.20084069669246674
+        ]
+      },
+      {
+        "target": "piano",
+        "source_id": "419667",
+        "distractor": "wind",
+        "background_id": "152980",
+        "absent": "speech",
+        "kind": "room",
+        "delta": -12.01888049208567,
+        "absent_returned": false,
+        "quality": [
+          0.3684273064136505,
+          0.00490367878228426
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "59512",
+        "distractor": "train",
+        "background_id": "174882",
+        "absent": "wind",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.401663213968277,
+          -0.024665869772434235
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "79598",
+        "distractor": "wind",
+        "background_id": "333900",
+        "absent": "guitar",
+        "kind": "room",
+        "delta": -3.9157006123123934,
+        "absent_returned": false,
+        "quality": [
+          0.25804299116134644,
+          -0.0480995737016201
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "86938",
+        "distractor": "guitar",
+        "background_id": "316995",
+        "absent": "piano",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.2906651496887207,
+          -0.023653972893953323
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "90422",
+        "distractor": "piano",
+        "background_id": "361924",
+        "absent": "train",
+        "kind": "room",
+        "delta": -7.275716766904286,
+        "absent_returned": false,
+        "quality": [
+          0.3164134919643402,
+          0.005842091515660286
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "152418",
+        "distractor": "train",
+        "background_id": "339874",
+        "absent": "wind",
+        "kind": "room",
+        "delta": -5.412534123891904,
+        "absent_returned": false,
+        "quality": [
+          0.2201429009437561,
+          -0.36922770738601685
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "209661",
+        "distractor": "wind",
+        "background_id": "402801",
+        "absent": "train",
+        "kind": "room",
+        "delta": -3.3340973584243248,
+        "absent_returned": true,
+        "quality": [
+          0.31726107001304626,
+          -0.12366224825382233
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "215990",
+        "distractor": "guitar",
+        "background_id": "365795",
+        "absent": "wind",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.3286866843700409,
+          -0.41120094060897827
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "220458",
+        "distractor": "piano",
+        "background_id": "43743",
+        "absent": "guitar",
+        "kind": "room",
+        "delta": -2.6739210382334155,
+        "absent_returned": false,
+        "quality": [
+          0.32135072350502014,
+          -0.06475459039211273
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "332047",
+        "distractor": "train",
+        "background_id": "25888",
+        "absent": "piano",
+        "kind": "room",
+        "delta": -4.193738757285073,
+        "absent_returned": false,
+        "quality": [
+          0.35674020648002625,
+          -0.07985465973615646
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "342983",
+        "distractor": "wind",
+        "background_id": "162417",
+        "absent": "train",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": true,
+        "quality": [
+          0.29822254180908203,
+          -0.11310887336730957
+        ]
+      },
+      {
+        "target": "speech",
+        "source_id": "389993",
+        "distractor": "guitar",
+        "background_id": "260204",
+        "absent": "train",
+        "kind": "room",
+        "delta": -6.386549545843167,
+        "absent_returned": false,
+        "quality": [
+          0.33087292313575745,
+          -0.21524707973003387
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "17851",
+        "distractor": "wind",
+        "background_id": "367328",
+        "absent": "guitar",
+        "kind": "room",
+        "delta": -4.802582395997424,
+        "absent_returned": false,
+        "quality": [
+          0.267193466424942,
+          -0.04843371361494064
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "25888",
+        "distractor": "guitar",
+        "background_id": "329838",
+        "absent": "piano",
+        "kind": "room",
+        "delta": -2.0401815950736166,
+        "absent_returned": false,
+        "quality": [
+          0.2958376705646515,
+          -0.24154439568519592
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "57787",
+        "distractor": "piano",
+        "background_id": "382495",
+        "absent": "speech",
+        "kind": "room",
+        "delta": -0.3112633425828139,
+        "absent_returned": false,
+        "quality": [
+          0.31247860193252563,
+          -0.45973318815231323
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "127826",
+        "distractor": "speech",
+        "background_id": "342983",
+        "absent": "wind",
+        "kind": "room",
+        "delta": -4.121802779660809,
+        "absent_returned": false,
+        "quality": [
+          0.239385187625885,
+          -0.3004223704338074
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "174882",
+        "distractor": "wind",
+        "background_id": "422866",
+        "absent": "guitar",
+        "kind": "room",
+        "delta": 0.7732135606439869,
+        "absent_returned": false,
+        "quality": [
+          0.29435059428215027,
+          -0.19898396730422974
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "185124",
+        "distractor": "guitar",
+        "background_id": "37794",
+        "absent": "wind",
+        "kind": "room",
+        "delta": -2.5460477649382387,
+        "absent_returned": false,
+        "quality": [
+          0.278719425201416,
+          -0.1552366018295288
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "277368",
+        "distractor": "piano",
+        "background_id": "89764",
+        "absent": "guitar",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.3796140253543854,
+          -0.04342469200491905
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "336877",
+        "distractor": "speech",
+        "background_id": "86938",
+        "absent": "piano",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.2537462115287781,
+          -0.0357939712703228
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "339874",
+        "distractor": "wind",
+        "background_id": "207481",
+        "absent": "speech",
+        "kind": "room",
+        "delta": -0.4918604822799688,
+        "absent_returned": true,
+        "quality": [
+          0.23643380403518677,
+          -0.2535327970981598
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "380680",
+        "distractor": "guitar",
+        "background_id": "265986",
+        "absent": "wind",
+        "kind": "room",
+        "delta": -4.785427695386686,
+        "absent_returned": false,
+        "quality": [
+          0.3055798411369324,
+          -0.0913776308298111
+        ]
+      },
+      {
+        "target": "train",
+        "source_id": "389761",
+        "distractor": "piano",
+        "background_id": "277086",
+        "absent": "wind",
+        "kind": "room",
+        "delta": -3.0434351794228434,
+        "absent_returned": false,
+        "quality": [
+          0.24559232592582703,
+          -0.03149785101413727
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "76404",
+        "distractor": "guitar",
+        "background_id": "333632",
+        "absent": "piano",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.30805695056915283,
+          -0.3599347174167633
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "152980",
+        "distractor": "piano",
+        "background_id": "405566",
+        "absent": "speech",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.2241298407316208,
+          -0.2665119171142578
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "162417",
+        "distractor": "speech",
+        "background_id": "389993",
+        "absent": "train",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": true,
+        "quality": [
+          0.29930490255355835,
+          0.02619045227766037
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "207481",
+        "distractor": "train",
+        "background_id": "17851",
+        "absent": "guitar",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.33467644453048706,
+          -0.09510210901498795
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "320693",
+        "distractor": "guitar",
+        "background_id": "42373",
+        "absent": "piano",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.3491644859313965,
+          0.03820153325796127
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "333900",
+        "distractor": "piano",
+        "background_id": "159118",
+        "absent": "guitar",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": true,
+        "quality": [
+          0.3327066898345947,
+          -0.18821226060390472
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "367328",
+        "distractor": "speech",
+        "background_id": "90422",
+        "absent": "piano",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.3009374737739563,
+          0.00484235817566514
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "380941",
+        "distractor": "train",
+        "background_id": "174882",
+        "absent": "speech",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.33308306336402893,
+          -0.12236976623535156
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "393004",
+        "distractor": "guitar",
+        "background_id": "276576",
+        "absent": "train",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": true,
+        "quality": [
+          0.28366532921791077,
+          -0.06823378801345825
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "402801",
+        "distractor": "piano",
+        "background_id": "343418",
+        "absent": "guitar",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.29238754510879517,
+          -0.004152659792453051
+        ]
+      },
+      {
+        "target": "wind",
+        "source_id": "422866",
+        "distractor": "speech",
+        "background_id": "220458",
+        "absent": "guitar",
+        "kind": "room",
+        "delta": null,
+        "absent_returned": false,
+        "quality": [
+          0.2631274163722992,
+          -0.19480890035629272
+        ]
+      }
+    ]
+  }
+}

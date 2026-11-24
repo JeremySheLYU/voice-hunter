@@ -1,0 +1,200 @@
+{
+  "checks": 20,
+  "pass": 20,
+  "models": {
+    "joint_spatial.json": "d38c86403627c08f75726c6689b109a6bf0b16d278425d6c61882179d20df928",
+    "speaker-distance.json": "b6b09af6aca2a885945fc21fc1c96a9ba687cabf5d9637243828925bf4ab2d97",
+    "cipic_horizontal_v1.json": "b88e48e82509c479f1d982dc80e6dfce8239cc4d237d40fafa82d841ae5cce59",
+    "phase_retention.json": "328f83ca3970595bf92e79a31305ad9e376472ae95d3973a8db9b92bf7139aef"
+  },
+  "results": [
+    {
+      "test": "field-source-rights-and-holdout",
+      "passed": true,
+      "id": "386515",
+      "title": "Indoor_Wind.wav",
+      "author": "iimck",
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "source": "https://freesound.org/s/386515/",
+      "hash": "7849d8a7cfa04ddf4a398e203f51fac27ab7c49aa90fce80419a99063730c714",
+      "signal": {
+        "side_fraction_power_db": -1.928,
+        "lr_correlation": -0.287492
+      }
+    },
+    {
+      "test": "actual-fitted-and-scored-source-disjointness",
+      "passed": true,
+      "overlaps": {
+        "train_validation": {
+          "ids": 0,
+          "authors": 0
+        },
+        "train_test": {
+          "ids": 0,
+          "authors": 0
+        },
+        "validation_test": {
+          "ids": 0,
+          "authors": 0
+        }
+      },
+      "unique_sources": {
+        "train": 93,
+        "validation": 30,
+        "test": 32
+      }
+    },
+    {
+      "test": "measured-phase-guard-retains-pocket",
+      "passed": true,
+      "rms_ratio": 1.0
+    },
+    {
+      "test": "cli-bundled-speakers",
+      "passed": true,
+      "names": [
+        "remaining.wav",
+        "remix.wav",
+        "settings.json",
+        "target.wav"
+      ],
+      "sum_error": 7.450580596923828e-09,
+      "frames": 336000,
+      "finite": true
+    },
+    {
+      "test": "cli-bundled-spatial-example",
+      "passed": true,
+      "names": [
+        "remaining.wav",
+        "remix.wav",
+        "settings.json",
+        "target.wav"
+      ],
+      "sum_error": 7.450580596923828e-09,
+      "frames": 336000,
+      "finite": true
+    },
+    {
+      "test": "cli-moving-speakers",
+      "passed": true,
+      "returned": true,
+      "names": [
+        "remaining.wav",
+        "remix.wav",
+        "settings.json",
+        "target.wav"
+      ],
+      "sum_error": 7.450580596923828e-09,
+      "frames": 336000,
+      "finite": true
+    },
+    {
+      "test": "cli-measured-0-to-90",
+      "passed": true,
+      "stems_identical": true,
+      "max_render_delta": 0.23940253257751465,
+      "names": [
+        "remaining.wav",
+        "remix.wav",
+        "settings.json",
+        "target.wav"
+      ],
+      "sum_error": 7.450580596923828e-09,
+      "frames": 336000,
+      "finite": true
+    },
+    {
+      "test": "field-cli-functional",
+      "passed": true,
+      "returned": true,
+      "names": [
+        "remaining.wav",
+        "remix.wav",
+        "settings.json",
+        "target.wav"
+      ],
+      "sum_error": 1.4901161193847656e-08,
+      "frames": 480000,
+      "finite": true
+    },
+    {
+      "test": "cli-overlap-no-partial",
+      "passed": true,
+      "error": "target: target and background examples overlap."
+    },
+    {
+      "test": "same-default-example-waveforms-v01",
+      "passed": true,
+      "archive_sha": "eff4673286a17556e8e1d6ebe8633459c786285881aafa036632c037ee1b97c7",
+      "old_status": 0,
+      "new_status": 0
+    },
+    {
+      "test": "vp8-webm-video-or-clean-failure",
+      "passed": true,
+      "returncode": 1,
+      "files": {},
+      "error": "ffmpeg 無法讀寫這個媒體檔。請試用原始 MOV、MP4 或 WAV。"
+    },
+    {
+      "test": "http-enumerate-new-mode",
+      "passed": true,
+      "modes": [
+        "example",
+        "speakers",
+        "speakers_moving",
+        "spatial-example",
+        "auto",
+        "rnnoise"
+      ]
+    },
+    {
+      "test": "http-import-original-stereo",
+      "passed": true,
+      "status": 200
+    },
+    {
+      "test": "http-field-cli-agreement",
+      "passed": true,
+      "status": 200,
+      "returned": true
+    },
+    {
+      "test": "http-actual-downloaded-stems",
+      "passed": true
+    },
+    {
+      "test": "http-measured-render-download-matches-cli",
+      "passed": true,
+      "bytes": 2880044
+    },
+    {
+      "test": "http-reject-overlap",
+      "passed": true,
+      "status": 400
+    },
+    {
+      "test": "http-speakers-demo",
+      "passed": true,
+      "status": 200
+    },
+    {
+      "test": "http-moving-speakers-agrees-cli",
+      "passed": true,
+      "status": 200
+    },
+    {
+      "test": "http-vp8-export-clean-failure",
+      "passed": true,
+      "statuses": [
+        200,
+        200,
+        200,
+        400
+      ],
+      "partial_suffixes": []
+    }
+  ]
+}

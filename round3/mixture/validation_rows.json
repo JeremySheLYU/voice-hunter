@@ -1,0 +1,2807 @@
+[
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "37794",
+    "target": "guitar",
+    "present": true,
+    "score": 0.16568735168236287,
+    "improvement": -3.209396314639296
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "37794",
+    "target": "speech",
+    "present": false,
+    "score": 0.12140019437605266
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "42373",
+    "target": "guitar",
+    "present": true,
+    "score": 0.1643161581624879,
+    "improvement": -6.236732994963981
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "42373",
+    "target": "train",
+    "present": false,
+    "score": 0.6246756405013778
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "171353",
+    "target": "guitar",
+    "present": true,
+    "score": 0.055653274222517646,
+    "improvement": -1.3593224870453184
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "171353",
+    "target": "wind",
+    "present": false,
+    "score": 0.1126718897161412
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "260204",
+    "target": "guitar",
+    "present": true,
+    "score": 0.06211719814701171,
+    "improvement": -3.3988468644379046
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "260204",
+    "target": "piano",
+    "present": false,
+    "score": 0.06786740358841316
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "265986",
+    "target": "guitar",
+    "present": true,
+    "score": 0.377195644252716,
+    "improvement": 3.1548126994514947
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "265986",
+    "target": "speech",
+    "present": false,
+    "score": 0.21999064205914678
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "276576",
+    "target": "guitar",
+    "present": true,
+    "score": 0.0926779753360556,
+    "improvement": -1.3579822844107152
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "276576",
+    "target": "piano",
+    "present": false,
+    "score": 0.1570992928050088
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "316995",
+    "target": "guitar",
+    "present": true,
+    "score": 0.20848264121024543,
+    "improvement": -1.560053814749267
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "316995",
+    "target": "speech",
+    "present": false,
+    "score": 0.3953837980152986
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "329838",
+    "target": "guitar",
+    "present": true,
+    "score": 0.445149463915068,
+    "improvement": -3.0083399649238363
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "329838",
+    "target": "train",
+    "present": false,
+    "score": 0.21593894025230387
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "333632",
+    "target": "guitar",
+    "present": true,
+    "score": 0.2642530417321513,
+    "improvement": -8.29303620682468
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "333632",
+    "target": "wind",
+    "present": false,
+    "score": 0.2067864187230946
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "334100",
+    "target": "guitar",
+    "present": true,
+    "score": 0.19559511094510718,
+    "improvement": -6.578852614201421
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "334100",
+    "target": "piano",
+    "present": false,
+    "score": 0.11468569621084197
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "365795",
+    "target": "guitar",
+    "present": true,
+    "score": 0.2241943923202353,
+    "improvement": -16.44968108602781
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "365795",
+    "target": "piano",
+    "present": false,
+    "score": 0.18121200601180942
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "43743",
+    "target": "piano",
+    "present": true,
+    "score": 0.48635478409674915,
+    "improvement": -0.6320206170599969
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "43743",
+    "target": "train",
+    "present": false,
+    "score": 0.09813405065755326
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "89764",
+    "target": "piano",
+    "present": true,
+    "score": 0.09841267504316789,
+    "improvement": -4.782245427326099
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "89764",
+    "target": "wind",
+    "present": false,
+    "score": 0.1579666850317836
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "159118",
+    "target": "piano",
+    "present": true,
+    "score": 0.14677279529377163,
+    "improvement": -1.157308459121277
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "159118",
+    "target": "guitar",
+    "present": false,
+    "score": 0.13483621829143388
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "176492",
+    "target": "piano",
+    "present": true,
+    "score": 0.27994869491464924,
+    "improvement": -4.189981913413144
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "176492",
+    "target": "speech",
+    "present": false,
+    "score": 0.14458820491830113
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "256684",
+    "target": "piano",
+    "present": true,
+    "score": 0.44396033056863426,
+    "improvement": -5.269494052136931
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "256684",
+    "target": "train",
+    "present": false,
+    "score": 0.1575426227822412
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "277086",
+    "target": "piano",
+    "present": true,
+    "score": 0.06927095446412168,
+    "improvement": -3.4962976451915804
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "277086",
+    "target": "speech",
+    "present": false,
+    "score": 0.1670346705305886
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "343418",
+    "target": "piano",
+    "present": true,
+    "score": 0.11585990861396797,
+    "improvement": -4.75156959689314
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "343418",
+    "target": "train",
+    "present": false,
+    "score": 0.4741255525235422
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "361924",
+    "target": "piano",
+    "present": true,
+    "score": 0.27879566418464113,
+    "improvement": -1.7590721879857072
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "361924",
+    "target": "wind",
+    "present": false,
+    "score": 0.22221770629575632
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "382495",
+    "target": "piano",
+    "present": true,
+    "score": 0.23295011291597725,
+    "improvement": -7.328671240803562
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "382495",
+    "target": "guitar",
+    "present": false,
+    "score": 0.16695851443588147
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "405566",
+    "target": "piano",
+    "present": true,
+    "score": 0.28701780326341975,
+    "improvement": -6.314795441398454
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "405566",
+    "target": "speech",
+    "present": false,
+    "score": 0.2625408001463801
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "419667",
+    "target": "piano",
+    "present": true,
+    "score": 0.26772028509372675,
+    "improvement": -8.09025264355175
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "419667",
+    "target": "speech",
+    "present": false,
+    "score": 0.29372178742135385
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "59512",
+    "target": "speech",
+    "present": true,
+    "score": 0.18020574014799198,
+    "improvement": 2.599975202591107
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "59512",
+    "target": "wind",
+    "present": false,
+    "score": 0.10895539850663653
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "79598",
+    "target": "speech",
+    "present": true,
+    "score": 0.159166280162269,
+    "improvement": -1.8300111559189665
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "79598",
+    "target": "guitar",
+    "present": false,
+    "score": 0.08636392787850604
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "86938",
+    "target": "speech",
+    "present": true,
+    "score": 0.32283881101350126,
+    "improvement": -0.6996877722908358
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "86938",
+    "target": "piano",
+    "present": false,
+    "score": 0.38507336898747546
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "90422",
+    "target": "speech",
+    "present": true,
+    "score": 0.2313610332398925,
+    "improvement": -1.8368099414008614
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "90422",
+    "target": "train",
+    "present": false,
+    "score": 0.46617594377872035
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "152418",
+    "target": "speech",
+    "present": true,
+    "score": 0.165742864676392,
+    "improvement": -0.5264158024351535
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "152418",
+    "target": "wind",
+    "present": false,
+    "score": 0.25465133895840103
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "209661",
+    "target": "speech",
+    "present": true,
+    "score": 0.0951324857151628,
+    "improvement": 0.12348052366575724
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "209661",
+    "target": "train",
+    "present": false,
+    "score": 0.6945394871925639
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "215990",
+    "target": "speech",
+    "present": true,
+    "score": 0.2628089363399273,
+    "improvement": -1.2689551832028627
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "215990",
+    "target": "wind",
+    "present": false,
+    "score": 0.09742387519641767
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "220458",
+    "target": "speech",
+    "present": true,
+    "score": 0.31549680749899195,
+    "improvement": -5.05598410627295
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "220458",
+    "target": "guitar",
+    "present": false,
+    "score": 0.153114187747944
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "332047",
+    "target": "speech",
+    "present": true,
+    "score": 0.6331568256776612,
+    "improvement": -2.120344532389848
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "332047",
+    "target": "piano",
+    "present": false,
+    "score": 0.055161358087247474
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "342983",
+    "target": "speech",
+    "present": true,
+    "score": 0.1012793344973967,
+    "improvement": 3.2215786986876243
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "342983",
+    "target": "train",
+    "present": false,
+    "score": 0.7238298504912889
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "389993",
+    "target": "speech",
+    "present": true,
+    "score": 0.17359510832515504,
+    "improvement": -9.645393546161422
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "389993",
+    "target": "train",
+    "present": false,
+    "score": 0.48633322363972936
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "17851",
+    "target": "train",
+    "present": true,
+    "score": 0.5582465927525897,
+    "improvement": -0.7074816258982173
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "17851",
+    "target": "guitar",
+    "present": false,
+    "score": 0.10456351832419017
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "25888",
+    "target": "train",
+    "present": true,
+    "score": 0.25991536820150124,
+    "improvement": -6.981193020323424
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "25888",
+    "target": "piano",
+    "present": false,
+    "score": 0.11606170369251843
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "57787",
+    "target": "train",
+    "present": true,
+    "score": 0.7785444529490883,
+    "improvement": -2.3881951873555876
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "57787",
+    "target": "speech",
+    "present": false,
+    "score": 0.18514879730492786
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "127826",
+    "target": "train",
+    "present": true,
+    "score": 0.6591302358494153,
+    "improvement": 1.205484532037552
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "127826",
+    "target": "wind",
+    "present": false,
+    "score": 0.16176110707515112
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "174882",
+    "target": "train",
+    "present": true,
+    "score": 0.23218314289296405,
+    "improvement": 2.099020716609484
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "174882",
+    "target": "guitar",
+    "present": false,
+    "score": 0.29714727535184216
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "185124",
+    "target": "train",
+    "present": true,
+    "score": 0.3479041347073902,
+    "improvement": -1.4161016713583945
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "185124",
+    "target": "wind",
+    "present": false,
+    "score": 0.17513707503050177
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "277368",
+    "target": "train",
+    "present": true,
+    "score": 0.305977502933685,
+    "improvement": -0.8916146096232868
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "277368",
+    "target": "guitar",
+    "present": false,
+    "score": 0.13966189164145282
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "336877",
+    "target": "train",
+    "present": true,
+    "score": 0.5064983771147156,
+    "improvement": 0.24158195406255656
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "336877",
+    "target": "piano",
+    "present": false,
+    "score": 0.09457016508581569
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "339874",
+    "target": "train",
+    "present": true,
+    "score": 0.5596424762443648,
+    "improvement": -2.3308635108880926
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "339874",
+    "target": "speech",
+    "present": false,
+    "score": 0.13162475661857906
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "380680",
+    "target": "train",
+    "present": true,
+    "score": 0.6258438548824721,
+    "improvement": -9.537260475995678
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "380680",
+    "target": "wind",
+    "present": false,
+    "score": 0.08362377963412622
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "389761",
+    "target": "train",
+    "present": true,
+    "score": 0.27775310859299324,
+    "improvement": -1.4551025931885828
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "389761",
+    "target": "wind",
+    "present": false,
+    "score": 0.3639453208027863
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "76404",
+    "target": "wind",
+    "present": true,
+    "score": 0.5207095069603093,
+    "improvement": -0.5551813449333443
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "76404",
+    "target": "piano",
+    "present": false,
+    "score": 0.09359380689395917
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "152980",
+    "target": "wind",
+    "present": true,
+    "score": 0.27524801095188167,
+    "improvement": 0.877198779066581
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "152980",
+    "target": "speech",
+    "present": false,
+    "score": 0.08729584568323003
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "162417",
+    "target": "wind",
+    "present": true,
+    "score": 0.17474023285348325,
+    "improvement": -8.571544727320296
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "162417",
+    "target": "train",
+    "present": false,
+    "score": 0.6265229893421347
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "207481",
+    "target": "wind",
+    "present": true,
+    "score": 0.2582525697098582,
+    "improvement": -0.6736068281565863
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "207481",
+    "target": "guitar",
+    "present": false,
+    "score": 0.1181124606869501
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "320693",
+    "target": "wind",
+    "present": true,
+    "score": 0.12177635018531109,
+    "improvement": -2.835299247452752
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "320693",
+    "target": "piano",
+    "present": false,
+    "score": 0.10366759488195239
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "333900",
+    "target": "wind",
+    "present": true,
+    "score": 0.1616746242146633,
+    "improvement": 2.8839507602091716
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "333900",
+    "target": "guitar",
+    "present": false,
+    "score": 0.22719099223258166
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "367328",
+    "target": "wind",
+    "present": true,
+    "score": 0.2951957449991493,
+    "improvement": -9.923411592394672
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "367328",
+    "target": "piano",
+    "present": false,
+    "score": 0.05848069716786083
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "380941",
+    "target": "wind",
+    "present": true,
+    "score": 0.2927096311072558,
+    "improvement": -3.6079173256119157
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "380941",
+    "target": "speech",
+    "present": false,
+    "score": 0.2321167464484647
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "393004",
+    "target": "wind",
+    "present": true,
+    "score": 0.20409259787272982,
+    "improvement": -4.970007253280514
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "393004",
+    "target": "train",
+    "present": false,
+    "score": 0.5707609884260729
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "402801",
+    "target": "wind",
+    "present": true,
+    "score": 0.12946104748743004,
+    "improvement": -8.026518402959807
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "402801",
+    "target": "guitar",
+    "present": false,
+    "score": 0.23926095563555996
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "422866",
+    "target": "wind",
+    "present": true,
+    "score": 0.15676678645808362,
+    "improvement": -19.256547033216837
+  },
+  {
+    "kind": "room",
+    "method": "iva",
+    "source": "422866",
+    "target": "guitar",
+    "present": false,
+    "score": 0.1358505055421298
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "37794",
+    "target": "guitar",
+    "present": true,
+    "score": 0.3850526809692383,
+    "improvement": -4.369026642440221
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "37794",
+    "target": "speech",
+    "present": false,
+    "score": 0.12183111160993576
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "42373",
+    "target": "guitar",
+    "present": true,
+    "score": 0.2519516348838806,
+    "improvement": -9.343404352424388
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "42373",
+    "target": "train",
+    "present": false,
+    "score": 0.20750541985034943
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "171353",
+    "target": "guitar",
+    "present": true,
+    "score": 0.028461359441280365,
+    "improvement": -19.820902385108695
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "171353",
+    "target": "wind",
+    "present": false,
+    "score": 0.35003793239593506
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "260204",
+    "target": "guitar",
+    "present": true,
+    "score": 0.20954450964927673,
+    "improvement": -3.611414108921553
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "260204",
+    "target": "piano",
+    "present": false,
+    "score": 0.15323835611343384
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "265986",
+    "target": "guitar",
+    "present": true,
+    "score": 0.5529723167419434,
+    "improvement": -0.3877873481996437
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "265986",
+    "target": "speech",
+    "present": false,
+    "score": 0.4042929410934448
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "276576",
+    "target": "guitar",
+    "present": true,
+    "score": 0.2949560880661011,
+    "improvement": -4.806200161681068
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "276576",
+    "target": "piano",
+    "present": false,
+    "score": 0.5463177561759949
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "316995",
+    "target": "guitar",
+    "present": true,
+    "score": 0.5902000665664673,
+    "improvement": -5.071609278417974
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "316995",
+    "target": "speech",
+    "present": false,
+    "score": 0.38575291633605957
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "329838",
+    "target": "guitar",
+    "present": true,
+    "score": 0.5610164999961853,
+    "improvement": -1.6366354866298214
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "329838",
+    "target": "train",
+    "present": false,
+    "score": 0.0012848780024796724
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "333632",
+    "target": "guitar",
+    "present": true,
+    "score": 0.4822663962841034,
+    "improvement": -8.897457552234076
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "333632",
+    "target": "wind",
+    "present": false,
+    "score": 0.11632179468870163
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "334100",
+    "target": "guitar",
+    "present": true,
+    "score": 0.26964086294174194,
+    "improvement": -5.744107984858289
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "334100",
+    "target": "piano",
+    "present": false,
+    "score": 0.022179652005434036
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "365795",
+    "target": "guitar",
+    "present": true,
+    "score": 0.5689213871955872,
+    "improvement": 1.389193477556046
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "365795",
+    "target": "piano",
+    "present": false,
+    "score": 0.13373829424381256
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "43743",
+    "target": "piano",
+    "present": true,
+    "score": 0.7280815839767456,
+    "improvement": -3.7912269029236523
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "43743",
+    "target": "train",
+    "present": false,
+    "score": 0.12299881130456924
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "89764",
+    "target": "piano",
+    "present": true,
+    "score": 0.3475927710533142,
+    "improvement": -5.900827632214355
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "89764",
+    "target": "wind",
+    "present": false,
+    "score": 0.4596598744392395
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "159118",
+    "target": "piano",
+    "present": true,
+    "score": 0.56940096616745,
+    "improvement": -8.580030024491537
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "159118",
+    "target": "guitar",
+    "present": false,
+    "score": 0.6838074326515198
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "176492",
+    "target": "piano",
+    "present": true,
+    "score": 0.48624369502067566,
+    "improvement": -16.566982558781437
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "176492",
+    "target": "speech",
+    "present": false,
+    "score": 0.09424198418855667
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "256684",
+    "target": "piano",
+    "present": true,
+    "score": 0.5033034086227417,
+    "improvement": -0.3265860079086984
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "256684",
+    "target": "train",
+    "present": false,
+    "score": 0.032624825835227966
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "277086",
+    "target": "piano",
+    "present": true,
+    "score": 0.30925625562667847,
+    "improvement": -6.562473097617835
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "277086",
+    "target": "speech",
+    "present": false,
+    "score": 0.13069191575050354
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "343418",
+    "target": "piano",
+    "present": true,
+    "score": 0.1872565895318985,
+    "improvement": -4.531055015269548
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "343418",
+    "target": "train",
+    "present": false,
+    "score": 0.045870035886764526
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "361924",
+    "target": "piano",
+    "present": true,
+    "score": 0.33715760707855225,
+    "improvement": 1.1060274354869002
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "361924",
+    "target": "wind",
+    "present": false,
+    "score": 0.015074875205755234
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "382495",
+    "target": "piano",
+    "present": true,
+    "score": 0.3833352029323578,
+    "improvement": -15.21909286419281
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "382495",
+    "target": "guitar",
+    "present": false,
+    "score": 0.31928133964538574
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "405566",
+    "target": "piano",
+    "present": true,
+    "score": 0.6533132791519165,
+    "improvement": -9.7048345544337
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "405566",
+    "target": "speech",
+    "present": false,
+    "score": 0.20257507264614105
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "419667",
+    "target": "piano",
+    "present": true,
+    "score": 0.0954766720533371,
+    "improvement": -15.184715340316117
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "419667",
+    "target": "speech",
+    "present": false,
+    "score": 0.8874887824058533
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "59512",
+    "target": "speech",
+    "present": true,
+    "score": 0.254776269197464,
+    "improvement": -14.366383713881568
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "59512",
+    "target": "wind",
+    "present": false,
+    "score": 0.6241998672485352
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "79598",
+    "target": "speech",
+    "present": true,
+    "score": 0.22565267980098724,
+    "improvement": -0.47157079187057693
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "79598",
+    "target": "guitar",
+    "present": false,
+    "score": 0.11475653201341629
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "86938",
+    "target": "speech",
+    "present": true,
+    "score": 0.33925962448120117,
+    "improvement": -6.375574457880994
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "86938",
+    "target": "piano",
+    "present": false,
+    "score": 0.6927111148834229
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "90422",
+    "target": "speech",
+    "present": true,
+    "score": 0.1869947463274002,
+    "improvement": 1.598792087738999
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "90422",
+    "target": "train",
+    "present": false,
+    "score": 0.06921526789665222
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "152418",
+    "target": "speech",
+    "present": true,
+    "score": 0.04952974244952202,
+    "improvement": -7.713167357279032
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "152418",
+    "target": "wind",
+    "present": false,
+    "score": 0.4199489951133728
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "209661",
+    "target": "speech",
+    "present": true,
+    "score": 0.21497276425361633,
+    "improvement": -2.2935002882677997
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "209661",
+    "target": "train",
+    "present": false,
+    "score": 0.18020519614219666
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "215990",
+    "target": "speech",
+    "present": true,
+    "score": 0.2934836447238922,
+    "improvement": -10.172386226441798
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "215990",
+    "target": "wind",
+    "present": false,
+    "score": 0.6077789664268494
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "220458",
+    "target": "speech",
+    "present": true,
+    "score": 0.2748405933380127,
+    "improvement": -5.209471028430392
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "220458",
+    "target": "guitar",
+    "present": false,
+    "score": 0.2900605797767639
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "332047",
+    "target": "speech",
+    "present": true,
+    "score": 0.3426850140094757,
+    "improvement": 1.6360588271868832
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "332047",
+    "target": "piano",
+    "present": false,
+    "score": 0.11061972379684448
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "342983",
+    "target": "speech",
+    "present": true,
+    "score": 0.4139988124370575,
+    "improvement": -19.16663756032436
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "342983",
+    "target": "train",
+    "present": false,
+    "score": 0.20539645850658417
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "389993",
+    "target": "speech",
+    "present": true,
+    "score": 0.4074585437774658,
+    "improvement": -2.9534117643528677
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "389993",
+    "target": "train",
+    "present": false,
+    "score": 0.07627106457948685
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "17851",
+    "target": "train",
+    "present": true,
+    "score": 0.09978493303060532,
+    "improvement": -0.4894726472998734
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "17851",
+    "target": "guitar",
+    "present": false,
+    "score": 0.03723766654729843
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "25888",
+    "target": "train",
+    "present": true,
+    "score": 0.021926265209913254,
+    "improvement": -6.472504716283396
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "25888",
+    "target": "piano",
+    "present": false,
+    "score": 0.1272195726633072
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "57787",
+    "target": "train",
+    "present": true,
+    "score": 0.24997493624687195,
+    "improvement": -1.063334259591005
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "57787",
+    "target": "speech",
+    "present": false,
+    "score": 0.3959929049015045
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "127826",
+    "target": "train",
+    "present": true,
+    "score": 0.17086461186408997,
+    "improvement": -0.580584807946462
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "127826",
+    "target": "wind",
+    "present": false,
+    "score": 0.38832637667655945
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "174882",
+    "target": "train",
+    "present": true,
+    "score": 0.17400367558002472,
+    "improvement": 0.46830709714265883
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "174882",
+    "target": "guitar",
+    "present": false,
+    "score": 0.06157391890883446
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "185124",
+    "target": "train",
+    "present": true,
+    "score": 0.1315470188856125,
+    "improvement": -4.654998890319827
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "185124",
+    "target": "wind",
+    "present": false,
+    "score": 0.08546318113803864
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "277368",
+    "target": "train",
+    "present": true,
+    "score": 0.09736459702253342,
+    "improvement": 0.8901872518978463
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "277368",
+    "target": "guitar",
+    "present": false,
+    "score": 0.23357315361499786
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "336877",
+    "target": "train",
+    "present": true,
+    "score": 0.16174998879432678,
+    "improvement": -5.183956039742841
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "336877",
+    "target": "piano",
+    "present": false,
+    "score": 0.3848561942577362
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "339874",
+    "target": "train",
+    "present": true,
+    "score": 0.12609794735908508,
+    "improvement": -3.0267965935630694
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "339874",
+    "target": "speech",
+    "present": false,
+    "score": 0.06937305629253387
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "380680",
+    "target": "train",
+    "present": true,
+    "score": 0.2746942937374115,
+    "improvement": 0.10756611578140829
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "380680",
+    "target": "wind",
+    "present": false,
+    "score": 0.13189397752285004
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "389761",
+    "target": "train",
+    "present": true,
+    "score": 0.030220089480280876,
+    "improvement": -20.563602679680503
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "389761",
+    "target": "wind",
+    "present": false,
+    "score": 0.8975542783737183
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "76404",
+    "target": "wind",
+    "present": true,
+    "score": 0.6186816096305847,
+    "improvement": 3.3140212885655926
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "76404",
+    "target": "piano",
+    "present": false,
+    "score": 0.6347610354423523
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "152980",
+    "target": "wind",
+    "present": true,
+    "score": 0.6201373934745789,
+    "improvement": 3.8472903619486245
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "152980",
+    "target": "speech",
+    "present": false,
+    "score": 0.15700459480285645
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "162417",
+    "target": "wind",
+    "present": true,
+    "score": 0.22380469739437103,
+    "improvement": -2.9830386069095565
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "162417",
+    "target": "train",
+    "present": false,
+    "score": 0.15169329941272736
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "207481",
+    "target": "wind",
+    "present": true,
+    "score": 0.8265688419342041,
+    "improvement": 1.2150699864912453
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "207481",
+    "target": "guitar",
+    "present": false,
+    "score": 0.08822164684534073
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "320693",
+    "target": "wind",
+    "present": true,
+    "score": 0.1230599507689476,
+    "improvement": -8.911479931957787
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "320693",
+    "target": "piano",
+    "present": false,
+    "score": 0.562372624874115
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "333900",
+    "target": "wind",
+    "present": true,
+    "score": 0.5257295370101929,
+    "improvement": 5.46442052969722
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "333900",
+    "target": "guitar",
+    "present": false,
+    "score": 0.5791836977005005
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "367328",
+    "target": "wind",
+    "present": true,
+    "score": 0.8895492553710938,
+    "improvement": 2.5049834634225006
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "367328",
+    "target": "piano",
+    "present": false,
+    "score": 0.03527893126010895
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "380941",
+    "target": "wind",
+    "present": true,
+    "score": 0.7547955513000488,
+    "improvement": -13.984347742805504
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "380941",
+    "target": "speech",
+    "present": false,
+    "score": 0.1931486427783966
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "393004",
+    "target": "wind",
+    "present": true,
+    "score": 0.701273500919342,
+    "improvement": 5.749897066604952
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "393004",
+    "target": "train",
+    "present": false,
+    "score": 0.06419882923364639
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "402801",
+    "target": "wind",
+    "present": true,
+    "score": 0.7730367183685303,
+    "improvement": -0.35582374447022136
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "402801",
+    "target": "guitar",
+    "present": false,
+    "score": 0.2194567322731018
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "422866",
+    "target": "wind",
+    "present": true,
+    "score": 0.8240466117858887,
+    "improvement": 3.3601638644587046
+  },
+  {
+    "kind": "colocated",
+    "method": "dict",
+    "source": "422866",
+    "target": "guitar",
+    "present": false,
+    "score": 0.09339623153209686
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "37794",
+    "target": "guitar",
+    "present": true,
+    "score": 0.12863399481165677,
+    "improvement": 19.239259629426407
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "37794",
+    "target": "speech",
+    "present": false,
+    "score": 0.08272228556455771
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "42373",
+    "target": "guitar",
+    "present": true,
+    "score": 0.18265370388425556,
+    "improvement": 17.96589577232865
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "42373",
+    "target": "train",
+    "present": false,
+    "score": 0.43119385468808025
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "171353",
+    "target": "guitar",
+    "present": true,
+    "score": 0.0664699677055505,
+    "improvement": 20.844211026545263
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "171353",
+    "target": "wind",
+    "present": false,
+    "score": 0.41893964015050683
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "260204",
+    "target": "guitar",
+    "present": true,
+    "score": 0.12646402733566245,
+    "improvement": 4.357991909939044
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "260204",
+    "target": "piano",
+    "present": false,
+    "score": 0.07475392382222128
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "265986",
+    "target": "guitar",
+    "present": true,
+    "score": 0.27321985607822197,
+    "improvement": 19.34369079323683
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "265986",
+    "target": "speech",
+    "present": false,
+    "score": 0.5938405849824004
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "276576",
+    "target": "guitar",
+    "present": true,
+    "score": 0.13130353200378422,
+    "improvement": 19.929294129317196
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "276576",
+    "target": "piano",
+    "present": false,
+    "score": 0.27449263042276834
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "316995",
+    "target": "guitar",
+    "present": true,
+    "score": 0.10236313781093609,
+    "improvement": 3.665788380665621
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "316995",
+    "target": "speech",
+    "present": false,
+    "score": 0.4281218042234931
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "329838",
+    "target": "guitar",
+    "present": true,
+    "score": 0.38591440160742324,
+    "improvement": 24.201826947411796
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "329838",
+    "target": "train",
+    "present": false,
+    "score": 0.1267440950187326
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "333632",
+    "target": "guitar",
+    "present": true,
+    "score": 0.17575050445605106,
+    "improvement": -54.3640414397586
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "333632",
+    "target": "wind",
+    "present": false,
+    "score": 0.4452250372412994
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "334100",
+    "target": "guitar",
+    "present": true,
+    "score": 0.11424183245438056,
+    "improvement": -11.617599432632193
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "334100",
+    "target": "piano",
+    "present": false,
+    "score": 0.19814941343879444
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "365795",
+    "target": "guitar",
+    "present": true,
+    "score": 0.2649608920836932,
+    "improvement": 27.054993336066506
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "365795",
+    "target": "piano",
+    "present": false,
+    "score": 0.06358911372653286
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "43743",
+    "target": "piano",
+    "present": true,
+    "score": 0.8962247764521758,
+    "improvement": 21.792838865532225
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "43743",
+    "target": "train",
+    "present": false,
+    "score": 0.06369896269264327
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "89764",
+    "target": "piano",
+    "present": true,
+    "score": 0.2181424486270197,
+    "improvement": 4.3238197844763535
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "89764",
+    "target": "wind",
+    "present": false,
+    "score": 0.16793261442512852
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "159118",
+    "target": "piano",
+    "present": true,
+    "score": 0.17563943519772393,
+    "improvement": 21.678810291358122
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "159118",
+    "target": "guitar",
+    "present": false,
+    "score": 0.4195043519845207
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "176492",
+    "target": "piano",
+    "present": true,
+    "score": 0.2570507956398974,
+    "improvement": -40.19867021404867
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "176492",
+    "target": "speech",
+    "present": false,
+    "score": 0.20623018248065908
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "256684",
+    "target": "piano",
+    "present": true,
+    "score": 0.7865613383658336,
+    "improvement": 19.45961988309055
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "256684",
+    "target": "train",
+    "present": false,
+    "score": 0.13739981392097023
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "277086",
+    "target": "piano",
+    "present": true,
+    "score": 0.04951041827505905,
+    "improvement": -75.49957618510487
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "277086",
+    "target": "speech",
+    "present": false,
+    "score": 0.148017757092329
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "343418",
+    "target": "piano",
+    "present": true,
+    "score": 0.23179005461338772,
+    "improvement": 5.393902823794224
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "343418",
+    "target": "train",
+    "present": false,
+    "score": 0.27312565738400574
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "361924",
+    "target": "piano",
+    "present": true,
+    "score": 0.4551360644269937,
+    "improvement": -16.689266459165882
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "361924",
+    "target": "wind",
+    "present": false,
+    "score": 0.2918072743169308
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "382495",
+    "target": "piano",
+    "present": true,
+    "score": 0.22369753016338734,
+    "improvement": 5.065197397593236
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "382495",
+    "target": "guitar",
+    "present": false,
+    "score": 0.18245385369219716
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "405566",
+    "target": "piano",
+    "present": true,
+    "score": 0.3324906900951266,
+    "improvement": 9.703471778717699
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "405566",
+    "target": "speech",
+    "present": false,
+    "score": 0.17564516464800006
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "419667",
+    "target": "piano",
+    "present": true,
+    "score": 0.10765639083053197,
+    "improvement": 6.990993322953747
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "419667",
+    "target": "speech",
+    "present": false,
+    "score": 0.3831649611822824
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "59512",
+    "target": "speech",
+    "present": true,
+    "score": 0.3572810660827337,
+    "improvement": -5.014375841677211
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "59512",
+    "target": "wind",
+    "present": false,
+    "score": 0.2118836635663111
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "79598",
+    "target": "speech",
+    "present": true,
+    "score": 0.634979065393476,
+    "improvement": 16.20544682313742
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "79598",
+    "target": "guitar",
+    "present": false,
+    "score": 0.09921478532150442
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "86938",
+    "target": "speech",
+    "present": true,
+    "score": 0.6328031121145408,
+    "improvement": 20.08798416438528
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "86938",
+    "target": "piano",
+    "present": false,
+    "score": 0.6425561365164774
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "90422",
+    "target": "speech",
+    "present": true,
+    "score": 0.251602980949657,
+    "improvement": 4.735852602742249
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "90422",
+    "target": "train",
+    "present": false,
+    "score": 0.2492207181231834
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "152418",
+    "target": "speech",
+    "present": true,
+    "score": 0.2825337804531706,
+    "improvement": 23.638090460941555
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "152418",
+    "target": "wind",
+    "present": false,
+    "score": 0.33065403294049717
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "209661",
+    "target": "speech",
+    "present": true,
+    "score": 0.2914681584129543,
+    "improvement": 21.57991449719346
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "209661",
+    "target": "train",
+    "present": false,
+    "score": 0.314056650129986
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "215990",
+    "target": "speech",
+    "present": true,
+    "score": 0.31472984138841703,
+    "improvement": -7.886210901056644
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "215990",
+    "target": "wind",
+    "present": false,
+    "score": 0.3385449918047199
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "220458",
+    "target": "speech",
+    "present": true,
+    "score": 0.3686459663135592,
+    "improvement": -0.30939598496243986
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "220458",
+    "target": "guitar",
+    "present": false,
+    "score": 0.0608278676799725
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "332047",
+    "target": "speech",
+    "present": true,
+    "score": 0.82437724386478,
+    "improvement": 1.2852719950495908
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "332047",
+    "target": "piano",
+    "present": false,
+    "score": 0.06498174024946683
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "342983",
+    "target": "speech",
+    "present": true,
+    "score": 0.6760070310080679,
+    "improvement": 21.483801957707122
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "342983",
+    "target": "train",
+    "present": false,
+    "score": 0.6703771152977507
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "389993",
+    "target": "speech",
+    "present": true,
+    "score": 0.3076794286546808,
+    "improvement": 6.2743731461205625
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "389993",
+    "target": "train",
+    "present": false,
+    "score": 0.2044185071096111
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "17851",
+    "target": "train",
+    "present": true,
+    "score": 0.3249454727363221,
+    "improvement": 23.890757816149748
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "17851",
+    "target": "guitar",
+    "present": false,
+    "score": 0.07783057928233918
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "25888",
+    "target": "train",
+    "present": true,
+    "score": 0.2386728616526025,
+    "improvement": 19.085751862851883
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "25888",
+    "target": "piano",
+    "present": false,
+    "score": 0.18830437902106523
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "57787",
+    "target": "train",
+    "present": true,
+    "score": 0.6599677826224475,
+    "improvement": 4.753735956781116
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "57787",
+    "target": "speech",
+    "present": false,
+    "score": 0.094469068515145
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "127826",
+    "target": "train",
+    "present": true,
+    "score": 0.6679571104204917,
+    "improvement": 19.441940066498766
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "127826",
+    "target": "wind",
+    "present": false,
+    "score": 0.1934505847853035
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "174882",
+    "target": "train",
+    "present": true,
+    "score": 0.6110134704532927,
+    "improvement": 19.441831284788673
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "174882",
+    "target": "guitar",
+    "present": false,
+    "score": 0.06534596778421906
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "185124",
+    "target": "train",
+    "present": true,
+    "score": 0.7132972879973867,
+    "improvement": 18.502671467525182
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "185124",
+    "target": "wind",
+    "present": false,
+    "score": 0.09944163191780882
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "277368",
+    "target": "train",
+    "present": true,
+    "score": 0.1962518692735899,
+    "improvement": 25.75903498516528
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "277368",
+    "target": "guitar",
+    "present": false,
+    "score": 0.23879987983388062
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "336877",
+    "target": "train",
+    "present": true,
+    "score": 0.6396384150574065,
+    "improvement": 21.908979394018765
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "336877",
+    "target": "piano",
+    "present": false,
+    "score": 0.07316321720138247
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "339874",
+    "target": "train",
+    "present": true,
+    "score": 0.41642832759479664,
+    "improvement": 5.6425361248495225
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "339874",
+    "target": "speech",
+    "present": false,
+    "score": 0.2766150059708138
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "380680",
+    "target": "train",
+    "present": true,
+    "score": 0.7024951898679714,
+    "improvement": 28.330816500125444
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "380680",
+    "target": "wind",
+    "present": false,
+    "score": 0.13376067462725647
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "389761",
+    "target": "train",
+    "present": true,
+    "score": 0.08956614352078812,
+    "improvement": -21.742996495508248
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "389761",
+    "target": "wind",
+    "present": false,
+    "score": 0.6549568554057952
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "76404",
+    "target": "wind",
+    "present": true,
+    "score": 0.5127581005737663,
+    "improvement": 15.635659416264744
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "76404",
+    "target": "piano",
+    "present": false,
+    "score": 0.13107230710121195
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "152980",
+    "target": "wind",
+    "present": true,
+    "score": 0.7976794214346667,
+    "improvement": 5.16374073467891
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "152980",
+    "target": "speech",
+    "present": false,
+    "score": 0.0759642715283115
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "162417",
+    "target": "wind",
+    "present": true,
+    "score": 0.24326393325880327,
+    "improvement": 8.188852045259278
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "162417",
+    "target": "train",
+    "present": false,
+    "score": 0.684124530443732
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "207481",
+    "target": "wind",
+    "present": true,
+    "score": 0.29459920452173644,
+    "improvement": 4.725576095270761
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "207481",
+    "target": "guitar",
+    "present": false,
+    "score": 0.08754254062012
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "320693",
+    "target": "wind",
+    "present": true,
+    "score": 0.2438153464293035,
+    "improvement": -25.668711267298654
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "320693",
+    "target": "piano",
+    "present": false,
+    "score": 0.1339889891456446
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "333900",
+    "target": "wind",
+    "present": true,
+    "score": 0.5744435126944004,
+    "improvement": 18.044683587738984
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "333900",
+    "target": "guitar",
+    "present": false,
+    "score": 0.4299053409332115
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "367328",
+    "target": "wind",
+    "present": true,
+    "score": 0.7338019472370111,
+    "improvement": 22.37649287897173
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "367328",
+    "target": "piano",
+    "present": false,
+    "score": 0.05302580353978978
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "380941",
+    "target": "wind",
+    "present": true,
+    "score": 0.3452023155259658,
+    "improvement": -28.09735108102729
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "380941",
+    "target": "speech",
+    "present": false,
+    "score": 0.39406105064846875
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "393004",
+    "target": "wind",
+    "present": true,
+    "score": 0.6692451707768283,
+    "improvement": 14.993983611185946
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "393004",
+    "target": "train",
+    "present": false,
+    "score": 0.3188648734476658
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "402801",
+    "target": "wind",
+    "present": true,
+    "score": 0.2665901857921384,
+    "improvement": -4.1418374494200405
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "402801",
+    "target": "guitar",
+    "present": false,
+    "score": 0.08696901595502979
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "422866",
+    "target": "wind",
+    "present": true,
+    "score": 0.4123587014982872,
+    "improvement": -1.9631750782367046
+  },
+  {
+    "kind": "persistent",
+    "method": "iva",
+    "source": "422866",
+    "target": "guitar",
+    "present": false,
+    "score": 0.07438996165383945
+  }
+]

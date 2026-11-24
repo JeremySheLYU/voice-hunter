@@ -1,0 +1,8 @@
+# Round 1 — multi-target export acceptance, frozen 0.1
+
+Before executing the new benchmark, set local product gates below. These are internal acceptance gates and fixed design stress cases, not published pass/fail standards.
+
+1. Reference-based separation. Balanced three-object mixtures with held-out overlap. Three soundscapes, seeds 11, 23, 47 per scene. Compare each named track against its own known stereo source during fully overlapping material, using one common scale for both channels. Report every SI-SDR improvement relative to the input mixture; gate each scene/seed on all three stems achieving at least +3 dB, plus reveal negative rates and worst source. Never choose a best permutation: emitted file names are intended to select the named sounds. Source signals are entirely generated; no claim about natural recordings.
+2. Additivity/export. For every valid configuration, decoded unscaled floating-point stems plus residual must sum to the input stereo within 2e-6 full scale. Keep reference amplitude unambiguous using quantization per source before mixing.
+3. Determinism and order. Reversing track order should change each named stem by at most 2e-6. Misnamed or invalid target config should fail clearly without partial output. Identical unknown source content is diagnostically interesting but not a benchmark gate on perception.
+4. Scale. Test the production CLI at both supported bounds of track count; run a nominal 60-second 8-target job. Require completion, correct lengths for all exported stems and conservation within 2e-6 FS. Report elapsed wall time and child process peak RSS observationally, with no real-time or memory gate. Execute once on this shared host.

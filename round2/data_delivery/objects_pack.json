@@ -1,0 +1,10 @@
+{
+  "name": "ADM_Object_Conformance.zip",
+  "bytes": 49714,
+  "sha256": "ceeef59212900fe193370d4bdf5eaed4e1a9179a03af7a342c1b01c4f877da24",
+  "assets": 11,
+  "logical_bytes": 1215529,
+  "collections": [
+    "EBU_object_conformance"
+  ]
+}

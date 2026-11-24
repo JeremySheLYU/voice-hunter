@@ -1,0 +1,7 @@
+{
+  "checks": [
+    "five embedded stereo PCM hashes, rate, duration and headers",
+    "both coded orders, mirror selection, initial sync, switching with same playhead, midclip seek, pause, deferred reveal"
+  ],
+  "evidence": "DOM/Web Audio clock simulation; no human or physical-device playback"
+}

@@ -1,0 +1,67 @@
+{
+  "input_ids": [
+    "330660",
+    "386515"
+  ],
+  "source_hashes": [
+    "efa7a113b1696855c97b611c6442f9ff388b7aeb5bb5a5bd54ce768c36eac953",
+    "7849d8a7cfa04ddf4a398e203f51fac27ab7c49aa90fce80419a99063730c714"
+  ],
+  "settings": "native-pair-protocol.md",
+  "cases": [
+    {
+      "version": "v0.1",
+      "returned": true,
+      "valid_output": true,
+      "passed_quality": true,
+      "scores": {
+        "train": {
+          "in_db": 0.0555044864896059,
+          "out_db": 4.146558456071176,
+          "improvement_db": 4.09105396958157
+        },
+        "wind": {
+          "in_db": 0.054256137155890796,
+          "out_db": 6.250816581968527,
+          "improvement_db": 6.196560444812636
+        }
+      },
+      "names": [
+        "remaining.wav",
+        "remix.wav",
+        "settings.json",
+        "target.wav"
+      ],
+      "sum_error": 1.4901161193847656e-08,
+      "frames": 288000,
+      "finite": true
+    },
+    {
+      "version": "v0.2",
+      "returned": true,
+      "valid_output": true,
+      "passed_quality": true,
+      "scores": {
+        "train": {
+          "in_db": 0.0555044864896059,
+          "out_db": 4.146558456071176,
+          "improvement_db": 4.09105396958157
+        },
+        "wind": {
+          "in_db": 0.054256137155890796,
+          "out_db": 6.250816581968527,
+          "improvement_db": 6.196560444812636
+        }
+      },
+      "names": [
+        "remaining.wav",
+        "remix.wav",
+        "settings.json",
+        "target.wav"
+      ],
+      "sum_error": 1.4901161193847656e-08,
+      "frames": 288000,
+      "finite": true
+    }
+  ]
+}

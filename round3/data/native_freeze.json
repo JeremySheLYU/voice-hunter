@@ -1,0 +1,10 @@
+{
+ "sha256": "e6f775371c2faae3a84fca5002f05c031667628ba02d454e8efe9cc3807a172f",
+ "budget": 100,
+ "target_files_per_class": 4,
+ "minimum_seconds": 4.9,
+ "max_source_excerpt_seconds": 15,
+ "minimum_side_fraction_db": -50,
+ "prefer_distinct_new_ids": true,
+ "policy": "Frozen within-category queue from fresh holdout authors only, sort previously unused IDs then prefer uploaders absent from primary test. Attempt interleaved groups until per-class target, fixed cap 100/class, or eligible queue exhausted. Skip unavailable/mismatched Creative Commons pages, non-stereo, clips shorter than 4.9s, near-dual-mono or repeated source audio. Disclose overlap of all shared recording IDs and uploaders with primary holdout."
+}

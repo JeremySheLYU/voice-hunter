@@ -1,0 +1,30 @@
+{
+  "id": "eigenscape_hoa/ShoppingCentre.1",
+  "dataset": "eigenscape_hoa",
+  "record": "2628463",
+  "member": "ShoppingCentre.1.wav",
+  "archive": "ShoppingCentre.zip",
+  "archive_checksum": "md5:3f7541ab39d8b00a5898dd3a35412531",
+  "url": "https://zenodo.org/api/records/2628463/files/ShoppingCentre.zip/content",
+  "archive_range": [
+    0,
+    8199999
+  ],
+  "range_sha256": "28c8d5cca00611c3a1eec7cd3e3466f4202b47e49b04332d223947769369d29a",
+  "source_offset_s": 0,
+  "duration_s": 2,
+  "rate": 48000,
+  "channels": 25,
+  "format": "ACN/SN3D order 4",
+  "bytes": 7200102,
+  "sha256": "6d10e6c6b83ad78e862e971d8ff4c1b0857518a8ca246ba5fdb597d4757ef0c6",
+  "pcm_s32le_sha256": "95857750e318b35e24d2c851d725fccd7aa0fa45a5400e76ae9efd8facc7f9d1",
+  "first_four_vs_lite_correlation": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "path": "round2_data/field/eigenscape_hoa/ShoppingCentre-01.wav",
+  "license": "CC-BY-4.0"
+}

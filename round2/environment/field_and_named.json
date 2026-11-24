@@ -1,0 +1,1958 @@
+{
+  "model_sha": "d38c86403627c08f75726c6689b109a6bf0b16d278425d6c61882179d20df928",
+  "FOA_sources": [
+    {
+      "id": "eigenscape/TrainStation.8.flac",
+      "dataset": "eigenscape",
+      "record": "2628463",
+      "member": "TrainStation.8.flac",
+      "source_offset_s": 0,
+      "duration_s": 8.0,
+      "rate": 48000,
+      "channels": 4,
+      "bytes": 2597149,
+      "sha256": "268a480fcfe0d0317e17266db00e549cd7acb516bfa3db0a25d55c283d616c40",
+      "pcm_s32le_sha256": "b4ff9b85f563988d6b194c86e670d9c6dc251df8ca97ba3314212b7c45d119b4",
+      "archive_crc32": "0xcc76f2d4",
+      "archive_range": [
+        10952140121,
+        10957389656
+      ],
+      "range_sha256": "d632c13b5799912898e0c4b5e60e9b0bcd3b6544645414101e58325326cb2354",
+      "path": "round2_data/field/eigenscape/TrainStation.8.flac.flac",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "eigenscape/Woodland.8.flac",
+      "dataset": "eigenscape",
+      "record": "2628463",
+      "member": "Woodland.8.flac",
+      "source_offset_s": 0,
+      "duration_s": 8.0,
+      "rate": 48000,
+      "channels": 4,
+      "bytes": 2600193,
+      "sha256": "2ca0543bc3c5f96a506fbf39a8b129d7c8fc4fd5e126698148b58cb6285dd707",
+      "pcm_s32le_sha256": "5ca198b33c74a25d98eafbb7742cf03e071fc5c20862e75bd71fc90d1b0252b2",
+      "archive_crc32": "0xe4c6dcfd",
+      "archive_range": [
+        12418496049,
+        12423745584
+      ],
+      "range_sha256": "009af3408f80fc514a2c2492f632fa6b1028995eccb35fe076923fcd300ed816",
+      "path": "round2_data/field/eigenscape/Woodland.8.flac.flac",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "eigenscape/Beach.8.flac",
+      "dataset": "eigenscape",
+      "record": "2628463",
+      "member": "Beach.8.flac",
+      "source_offset_s": 0,
+      "duration_s": 8.0,
+      "rate": 48000,
+      "channels": 4,
+      "bytes": 3006676,
+      "sha256": "733979caca14c450a59cde7bde1a8a88095b1f6036a74fcd242c9a446c7209c3",
+      "pcm_s32le_sha256": "9655b0ffc438d2a9e1f7224b31100b8c300a707dae761924ca94e853d3b29db5",
+      "archive_crc32": "0xd9fb03",
+      "archive_range": [
+        1374803964,
+        1380053499
+      ],
+      "range_sha256": "bd00f5e057d57bac4109e33f328e0bbfa57a26347da442009513001955cb462c",
+      "path": "round2_data/field/eigenscape/Beach.8.flac.flac",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "eigenscape/Park.8.flac",
+      "dataset": "eigenscape",
+      "record": "2628463",
+      "member": "Park.8.flac",
+      "source_offset_s": 0,
+      "duration_s": 8.0,
+      "rate": 48000,
+      "channels": 4,
+      "bytes": 2619412,
+      "sha256": "1d080a44495abee2e4e274f0596d1b3dc8239814b6186553520a336b97370625",
+      "pcm_s32le_sha256": "cb6721da64d6b1da2fee5443bfebf2de31f1acd105d69c581b56b577da745b3a",
+      "archive_crc32": "0xbac0fb4c",
+      "archive_range": [
+        4597622418,
+        4602871953
+      ],
+      "range_sha256": "a90d099728b3d40795695153d020832c102935b0560e99a9d449017047e88cb8",
+      "path": "round2_data/field/eigenscape/Park.8.flac.flac",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "eigenscape/ShoppingCentre.8.flac",
+      "dataset": "eigenscape",
+      "record": "2628463",
+      "member": "ShoppingCentre.8.flac",
+      "source_offset_s": 0,
+      "duration_s": 8.0,
+      "rate": 48000,
+      "channels": 4,
+      "bytes": 2851834,
+      "sha256": "4f14b7d17850a0d7ac2cf1504dd6daed9224710fd8c76b955f749cd83f7e89bd",
+      "pcm_s32le_sha256": "1d239225467093d93a4ff68ff4c2515f0e63a9ee762a4e17dce3c9d64077cd2c",
+      "archive_crc32": "0xfceb60c2",
+      "archive_range": [
+        9306115463,
+        9311364998
+      ],
+      "range_sha256": "65e6c5d4d0ebf509ee76c320c544ad0be2cee3701da8fa13f14520765ad2b7b8",
+      "path": "round2_data/field/eigenscape/ShoppingCentre.8.flac.flac",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "eigenscape/BusyStreet.8.flac",
+      "dataset": "eigenscape",
+      "record": "2628463",
+      "member": "BusyStreet.8.flac",
+      "source_offset_s": 0,
+      "duration_s": 8.0,
+      "rate": 48000,
+      "channels": 4,
+      "bytes": 2805193,
+      "sha256": "61719408549520a053db02f7852403935f3326c087f3d72df797cefd39014838",
+      "pcm_s32le_sha256": "d198fb2dcf2ab8a30c27de79e27e4b9afb9a9d2eaa1ca8e01a41c2d684f6e8b8",
+      "archive_crc32": "0x46207b39",
+      "archive_range": [
+        3071660413,
+        3076909948
+      ],
+      "range_sha256": "e2c5a650b8a23dbb8c33d6780a52739f18e49a9b47f79bc5a02252d9e91e6877",
+      "path": "round2_data/field/eigenscape/BusyStreet.8.flac.flac",
+      "license": "CC-BY-4.0"
+    }
+  ],
+  "source_manifest": "4a3be692a05099be49b7d64753d828ee45ed1437f981fbd22d0f4885fcab123a",
+  "cases": [
+    {
+      "trial": 1,
+      "source": [
+        {
+          "track": "source1",
+          "asset": "170641",
+          "author": "unfa",
+          "category": "speech",
+          "path": "round2_data/environment/speech/170641.wav",
+          "sha256": "b0fb7b8e694fb666a2a27f65060b0a255da7388f0dc214894e56528344f0ce01",
+          "ref_held_start_samples": [
+            142080,
+            257280
+          ],
+          "pan_fraction": 0.18220237048555993,
+          "relative_db": -0.4858118433993037
+        },
+        {
+          "track": "source2",
+          "asset": "245399",
+          "author": "peridactyloptrix",
+          "category": "train",
+          "path": "round2_data/environment/train/245399.wav",
+          "sha256": "ef855f3670487a3857aa9d3f0fa01605bbc5916f128731bc6848eb865c5d0834",
+          "ref_held_start_samples": [
+            142080,
+            464640
+          ],
+          "pan_fraction": 0.5385242287611123,
+          "relative_db": -1.367041504438431
+        },
+        {
+          "track": "source3",
+          "asset": "16799",
+          "author": "mattfl",
+          "category": "wind",
+          "path": "round2_data/environment/wind/16799.flac",
+          "sha256": "6d4dce8e0db681333daff77a284d75e9adec99541fa216b2c1361679d0892576",
+          "ref_held_start_samples": [
+            19200,
+            380160
+          ],
+          "pan_fraction": 0.8480296717755252,
+          "relative_db": -0.2773194400413206
+        }
+      ],
+      "ambient_level_db": null,
+      "field_id": null,
+      "measured_format": "ACN SN3D FOA, \u00b145 degree cardioids",
+      "categories": [
+        "speech",
+        "train",
+        "wind"
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -2.9655416930353717,
+          "estimated_sisdr": 6.905865051684431,
+          "improvement": 9.871406744719803
+        },
+        {
+          "input_sisdr": -3.713154974098135,
+          "estimated_sisdr": 8.662957534370083,
+          "improvement": 12.376112508468218
+        },
+        {
+          "input_sisdr": -2.3905350417042746,
+          "estimated_sisdr": -3.1179893819039806,
+          "improvement": -0.727454340199706
+        }
+      ],
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -2.9655416930353717,
+          "estimated_sisdr": 15.132661822623387,
+          "improvement": 18.09820351565876
+        },
+        {
+          "input_sisdr": -3.713154974098135,
+          "estimated_sisdr": 13.70598563438103,
+          "improvement": 17.419140608479164
+        },
+        {
+          "input_sisdr": -2.3905350417042746,
+          "estimated_sisdr": 16.163923026883033,
+          "improvement": 18.55445806858731
+        }
+      ],
+      "additive_error": 1.862645149230957e-09
+    },
+    {
+      "trial": 1,
+      "source": [
+        {
+          "track": "source1",
+          "asset": "170641",
+          "author": "unfa",
+          "category": "speech",
+          "path": "round2_data/environment/speech/170641.wav",
+          "sha256": "b0fb7b8e694fb666a2a27f65060b0a255da7388f0dc214894e56528344f0ce01",
+          "ref_held_start_samples": [
+            142080,
+            257280
+          ],
+          "pan_fraction": 0.18220237048555993,
+          "relative_db": -0.4858118433993037
+        },
+        {
+          "track": "source2",
+          "asset": "245399",
+          "author": "peridactyloptrix",
+          "category": "train",
+          "path": "round2_data/environment/train/245399.wav",
+          "sha256": "ef855f3670487a3857aa9d3f0fa01605bbc5916f128731bc6848eb865c5d0834",
+          "ref_held_start_samples": [
+            142080,
+            464640
+          ],
+          "pan_fraction": 0.5385242287611123,
+          "relative_db": -1.367041504438431
+        },
+        {
+          "track": "source3",
+          "asset": "16799",
+          "author": "mattfl",
+          "category": "wind",
+          "path": "round2_data/environment/wind/16799.flac",
+          "sha256": "6d4dce8e0db681333daff77a284d75e9adec99541fa216b2c1361679d0892576",
+          "ref_held_start_samples": [
+            19200,
+            380160
+          ],
+          "pan_fraction": 0.8480296717755252,
+          "relative_db": -0.2773194400413206
+        }
+      ],
+      "ambient_level_db": -6,
+      "field_id": "eigenscape/TrainStation.8.flac",
+      "measured_format": "ACN SN3D FOA, \u00b145 degree cardioids",
+      "categories": [
+        "speech",
+        "train",
+        "wind"
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -4.112532772875609,
+          "estimated_sisdr": 6.984947089893603,
+          "improvement": 11.097479862769212
+        },
+        {
+          "input_sisdr": -4.796528789906552,
+          "estimated_sisdr": 8.726041938154141,
+          "improvement": 13.522570728060693
+        },
+        {
+          "input_sisdr": -3.40953137695045,
+          "estimated_sisdr": -3.0091085440180674,
+          "improvement": 0.40042283293238246
+        }
+      ],
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -4.112532772875609,
+          "estimated_sisdr": 14.058357074269951,
+          "improvement": 18.17088984714556
+        },
+        {
+          "input_sisdr": -4.796528789906552,
+          "estimated_sisdr": 4.1324171886051735,
+          "improvement": 8.928945978511726
+        },
+        {
+          "input_sisdr": -3.40953137695045,
+          "estimated_sisdr": 10.49086908790162,
+          "improvement": 13.90040046485207
+        }
+      ],
+      "additive_error": 1.862645149230957e-09,
+      "ambient_baseline": {
+        "input_sisdr": -7.190297593636016,
+        "estimated_sisdr": -3.822084003128132,
+        "improvement": 3.3682135905078843
+      },
+      "ambient_estimate": {
+        "input_sisdr": -7.190297593636016,
+        "estimated_sisdr": -9.447959312454442,
+        "improvement": -2.257661718818426
+      }
+    },
+    {
+      "trial": 1,
+      "source": [
+        {
+          "track": "source1",
+          "asset": "170641",
+          "author": "unfa",
+          "category": "speech",
+          "path": "round2_data/environment/speech/170641.wav",
+          "sha256": "b0fb7b8e694fb666a2a27f65060b0a255da7388f0dc214894e56528344f0ce01",
+          "ref_held_start_samples": [
+            142080,
+            257280
+          ],
+          "pan_fraction": 0.18220237048555993,
+          "relative_db": -0.4858118433993037
+        },
+        {
+          "track": "source2",
+          "asset": "245399",
+          "author": "peridactyloptrix",
+          "category": "train",
+          "path": "round2_data/environment/train/245399.wav",
+          "sha256": "ef855f3670487a3857aa9d3f0fa01605bbc5916f128731bc6848eb865c5d0834",
+          "ref_held_start_samples": [
+            142080,
+            464640
+          ],
+          "pan_fraction": 0.5385242287611123,
+          "relative_db": -1.367041504438431
+        },
+        {
+          "track": "source3",
+          "asset": "16799",
+          "author": "mattfl",
+          "category": "wind",
+          "path": "round2_data/environment/wind/16799.flac",
+          "sha256": "6d4dce8e0db681333daff77a284d75e9adec99541fa216b2c1361679d0892576",
+          "ref_held_start_samples": [
+            19200,
+            380160
+          ],
+          "pan_fraction": 0.8480296717755252,
+          "relative_db": -0.2773194400413206
+        }
+      ],
+      "ambient_level_db": 0,
+      "field_id": "eigenscape/TrainStation.8.flac",
+      "measured_format": "ACN SN3D FOA, \u00b145 degree cardioids",
+      "categories": [
+        "speech",
+        "train",
+        "wind"
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -6.351279422678514,
+          "estimated_sisdr": 6.280833627912762,
+          "improvement": 12.632113050591276
+        },
+        {
+          "input_sisdr": -6.954584961073662,
+          "estimated_sisdr": 7.66830796071627,
+          "improvement": 14.622892921789932
+        },
+        {
+          "input_sisdr": -5.580577311395429,
+          "estimated_sisdr": -6.218788118536916,
+          "improvement": -0.6382108071414869
+        }
+      ],
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -6.351279422678514,
+          "estimated_sisdr": 12.333852697008094,
+          "improvement": 18.685132119686607
+        },
+        {
+          "input_sisdr": -6.954584961073662,
+          "estimated_sisdr": -3.1558965225262807,
+          "improvement": 3.7986884385473814
+        },
+        {
+          "input_sisdr": -5.580577311395429,
+          "estimated_sisdr": 7.818406768403364,
+          "improvement": 13.398984079798794
+        }
+      ],
+      "additive_error": 1.862645149230957e-09,
+      "ambient_baseline": {
+        "input_sisdr": -1.2193226199479936,
+        "estimated_sisdr": 1.8208512084486066,
+        "improvement": 3.0401738283966004
+      },
+      "ambient_estimate": {
+        "input_sisdr": -1.2193226199479936,
+        "estimated_sisdr": -12.044856930299375,
+        "improvement": -10.825534310351381
+      }
+    },
+    {
+      "trial": 2,
+      "source": [
+        {
+          "track": "source1",
+          "asset": "207325",
+          "author": "SoundsExciting",
+          "category": "speech",
+          "path": "round2_data/environment/speech/207325.wav",
+          "sha256": "ac5068859e61f3c7184a3dafda27b6d80b44ea20adb409e3639a7a167769e125",
+          "ref_held_start_samples": [
+            0,
+            360960
+          ],
+          "pan_fraction": 0.16934542591534343,
+          "relative_db": 1.1295356821836795
+        },
+        {
+          "track": "source2",
+          "asset": "254778",
+          "author": "GreekIrish",
+          "category": "train",
+          "path": "round2_data/environment/train/254778.flac",
+          "sha256": "13cf812595c063d089603fad5bfb5a925dd7b1d4e378ac2895c51ad3517f0dd0",
+          "ref_held_start_samples": [
+            142080,
+            199680
+          ],
+          "pan_fraction": 0.5370578902002779,
+          "relative_db": 0.16423183606382574
+        },
+        {
+          "track": "source3",
+          "asset": "204347",
+          "author": "junkfood2121",
+          "category": "wind",
+          "path": "round2_data/environment/wind/204347.wav",
+          "sha256": "052f2aa3ab853f538df14b2446d9b2cbe57693a1d86556969cf77b59defb2fb8",
+          "ref_held_start_samples": [
+            38400,
+            591360
+          ],
+          "pan_fraction": 0.8396481658791997,
+          "relative_db": -1.092567046977213
+        }
+      ],
+      "ambient_level_db": null,
+      "field_id": null,
+      "measured_format": "ACN SN3D FOA, \u00b145 degree cardioids",
+      "categories": [
+        "speech",
+        "train",
+        "wind"
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -1.6496663293857063,
+          "estimated_sisdr": 1.7175533023957748,
+          "improvement": 3.367219631781481
+        },
+        {
+          "input_sisdr": -3.1939300819526033,
+          "estimated_sisdr": 0.15673885085027894,
+          "improvement": 3.3506689328028822
+        },
+        {
+          "input_sisdr": -4.428712957009731,
+          "estimated_sisdr": 1.393934737067615,
+          "improvement": 5.822647694077346
+        }
+      ],
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -1.6496663293857063,
+          "estimated_sisdr": 14.497852949732849,
+          "improvement": 16.147519279118555
+        },
+        {
+          "input_sisdr": -3.1939300819526033,
+          "estimated_sisdr": 8.87849127556872,
+          "improvement": 12.072421357521323
+        },
+        {
+          "input_sisdr": -4.428712957009731,
+          "estimated_sisdr": 10.568299930002386,
+          "improvement": 14.997012887012117
+        }
+      ],
+      "additive_error": 1.862645149230957e-09
+    },
+    {
+      "trial": 2,
+      "source": [
+        {
+          "track": "source1",
+          "asset": "207325",
+          "author": "SoundsExciting",
+          "category": "speech",
+          "path": "round2_data/environment/speech/207325.wav",
+          "sha256": "ac5068859e61f3c7184a3dafda27b6d80b44ea20adb409e3639a7a167769e125",
+          "ref_held_start_samples": [
+            0,
+            360960
+          ],
+          "pan_fraction": 0.16934542591534343,
+          "relative_db": 1.1295356821836795
+        },
+        {
+          "track": "source2",
+          "asset": "254778",
+          "author": "GreekIrish",
+          "category": "train",
+          "path": "round2_data/environment/train/254778.flac",
+          "sha256": "13cf812595c063d089603fad5bfb5a925dd7b1d4e378ac2895c51ad3517f0dd0",
+          "ref_held_start_samples": [
+            142080,
+            199680
+          ],
+          "pan_fraction": 0.5370578902002779,
+          "relative_db": 0.16423183606382574
+        },
+        {
+          "track": "source3",
+          "asset": "204347",
+          "author": "junkfood2121",
+          "category": "wind",
+          "path": "round2_data/environment/wind/204347.wav",
+          "sha256": "052f2aa3ab853f538df14b2446d9b2cbe57693a1d86556969cf77b59defb2fb8",
+          "ref_held_start_samples": [
+            38400,
+            591360
+          ],
+          "pan_fraction": 0.8396481658791997,
+          "relative_db": -1.092567046977213
+        }
+      ],
+      "ambient_level_db": -6,
+      "field_id": "eigenscape/Woodland.8.flac",
+      "measured_format": "ACN SN3D FOA, \u00b145 degree cardioids",
+      "categories": [
+        "speech",
+        "train",
+        "wind"
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -2.6995812553637784,
+          "estimated_sisdr": 1.9979092323668954,
+          "improvement": 4.697490487730674
+        },
+        {
+          "input_sisdr": -4.084788157864448,
+          "estimated_sisdr": -1.091184806614379,
+          "improvement": 2.9936033512500693
+        },
+        {
+          "input_sisdr": -5.242657330406333,
+          "estimated_sisdr": -0.5169028617816501,
+          "improvement": 4.725754468624682
+        }
+      ],
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -2.6995812553637784,
+          "estimated_sisdr": 14.29205468792999,
+          "improvement": 16.99163594329377
+        },
+        {
+          "input_sisdr": -4.084788157864448,
+          "estimated_sisdr": 3.570544827494863,
+          "improvement": 7.655332985359311
+        },
+        {
+          "input_sisdr": -5.242657330406333,
+          "estimated_sisdr": 6.181996978215655,
+          "improvement": 11.424654308621989
+        }
+      ],
+      "additive_error": 1.862645149230957e-09,
+      "ambient_baseline": {
+        "input_sisdr": -7.963030042706193,
+        "estimated_sisdr": -2.411379033302285,
+        "improvement": 5.551651009403908
+      },
+      "ambient_estimate": {
+        "input_sisdr": -7.963030042706193,
+        "estimated_sisdr": -16.400192437969675,
+        "improvement": -8.437162395263481
+      }
+    },
+    {
+      "trial": 2,
+      "source": [
+        {
+          "track": "source1",
+          "asset": "207325",
+          "author": "SoundsExciting",
+          "category": "speech",
+          "path": "round2_data/environment/speech/207325.wav",
+          "sha256": "ac5068859e61f3c7184a3dafda27b6d80b44ea20adb409e3639a7a167769e125",
+          "ref_held_start_samples": [
+            0,
+            360960
+          ],
+          "pan_fraction": 0.16934542591534343,
+          "relative_db": 1.1295356821836795
+        },
+        {
+          "track": "source2",
+          "asset": "254778",
+          "author": "GreekIrish",
+          "category": "train",
+          "path": "round2_data/environment/train/254778.flac",
+          "sha256": "13cf812595c063d089603fad5bfb5a925dd7b1d4e378ac2895c51ad3517f0dd0",
+          "ref_held_start_samples": [
+            142080,
+            199680
+          ],
+          "pan_fraction": 0.5370578902002779,
+          "relative_db": 0.16423183606382574
+        },
+        {
+          "track": "source3",
+          "asset": "204347",
+          "author": "junkfood2121",
+          "category": "wind",
+          "path": "round2_data/environment/wind/204347.wav",
+          "sha256": "052f2aa3ab853f538df14b2446d9b2cbe57693a1d86556969cf77b59defb2fb8",
+          "ref_held_start_samples": [
+            38400,
+            591360
+          ],
+          "pan_fraction": 0.8396481658791997,
+          "relative_db": -1.092567046977213
+        }
+      ],
+      "ambient_level_db": 0,
+      "field_id": "eigenscape/Woodland.8.flac",
+      "measured_format": "ACN SN3D FOA, \u00b145 degree cardioids",
+      "categories": [
+        "speech",
+        "train",
+        "wind"
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -4.81939914547098,
+          "estimated_sisdr": 2.106851316264449,
+          "improvement": 6.926250461735429
+        },
+        {
+          "input_sisdr": -6.001983465485936,
+          "estimated_sisdr": -3.5813697420457338,
+          "improvement": 2.4206137234402023
+        },
+        {
+          "input_sisdr": -7.04598299502876,
+          "estimated_sisdr": 0.36626813991296553,
+          "improvement": 7.412251134941726
+        }
+      ],
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -4.81939914547098,
+          "estimated_sisdr": 13.612223738890194,
+          "improvement": 18.431622884361175
+        },
+        {
+          "input_sisdr": -6.001983465485936,
+          "estimated_sisdr": -1.6115300409855733,
+          "improvement": 4.390453424500363
+        },
+        {
+          "input_sisdr": -7.04598299502876,
+          "estimated_sisdr": 1.6657383005451822,
+          "improvement": 8.711721295573943
+        }
+      ],
+      "additive_error": 1.862645149230957e-09,
+      "ambient_baseline": {
+        "input_sisdr": -1.9994153594739938,
+        "estimated_sisdr": 5.704635832909245,
+        "improvement": 7.704051192383239
+      },
+      "ambient_estimate": {
+        "input_sisdr": -1.9994153594739938,
+        "estimated_sisdr": -12.748100942101297,
+        "improvement": -10.748685582627303
+      }
+    },
+    {
+      "trial": 3,
+      "source": [
+        {
+          "track": "source1",
+          "asset": "217740",
+          "author": "DigiZoo",
+          "category": "speech",
+          "path": "round2_data/environment/speech/217740.wav",
+          "sha256": "6dbddadba7b8b709ec298b85ffba348456c8cd05e6cb3bdf079da4a5685b90da",
+          "ref_held_start_samples": [
+            72960,
+            714240
+          ],
+          "pan_fraction": 0.46226220942400215,
+          "relative_db": -1.0867138867290524
+        },
+        {
+          "track": "source2",
+          "asset": "322887",
+          "author": "VlatkoBlazek",
+          "category": "train",
+          "path": "round2_data/environment/train/322887.wav",
+          "sha256": "0f199003420a0b72abf80ce08c5bcef74ba95bec2ef8838b881c1b4bacde6494",
+          "ref_held_start_samples": [
+            34560,
+            261120
+          ],
+          "pan_fraction": 0.8250647758346689,
+          "relative_db": 0.6083380948430532
+        },
+        {
+          "track": "source3",
+          "asset": "231920",
+          "author": "insdali",
+          "category": "wind",
+          "path": "round2_data/environment/wind/231920.wav",
+          "sha256": "edb060ee94551a149763265b36ab2ab7b9eebe22e54525d4aec0d491d35eef7e",
+          "ref_held_start_samples": [
+            0,
+            299520
+          ],
+          "pan_fraction": 0.21160975314785,
+          "relative_db": -0.5827601344411404
+        }
+      ],
+      "ambient_level_db": null,
+      "field_id": null,
+      "measured_format": "ACN SN3D FOA, \u00b145 degree cardioids",
+      "categories": [
+        "speech",
+        "train",
+        "wind"
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -3.5986958253971895,
+          "estimated_sisdr": 3.2693329927822674,
+          "improvement": 6.868028818179457
+        },
+        {
+          "input_sisdr": -1.9827586653261842,
+          "estimated_sisdr": -3.0718671749441953,
+          "improvement": -1.089108509618011
+        },
+        {
+          "input_sisdr": -4.035264437882391,
+          "estimated_sisdr": -2.7126838549733474,
+          "improvement": 1.322580582909044
+        }
+      ],
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -3.5986958253971895,
+          "estimated_sisdr": 5.542753718971097,
+          "improvement": 9.141449544368287
+        },
+        {
+          "input_sisdr": -1.9827586653261842,
+          "estimated_sisdr": 8.86204740696183,
+          "improvement": 10.844806072288014
+        },
+        {
+          "input_sisdr": -4.035264437882391,
+          "estimated_sisdr": 5.930335249594095,
+          "improvement": 9.965599687476487
+        }
+      ],
+      "additive_error": 1.862645149230957e-09
+    },
+    {
+      "trial": 3,
+      "source": [
+        {
+          "track": "source1",
+          "asset": "217740",
+          "author": "DigiZoo",
+          "category": "speech",
+          "path": "round2_data/environment/speech/217740.wav",
+          "sha256": "6dbddadba7b8b709ec298b85ffba348456c8cd05e6cb3bdf079da4a5685b90da",
+          "ref_held_start_samples": [
+            72960,
+            714240
+          ],
+          "pan_fraction": 0.46226220942400215,
+          "relative_db": -1.0867138867290524
+        },
+        {
+          "track": "source2",
+          "asset": "322887",
+          "author": "VlatkoBlazek",
+          "category": "train",
+          "path": "round2_data/environment/train/322887.wav",
+          "sha256": "0f199003420a0b72abf80ce08c5bcef74ba95bec2ef8838b881c1b4bacde6494",
+          "ref_held_start_samples": [
+            34560,
+            261120
+          ],
+          "pan_fraction": 0.8250647758346689,
+          "relative_db": 0.6083380948430532
+        },
+        {
+          "track": "source3",
+          "asset": "231920",
+          "author": "insdali",
+          "category": "wind",
+          "path": "round2_data/environment/wind/231920.wav",
+          "sha256": "edb060ee94551a149763265b36ab2ab7b9eebe22e54525d4aec0d491d35eef7e",
+          "ref_held_start_samples": [
+            0,
+            299520
+          ],
+          "pan_fraction": 0.21160975314785,
+          "relative_db": -0.5827601344411404
+        }
+      ],
+      "ambient_level_db": -6,
+      "field_id": "eigenscape/Beach.8.flac",
+      "measured_format": "ACN SN3D FOA, \u00b145 degree cardioids",
+      "categories": [
+        "speech",
+        "train",
+        "wind"
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -4.534896802896278,
+          "estimated_sisdr": 2.25167874965325,
+          "improvement": 6.786575552549529
+        },
+        {
+          "input_sisdr": -3.137762865354547,
+          "estimated_sisdr": -3.98818547613213,
+          "improvement": -0.8504226107775827
+        },
+        {
+          "input_sisdr": -5.124426888304581,
+          "estimated_sisdr": -6.452814195550353,
+          "improvement": -1.3283873072457721
+        }
+      ],
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -4.534896802896278,
+          "estimated_sisdr": 1.5782506338897226,
+          "improvement": 6.113147436786001
+        },
+        {
+          "input_sisdr": -3.137762865354547,
+          "estimated_sisdr": 6.840521916791533,
+          "improvement": 9.97828478214608
+        },
+        {
+          "input_sisdr": -5.124426888304581,
+          "estimated_sisdr": 4.626343461047205,
+          "improvement": 9.750770349351786
+        }
+      ],
+      "additive_error": 1.862645149230957e-09,
+      "ambient_baseline": {
+        "input_sisdr": -7.8216448463186925,
+        "estimated_sisdr": -6.696994990867764,
+        "improvement": 1.1246498554509285
+      },
+      "ambient_estimate": {
+        "input_sisdr": -7.8216448463186925,
+        "estimated_sisdr": -13.436941157859664,
+        "improvement": -5.6152963115409715
+      }
+    },
+    {
+      "trial": 3,
+      "source": [
+        {
+          "track": "source1",
+          "asset": "217740",
+          "author": "DigiZoo",
+          "category": "speech",
+          "path": "round2_data/environment/speech/217740.wav",
+          "sha256": "6dbddadba7b8b709ec298b85ffba348456c8cd05e6cb3bdf079da4a5685b90da",
+          "ref_held_start_samples": [
+            72960,
+            714240
+          ],
+          "pan_fraction": 0.46226220942400215,
+          "relative_db": -1.0867138867290524
+        },
+        {
+          "track": "source2",
+          "asset": "322887",
+          "author": "VlatkoBlazek",
+          "category": "train",
+          "path": "round2_data/environment/train/322887.wav",
+          "sha256": "0f199003420a0b72abf80ce08c5bcef74ba95bec2ef8838b881c1b4bacde6494",
+          "ref_held_start_samples": [
+            34560,
+            261120
+          ],
+          "pan_fraction": 0.8250647758346689,
+          "relative_db": 0.6083380948430532
+        },
+        {
+          "track": "source3",
+          "asset": "231920",
+          "author": "insdali",
+          "category": "wind",
+          "path": "round2_data/environment/wind/231920.wav",
+          "sha256": "edb060ee94551a149763265b36ab2ab7b9eebe22e54525d4aec0d491d35eef7e",
+          "ref_held_start_samples": [
+            0,
+            299520
+          ],
+          "pan_fraction": 0.21160975314785,
+          "relative_db": -0.5827601344411404
+        }
+      ],
+      "ambient_level_db": 0,
+      "field_id": "eigenscape/Beach.8.flac",
+      "measured_format": "ACN SN3D FOA, \u00b145 degree cardioids",
+      "categories": [
+        "speech",
+        "train",
+        "wind"
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -6.619445993660635,
+          "estimated_sisdr": -1.8997134421339625,
+          "improvement": 4.719732551526673
+        },
+        {
+          "input_sisdr": -5.473906276881398,
+          "estimated_sisdr": -6.167189878850349,
+          "improvement": -0.6932836019689512
+        },
+        {
+          "input_sisdr": -7.316743938346185,
+          "estimated_sisdr": -8.599467367007504,
+          "improvement": -1.2827234286613187
+        }
+      ],
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -6.619445993660635,
+          "estimated_sisdr": -3.3197263656946276,
+          "improvement": 3.2997196279660077
+        },
+        {
+          "input_sisdr": -5.473906276881398,
+          "estimated_sisdr": 3.7442188713893545,
+          "improvement": 9.218125148270753
+        },
+        {
+          "input_sisdr": -7.316743938346185,
+          "estimated_sisdr": 1.5835805958700189,
+          "improvement": 8.900324534216205
+        }
+      ],
+      "additive_error": 1.862645149230957e-09,
+      "ambient_baseline": {
+        "input_sisdr": -1.5993065109907845,
+        "estimated_sisdr": -1.4947260773579518,
+        "improvement": 0.10458043363283265
+      },
+      "ambient_estimate": {
+        "input_sisdr": -1.5993065109907845,
+        "estimated_sisdr": -9.769690358470744,
+        "improvement": -8.17038384747996
+      }
+    },
+    {
+      "trial": 4,
+      "source": [
+        {
+          "track": "source1",
+          "asset": "252653",
+          "author": "OnlyTheGhosts",
+          "category": "speech",
+          "path": "round2_data/environment/speech/252653.wav",
+          "sha256": "65959131add8a833300a46de4a9a441331746ce306285e9430e65e277d84a3e5",
+          "ref_held_start_samples": [
+            42240,
+            284160
+          ],
+          "pan_fraction": 0.18986463491183894,
+          "relative_db": 1.8919984638939495
+        },
+        {
+          "track": "source2",
+          "asset": "35058",
+          "author": "pcaeldries",
+          "category": "train",
+          "path": "round2_data/environment/train/35058.wav",
+          "sha256": "5ac69dd7319f24203c56c4d1ceda8e945dbf67b1fad264b2d4854e7c0e5051f8",
+          "ref_held_start_samples": [
+            30720,
+            499200
+          ],
+          "pan_fraction": 0.8327215049183813,
+          "relative_db": 0.22542858083468031
+        },
+        {
+          "track": "source3",
+          "asset": "341874",
+          "author": "Baldirideltasona",
+          "category": "wind",
+          "path": "round2_data/environment/wind/341874.wav",
+          "sha256": "b883504c89ea691c3484d1aba8238c3c13aecfd37a103c5c5b2710b7ecadeaf8",
+          "ref_held_start_samples": [
+            61440,
+            234240
+          ],
+          "pan_fraction": 0.5322621191712196,
+          "relative_db": -0.8542491695412173
+        }
+      ],
+      "ambient_level_db": null,
+      "field_id": null,
+      "measured_format": "ACN SN3D FOA, \u00b145 degree cardioids",
+      "categories": [
+        "speech",
+        "train",
+        "wind"
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -0.8275502647918741,
+          "estimated_sisdr": 3.793429695842399,
+          "improvement": 4.620979960634273
+        },
+        {
+          "input_sisdr": -3.6750766540209225,
+          "estimated_sisdr": 4.219161257932084,
+          "improvement": 7.894237911953007
+        },
+        {
+          "input_sisdr": -4.9576463578522025,
+          "estimated_sisdr": 1.9466790433051027,
+          "improvement": 6.904325401157305
+        }
+      ],
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -0.8275502647918741,
+          "estimated_sisdr": 10.34410063268087,
+          "improvement": 11.171650897472745
+        },
+        {
+          "input_sisdr": -3.6750766540209225,
+          "estimated_sisdr": 10.118180993440555,
+          "improvement": 13.793257647461477
+        },
+        {
+          "input_sisdr": -4.9576463578522025,
+          "estimated_sisdr": 6.203176548159504,
+          "improvement": 11.160822906011706
+        }
+      ],
+      "additive_error": 1.862645149230957e-09
+    },
+    {
+      "trial": 4,
+      "source": [
+        {
+          "track": "source1",
+          "asset": "252653",
+          "author": "OnlyTheGhosts",
+          "category": "speech",
+          "path": "round2_data/environment/speech/252653.wav",
+          "sha256": "65959131add8a833300a46de4a9a441331746ce306285e9430e65e277d84a3e5",
+          "ref_held_start_samples": [
+            42240,
+            284160
+          ],
+          "pan_fraction": 0.18986463491183894,
+          "relative_db": 1.8919984638939495
+        },
+        {
+          "track": "source2",
+          "asset": "35058",
+          "author": "pcaeldries",
+          "category": "train",
+          "path": "round2_data/environment/train/35058.wav",
+          "sha256": "5ac69dd7319f24203c56c4d1ceda8e945dbf67b1fad264b2d4854e7c0e5051f8",
+          "ref_held_start_samples": [
+            30720,
+            499200
+          ],
+          "pan_fraction": 0.8327215049183813,
+          "relative_db": 0.22542858083468031
+        },
+        {
+          "track": "source3",
+          "asset": "341874",
+          "author": "Baldirideltasona",
+          "category": "wind",
+          "path": "round2_data/environment/wind/341874.wav",
+          "sha256": "b883504c89ea691c3484d1aba8238c3c13aecfd37a103c5c5b2710b7ecadeaf8",
+          "ref_held_start_samples": [
+            61440,
+            234240
+          ],
+          "pan_fraction": 0.5322621191712196,
+          "relative_db": -0.8542491695412173
+        }
+      ],
+      "ambient_level_db": -6,
+      "field_id": "eigenscape/Park.8.flac",
+      "measured_format": "ACN SN3D FOA, \u00b145 degree cardioids",
+      "categories": [
+        "speech",
+        "train",
+        "wind"
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -1.7789409175713924,
+          "estimated_sisdr": 3.8017965018620474,
+          "improvement": 5.58073741943344
+        },
+        {
+          "input_sisdr": -4.531153223408798,
+          "estimated_sisdr": 3.3060653782838703,
+          "improvement": 7.837218601692668
+        },
+        {
+          "input_sisdr": -5.612079604951578,
+          "estimated_sisdr": -0.097626023647845,
+          "improvement": 5.514453581303734
+        }
+      ],
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -1.7789409175713924,
+          "estimated_sisdr": 8.555338336775907,
+          "improvement": 10.3342792543473
+        },
+        {
+          "input_sisdr": -4.531153223408798,
+          "estimated_sisdr": 6.808958588783515,
+          "improvement": 11.340111812192312
+        },
+        {
+          "input_sisdr": -5.612079604951578,
+          "estimated_sisdr": 2.133816853076471,
+          "improvement": 7.745896458028049
+        }
+      ],
+      "additive_error": 1.862645149230957e-09,
+      "ambient_baseline": {
+        "input_sisdr": -7.394865102541358,
+        "estimated_sisdr": -5.9841927903458885,
+        "improvement": 1.4106723121954694
+      },
+      "ambient_estimate": {
+        "input_sisdr": -7.394865102541358,
+        "estimated_sisdr": -9.912815617978193,
+        "improvement": -2.5179505154368353
+      }
+    },
+    {
+      "trial": 4,
+      "source": [
+        {
+          "track": "source1",
+          "asset": "252653",
+          "author": "OnlyTheGhosts",
+          "category": "speech",
+          "path": "round2_data/environment/speech/252653.wav",
+          "sha256": "65959131add8a833300a46de4a9a441331746ce306285e9430e65e277d84a3e5",
+          "ref_held_start_samples": [
+            42240,
+            284160
+          ],
+          "pan_fraction": 0.18986463491183894,
+          "relative_db": 1.8919984638939495
+        },
+        {
+          "track": "source2",
+          "asset": "35058",
+          "author": "pcaeldries",
+          "category": "train",
+          "path": "round2_data/environment/train/35058.wav",
+          "sha256": "5ac69dd7319f24203c56c4d1ceda8e945dbf67b1fad264b2d4854e7c0e5051f8",
+          "ref_held_start_samples": [
+            30720,
+            499200
+          ],
+          "pan_fraction": 0.8327215049183813,
+          "relative_db": 0.22542858083468031
+        },
+        {
+          "track": "source3",
+          "asset": "341874",
+          "author": "Baldirideltasona",
+          "category": "wind",
+          "path": "round2_data/environment/wind/341874.wav",
+          "sha256": "b883504c89ea691c3484d1aba8238c3c13aecfd37a103c5c5b2710b7ecadeaf8",
+          "ref_held_start_samples": [
+            61440,
+            234240
+          ],
+          "pan_fraction": 0.5322621191712196,
+          "relative_db": -0.8542491695412173
+        }
+      ],
+      "ambient_level_db": 0,
+      "field_id": "eigenscape/Park.8.flac",
+      "measured_format": "ACN SN3D FOA, \u00b145 degree cardioids",
+      "categories": [
+        "speech",
+        "train",
+        "wind"
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -3.7213128253039773,
+          "estimated_sisdr": 3.7346927999518122,
+          "improvement": 7.45600562525579
+        },
+        {
+          "input_sisdr": -6.25336046660562,
+          "estimated_sisdr": 2.3213957419654845,
+          "improvement": 8.574756208571104
+        },
+        {
+          "input_sisdr": -7.124376934635125,
+          "estimated_sisdr": -3.4252298592623767,
+          "improvement": 3.699147075372748
+        }
+      ],
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -3.7213128253039773,
+          "estimated_sisdr": 2.629630567019653,
+          "improvement": 6.3509433923236305
+        },
+        {
+          "input_sisdr": -6.25336046660562,
+          "estimated_sisdr": 4.692339296345558,
+          "improvement": 10.945699762951179
+        },
+        {
+          "input_sisdr": -7.124376934635125,
+          "estimated_sisdr": -0.30415564409080154,
+          "improvement": 6.820221290544323
+        }
+      ],
+      "additive_error": 1.862645149230957e-09,
+      "ambient_baseline": {
+        "input_sisdr": -1.9074846357876873,
+        "estimated_sisdr": -4.251981041579961,
+        "improvement": -2.344496405792273
+      },
+      "ambient_estimate": {
+        "input_sisdr": -1.9074846357876873,
+        "estimated_sisdr": -8.816580086302054,
+        "improvement": -6.909095450514366
+      }
+    },
+    {
+      "trial": 5,
+      "source": [
+        {
+          "track": "source1",
+          "asset": "327139",
+          "author": "xserra",
+          "category": "speech",
+          "path": "round2_data/environment/speech/327139.wav",
+          "sha256": "9d3f918a711e246e53603a3a971a5d9072c0fc36e1c63e6f5ae9d1e9c20c7c82",
+          "ref_held_start_samples": [
+            7680,
+            138910
+          ],
+          "pan_fraction": 0.7982877270873389,
+          "relative_db": -0.3460306948550138
+        },
+        {
+          "track": "source2",
+          "asset": "352631",
+          "author": "macdaddyno1",
+          "category": "train",
+          "path": "round2_data/environment/train/352631.wav",
+          "sha256": "06f981e410617064f73c00f517ba78ab0f73d6b6a928671b569d509129bc3bd0",
+          "ref_held_start_samples": [
+            103680,
+            537600
+          ],
+          "pan_fraction": 0.5185194235231091,
+          "relative_db": -0.9507395735720161
+        },
+        {
+          "track": "source3",
+          "asset": "395684",
+          "author": "columbia23",
+          "category": "wind",
+          "path": "round2_data/environment/wind/395684.wav",
+          "sha256": "4332c59f38de93f3b4ee613da9be01b3153d464343c88f61167a3ff6e07cd090",
+          "ref_held_start_samples": [
+            134400,
+            330240
+          ],
+          "pan_fraction": 0.19625514677463188,
+          "relative_db": 0.29354926874227383
+        }
+      ],
+      "ambient_level_db": null,
+      "field_id": null,
+      "measured_format": "ACN SN3D FOA, \u00b145 degree cardioids",
+      "categories": [
+        "speech",
+        "train",
+        "wind"
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -2.8205389098155114,
+          "estimated_sisdr": 0.76705882006314,
+          "improvement": 3.5875977298786514
+        },
+        {
+          "input_sisdr": -3.919451215678808,
+          "estimated_sisdr": 2.3946338665217026,
+          "improvement": 6.314085082200511
+        },
+        {
+          "input_sisdr": -2.0039252910909826,
+          "estimated_sisdr": -0.4913654556986281,
+          "improvement": 1.5125598353923544
+        }
+      ],
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -2.8205389098155114,
+          "estimated_sisdr": 7.380199243814465,
+          "improvement": 10.200738153629976
+        },
+        {
+          "input_sisdr": -3.919451215678808,
+          "estimated_sisdr": 2.6035159214900148,
+          "improvement": 6.522967137168823
+        },
+        {
+          "input_sisdr": -2.0039252910909826,
+          "estimated_sisdr": 5.972247714937822,
+          "improvement": 7.976173006028805
+        }
+      ],
+      "additive_error": 1.862645149230957e-09
+    },
+    {
+      "trial": 5,
+      "source": [
+        {
+          "track": "source1",
+          "asset": "327139",
+          "author": "xserra",
+          "category": "speech",
+          "path": "round2_data/environment/speech/327139.wav",
+          "sha256": "9d3f918a711e246e53603a3a971a5d9072c0fc36e1c63e6f5ae9d1e9c20c7c82",
+          "ref_held_start_samples": [
+            7680,
+            138910
+          ],
+          "pan_fraction": 0.7982877270873389,
+          "relative_db": -0.3460306948550138
+        },
+        {
+          "track": "source2",
+          "asset": "352631",
+          "author": "macdaddyno1",
+          "category": "train",
+          "path": "round2_data/environment/train/352631.wav",
+          "sha256": "06f981e410617064f73c00f517ba78ab0f73d6b6a928671b569d509129bc3bd0",
+          "ref_held_start_samples": [
+            103680,
+            537600
+          ],
+          "pan_fraction": 0.5185194235231091,
+          "relative_db": -0.9507395735720161
+        },
+        {
+          "track": "source3",
+          "asset": "395684",
+          "author": "columbia23",
+          "category": "wind",
+          "path": "round2_data/environment/wind/395684.wav",
+          "sha256": "4332c59f38de93f3b4ee613da9be01b3153d464343c88f61167a3ff6e07cd090",
+          "ref_held_start_samples": [
+            134400,
+            330240
+          ],
+          "pan_fraction": 0.19625514677463188,
+          "relative_db": 0.29354926874227383
+        }
+      ],
+      "ambient_level_db": -6,
+      "field_id": "eigenscape/ShoppingCentre.8.flac",
+      "measured_format": "ACN SN3D FOA, \u00b145 degree cardioids",
+      "categories": [
+        "speech",
+        "train",
+        "wind"
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -3.6284146988674064,
+          "estimated_sisdr": -0.08951305641573723,
+          "improvement": 3.5389016424516693
+        },
+        {
+          "input_sisdr": -4.83379308383406,
+          "estimated_sisdr": 1.844462308677139,
+          "improvement": 6.678255392511199
+        },
+        {
+          "input_sisdr": -3.1981585444098535,
+          "estimated_sisdr": -2.0808285403300606,
+          "improvement": 1.1173300040797929
+        }
+      ],
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -3.6284146988674064,
+          "estimated_sisdr": 5.334429643316177,
+          "improvement": 8.962844342183583
+        },
+        {
+          "input_sisdr": -4.83379308383406,
+          "estimated_sisdr": 0.11141150324296539,
+          "improvement": 4.945204587077025
+        },
+        {
+          "input_sisdr": -3.1981585444098535,
+          "estimated_sisdr": 3.2392574483928183,
+          "improvement": 6.437415992802672
+        }
+      ],
+      "additive_error": 1.862645149230957e-09,
+      "ambient_baseline": {
+        "input_sisdr": -7.623512162874995,
+        "estimated_sisdr": -5.746969370992484,
+        "improvement": 1.8765427918825113
+      },
+      "ambient_estimate": {
+        "input_sisdr": -7.623512162874995,
+        "estimated_sisdr": -10.895135286260832,
+        "improvement": -3.2716231233858366
+      }
+    },
+    {
+      "trial": 5,
+      "source": [
+        {
+          "track": "source1",
+          "asset": "327139",
+          "author": "xserra",
+          "category": "speech",
+          "path": "round2_data/environment/speech/327139.wav",
+          "sha256": "9d3f918a711e246e53603a3a971a5d9072c0fc36e1c63e6f5ae9d1e9c20c7c82",
+          "ref_held_start_samples": [
+            7680,
+            138910
+          ],
+          "pan_fraction": 0.7982877270873389,
+          "relative_db": -0.3460306948550138
+        },
+        {
+          "track": "source2",
+          "asset": "352631",
+          "author": "macdaddyno1",
+          "category": "train",
+          "path": "round2_data/environment/train/352631.wav",
+          "sha256": "06f981e410617064f73c00f517ba78ab0f73d6b6a928671b569d509129bc3bd0",
+          "ref_held_start_samples": [
+            103680,
+            537600
+          ],
+          "pan_fraction": 0.5185194235231091,
+          "relative_db": -0.9507395735720161
+        },
+        {
+          "track": "source3",
+          "asset": "395684",
+          "author": "columbia23",
+          "category": "wind",
+          "path": "round2_data/environment/wind/395684.wav",
+          "sha256": "4332c59f38de93f3b4ee613da9be01b3153d464343c88f61167a3ff6e07cd090",
+          "ref_held_start_samples": [
+            134400,
+            330240
+          ],
+          "pan_fraction": 0.19625514677463188,
+          "relative_db": 0.29354926874227383
+        }
+      ],
+      "ambient_level_db": 0,
+      "field_id": "eigenscape/ShoppingCentre.8.flac",
+      "measured_format": "ACN SN3D FOA, \u00b145 degree cardioids",
+      "categories": [
+        "speech",
+        "train",
+        "wind"
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -5.529230591847023,
+          "estimated_sisdr": -1.9064289779181642,
+          "improvement": 3.622801613928859
+        },
+        {
+          "input_sisdr": -6.765373757792512,
+          "estimated_sisdr": -0.8555685564286213,
+          "improvement": 5.90980520136389
+        },
+        {
+          "input_sisdr": -5.432974683373434,
+          "estimated_sisdr": -5.648987264317473,
+          "improvement": -0.21601258094403875
+        }
+      ],
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -5.529230591847023,
+          "estimated_sisdr": 2.294309939528856,
+          "improvement": 7.82354053137588
+        },
+        {
+          "input_sisdr": -6.765373757792512,
+          "estimated_sisdr": -3.8337546653524033,
+          "improvement": 2.9316190924401084
+        },
+        {
+          "input_sisdr": -5.432974683373434,
+          "estimated_sisdr": -0.6140835907005711,
+          "improvement": 4.818891092672863
+        }
+      ],
+      "additive_error": 2.7939677238464355e-09,
+      "ambient_baseline": {
+        "input_sisdr": -1.7011817410426535,
+        "estimated_sisdr": -0.5723704426744528,
+        "improvement": 1.1288112983682006
+      },
+      "ambient_estimate": {
+        "input_sisdr": -1.7011817410426535,
+        "estimated_sisdr": -7.3694351936799505,
+        "improvement": -5.6682534526372965
+      }
+    },
+    {
+      "trial": 6,
+      "source": [
+        {
+          "track": "source1",
+          "asset": "33474",
+          "author": "hello_flowers",
+          "category": "speech",
+          "path": "round2_data/environment/speech/33474.wav",
+          "sha256": "8de8518f61261c77e9415388522cf9d2172f8ec1f67396273df71d4e8d6bb1d1",
+          "ref_held_start_samples": [
+            103680,
+            710400
+          ],
+          "pan_fraction": 0.5173840061386493,
+          "relative_db": 1.6998588731396294
+        },
+        {
+          "track": "source2",
+          "asset": "381702",
+          "author": "bengomori",
+          "category": "train",
+          "path": "round2_data/environment/train/381702.flac",
+          "sha256": "ee51272f4072fdb9c452cf543a352c4cea730db81a849c64379e6531ef5dd783",
+          "ref_held_start_samples": [
+            142080,
+            291840
+          ],
+          "pan_fraction": 0.8299892500987384,
+          "relative_db": -0.5845110613670297
+        },
+        {
+          "track": "source3",
+          "asset": "382591",
+          "author": "macdaddyno1",
+          "category": "wind",
+          "path": "round2_data/environment/wind/382591.flac",
+          "sha256": "68369cf1135bd958f2bf1155f08ce6eeeb208f2676e0c28cd0bbacb11e7237bc",
+          "ref_held_start_samples": [
+            72960,
+            622080
+          ],
+          "pan_fraction": 0.23383923724998548,
+          "relative_db": -0.2114298282976037
+        }
+      ],
+      "ambient_level_db": null,
+      "field_id": null,
+      "measured_format": "ACN SN3D FOA, \u00b145 degree cardioids",
+      "categories": [
+        "speech",
+        "train",
+        "wind"
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -0.620549292883946,
+          "estimated_sisdr": 2.344342606724145,
+          "improvement": 2.964891899608091
+        },
+        {
+          "input_sisdr": -4.035687142727089,
+          "estimated_sisdr": -6.406628547689344,
+          "improvement": -2.370941404962255
+        },
+        {
+          "input_sisdr": -4.220291511002742,
+          "estimated_sisdr": 3.927834065216214,
+          "improvement": 8.148125576218956
+        }
+      ],
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -0.620549292883946,
+          "estimated_sisdr": 7.286302302778111,
+          "improvement": 7.906851595662057
+        },
+        {
+          "input_sisdr": -4.035687142727089,
+          "estimated_sisdr": 6.649130171044705,
+          "improvement": 10.684817313771795
+        },
+        {
+          "input_sisdr": -4.220291511002742,
+          "estimated_sisdr": 10.74530475845074,
+          "improvement": 14.965596269453481
+        }
+      ],
+      "additive_error": 1.862645149230957e-09
+    },
+    {
+      "trial": 6,
+      "source": [
+        {
+          "track": "source1",
+          "asset": "33474",
+          "author": "hello_flowers",
+          "category": "speech",
+          "path": "round2_data/environment/speech/33474.wav",
+          "sha256": "8de8518f61261c77e9415388522cf9d2172f8ec1f67396273df71d4e8d6bb1d1",
+          "ref_held_start_samples": [
+            103680,
+            710400
+          ],
+          "pan_fraction": 0.5173840061386493,
+          "relative_db": 1.6998588731396294
+        },
+        {
+          "track": "source2",
+          "asset": "381702",
+          "author": "bengomori",
+          "category": "train",
+          "path": "round2_data/environment/train/381702.flac",
+          "sha256": "ee51272f4072fdb9c452cf543a352c4cea730db81a849c64379e6531ef5dd783",
+          "ref_held_start_samples": [
+            142080,
+            291840
+          ],
+          "pan_fraction": 0.8299892500987384,
+          "relative_db": -0.5845110613670297
+        },
+        {
+          "track": "source3",
+          "asset": "382591",
+          "author": "macdaddyno1",
+          "category": "wind",
+          "path": "round2_data/environment/wind/382591.flac",
+          "sha256": "68369cf1135bd958f2bf1155f08ce6eeeb208f2676e0c28cd0bbacb11e7237bc",
+          "ref_held_start_samples": [
+            72960,
+            622080
+          ],
+          "pan_fraction": 0.23383923724998548,
+          "relative_db": -0.2114298282976037
+        }
+      ],
+      "ambient_level_db": -6,
+      "field_id": "eigenscape/BusyStreet.8.flac",
+      "measured_format": "ACN SN3D FOA, \u00b145 degree cardioids",
+      "categories": [
+        "speech",
+        "train",
+        "wind"
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -1.6142387281836608,
+          "estimated_sisdr": 1.4086404448174092,
+          "improvement": 3.02287917300107
+        },
+        {
+          "input_sisdr": -4.774693853203656,
+          "estimated_sisdr": -6.760016321684414,
+          "improvement": -1.9853224684807573
+        },
+        {
+          "input_sisdr": -5.1103762009759715,
+          "estimated_sisdr": 2.095224207362409,
+          "improvement": 7.2056004083383804
+        }
+      ],
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -1.6142387281836608,
+          "estimated_sisdr": 3.3513972830610883,
+          "improvement": 4.965636011244749
+        },
+        {
+          "input_sisdr": -4.774693853203656,
+          "estimated_sisdr": 6.0605481877860115,
+          "improvement": 10.835242040989668
+        },
+        {
+          "input_sisdr": -5.1103762009759715,
+          "estimated_sisdr": 8.422646733393936,
+          "improvement": 13.533022934369907
+        }
+      ],
+      "additive_error": 1.862645149230957e-09,
+      "ambient_baseline": {
+        "input_sisdr": -7.346726926303374,
+        "estimated_sisdr": -7.561419406439626,
+        "improvement": -0.21469248013625197
+      },
+      "ambient_estimate": {
+        "input_sisdr": -7.346726926303374,
+        "estimated_sisdr": -12.055439200037025,
+        "improvement": -4.708712273733651
+      }
+    },
+    {
+      "trial": 6,
+      "source": [
+        {
+          "track": "source1",
+          "asset": "33474",
+          "author": "hello_flowers",
+          "category": "speech",
+          "path": "round2_data/environment/speech/33474.wav",
+          "sha256": "8de8518f61261c77e9415388522cf9d2172f8ec1f67396273df71d4e8d6bb1d1",
+          "ref_held_start_samples": [
+            103680,
+            710400
+          ],
+          "pan_fraction": 0.5173840061386493,
+          "relative_db": 1.6998588731396294
+        },
+        {
+          "track": "source2",
+          "asset": "381702",
+          "author": "bengomori",
+          "category": "train",
+          "path": "round2_data/environment/train/381702.flac",
+          "sha256": "ee51272f4072fdb9c452cf543a352c4cea730db81a849c64379e6531ef5dd783",
+          "ref_held_start_samples": [
+            142080,
+            291840
+          ],
+          "pan_fraction": 0.8299892500987384,
+          "relative_db": -0.5845110613670297
+        },
+        {
+          "track": "source3",
+          "asset": "382591",
+          "author": "macdaddyno1",
+          "category": "wind",
+          "path": "round2_data/environment/wind/382591.flac",
+          "sha256": "68369cf1135bd958f2bf1155f08ce6eeeb208f2676e0c28cd0bbacb11e7237bc",
+          "ref_held_start_samples": [
+            72960,
+            622080
+          ],
+          "pan_fraction": 0.23383923724998548,
+          "relative_db": -0.2114298282976037
+        }
+      ],
+      "ambient_level_db": 0,
+      "field_id": "eigenscape/BusyStreet.8.flac",
+      "measured_format": "ACN SN3D FOA, \u00b145 degree cardioids",
+      "categories": [
+        "speech",
+        "train",
+        "wind"
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -3.6414048568659494,
+          "estimated_sisdr": -0.4298785035033245,
+          "improvement": 3.211526353362625
+        },
+        {
+          "input_sisdr": -6.42464267284668,
+          "estimated_sisdr": -9.515824463020717,
+          "improvement": -3.091181790174037
+        },
+        {
+          "input_sisdr": -6.876343464198884,
+          "estimated_sisdr": -1.439306039786827,
+          "improvement": 5.437037424412058
+        }
+      ],
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -3.6414048568659494,
+          "estimated_sisdr": -0.9231836512152498,
+          "improvement": 2.7182212056507
+        },
+        {
+          "input_sisdr": -6.42464267284668,
+          "estimated_sisdr": 3.273367070110991,
+          "improvement": 9.698009742957671
+        },
+        {
+          "input_sisdr": -6.876343464198884,
+          "estimated_sisdr": 5.060195411037419,
+          "improvement": 11.936538875236304
+        }
+      ],
+      "additive_error": 1.862645149230957e-09,
+      "ambient_baseline": {
+        "input_sisdr": -1.7912423179285784,
+        "estimated_sisdr": -2.680449557376809,
+        "improvement": -0.8892072394482307
+      },
+      "ambient_estimate": {
+        "input_sisdr": -1.7912423179285784,
+        "estimated_sisdr": -10.607065977753285,
+        "improvement": -8.815823659824707
+      }
+    }
+  ],
+  "levels": {
+    "None": {
+      "baseline": {
+        "n": 6,
+        "scene_pass": 2,
+        "track_pass": 12,
+        "mean_worst": 0.8827840790082561,
+        "median": 4.1042888452564625,
+        "worst": -2.370941404962255,
+        "mean": 4.485442447511189
+      },
+      "estimate": {
+        "n": 6,
+        "scene_pass": 6,
+        "track_pass": 18,
+        "mean_worst": 10.703942191535226,
+        "median": 11.166236901742225,
+        "worst": 6.522967137168823,
+        "mean": 12.312415885953937
+      }
+    },
+    "-6": {
+      "baseline": {
+        "n": 6,
+        "scene_pass": 1,
+        "track_pass": 12,
+        "mean_worst": 1.1186833323065748,
+        "median": 4.711622478177678,
+        "worst": -1.9853224684807573,
+        "mean": 4.475285617790282
+      },
+      "estimate": {
+        "n": 6,
+        "scene_pass": 6,
+        "track_pass": 18,
+        "mean_worst": 6.7256939095011425,
+        "median": 9.864527565748933,
+        "worst": 4.945204587077025,
+        "mean": 10.11187308496131
+      },
+      "ambient_median_sisdri_baseline": 1.6436075520389903,
+      "ambient_median_sisdri_estimate": -3.990167698559744
+    },
+    "0": {
+      "baseline": {
+        "n": 6,
+        "scene_pass": 1,
+        "track_pass": 12,
+        "mean_worst": 0.14860536531534482,
+        "median": 4.209439813449711,
+        "worst": -3.091181790174037,
+        "mean": 4.484640063189026
+      },
+      "estimate": {
+        "n": 6,
+        "scene_pass": 4,
+        "track_pass": 16,
+        "mean_worst": 3.914940863571365,
+        "median": 8.26763091347491,
+        "worst": 2.7182212056507,
+        "mean": 8.493247585504104
+      },
+      "ambient_median_sisdri_baseline": 0.6166958660005166,
+      "ambient_median_sisdri_estimate": -8.493103753652333
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "repo": "Xenova/ast-finetuned-audioset-10-10-0.4593",
+  "commit": "249a1fbf0286b40e7f1ed687a8ae396997bf7dc6",
+  "transform": "Quantized ONNX export of frozen model",
+  "source": "https://huggingface.co/Xenova/ast-finetuned-audioset-10-10-0.4593/resolve/249a1fbf0286b40e7f1ed687a8ae396997bf7dc6/onnx/model_quantized.onnx"
+}

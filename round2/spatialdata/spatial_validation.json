@@ -1,0 +1,1204 @@
+{
+  "summary": {
+    "satp_binaural_captures": 27,
+    "satp_seconds": 810.0389375,
+    "satp_calibration_signals": 1,
+    "aachen_verified_interleaved_pairs": 112,
+    "aachen_binaural_head_pairs": 95,
+    "aachen_headless_pairs": 17,
+    "aachen_unpaired_phone_mono_members": 120,
+    "apl_foa_room_responses": 13,
+    "apl_brir_sofa": [
+      {
+        "file": "apl/C1m.sofa",
+        "bytes": 163170474,
+        "sha256": "6dbbb0fa2fceb35d238f1414de4da81200852bd84710da33544c6a1a9f0f2233",
+        "split": "external-room-reserve",
+        "venue": "St Paul\u2019s concert hall, Huddersfield",
+        "member": "360-BRIR-FOAIR-database/Binaural/SOFA/C1m.sofa",
+        "format": "SOFA KU100 BRIR",
+        "sr": 48000,
+        "shape": [
+          100,
+          2,
+          240000
+        ],
+        "sofa_convention": "SimpleFreeFieldHRIR",
+        "data_delay_shape": [
+          1,
+          2
+        ]
+      }
+    ],
+    "binaurec_unique_ids": 36,
+    "binaurec_recorded_programme_seconds": 332.7703125,
+    "binaurec_paired_signals": 108,
+    "audited_local_files": 262,
+    "audited_file_bytes": 568657022
+  },
+  "apl": [
+    {
+      "file": "apl/C1m.wav",
+      "bytes": 3840736,
+      "sha256": "c05e9022e9a3ed5ee2f790f82d4b59d24b54e52d68595ef9bb7f37aea2f175ad",
+      "split": "external-room-reserve",
+      "venue": "St Paul\u2019s concert hall, Huddersfield",
+      "member": "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/C1m.wav",
+      "format": "AmbiX FOA (ACN/SN3D)",
+      "sr": 48000,
+      "channels": 4,
+      "duration": 5.0,
+      "codec": "pcm_f32le"
+    },
+    {
+      "file": "apl/C2m.wav",
+      "bytes": 3840736,
+      "sha256": "59a843477f1d798430a7127785ca23731e7740f5dc14d09aa7136cdd93b8e870",
+      "split": "external-room-reserve",
+      "venue": "St Paul\u2019s concert hall, Huddersfield",
+      "member": "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/C2m.wav",
+      "format": "AmbiX FOA (ACN/SN3D)",
+      "sr": 48000,
+      "channels": 4,
+      "duration": 5.0,
+      "codec": "pcm_f32le"
+    },
+    {
+      "file": "apl/C4m.wav",
+      "bytes": 3840736,
+      "sha256": "0651af5cfa3517392208a2bf7a686e8a2d6f3beff301406baa081a9ce64e981c",
+      "split": "external-room-reserve",
+      "venue": "St Paul\u2019s concert hall, Huddersfield",
+      "member": "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/C4m.wav",
+      "format": "AmbiX FOA (ACN/SN3D)",
+      "sr": 48000,
+      "channels": 4,
+      "duration": 5.0,
+      "codec": "pcm_f32le"
+    },
+    {
+      "file": "apl/C6m.wav",
+      "bytes": 3840736,
+      "sha256": "e61c6410281ab81699908e50474187960f99e76385062d41f1642c859374f7c9",
+      "split": "external-room-reserve",
+      "venue": "St Paul\u2019s concert hall, Huddersfield",
+      "member": "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/C6m.wav",
+      "format": "AmbiX FOA (ACN/SN3D)",
+      "sr": 48000,
+      "channels": 4,
+      "duration": 5.0,
+      "codec": "pcm_f32le"
+    },
+    {
+      "file": "apl/C8m.wav",
+      "bytes": 3840736,
+      "sha256": "824d2ddf643bd544c263185c159968151c028e7c7305edade60f226835c133a9",
+      "split": "external-room-reserve",
+      "venue": "St Paul\u2019s concert hall, Huddersfield",
+      "member": "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/C8m.wav",
+      "format": "AmbiX FOA (ACN/SN3D)",
+      "sr": 48000,
+      "channels": 4,
+      "duration": 5.0,
+      "codec": "pcm_f32le"
+    },
+    {
+      "file": "apl/L2m.wav",
+      "bytes": 3840736,
+      "sha256": "fc0ca3b3db7eb195cf8d3d6f1b3194e66f972c6f0dab08e8051a17aa2983ba22",
+      "split": "external-room-reserve",
+      "venue": "St Paul\u2019s concert hall, Huddersfield",
+      "member": "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/L2m.wav",
+      "format": "AmbiX FOA (ACN/SN3D)",
+      "sr": 48000,
+      "channels": 4,
+      "duration": 5.0,
+      "codec": "pcm_f32le"
+    },
+    {
+      "file": "apl/L4m.wav",
+      "bytes": 3840736,
+      "sha256": "6777b5d9f81b9010668e32f6b5aaea4ceceed63d7a260f999b2ffe1c40c72f06",
+      "split": "external-room-reserve",
+      "venue": "St Paul\u2019s concert hall, Huddersfield",
+      "member": "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/L4m.wav",
+      "format": "AmbiX FOA (ACN/SN3D)",
+      "sr": 48000,
+      "channels": 4,
+      "duration": 5.0,
+      "codec": "pcm_f32le"
+    },
+    {
+      "file": "apl/L6m.wav",
+      "bytes": 3840736,
+      "sha256": "1e41e5d02a1283a5d7658784520f72805edb3cc9d15495ae45a14ffe966ff740",
+      "split": "external-room-reserve",
+      "venue": "St Paul\u2019s concert hall, Huddersfield",
+      "member": "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/L6m.wav",
+      "format": "AmbiX FOA (ACN/SN3D)",
+      "sr": 48000,
+      "channels": 4,
+      "duration": 5.0,
+      "codec": "pcm_f32le"
+    },
+    {
+      "file": "apl/L8m.wav",
+      "bytes": 3840736,
+      "sha256": "ac4aa3bed731dea5ea5cf7bf5e20b0875776fe20f10f452936a30a43d0d179dc",
+      "split": "external-room-reserve",
+      "venue": "St Paul\u2019s concert hall, Huddersfield",
+      "member": "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/L8m.wav",
+      "format": "AmbiX FOA (ACN/SN3D)",
+      "sr": 48000,
+      "channels": 4,
+      "duration": 5.0,
+      "codec": "pcm_f32le"
+    },
+    {
+      "file": "apl/LW2m.wav",
+      "bytes": 3840736,
+      "sha256": "04cefd0c98729e60dc04fdb159573abb90d142272a7739957610c26ee470654b",
+      "split": "external-room-reserve",
+      "venue": "St Paul\u2019s concert hall, Huddersfield",
+      "member": "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/LW2m.wav",
+      "format": "AmbiX FOA (ACN/SN3D)",
+      "sr": 48000,
+      "channels": 4,
+      "duration": 5.0,
+      "codec": "pcm_f32le"
+    },
+    {
+      "file": "apl/LW4m.wav",
+      "bytes": 3840736,
+      "sha256": "40830782cbc1c553fda5c46570d242e4d15818b5e5c7ed7b3b7b620d128af5cb",
+      "split": "external-room-reserve",
+      "venue": "St Paul\u2019s concert hall, Huddersfield",
+      "member": "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/LW4m.wav",
+      "format": "AmbiX FOA (ACN/SN3D)",
+      "sr": 48000,
+      "channels": 4,
+      "duration": 5.0,
+      "codec": "pcm_f32le"
+    },
+    {
+      "file": "apl/LW6m.wav",
+      "bytes": 3840736,
+      "sha256": "1b95cc631c5fd08fe50ed71b4387a6a578c4f7da0d7352cc8d78dc5edbb92f6d",
+      "split": "external-room-reserve",
+      "venue": "St Paul\u2019s concert hall, Huddersfield",
+      "member": "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/LW6m.wav",
+      "format": "AmbiX FOA (ACN/SN3D)",
+      "sr": 48000,
+      "channels": 4,
+      "duration": 5.0,
+      "codec": "pcm_f32le"
+    },
+    {
+      "file": "apl/LW8m.wav",
+      "bytes": 3840736,
+      "sha256": "c859cd5f42047ac2d7e3beb7a627718355f436fa84bd2b28c6184aa31fb38d15",
+      "split": "external-room-reserve",
+      "venue": "St Paul\u2019s concert hall, Huddersfield",
+      "member": "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/LW8m.wav",
+      "format": "AmbiX FOA (ACN/SN3D)",
+      "sr": 48000,
+      "channels": 4,
+      "duration": 5.0,
+      "codec": "pcm_f32le"
+    },
+    {
+      "file": "apl/C1m.sofa",
+      "bytes": 163170474,
+      "sha256": "6dbbb0fa2fceb35d238f1414de4da81200852bd84710da33544c6a1a9f0f2233",
+      "split": "external-room-reserve",
+      "venue": "St Paul\u2019s concert hall, Huddersfield",
+      "member": "360-BRIR-FOAIR-database/Binaural/SOFA/C1m.sofa",
+      "format": "SOFA KU100 BRIR",
+      "sr": 48000,
+      "shape": [
+        100,
+        2,
+        240000
+      ],
+      "sofa_convention": "SimpleFreeFieldHRIR",
+      "data_delay_shape": [
+        1,
+        2
+      ]
+    }
+  ],
+  "binaurec": [
+    {
+      "scene": "scenarioA_snr-5_11100",
+      "utterance_id": "11100",
+      "paths": {
+        "target": {
+          "sha256": "546d2182f38284d7a2cdcad26a576cb929aa49be323ac7bf7bc71c4ae291a196",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 130409,
+          "file": "binaurec/scenarioA_snr-5_11100/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "c6f0fd4995040f15b9977f9e4d12c3ed74d934785614fbcc7da88049bc995e03",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 130409,
+          "file": "binaurec/scenarioA_snr-5_11100/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "6714bfb4e51f7f91739f9b611cc433987d753516422a668ce96963733186eb71",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 130409,
+          "file": "binaurec/scenarioA_snr-5_11100/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioA_snr-5_11101",
+      "utterance_id": "11101",
+      "paths": {
+        "target": {
+          "sha256": "c8d26bb65ba2dc469d623ecc901797a39c52ce5af2dfb4213df0bdda203462c3",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 130169,
+          "file": "binaurec/scenarioA_snr-5_11101/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "4ae90ef3aa6f1ba27b2fbc1b0e41f44c532f0861b47f72dbe4fe6af577747199",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 130169,
+          "file": "binaurec/scenarioA_snr-5_11101/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "cd1a62bca5493c5ccfe713d30f1946f533b51e68ead5002586cd659e646cd7fe",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 130169,
+          "file": "binaurec/scenarioA_snr-5_11101/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioA_snr0_11500",
+      "utterance_id": "11500",
+      "paths": {
+        "target": {
+          "sha256": "7c898c6159b760c24cfabe0afdd37068798ff3b2947bd6905fbf6c40259bb72b",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 106169,
+          "file": "binaurec/scenarioA_snr0_11500/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "b21bac022c25786959774ab4c563ef1c6f8831e7271fa124566b7d8c55601d7a",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 106169,
+          "file": "binaurec/scenarioA_snr0_11500/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "e8054e013a350c597fc205b4d7350276b8a99a9fe4d7325ae0e7b1b47ddefc19",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 106169,
+          "file": "binaurec/scenarioA_snr0_11500/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioA_snr0_11501",
+      "utterance_id": "11501",
+      "paths": {
+        "target": {
+          "sha256": "00bccc10e8b9a2d3fbdaaf2625b0baf822c1c65e59b86c90e868709bf4554f2f",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 150089,
+          "file": "binaurec/scenarioA_snr0_11501/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "9c6c704cf34d55dac929cd29179fee0891571fb0238b9955efbd615f5dfe3509",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 150089,
+          "file": "binaurec/scenarioA_snr0_11501/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "c5f1a60ae09a07479bf368a622bd1af8f4b11a5d94632e768fdfc143d33b1c6b",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 150089,
+          "file": "binaurec/scenarioA_snr0_11501/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioA_snr5_11300",
+      "utterance_id": "11300",
+      "paths": {
+        "target": {
+          "sha256": "3821c545ca51880d8f5468f93e5fb7a21aa985a4f3d11a0315e434bee7bd0b13",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 112089,
+          "file": "binaurec/scenarioA_snr5_11300/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "8d7ae6aa20063067355567cafefc518676e6ec952aa72d325eb7d98ae5b4fefd",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 112089,
+          "file": "binaurec/scenarioA_snr5_11300/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "9ce65cb6ed70933dc83c40b1c3c7909fb64e19eadcc25b7fe8eb0e849b215867",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 112089,
+          "file": "binaurec/scenarioA_snr5_11300/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioA_snr5_11301",
+      "utterance_id": "11301",
+      "paths": {
+        "target": {
+          "sha256": "bfbb28b7172268723b21eb128f508d7ab5c9b3bbdcd8b048ff0f45b8accef780",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioA_snr5_11301/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "29c39e61bc1d196c6632e7244b8f3be6ebe0a9b5bf0f7117ff7295cdb6c17082",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioA_snr5_11301/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "62f89d4eaeb7806bcb4c8d3c9c19cb8781efe945082eca32d950d18c423cbbf9",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioA_snr5_11301/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioB_snr-5_11200",
+      "utterance_id": "11200",
+      "paths": {
+        "target": {
+          "sha256": "60d0a6ed5747e6381a4ca02e4642a8e320376ab0fcce99416d631b6b83879938",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 119689,
+          "file": "binaurec/scenarioB_snr-5_11200/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "a675f22df330743ee6c8202aae0e44e0d0b73473cdc4247477bc975b8e147a99",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 119689,
+          "file": "binaurec/scenarioB_snr-5_11200/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "dc0feb7577fa7c6e0565dd0759b1ade4b0f5e732c2356cf416d5248f0669ef4c",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 119689,
+          "file": "binaurec/scenarioB_snr-5_11200/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioB_snr-5_11201",
+      "utterance_id": "11201",
+      "paths": {
+        "target": {
+          "sha256": "05ee668b5c4189d8618f3a0f3973df719bf647e6bc59a542624b313c66f3cc61",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 104489,
+          "file": "binaurec/scenarioB_snr-5_11201/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "fe7f32d485abd1a70bfc05eb0b4e11858ca4c5bf112ab68239082f01ef526cdd",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 104489,
+          "file": "binaurec/scenarioB_snr-5_11201/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "c9870ebe95e69d734b1ba126b42c984070cdba8e82e30a8e68dfd883301c472f",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 104489,
+          "file": "binaurec/scenarioB_snr-5_11201/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioB_snr0_11600",
+      "utterance_id": "11600",
+      "paths": {
+        "target": {
+          "sha256": "ebd1c421f5791734de5e2a399f01709e5e01842bf57a48ba5797b39d1b52fcca",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioB_snr0_11600/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "0f12a0ffb8f8eed1aa06a84acf4ced25d52caef38bd5a63d5819c36089e04e61",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioB_snr0_11600/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "ffe8732760b58e4b2b5de6fb6f70ec56e67c9d2a7d43401f931223ac469c3c97",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioB_snr0_11600/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioB_snr0_11601",
+      "utterance_id": "11601",
+      "paths": {
+        "target": {
+          "sha256": "f334b8a84d52024460caa2fa6dbc883cefc8b03a421f447dc26957ca1c8b13d0",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioB_snr0_11601/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "6028db2ff6efb5a219bc5b0484038392ff84695ee8ab7a1951bff3a44fcda963",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioB_snr0_11601/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "aa8330811ee4d492b47f2f1a7a8707e961662cd86274461789e7f4ece6c51db4",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioB_snr0_11601/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioB_snr5_11400",
+      "utterance_id": "11400",
+      "paths": {
+        "target": {
+          "sha256": "411b794b11b32e9555c8bb861aba37c47fc77c5b49b5b71509ceab480b51a29a",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 133849,
+          "file": "binaurec/scenarioB_snr5_11400/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "faeeee244cabe3b9ea2f7d0a01f2754fc0a967396747880f853c7f55a656dd9c",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 133849,
+          "file": "binaurec/scenarioB_snr5_11400/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "07bd306ae4cb3c9833838932ebd0a340296d1116eb3819f42707b4e2d14b227c",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 133849,
+          "file": "binaurec/scenarioB_snr5_11400/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioB_snr5_11401",
+      "utterance_id": "11401",
+      "paths": {
+        "target": {
+          "sha256": "1b44d85222d91062b9fbcfcee7f9ef438094ac8f1ef62e450939b03b86a50403",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioB_snr5_11401/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "5d3f8afffb67fe52af6062da2745a0ab98f84832584a98b22ed1cc1d1742360a",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioB_snr5_11401/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "0ab3c596e845198ad6ddeecb1f574a48e84befd6511edf36534970b130d877bd",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioB_snr5_11401/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioC_snr-5_11302",
+      "utterance_id": "11302",
+      "paths": {
+        "target": {
+          "sha256": "519a210080ed4d1a488342b2a56a63ec9487ac7c73f02dd9e8f9dbcaff0b0a80",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioC_snr-5_11302/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "9ac4c1609848796d6bf5401fd6c513f875b65ca61a455cd46910fda3c1e4cb92",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioC_snr-5_11302/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "7a7649487ed5e135254e883d8a7b1332a9142989132a86aeabe441f27d2aebf1",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioC_snr-5_11302/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioC_snr-5_11303",
+      "utterance_id": "11303",
+      "paths": {
+        "target": {
+          "sha256": "545b96c5975b2cfc40b90bfa4e775bb6f425433f82103f6eaba75a18e5d66b2d",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 113209,
+          "file": "binaurec/scenarioC_snr-5_11303/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "20b1be18541edd88c3e5e46af63004802507b1ea3e17b39fb0fd82c2e437a262",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 113209,
+          "file": "binaurec/scenarioC_snr-5_11303/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "fad0dcb7767d8e030bb6abba76756d603bab22a6670101c2ede8b4dc848a2a0c",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 113209,
+          "file": "binaurec/scenarioC_snr-5_11303/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioC_snr0_11102",
+      "utterance_id": "11102",
+      "paths": {
+        "target": {
+          "sha256": "1e4af989101d95b4b781167c5e7e3a30cb7d8ac20393be9ba475f3af2ef3996f",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 106649,
+          "file": "binaurec/scenarioC_snr0_11102/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "7b73b92c80198ee084aaef836092f08aa1250ae231bfaee13130feea88f74a30",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 106649,
+          "file": "binaurec/scenarioC_snr0_11102/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "43f79948c0cd379c40ad025fb366624deb52f5e343849814fc0ed9b0af8a39bb",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 106649,
+          "file": "binaurec/scenarioC_snr0_11102/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioC_snr0_11103",
+      "utterance_id": "11103",
+      "paths": {
+        "target": {
+          "sha256": "6177c96f7c54f103c5f2ceeda6399fd37c2ba593d13c5b6b4ba21fe8e9cd040d",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 139289,
+          "file": "binaurec/scenarioC_snr0_11103/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "309da2b180f65a4f1070a30db1310f1244dbaf09e0e09654249b79f1fb190d13",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 139289,
+          "file": "binaurec/scenarioC_snr0_11103/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "dc8c44680065dea316079c2fbb6b1a8ebceef82dec315446ba00da1091583b7c",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 139289,
+          "file": "binaurec/scenarioC_snr0_11103/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioC_snr5_11502",
+      "utterance_id": "11502",
+      "paths": {
+        "target": {
+          "sha256": "5fe39990218158b6b888c2a8f939d3f06076578e300bf5da63a33bef3073e684",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioC_snr5_11502/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "61467acc6fd8f0e8de64d74c616c142bad6ce3a39fe517d6e892c61777c12037",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioC_snr5_11502/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "caf7d32218c29fbf2292d0be5e46267890ada3d626ebf72fce4193544bfc1596",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioC_snr5_11502/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioC_snr5_11503",
+      "utterance_id": "11503",
+      "paths": {
+        "target": {
+          "sha256": "888cefafdf13396df6a67ca582c7321e6e2817cdb247a2d2eee98c7e1cf7c86d",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 115129,
+          "file": "binaurec/scenarioC_snr5_11503/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "25c799538cf0b29c84ee835d30bad08fa571aa75bc2bf34185b0d580bb27ef47",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 115129,
+          "file": "binaurec/scenarioC_snr5_11503/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "a4d28f7c0d31203a029183bbdd12b3d6c1211743061857f83e9a7faeda5dc587",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 115129,
+          "file": "binaurec/scenarioC_snr5_11503/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioD_snr-5_11402",
+      "utterance_id": "11402",
+      "paths": {
+        "target": {
+          "sha256": "f5035e597a47dcb98c3a6b4d48231f3bfe0c1d125f890144519b1387a7a8a52e",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 173449,
+          "file": "binaurec/scenarioD_snr-5_11402/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "7f5ffac511b77ff606e926ef98b0af57642d4c7a3fa61b89000f4c1d74d7c499",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 173449,
+          "file": "binaurec/scenarioD_snr-5_11402/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "40c2348e8c8be8e05a7e4e7522811109a751ab8be6383de1e7e54601ccb6c279",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 173449,
+          "file": "binaurec/scenarioD_snr-5_11402/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioD_snr-5_11403",
+      "utterance_id": "11403",
+      "paths": {
+        "target": {
+          "sha256": "f198811cbf6e6414b59ad5ec91fabb0f0aa8ffc305ad5d97172fd1f058a84df6",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 163609,
+          "file": "binaurec/scenarioD_snr-5_11403/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "9aa6bb3a0b3cc7100abd2f81fe810db48cc750bb46b7394a311c57b61b9fe611",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 163609,
+          "file": "binaurec/scenarioD_snr-5_11403/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "19eb349cc455e511fc7e89b193b7a28055d5936c41a4829acaf2519ee6ee8a2a",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 163609,
+          "file": "binaurec/scenarioD_snr-5_11403/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioD_snr0_11202",
+      "utterance_id": "11202",
+      "paths": {
+        "target": {
+          "sha256": "7e18ff1fb3ec1142f96e77d2a5e71ac3ac1de7f5da601b3fb24a9c8626e29a89",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 154169,
+          "file": "binaurec/scenarioD_snr0_11202/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "66586808b986f4a62c5e6e52af0bf91da7d77b1aa8cb7db4ea35e55a0adb3285",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 154169,
+          "file": "binaurec/scenarioD_snr0_11202/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "0f5b5abeb83ed9311e9fb08623f46032ba79b0cecc1d11c1853d7d096b309fc5",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 154169,
+          "file": "binaurec/scenarioD_snr0_11202/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioD_snr0_11203",
+      "utterance_id": "11203",
+      "paths": {
+        "target": {
+          "sha256": "6be64336a957a4a071f0fb5839bb9de602e25494b1fa86c6b96ecedaaa31a291",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioD_snr0_11203/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "fc5330511e7faae693d19b189c9b931ab97d408a130c3bd678a7fc7bd81cf49d",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioD_snr0_11203/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "85d84dcaf14c079a78721f0d5d8e450d27fa72de0aa8a53f0df977542ae50e54",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioD_snr0_11203/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioD_snr5_11602",
+      "utterance_id": "11602",
+      "paths": {
+        "target": {
+          "sha256": "fbe75b570c63193bc76261ab64a5689de549cc975d745d4ed9ba32038d444413",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 161849,
+          "file": "binaurec/scenarioD_snr5_11602/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "4c5b66d0a75432bd4b2b8e40d3c42669add02d9f7f604dfa519a6f325ea0d96b",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 161849,
+          "file": "binaurec/scenarioD_snr5_11602/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "0d9c7d8f860eea70009c7b3733700efdc8ddc9739ff30bc32d2d83a8b3b6f923",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 161849,
+          "file": "binaurec/scenarioD_snr5_11602/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioD_snr5_11603",
+      "utterance_id": "11603",
+      "paths": {
+        "target": {
+          "sha256": "7b05b0453856376f10f59334bca97631ddd694afa4b9f04d9ecf201526fda9b5",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioD_snr5_11603/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "312961bcc410071d63095662f0e45537ad04df5f5e9355fbd2e528880a6e43e3",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioD_snr5_11603/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "f3562cab2e9324a33f592daf3649babc2d79954c551dd38469a26365537d3d28",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioD_snr5_11603/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioE_snr-5_11504",
+      "utterance_id": "11504",
+      "paths": {
+        "target": {
+          "sha256": "774ab367776047e5fe95f2ffe4ed3ab13445784f5fb58141fbcfed0c4620ba1b",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioE_snr-5_11504/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "c02abee0768f25b856aeff4a27a66c35f8e282439c4c8b09f45358bca9ce3bbd",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioE_snr-5_11504/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "a41a0f942daea5984f6d29ed2149c152922f0a779e2ea8c97451ad2a5dfba55e",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioE_snr-5_11504/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioE_snr-5_11505",
+      "utterance_id": "11505",
+      "paths": {
+        "target": {
+          "sha256": "9ccf3cefba2ffb223336d2b26eac712b2e95e287f467656df44da5f85b034875",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 104410,
+          "file": "binaurec/scenarioE_snr-5_11505/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "2a5b0265c93a970053042d09d0f87d27d9cd0252a7e7ffb7f95396aff2e6ff75",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 104410,
+          "file": "binaurec/scenarioE_snr-5_11505/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "969f41d1c138271fca4c5954570e4aea3af626592dfad17507d0e323efb42ef2",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 104410,
+          "file": "binaurec/scenarioE_snr-5_11505/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioE_snr0_11304",
+      "utterance_id": "11304",
+      "paths": {
+        "target": {
+          "sha256": "5aca5f40954b135c94686472c0e9cfd6c2f8e1dd010c861ff322bbebf047bf32",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 140249,
+          "file": "binaurec/scenarioE_snr0_11304/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "1be0a5ba758cf3fa7dcbec43bd52f614679efa6fb9748f638a881e51839b1f7d",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 140249,
+          "file": "binaurec/scenarioE_snr0_11304/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "a07070d59665ebeb19861c146942c846838d51fec7d20b967791c8610373582c",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 140249,
+          "file": "binaurec/scenarioE_snr0_11304/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioE_snr0_11305",
+      "utterance_id": "11305",
+      "paths": {
+        "target": {
+          "sha256": "bcab3422cc450314a2397c7f2ba121c34a366d87c98d5bfb201dffbacd45ef4a",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 128569,
+          "file": "binaurec/scenarioE_snr0_11305/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "d5d1034a3687d490e38c36596977a9e1fed0cb3a64c5511994b94958d249421c",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 128569,
+          "file": "binaurec/scenarioE_snr0_11305/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "854999034e52bab94572328b033bd7b1a3618def11de6e98215601676d02a484",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 128569,
+          "file": "binaurec/scenarioE_snr0_11305/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioE_snr5_11104",
+      "utterance_id": "11104",
+      "paths": {
+        "target": {
+          "sha256": "474fafee4cf64691714d86268a1df7d4ef9e0efc5656d94e57d11134352ed862",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioE_snr5_11104/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "2ef57096dcb689ecc082f0fb90af2b0f7d85782482af2cd71fa2f8b1f1529730",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioE_snr5_11104/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "576473152e8d936de8ac6e7a6336147acb88ec027842fc2c6da7877836458b9e",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioE_snr5_11104/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioE_snr5_11105",
+      "utterance_id": "11105",
+      "paths": {
+        "target": {
+          "sha256": "27363b9ded2bf652ab2c55bf32c4b5b052769f2466aa63efe85323909ea24667",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioE_snr5_11105/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "885047588c46259c75537301b64faa89472b928f6d32a04a969fe016557a8bd7",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioE_snr5_11105/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "79565ba41166553686924fe24b894d0669b5cc11e9333c5eeeec73a48c3f25e7",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioE_snr5_11105/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioF_snr-5_11604",
+      "utterance_id": "11604",
+      "paths": {
+        "target": {
+          "sha256": "a0418b90a5d92f07e34ea8ea8615bf17ee399ec23abe35ebfc151ae8d2cd0a92",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 103369,
+          "file": "binaurec/scenarioF_snr-5_11604/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "e90f6b9a17ecca39e87afe28119c80f5841d00f9c50bfe534b94d1a15f5cb41e",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 103369,
+          "file": "binaurec/scenarioF_snr-5_11604/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "e3cf396d00843df14c38581804a80b929ef4c569cf09fe2f1026157c816ede41",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 103369,
+          "file": "binaurec/scenarioF_snr-5_11604/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioF_snr-5_11605",
+      "utterance_id": "11605",
+      "paths": {
+        "target": {
+          "sha256": "df4393114c0e16e2713e11ceb5095dbf73c66828ccf76816270dd54f3cbec8f9",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioF_snr-5_11605/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "dc64c7db1343db5db80ebbe376d7315e3d015e6ac9ed5866227eb3dc6ea6af8e",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioF_snr-5_11605/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "92eb3a1cbcbc9440c528fc1c3c7fb44c60846196f37dd2fd5a00d33fb37a956c",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioF_snr-5_11605/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioF_snr0_11404",
+      "utterance_id": "11404",
+      "paths": {
+        "target": {
+          "sha256": "33b036da158b06c11b2d3ce43028c424a0446c43bb3b8e69d3c81309d52091dd",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 115529,
+          "file": "binaurec/scenarioF_snr0_11404/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "f39f54e9320ca3a4dba744e757769b99a22885636c7d74887a95c165d40ea971",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 115529,
+          "file": "binaurec/scenarioF_snr0_11404/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "2aacbe1a7a738d583b897a27f84dfb7fd62459235f003f05cf1eadd8ab9f9786",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 115529,
+          "file": "binaurec/scenarioF_snr0_11404/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioF_snr0_11405",
+      "utterance_id": "11405",
+      "paths": {
+        "target": {
+          "sha256": "17ba4744d1480738aaa0a7c8b91dddc9717a7f2198a7f14f87ae28fd31d3c0c6",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioF_snr0_11405/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "26329fc57237c762ce20a07f9bf4e34c53c48f222c4a82f73ee8db712391acd4",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioF_snr0_11405/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "17b7fa42595c77fe515f27e9b44b262401c14e4e3bb57fba30ee77827677d026",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 179129,
+          "file": "binaurec/scenarioF_snr0_11405/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioF_snr5_11204",
+      "utterance_id": "11204",
+      "paths": {
+        "target": {
+          "sha256": "b37486baba492109c3390520f4e0c534ccbacc04f0e95bb44bc67d7881fb3547",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 117129,
+          "file": "binaurec/scenarioF_snr5_11204/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "cd35d556012db208a1e4c810d21530cc7cb44ab49d7add0bf4a52e45f7945e16",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 117129,
+          "file": "binaurec/scenarioF_snr5_11204/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "f297a25aa5e4701cd3aaf31f4f1c979e154a823fe502ef71d89f54870df464ea",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 117129,
+          "file": "binaurec/scenarioF_snr5_11204/mixture_ssn.wav"
+        }
+      }
+    },
+    {
+      "scene": "scenarioF_snr5_11205",
+      "utterance_id": "11205",
+      "paths": {
+        "target": {
+          "sha256": "6fd8901a3356b726557c332fce93521d17cdd6719b74395fbd85d62276b1a7bb",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 172089,
+          "file": "binaurec/scenarioF_snr5_11205/target.wav"
+        },
+        "noise_ssn": {
+          "sha256": "ff8419559b2832be893acfdeb2418234d290509b73f2871bf14196ecd332a3e9",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 172089,
+          "file": "binaurec/scenarioF_snr5_11205/noise_ssn.wav"
+        },
+        "mixture_ssn": {
+          "sha256": "1e51ce27d9f88c26db03e175c95e776d806415b93e7260d311cf9d9895f51374",
+          "channels": 2,
+          "sr": 16000,
+          "frames": 172089,
+          "file": "binaurec/scenarioF_snr5_11205/mixture_ssn.wav"
+        }
+      }
+    }
+  ]
+}

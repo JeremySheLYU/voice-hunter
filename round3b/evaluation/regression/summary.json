@@ -1,0 +1,121 @@
+{
+  "origin": {
+    "classification": "reused v0.3 test; regression only",
+    "model_sha256": "6c152dffd48facf288fa9de4a477e9c173992955275ad6ad364fd4c4eb96dd16",
+    "original_plan": "603676a5a9a35f01a899559a1a384dab7b11fc5ba73bff52331db1c0a36e71a6",
+    "runner": "0b04b5d6c1f105e7f7b2bc2d3226b74bb2f8adc461374a4edc82ba60c40d102a"
+  },
+  "conditions": {
+    "persistent": {
+      "challenger": {
+        "TP": 53,
+        "FP": 10,
+        "TN": 50,
+        "FN": 7,
+        "accuracy": 0.8583333333333333,
+        "f1": 0.8617886178861789,
+        "precision": 0.8412698412698413,
+        "recall": 0.8833333333333333,
+        "useful": 52,
+        "useful_fraction": 0.8666666666666667,
+        "harmful": 1,
+        "undefined_truth": 0,
+        "macro_f1": 0.8602125603864733
+      },
+      "previous_primary": {
+        "TP": 55,
+        "FP": 11,
+        "TN": 49,
+        "FN": 5,
+        "accuracy": 0.8666666666666667,
+        "f1": 0.873015873015873,
+        "precision": 0.8333333333333334,
+        "recall": 0.9166666666666666,
+        "useful": 52,
+        "useful_fraction": 0.8666666666666667,
+        "harmful": 3,
+        "undefined_truth": 0,
+        "macro_f1": 0.8778084066471165
+      },
+      "paired_difference": {
+        "accuracy": {
+          "estimate": -0.008333333333333415,
+          "percentile95": [
+            -0.0625,
+            0.044642857142857095
+          ]
+        },
+        "f1": {
+          "estimate": -0.011227255129694136,
+          "percentile95": [
+            -0.059135028567313244,
+            0.03523752352111767
+          ]
+        },
+        "useful_fraction": {
+          "estimate": 0.0,
+          "percentile95": [
+            -0.051724137931034475,
+            0.045490056818181586
+          ]
+        }
+      }
+    },
+    "intermittent": {
+      "challenger": {
+        "TP": 51,
+        "FP": 9,
+        "TN": 51,
+        "FN": 9,
+        "accuracy": 0.85,
+        "f1": 0.85,
+        "precision": 0.85,
+        "recall": 0.85,
+        "useful": 49,
+        "useful_fraction": 0.8166666666666667,
+        "harmful": 1,
+        "undefined_truth": 1,
+        "macro_f1": 0.8476306302393258
+      },
+      "previous_primary": {
+        "TP": 51,
+        "FP": 9,
+        "TN": 51,
+        "FN": 9,
+        "accuracy": 0.85,
+        "f1": 0.85,
+        "precision": 0.85,
+        "recall": 0.85,
+        "useful": 49,
+        "useful_fraction": 0.8166666666666667,
+        "harmful": 2,
+        "undefined_truth": 1,
+        "macro_f1": 0.851159420289855
+      },
+      "paired_difference": {
+        "accuracy": {
+          "estimate": 0.0,
+          "percentile95": [
+            -0.0546875,
+            0.05147692697768763
+          ]
+        },
+        "f1": {
+          "estimate": 0.0,
+          "percentile95": [
+            -0.05645279125945359,
+            0.05042222335787835
+          ]
+        },
+        "useful_fraction": {
+          "estimate": 0.0,
+          "percentile95": [
+            -0.048387096774193505,
+            0.04999999999999993
+          ]
+        }
+      }
+    }
+  },
+  "eligible_as_fresh_confirmation": false
+}

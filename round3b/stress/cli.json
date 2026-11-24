@@ -1,0 +1,21 @@
+{
+  "inference": "python -m round3b.extract",
+  "fixture_sha256": "7b08418d6043be65624177d8bd9ebd7a757394aae09a6ca282e293b1cf640764",
+  "accepted_exit": 0,
+  "accept_error": null,
+  "shape": [
+    216000,
+    2
+  ],
+  "residual_shape": [
+    216000,
+    2
+  ],
+  "max_sum_error": 2.9802322387695312e-08,
+  "refused_exit": 2,
+  "refusal_created_directory": false,
+  "refusal": [
+    "此錄音沒有可可靠交付的指定目標。"
+  ],
+  "passed": true
+}

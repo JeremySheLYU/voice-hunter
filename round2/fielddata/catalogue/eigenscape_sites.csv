@@ -1,0 +1,65 @@
+Filename,Class,Location,Time,Date,Additional Information
+Beach-01.wav,Beach,Bridlington Beach,10:42,09/05/2017,
+Beach-02.wav,Beach,Filey Beach,11:48,09/05/2017,
+Beach-03.wav,Beach,Cayton Bay,12:46,09/05/2017,
+Beach-04.wav,Beach,Redcar Beach,11:23,10/05/2017,
+Beach-05.wav,Beach,Saltburn Beach,12:19,10/05/2017,
+Beach-06.wav,Beach,Sandsend,14:00,10/05/2017,
+Beach-07.wav,Beach,Whitby West Cliff,15:59,10/05/2017,
+Beach-08.wav,Beach,Robin Hood's Bay,17:08,10/05/2017,
+QuietStreet-01.wav,QuietStreet,"Chatfield Road, Manchester",09:06,05/05/2017,
+QuietStreet-02.wav,QuietStreet,"Thomas Street, Manchester",15:54,05/05/2017,
+QuietStreet-03.wav,QuietStreet,"Rising Moon, Matley Lane, Hyde",14:24,07/05/2017,
+QuietStreet-04.wav,QuietStreet,"Church Lane, York",11:07,11/05/2017,
+QuietStreet-05.wav,QuietStreet,"Main Street, York",11:28,11/05/2017,
+QuietStreet-06.wav,QuietStreet,"St. Benedict Road, York",14:26,16/05/2017,
+QuietStreet-07.wav,QuietStreet,"Windmill Rise Corner, York",10:09,23/05/2017,
+QuietStreet-08.wav,QuietStreet,"Holmefield Lane, York",14:42,23/05/2017,
+PedestrianZone-01.wav,PedestrianZone,"Clayton Square, Liverpool",11:40,01/05/2017,Original DIY windjammer
+PedestrianZone-02.wav,PedestrianZone,"Church Street, Liverpool",15:04,01/05/2017,Original DIY windjammer
+PedestrianZone-03.wav,PedestrianZone,"Shambles Square, Manchester",13:23,05/05/2017,
+PedestrianZone-04.wav,PedestrianZone,"Market Street, Manchester",13:44,05/05/2017,
+PedestrianZone-05.wav,PedestrianZone,"Church Street, Whitby",15:17,10/05/2017,
+PedestrianZone-06.wav,PedestrianZone,"St. Helen's Square, York",15:28,11/05/2017,Occasional vehicle sound
+PedestrianZone-07.wav,PedestrianZone,"Minster Yard, York",16:05,11/05/2017,Heavy wind
+PedestrianZone-08.wav,PedestrianZone,"Stonegate, York",16:40,11/05/2017,
+ShoppingCentre-01.wav,ShoppingCentre,"St. John's Market, Liverpool",11:15,01/05/2017,No windjammer (indoor)
+ShoppingCentre-02.wav,ShoppingCentre,"Arndale Centre, Manchester",12:56,05/05/2017,
+ShoppingCentre-03.wav,ShoppingCentre,York Designer Outlet,16:26,08/05/2017,
+ShoppingCentre-04.wav,ShoppingCentre,"Victoria Gate, Leeds",12:04,15/05/2017,Microphone stand held
+ShoppingCentre-05.wav,ShoppingCentre,"Victoria Quarter, Leeds",12:25,15/05/2017,"Microphone stand held, indoor water features"
+ShoppingCentre-06.wav,ShoppingCentre,Leeds Kirkgate Market,12:56,15/05/2017,
+ShoppingCentre-07.wav,ShoppingCentre,Trinity Leeds,14:09,15/05/2017,
+ShoppingCentre-08.wav,ShoppingCentre,"Packhorse Shopping Centre, Huddersfield",13:11,18/05/2017,
+BusyStreet-01.wav,BusyStreet,"Wilbraham Road, Manchester",09:28,05/05/2017,
+BusyStreet-02.wav,BusyStreet,"Oxford Road, Manchester",11:09,05/05/2017,
+BusyStreet-03.wav,BusyStreet,"London Road, Manchester",16:24,05/05/2017,
+BusyStreet-04.wav,BusyStreet,"Bishopthorpe Road, York",13:39,11/05/2017,"Slight clipping from very loud car, not bad audibly"
+BusyStreet-05.wav,BusyStreet,"Micklegate Bar, York",14:03,16/05/2017,
+BusyStreet-06.wav,BusyStreet,"Southgate, Huddersfield",12:48,18/05/2017,
+BusyStreet-07.wav,BusyStreet,"Trinity Street, Huddersfield",14:17,18/05/2017,
+BusyStreet-08.wav,BusyStreet,"St. Leonard's Place, York",11:44,23/05/2017,
+TrainStation-01.wav,TrainStation,Liverpool Lime Street Station,10:34,01/05/2017,Original DIY windjammer
+TrainStation-02.wav,TrainStation,Manchester Oxford Road Station,10:46,05/05/2017,Microphone stand held
+TrainStation-03.wav,TrainStation,Manchester Victoria Station,14:15,05/05/2017,
+TrainStation-04.wav,TrainStation,Leeds Station,10:50,15/05/2017,
+TrainStation-05.wav,TrainStation,Manchester Piccadilly Station,10:31,16/05/2017,
+TrainStation-06.wav,TrainStation,York Station,10:54,18/05/2017,
+TrainStation-07.wav,TrainStation,Huddersfield Station,12:13,18/05/2017,
+TrainStation-08.wav,TrainStation,Scarborough Station,09:50,19/05/2017,+5 dB gain only
+Woodland-01.wav,Woodland,"Knavesmire Wood, York",11:41,08/05/2017,
+Woodland-02.wav,Woodland,"Acomb Wood, York",12:26,08/05/2017,
+Woodland-03.wav,Woodland,"Westfield Wood, York",13:30,08/05/2017,
+Woodland-04.wav,Woodland,"Hagg Wood, York",14:59,08/05/2017,
+Woodland-05.wav,Woodland,Dalby Forest,14:36,09/05/2017,
+Woodland-06.wav,Woodland,Dalby Forest Lake,15:09,09/05/2017,
+Woodland-07.wav,Woodland,Pickering Castle Woods,16:10,09/05/2017,Steam train whistle
+Woodland-08.wav,Woodland,Rowntree Park Woods,14:22,11/05/2017,
+Park-01.wav,Park,"Rowntree Park, York",14:00,11/05/2017,
+Park-02.wav,Park,"Greenhead Park, Huddersfield",13:55,18/05/2017,
+Park-03.wav,Park,Yorkshire Museum Gardens,15:52,18/05/2017,
+Park-04.wav,Park,"Scarcroft Road Park, York",16:39,18/05/2017,
+Park-05.wav,Park,"West Bank Park, York",09:44,23/05/2017,
+Park-06.wav,Park,"Homestead Park, York",11:05,23/05/2017,
+Park-07.wav,Park,"Hull Road Park, York",12:46,23/05/2017,
+Park-08.wav,Park,"Heslington Church Green, York",15:13,23/05/2017,

@@ -1,0 +1,30 @@
+{
+  "id": "eigenscape_hoa/TrainStation.1",
+  "dataset": "eigenscape_hoa",
+  "record": "2628463",
+  "member": "TrainStation.1.wav",
+  "archive": "TrainStation.zip",
+  "archive_checksum": "md5:63fc5406485d5b876ef3805193d63841",
+  "url": "https://zenodo.org/api/records/2628463/files/TrainStation.zip/content",
+  "archive_range": [
+    0,
+    8199999
+  ],
+  "range_sha256": "f861ca344161c5a2d5e24a371f465176b7900acdb859363b08028a447306bcf0",
+  "source_offset_s": 0,
+  "duration_s": 2,
+  "rate": 48000,
+  "channels": 25,
+  "format": "ACN/SN3D order 4",
+  "bytes": 7200102,
+  "sha256": "0de5fec88aca84037a2aad6113720b921b0dbf64fe51f3ffa9f019c2e25e16ab",
+  "pcm_s32le_sha256": "8fb05d969a65397f3efb88f2c1ecb5168e31b3891cf8fbdacd6d22115202d926",
+  "first_four_vs_lite_correlation": [
+    0.9999999999999999,
+    0.9999999999999999,
+    1.0,
+    1.0
+  ],
+  "path": "round2_data/field/eigenscape_hoa/TrainStation-01.wav",
+  "license": "CC-BY-4.0"
+}

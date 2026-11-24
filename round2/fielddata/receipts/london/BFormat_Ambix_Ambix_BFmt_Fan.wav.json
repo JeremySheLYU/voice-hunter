@@ -1,0 +1,21 @@
+{
+  "id": "london/BFormat_Ambix_Ambix_BFmt_Fan.wav",
+  "dataset": "london",
+  "record": "10687363",
+  "member": "BFormat_Ambix/Ambix_BFmt_Fan.wav",
+  "source_offset_s": 0,
+  "duration_s": 8.0,
+  "rate": 48000,
+  "channels": 4,
+  "bytes": 3300893,
+  "sha256": "273ba6b9a4c9bc613d9947b3096859250e9899242f6d86635b5572dd3a9d5974",
+  "pcm_s32le_sha256": "f123dcba805f6d085f637ea21ff82ae959399010d5a4c729729723ab90af284f",
+  "archive_crc32": "0x262155f5",
+  "archive_range": [
+    0,
+    5249535
+  ],
+  "range_sha256": "effa4842a7fdad6a70fdb6b0a53400d94b7dcd2c803ea0e5419b77fc6ac812ad",
+  "path": "round2_data/field/london/BFormat_Ambix_Ambix_BFmt_Fan.wav.flac",
+  "license": "CC-BY-4.0"
+}

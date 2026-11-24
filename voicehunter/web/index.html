@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>Voice Hunter · 空間混音台</title>
+  <link rel="stylesheet" href="/style.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <header class="masthead">
+    <div class="shell mast-content">
+      <div class="brand"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></span>Voice Hunter</div>
+      <span class="local"><i aria-hidden="true"></i>本機工作站</span>
+    </div>
+  </header>
+  <main class="shell">
+    <div class="headline"><div class="heading-block"><h1>空間混音台</h1><p>從立體聲錄音中提取聲源，調整它的位置與環境寬度。</p></div>
+      <label class="import-button" for="file"><span aria-hidden="true">＋</span> 匯入音訊或影片<input id="file" type="file" accept="audio/*,video/*,.mov,.m4a,.wav,.mp3,.mp4,.aif,.aiff,.flac"></label>
+    </div>
+    <div id="notice" class="notice" role="status" aria-live="polite" hidden></div>
+    <div class="sample-row"><button id="demo" class="text-button" type="button">樂器測試錄音</button><button id="duet-demo" class="text-button" type="button">雙人位置示範</button><button id="iphone-demo" class="text-button" type="button" hidden>載入 iPhone 原片音軌</button></div>
+    <section id="session" class="session panel" aria-label="音訊時間軸">
+      <div class="session-head"><div class="track-title"><span class="small-label">素材</span><strong id="filename">尚未匯入錄音</strong></div><span class="track-meta" id="track-meta">—</span></div>
+      <div class="wavebox" id="wavebox">
+        <canvas id="wave" aria-hidden="true"></canvas>
+        <div class="wave-empty" id="wave-empty">將最長 60 秒、160 MiB 以內的音訊或影片拖放到此處</div>
+        <input type="range" min="0" max="1" value="0" step="0.01" id="seek" aria-label="播放位置" disabled>
+      </div>
+      <div class="axis" aria-hidden="true"><span>0:00</span><span id="axis-mid">—</span><span id="axis-end">—</span></div>
+      <div class="transport"><button id="play" class="play-button" type="button" disabled><span aria-hidden="true">▶</span> 播放</button><div class="time" id="time">0:00.0 <span>/</span> 0:00.0</div><div class="monitor" role="group" aria-label="比較試聽"><button id="listen-original" class="monitor-choice active" type="button" aria-pressed="true" disabled>A 原音</button><button id="listen-mix" class="monitor-choice" type="button" aria-pressed="false" disabled>B 混音</button></div></div>
+    </section>
+    <div class="workbench">
+      <section class="panel control-panel"><div class="panel-head"><div class="panel-icon" aria-hidden="true">≋</div><h2>聲源分離</h2></div>
+        <fieldset id="separation-settings" disabled><label class="field"><span>分離方式</span><select id="mode"></select></label>
+          <div id="target-text-row" class="field" hidden><label for="target-text">要提取的聲音</label><input type="text" id="target-text" placeholder="例：train passing" maxlength="180"></div>
+          <div id="target-choice-row" class="field" hidden><label for="target-choice">要提取的聲音</label><select id="target-choice"></select></div>
+          <div id="example-settings"><p class="field-hint" id="sample-instructions">選一段盡量只有目標聲音的時間。若範例裡有人聲和音樂，模型可能把兩者一起提取。</p><div class="interval-fields"><label class="field"><span>開始（秒）</span><input id="start" type="number" value="0" min="0" step="0.01"></label><span class="range-dash" aria-hidden="true">—</span><label class="field"><span>結束（秒）</span><input id="end" type="number" value="1" min="0" step="0.01"></label><button class="quiet-button" id="audition" type="button">試聽選段</button></div>
+          <label class="check-field"><input type="checkbox" id="use-background"><span id="ref-label">加入只有背景聲的對照選段</span></label>
+          <div class="interval-fields" id="background-settings" hidden><label class="field"><span>開始（秒）</span><input id="bg-start" type="number" min="0" step="0.01" value="1"></label><span class="range-dash" aria-hidden="true">—</span><label class="field"><span>結束（秒）</span><input id="bg-end" type="number" min="0" step="0.01" value="2"></label><button class="quiet-button" id="audition-bg" type="button">試聽背景</button></div></div>
+          <p class="field-hint" id="method-note" hidden></p>
+          <button class="primary" id="separate" type="button">提取聲源 <span aria-hidden="true">→</span></button>
+        </fieldset>
+        <div id="stems" class="downloads stems" hidden><div><button id="solo-target" type="button" class="quiet-button" aria-pressed="false">▶ 獨聽目標</button><a id="dl-target" download>↓ 目標軌 WAV</a></div><div><button id="solo-residual" type="button" class="quiet-button" aria-pressed="false">▶ 獨聽其餘聲音</button><a id="dl-residual" download>↓ 其餘聲音 WAV</a></div></div>
+      </section>
+      <section class="panel control-panel"><div class="panel-head"><div class="panel-icon" aria-hidden="true">↔</div><h2>空間調整</h2></div>
+        <fieldset id="mix-settings" disabled><label class="field mode-field" id="output-mode-row" hidden><span>輸出方式</span><select id="output-mode"><option value="stereo">標準立體聲</option><option value="headphones">耳機 · 幾何模型</option><option value="headphones-measured">耳機 · 實測雙耳模型</option></select></label><p id="headphone-note" class="field-hint" hidden>將目標放在耳機前方的水平聲場。0° 會渲染為正前方。</p><div class="slider-row"><div class="slider-title"><label id="pan-label" for="pan">目標聲像偏移</label><output id="pan-val" for="pan">原位</output></div><input type="range" id="pan" min="-1" max="1" step="0.01" value="0"><div class="end-labels"><span>左</span><span>右</span></div></div>
+          <div class="slider-row"><div class="slider-title"><label for="gain">目標音量</label><output id="gain-val" for="gain">0 dB</output></div><input type="range" id="gain" min="-12" max="12" step="0.5" value="0"></div>
+          <div class="slider-row"><div class="slider-title"><label for="width">環境寬度</label><output id="width-val" for="width">100%</output></div><input type="range" id="width" min="0" max="2" step="0.01" value="1"></div>
+          <div class="apply-row"><button class="secondary" id="render" type="button">套用混音</button><button id="wide-mix" class="text-button" type="button">加寬環境</button><button id="reset-mix" class="text-button" type="button">重設</button></div>
+        </fieldset>
+        <p id="stale-mix" class="field-hint" hidden>設定已更改。請套用新設定以更新 B 混音及下載檔。</p>
+        <div id="exports" class="downloads" hidden><a id="dl-mix" download>↓ 混音 WAV</a><button id="export-video" class="export-button" type="button" hidden>匯出混音影片</button><a id="dl-video" download hidden>↓ 混音影片</a></div>
+      </section>
+    </div>
+    <audio id="player" preload="auto"></audio>
+  </main>
+</body>
+</html>

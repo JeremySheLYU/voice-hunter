@@ -1,0 +1,423 @@
+{
+  "fusion": {
+    "requests": 75,
+    "false_accepts": 26,
+    "by_requested": {
+      "speech": 13,
+      "wind": 7,
+      "piano": 5,
+      "guitar": 1
+    },
+    "rows": [
+      {
+        "ids": [
+          "119420",
+          "130034"
+        ],
+        "categories": [
+          "Bark",
+          "Meow"
+        ],
+        "returned": [
+          "speech"
+        ]
+      },
+      {
+        "ids": [
+          "107188",
+          "152490"
+        ],
+        "categories": [
+          "Meow",
+          "Church_bell"
+        ],
+        "returned": [
+          "speech",
+          "wind"
+        ]
+      },
+      {
+        "ids": [
+          "127858",
+          "237210"
+        ],
+        "categories": [
+          "Church_bell",
+          "Clock"
+        ],
+        "returned": [
+          "wind"
+        ]
+      },
+      {
+        "ids": [
+          "120787",
+          "376377"
+        ],
+        "categories": [
+          "Clock",
+          "Drip"
+        ],
+        "returned": [
+          "speech",
+          "wind"
+        ]
+      },
+      {
+        "ids": [
+          "121357",
+          "164311"
+        ],
+        "categories": [
+          "Drip",
+          "Bark"
+        ],
+        "returned": [
+          "speech"
+        ]
+      },
+      {
+        "ids": [
+          "264332",
+          "219052"
+        ],
+        "categories": [
+          "Bark",
+          "Church_bell"
+        ],
+        "returned": [
+          "speech",
+          "wind"
+        ]
+      },
+      {
+        "ids": [
+          "169983",
+          "388311"
+        ],
+        "categories": [
+          "Meow",
+          "Clock"
+        ],
+        "returned": [
+          "speech",
+          "wind"
+        ]
+      },
+      {
+        "ids": [
+          "174725",
+          "408263"
+        ],
+        "categories": [
+          "Church_bell",
+          "Drip"
+        ],
+        "returned": [
+          "piano",
+          "speech"
+        ]
+      },
+      {
+        "ids": [
+          "342297",
+          "348129"
+        ],
+        "categories": [
+          "Clock",
+          "Bark"
+        ],
+        "returned": [
+          "piano",
+          "speech"
+        ]
+      },
+      {
+        "ids": [
+          "402461",
+          "26104"
+        ],
+        "categories": [
+          "Drip",
+          "Meow"
+        ],
+        "returned": [
+          "speech"
+        ]
+      },
+      {
+        "ids": [
+          "400576",
+          "348855"
+        ],
+        "categories": [
+          "Bark",
+          "Meow"
+        ],
+        "returned": [
+          "speech",
+          "wind"
+        ]
+      },
+      {
+        "ids": [
+          "333779",
+          "89059"
+        ],
+        "categories": [
+          "Meow",
+          "Church_bell"
+        ],
+        "returned": [
+          "piano",
+          "speech"
+        ]
+      },
+      {
+        "ids": [
+          "425195",
+          "81973"
+        ],
+        "categories": [
+          "Church_bell",
+          "Clock"
+        ],
+        "returned": [
+          "piano",
+          "speech"
+        ]
+      },
+      {
+        "ids": [
+          "42134",
+          "85874"
+        ],
+        "categories": [
+          "Clock",
+          "Drip"
+        ],
+        "returned": [
+          "guitar",
+          "piano"
+        ]
+      },
+      {
+        "ids": [
+          "73419",
+          "418155"
+        ],
+        "categories": [
+          "Drip",
+          "Bark"
+        ],
+        "returned": [
+          "speech",
+          "wind"
+        ]
+      }
+    ]
+  },
+  "v02": {
+    "requests": 75,
+    "false_accepts": 14,
+    "by_requested": {
+      "speech": 5,
+      "piano": 2,
+      "wind": 4,
+      "guitar": 2,
+      "train": 1
+    },
+    "rows": [
+      {
+        "ids": [
+          "119420",
+          "130034"
+        ],
+        "categories": [
+          "Bark",
+          "Meow"
+        ],
+        "returned": [
+          "speech"
+        ]
+      },
+      {
+        "ids": [
+          "107188",
+          "152490"
+        ],
+        "categories": [
+          "Meow",
+          "Church_bell"
+        ],
+        "returned": []
+      },
+      {
+        "ids": [
+          "127858",
+          "237210"
+        ],
+        "categories": [
+          "Church_bell",
+          "Clock"
+        ],
+        "returned": [
+          "piano",
+          "wind"
+        ]
+      },
+      {
+        "ids": [
+          "120787",
+          "376377"
+        ],
+        "categories": [
+          "Clock",
+          "Drip"
+        ],
+        "returned": [
+          "wind"
+        ]
+      },
+      {
+        "ids": [
+          "121357",
+          "164311"
+        ],
+        "categories": [
+          "Drip",
+          "Bark"
+        ],
+        "returned": [
+          "speech"
+        ]
+      },
+      {
+        "ids": [
+          "264332",
+          "219052"
+        ],
+        "categories": [
+          "Bark",
+          "Church_bell"
+        ],
+        "returned": [
+          "guitar"
+        ]
+      },
+      {
+        "ids": [
+          "169983",
+          "388311"
+        ],
+        "categories": [
+          "Meow",
+          "Clock"
+        ],
+        "returned": [
+          "wind"
+        ]
+      },
+      {
+        "ids": [
+          "174725",
+          "408263"
+        ],
+        "categories": [
+          "Church_bell",
+          "Drip"
+        ],
+        "returned": []
+      },
+      {
+        "ids": [
+          "342297",
+          "348129"
+        ],
+        "categories": [
+          "Clock",
+          "Bark"
+        ],
+        "returned": [
+          "speech",
+          "wind"
+        ]
+      },
+      {
+        "ids": [
+          "402461",
+          "26104"
+        ],
+        "categories": [
+          "Drip",
+          "Meow"
+        ],
+        "returned": [
+          "speech"
+        ]
+      },
+      {
+        "ids": [
+          "400576",
+          "348855"
+        ],
+        "categories": [
+          "Bark",
+          "Meow"
+        ],
+        "returned": []
+      },
+      {
+        "ids": [
+          "333779",
+          "89059"
+        ],
+        "categories": [
+          "Meow",
+          "Church_bell"
+        ],
+        "returned": [
+          "guitar"
+        ]
+      },
+      {
+        "ids": [
+          "425195",
+          "81973"
+        ],
+        "categories": [
+          "Church_bell",
+          "Clock"
+        ],
+        "returned": [
+          "piano",
+          "train"
+        ]
+      },
+      {
+        "ids": [
+          "42134",
+          "85874"
+        ],
+        "categories": [
+          "Clock",
+          "Drip"
+        ],
+        "returned": [
+          "speech"
+        ]
+      },
+      {
+        "ids": [
+          "73419",
+          "418155"
+        ],
+        "categories": [
+          "Drip",
+          "Bark"
+        ],
+        "returned": []
+      }
+    ]
+  }
+}

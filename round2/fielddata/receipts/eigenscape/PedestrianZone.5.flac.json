@@ -1,0 +1,21 @@
+{
+  "id": "eigenscape/PedestrianZone.5.flac",
+  "dataset": "eigenscape",
+  "record": "2628463",
+  "member": "PedestrianZone.5.flac",
+  "source_offset_s": 0,
+  "duration_s": 8.0,
+  "rate": 48000,
+  "channels": 4,
+  "bytes": 2675479,
+  "sha256": "877481cb227ccfde250c45afeef57eb0db41b129e60713caf2d12b1ca76a73db",
+  "pcm_s32le_sha256": "e55d514013bda647fdd251e53c864abcf7ae7b5449eb72e112046b302ff631ee",
+  "archive_crc32": "0xe0eba97a",
+  "archive_range": [
+    5572717425,
+    5577966960
+  ],
+  "range_sha256": "7a55ee33de40279c78aaccfca0db5cbe23c2330bf8afd3dd27847e09c245f78b",
+  "path": "round2_data/field/eigenscape/PedestrianZone.5.flac.flac",
+  "license": "CC-BY-4.0"
+}

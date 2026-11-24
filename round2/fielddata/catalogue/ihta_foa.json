@@ -1,0 +1,725 @@
+{
+  "dataset": "ihta_foa",
+  "record": "11184517",
+  "url": "https://zenodo.org/api/records/11184517/files/FirstOrderAmbisonics.zip/content",
+  "archive": "FirstOrderAmbisonics.zip",
+  "archive_checksum": "md5:4552be91b606db15d9632cdcc095512e",
+  "full_zip_size": 2142898799,
+  "seconds": 4,
+  "files": [
+    {
+      "name": "FirstOrderAmbisonics/20220202_Wed_12h00_Pos1_30sec.wav",
+      "offset": 51,
+      "compressed": 21272746,
+      "method": 8,
+      "crc32": 238483094
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220202_Wed_12h00_Pos2_30sec.wav",
+      "offset": 21272881,
+      "compressed": 21283111,
+      "method": 8,
+      "crc32": 3968855652
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220202_Wed_12h00_Pos3_30sec.wav",
+      "offset": 42556076,
+      "compressed": 21358206,
+      "method": 8,
+      "crc32": 506500783
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220202_Wed_12h00_Pos4_30sec.wav",
+      "offset": 63914366,
+      "compressed": 21339967,
+      "method": 8,
+      "crc32": 2117378334
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220202_Wed_12h00_Pos5_30sec.wav",
+      "offset": 85254417,
+      "compressed": 21409664,
+      "method": 8,
+      "crc32": 444010949
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220203_Thu_09h00_Pos1_30sec.wav",
+      "offset": 106664165,
+      "compressed": 21233812,
+      "method": 8,
+      "crc32": 2012043589
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220203_Thu_09h00_Pos2_30sec.wav",
+      "offset": 127898061,
+      "compressed": 21217876,
+      "method": 8,
+      "crc32": 280562831
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220203_Thu_09h00_Pos3_30sec.wav",
+      "offset": 149116021,
+      "compressed": 21225000,
+      "method": 8,
+      "crc32": 2950265457
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220203_Thu_09h00_Pos4_30sec.wav",
+      "offset": 170341105,
+      "compressed": 21225862,
+      "method": 8,
+      "crc32": 3314423100
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220203_Thu_09h00_Pos5_30sec.wav",
+      "offset": 191567051,
+      "compressed": 21269504,
+      "method": 8,
+      "crc32": 483654766
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220204_Fri_11h30_Pos1_30sec.wav",
+      "offset": 212836639,
+      "compressed": 21312544,
+      "method": 8,
+      "crc32": 3904356576
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220204_Fri_11h30_Pos2_30sec.wav",
+      "offset": 234149267,
+      "compressed": 21201789,
+      "method": 8,
+      "crc32": 896983235
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220204_Fri_11h30_Pos3_30sec.wav",
+      "offset": 255351140,
+      "compressed": 21225785,
+      "method": 8,
+      "crc32": 3608066510
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220204_Fri_11h30_Pos5_30sec.wav",
+      "offset": 276577009,
+      "compressed": 21307180,
+      "method": 8,
+      "crc32": 2190791678
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220205_Sat_08h30_Pos1_30sec.wav",
+      "offset": 297884273,
+      "compressed": 21252449,
+      "method": 8,
+      "crc32": 1079478714
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220205_Sat_08h30_Pos2_30sec.wav",
+      "offset": 319136806,
+      "compressed": 21214350,
+      "method": 8,
+      "crc32": 1489319227
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220205_Sat_08h30_Pos3_30sec.wav",
+      "offset": 340351240,
+      "compressed": 21323890,
+      "method": 8,
+      "crc32": 1667017269
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220205_Sat_08h30_Pos4_30sec.wav",
+      "offset": 361675214,
+      "compressed": 21243357,
+      "method": 8,
+      "crc32": 3098791199
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220208_Tue_12h00_Pos1_30sec.wav",
+      "offset": 382918655,
+      "compressed": 21325813,
+      "method": 8,
+      "crc32": 1926376439
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220208_Tue_12h00_Pos2_30sec.wav",
+      "offset": 404244552,
+      "compressed": 21354632,
+      "method": 8,
+      "crc32": 2947541352
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220208_Tue_12h00_Pos3_30sec.wav",
+      "offset": 425599268,
+      "compressed": 21304969,
+      "method": 8,
+      "crc32": 2963979047
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220208_Tue_12h00_Pos4_30sec.wav",
+      "offset": 446904321,
+      "compressed": 21316326,
+      "method": 8,
+      "crc32": 3112260024
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220208_Tue_12h00_Pos5_30sec.wav",
+      "offset": 468220731,
+      "compressed": 21313620,
+      "method": 8,
+      "crc32": 2408442559
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220210_Thu_11h00_Pos1_30sec.wav",
+      "offset": 489534435,
+      "compressed": 21315990,
+      "method": 8,
+      "crc32": 319833822
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220210_Thu_11h00_Pos2_30sec.wav",
+      "offset": 510850509,
+      "compressed": 21317241,
+      "method": 8,
+      "crc32": 2635305003
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220210_Thu_11h00_Pos3_30sec.wav",
+      "offset": 532167834,
+      "compressed": 21326785,
+      "method": 8,
+      "crc32": 688887276
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220210_Thu_11h00_Pos4_30sec.wav",
+      "offset": 553494703,
+      "compressed": 21314569,
+      "method": 8,
+      "crc32": 3296034931
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220210_Thu_11h00_Pos5_30sec.wav",
+      "offset": 574809356,
+      "compressed": 21313638,
+      "method": 8,
+      "crc32": 444523734
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220211_Fri_17h00_Pos1_30sec.wav",
+      "offset": 596123078,
+      "compressed": 21380765,
+      "method": 8,
+      "crc32": 3258363236
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220211_Fri_17h00_Pos2_30sec.wav",
+      "offset": 617503927,
+      "compressed": 21324138,
+      "method": 8,
+      "crc32": 694716038
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220211_Fri_17h00_Pos3_30sec.wav",
+      "offset": 638828149,
+      "compressed": 21424578,
+      "method": 8,
+      "crc32": 861344253
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220211_Fri_17h00_Pos4_30sec.wav",
+      "offset": 660252811,
+      "compressed": 21351632,
+      "method": 8,
+      "crc32": 3684465927
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220211_Fri_17h00_Pos5_30sec.wav",
+      "offset": 681604527,
+      "compressed": 21405509,
+      "method": 8,
+      "crc32": 4089546595
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220212_Sat_16h30_Pos1_30sec.wav",
+      "offset": 703010120,
+      "compressed": 21372472,
+      "method": 8,
+      "crc32": 3663264219
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220212_Sat_16h30_Pos2_30sec.wav",
+      "offset": 724382676,
+      "compressed": 21287013,
+      "method": 8,
+      "crc32": 3281538861
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220212_Sat_16h30_Pos3_30sec.wav",
+      "offset": 745669773,
+      "compressed": 21304938,
+      "method": 8,
+      "crc32": 236097214
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220212_Sat_16h30_Pos4_30sec.wav",
+      "offset": 766974795,
+      "compressed": 21300617,
+      "method": 8,
+      "crc32": 3456285607
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220212_Sat_16h30_Pos5_30sec.wav",
+      "offset": 788275496,
+      "compressed": 21283217,
+      "method": 8,
+      "crc32": 3252268734
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220212_Sat_23h00_Pos1_30sec.wav",
+      "offset": 809558797,
+      "compressed": 21308765,
+      "method": 8,
+      "crc32": 1139672398
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220212_Sat_23h00_Pos2_30sec.wav",
+      "offset": 830867646,
+      "compressed": 21312069,
+      "method": 8,
+      "crc32": 3165144041
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220212_Sat_23h00_Pos3_30sec.wav",
+      "offset": 852179799,
+      "compressed": 21303114,
+      "method": 8,
+      "crc32": 3236662549
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220212_Sat_23h00_Pos4_30sec.wav",
+      "offset": 873482997,
+      "compressed": 21320492,
+      "method": 8,
+      "crc32": 509173738
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220212_Sat_23h00_Pos5_30sec.wav",
+      "offset": 894803573,
+      "compressed": 21330178,
+      "method": 8,
+      "crc32": 3023224163
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220213_Sun_10h00_Pos1_30sec.wav",
+      "offset": 916133835,
+      "compressed": 21297614,
+      "method": 8,
+      "crc32": 2815541184
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220213_Sun_10h00_Pos2_30sec.wav",
+      "offset": 937431533,
+      "compressed": 21319037,
+      "method": 8,
+      "crc32": 3876626502
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220213_Sun_10h00_Pos3_30sec.wav",
+      "offset": 958750654,
+      "compressed": 21319908,
+      "method": 8,
+      "crc32": 4261148611
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220213_Sun_10h00_Pos4_30sec.wav",
+      "offset": 980070646,
+      "compressed": 21333132,
+      "method": 8,
+      "crc32": 2868750625
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220213_Sun_10h00_Pos5_30sec.wav",
+      "offset": 1001403862,
+      "compressed": 21339063,
+      "method": 8,
+      "crc32": 1571296001
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220218_Fri_10h30_Pos1_30sec.wav",
+      "offset": 1022743009,
+      "compressed": 21308311,
+      "method": 8,
+      "crc32": 2181800112
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220420_Wed_17h30_Pos1_30sec.wav",
+      "offset": 1044051404,
+      "compressed": 19523858,
+      "method": 8,
+      "crc32": 1809620189
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220420_Wed_17h30_Pos2_30sec.wav",
+      "offset": 1063575346,
+      "compressed": 19593693,
+      "method": 8,
+      "crc32": 3071199218
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220420_Wed_17h30_Pos3_30sec.wav",
+      "offset": 1083169123,
+      "compressed": 19627042,
+      "method": 8,
+      "crc32": 1518860815
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220420_Wed_17h30_Pos4_30sec.wav",
+      "offset": 1102796249,
+      "compressed": 19588125,
+      "method": 8,
+      "crc32": 2098428211
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220420_Wed_17h30_Pos5_30sec.wav",
+      "offset": 1122384458,
+      "compressed": 19608318,
+      "method": 8,
+      "crc32": 2249195716
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220421_Thu_12h00_Pos1_30sec.wav",
+      "offset": 1141992860,
+      "compressed": 19607342,
+      "method": 8,
+      "crc32": 2359791230
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220421_Thu_12h00_Pos2_30sec.wav",
+      "offset": 1161600286,
+      "compressed": 19601971,
+      "method": 8,
+      "crc32": 3698706578
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220421_Thu_12h00_Pos3_30sec.wav",
+      "offset": 1181202341,
+      "compressed": 19661818,
+      "method": 8,
+      "crc32": 702010768
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220421_Thu_12h00_Pos4_30sec.wav",
+      "offset": 1200864243,
+      "compressed": 19611852,
+      "method": 8,
+      "crc32": 1142326017
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220421_Thu_12h00_Pos5_30sec.wav",
+      "offset": 1220476179,
+      "compressed": 19603014,
+      "method": 8,
+      "crc32": 4181100026
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220429_Fri_18h00_Pos1_30sec.wav",
+      "offset": 1240079277,
+      "compressed": 21460051,
+      "method": 8,
+      "crc32": 2944646197
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220429_Fri_18h00_Pos2_30sec.wav",
+      "offset": 1261539412,
+      "compressed": 21437024,
+      "method": 8,
+      "crc32": 4006882410
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220429_Fri_18h00_Pos3_30sec.wav",
+      "offset": 1282976520,
+      "compressed": 21431389,
+      "method": 8,
+      "crc32": 86905320
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220429_Fri_18h00_Pos4_30sec.wav",
+      "offset": 1304407993,
+      "compressed": 21318536,
+      "method": 8,
+      "crc32": 1652220579
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220429_Fri_18h00_Pos5_30sec.wav",
+      "offset": 1325726613,
+      "compressed": 21407064,
+      "method": 8,
+      "crc32": 2077321724
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220429_Fri_22h00_Pos1_30sec.wav",
+      "offset": 1347133761,
+      "compressed": 21441691,
+      "method": 8,
+      "crc32": 1221755200
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220429_Fri_22h00_Pos2_30sec.wav",
+      "offset": 1368575536,
+      "compressed": 21411596,
+      "method": 8,
+      "crc32": 1347253424
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220429_Fri_22h00_Pos3_30sec.wav",
+      "offset": 1389987216,
+      "compressed": 21418403,
+      "method": 8,
+      "crc32": 1744970191
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220429_Fri_22h00_Pos4_30sec.wav",
+      "offset": 1411405703,
+      "compressed": 21342727,
+      "method": 8,
+      "crc32": 114069026
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220429_Fri_22h00_Pos5_30sec.wav",
+      "offset": 1432748514,
+      "compressed": 21415288,
+      "method": 8,
+      "crc32": 369582727
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220430_Sat_08h00_Pos1_30sec.wav",
+      "offset": 1454163886,
+      "compressed": 21385772,
+      "method": 8,
+      "crc32": 3746507550
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220430_Sat_08h00_Pos2_30sec.wav",
+      "offset": 1475549742,
+      "compressed": 21343034,
+      "method": 8,
+      "crc32": 2149917579
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220430_Sat_08h00_Pos3_30sec.wav",
+      "offset": 1496892860,
+      "compressed": 21335097,
+      "method": 8,
+      "crc32": 1000499815
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220430_Sat_08h00_Pos4_30sec.wav",
+      "offset": 1518228041,
+      "compressed": 21320766,
+      "method": 8,
+      "crc32": 3799967904
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220430_Sat_08h00_Pos5_30sec.wav",
+      "offset": 1539548891,
+      "compressed": 21305510,
+      "method": 8,
+      "crc32": 4017976656
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220430_Sat_16h30_Pos1_30sec.wav",
+      "offset": 1560854485,
+      "compressed": 21407647,
+      "method": 8,
+      "crc32": 281783453
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220430_Sat_16h30_Pos2_30sec.wav",
+      "offset": 1582262216,
+      "compressed": 21304067,
+      "method": 8,
+      "crc32": 1413046924
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220430_Sat_16h30_Pos3_30sec.wav",
+      "offset": 1603566367,
+      "compressed": 21352078,
+      "method": 8,
+      "crc32": 2508591394
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220430_Sat_16h30_Pos4_30sec.wav",
+      "offset": 1624918529,
+      "compressed": 21357719,
+      "method": 8,
+      "crc32": 2840478434
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220430_Sat_16h30_Pos5_30sec.wav",
+      "offset": 1646276332,
+      "compressed": 21385846,
+      "method": 8,
+      "crc32": 3733901652
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220430_Sat_20h00_Pos2_30sec.wav",
+      "offset": 1667662262,
+      "compressed": 21349842,
+      "method": 8,
+      "crc32": 568293480
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220430_Sat_20h00_Pos3_30sec.wav",
+      "offset": 1689012188,
+      "compressed": 21297855,
+      "method": 8,
+      "crc32": 3908641308
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220430_Sat_20h00_Pos4_30sec.wav",
+      "offset": 1710310127,
+      "compressed": 21342981,
+      "method": 8,
+      "crc32": 4043689481
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220501_Sun_09h00_Pos1_30sec.wav",
+      "offset": 1731653192,
+      "compressed": 21412223,
+      "method": 8,
+      "crc32": 1695282223
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220501_Sun_09h00_Pos2_30sec.wav",
+      "offset": 1753065499,
+      "compressed": 21439267,
+      "method": 8,
+      "crc32": 2108209072
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220501_Sun_09h00_Pos3_30sec.wav",
+      "offset": 1774504850,
+      "compressed": 21404785,
+      "method": 8,
+      "crc32": 3280696758
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220501_Sun_09h00_Pos4_30sec.wav",
+      "offset": 1795909719,
+      "compressed": 21358234,
+      "method": 8,
+      "crc32": 1234960505
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220501_Sun_09h00_Pos5_30sec.wav",
+      "offset": 1817268037,
+      "compressed": 21425629,
+      "method": 8,
+      "crc32": 1786526677
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220502_Mon_06h30_Pos1_30sec.wav",
+      "offset": 1838693750,
+      "compressed": 21459367,
+      "method": 8,
+      "crc32": 3885386803
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220502_Mon_06h30_Pos2_30sec.wav",
+      "offset": 1860153201,
+      "compressed": 21430460,
+      "method": 8,
+      "crc32": 1128640780
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220502_Mon_06h30_Pos3_30sec.wav",
+      "offset": 1881583745,
+      "compressed": 21433615,
+      "method": 8,
+      "crc32": 1348132454
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220502_Mon_06h30_Pos4_30sec.wav",
+      "offset": 1903017444,
+      "compressed": 21439333,
+      "method": 8,
+      "crc32": 2771147547
+    },
+    {
+      "name": "FirstOrderAmbisonics/20220502_Mon_06h30_Pos5_30sec.wav",
+      "offset": 1924456861,
+      "compressed": 21392454,
+      "method": 8,
+      "crc32": 2063068472
+    },
+    {
+      "name": "FirstOrderAmbisonics/20221205_Mon_12h51_Pos1_30sec.wav",
+      "offset": 1945849399,
+      "compressed": 19731038,
+      "method": 8,
+      "crc32": 2202222212
+    },
+    {
+      "name": "FirstOrderAmbisonics/20221205_Mon_12h51_Pos2_30sec.wav",
+      "offset": 1965580521,
+      "compressed": 19708886,
+      "method": 8,
+      "crc32": 2821323199
+    },
+    {
+      "name": "FirstOrderAmbisonics/20221205_Mon_12h51_Pos3_30sec.wav",
+      "offset": 1985289491,
+      "compressed": 19697075,
+      "method": 8,
+      "crc32": 193884913
+    },
+    {
+      "name": "FirstOrderAmbisonics/20221205_Mon_12h51_Pos4_30sec.wav",
+      "offset": 2004986650,
+      "compressed": 19681337,
+      "method": 8,
+      "crc32": 982771103
+    },
+    {
+      "name": "FirstOrderAmbisonics/20221205_Mon_12h51_Pos5_30sec.wav",
+      "offset": 2024668071,
+      "compressed": 19540607,
+      "method": 8,
+      "crc32": 1977808136
+    },
+    {
+      "name": "FirstOrderAmbisonics/20221215_Thu_12h27_Pos1_30sec.wav",
+      "offset": 2044208762,
+      "compressed": 19742195,
+      "method": 8,
+      "crc32": 2568453800
+    },
+    {
+      "name": "FirstOrderAmbisonics/20221215_Thu_12h27_Pos2_30sec.wav",
+      "offset": 2063951041,
+      "compressed": 19731554,
+      "method": 8,
+      "crc32": 4005726528
+    },
+    {
+      "name": "FirstOrderAmbisonics/20221215_Thu_12h27_Pos3_30sec.wav",
+      "offset": 2083682679,
+      "compressed": 19716064,
+      "method": 8,
+      "crc32": 3778586507
+    },
+    {
+      "name": "FirstOrderAmbisonics/20221215_Thu_12h27_Pos4_30sec.wav",
+      "offset": 2103398827,
+      "compressed": 19712859,
+      "method": 8,
+      "crc32": 2046496639
+    },
+    {
+      "name": "FirstOrderAmbisonics/20221215_Thu_12h27_Pos5_30sec.wav",
+      "offset": 2123111770,
+      "compressed": 19772948,
+      "method": 8,
+      "crc32": 3139587026
+    }
+  ]
+}

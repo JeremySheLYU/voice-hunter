@@ -1,0 +1,52 @@
+[
+  {
+    "check": "existing-mode-discovery",
+    "passed": true,
+    "archive_sha256": "bb00955d19d4d2feed727ba5ddd0276e7874075ba118cd76434f0d2a5e8abcd6",
+    "published_modes": [
+      "auto",
+      "example",
+      "rnnoise",
+      "spatial-example",
+      "speakers",
+      "speakers_moving"
+    ]
+  },
+  {
+    "check": "legacy-example-byte-stability",
+    "passed": true,
+    "matched_files": [
+      "target.wav",
+      "remaining.wav",
+      "remix.wav",
+      "settings.json"
+    ],
+    "codes": [
+      0,
+      0
+    ]
+  },
+  {
+    "check": "legacy-speakers-byte-stability",
+    "passed": true,
+    "matched_files": [
+      "target.wav",
+      "remaining.wav",
+      "remix.wav",
+      "settings.json"
+    ],
+    "codes": [
+      0,
+      0
+    ]
+  },
+  {
+    "check": "legacy-apple-route",
+    "passed": true,
+    "codes": [
+      0,
+      0
+    ],
+    "outcome": "returned"
+  }
+]

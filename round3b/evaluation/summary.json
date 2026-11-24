@@ -1,0 +1,12 @@
+{
+  "mode": "insufficient",
+  "eligible": {
+    "guitar": 2,
+    "piano": 0,
+    "speech": 118,
+    "train": 2,
+    "wind": 15
+  },
+  "evaluated_per_class": 0,
+  "predeclared_primary_gate_met": false
+}

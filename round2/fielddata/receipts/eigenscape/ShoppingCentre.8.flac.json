@@ -1,0 +1,21 @@
+{
+  "id": "eigenscape/ShoppingCentre.8.flac",
+  "dataset": "eigenscape",
+  "record": "2628463",
+  "member": "ShoppingCentre.8.flac",
+  "source_offset_s": 0,
+  "duration_s": 8.0,
+  "rate": 48000,
+  "channels": 4,
+  "bytes": 2851834,
+  "sha256": "4f14b7d17850a0d7ac2cf1504dd6daed9224710fd8c76b955f749cd83f7e89bd",
+  "pcm_s32le_sha256": "1d239225467093d93a4ff68ff4c2515f0e63a9ee762a4e17dce3c9d64077cd2c",
+  "archive_crc32": "0xfceb60c2",
+  "archive_range": [
+    9306115463,
+    9311364998
+  ],
+  "range_sha256": "65e6c5d4d0ebf509ee76c320c544ad0be2cee3701da8fa13f14520765ad2b7b8",
+  "path": "round2_data/field/eigenscape/ShoppingCentre.8.flac.flac",
+  "license": "CC-BY-4.0"
+}

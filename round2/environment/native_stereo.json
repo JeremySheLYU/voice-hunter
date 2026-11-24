@@ -1,0 +1,838 @@
+{
+  "test_inventory": 17,
+  "eligible_native": 16,
+  "excluded": [
+    {
+      "id": "405262",
+      "reason": "nearly duplicate channels",
+      "side_ratio_db": -55.63561248779297
+    }
+  ],
+  "unique_test_sources": 16,
+  "adaptive_used": 0,
+  "baseline": {
+    "n": 12,
+    "scene_pass": 4,
+    "track_pass": 23,
+    "mean_worst": -0.3271351096957274,
+    "median": 5.0043710432949835,
+    "worst": -16.44237782486851,
+    "mean": 4.9051581366964525
+  },
+  "estimate": {
+    "n": 12,
+    "scene_pass": 4,
+    "track_pass": 23,
+    "mean_worst": -0.3271351096957274,
+    "median": 5.0043710432949835,
+    "worst": -16.44237782486851,
+    "mean": 4.9051581366964525
+  },
+  "model_sha": "d38c86403627c08f75726c6689b109a6bf0b16d278425d6c61882179d20df928",
+  "cases": [
+    {
+      "sources": [
+        {
+          "id": "52081",
+          "author": "guitarguy1985",
+          "category": "guitar",
+          "offsets": [
+            65280,
+            215356
+          ]
+        },
+        {
+          "id": "177828",
+          "author": "joabir",
+          "category": "piano",
+          "offsets": [
+            122880,
+            245760
+          ]
+        },
+        {
+          "id": "33474",
+          "author": "hello_flowers",
+          "category": "speech",
+          "offsets": [
+            103680,
+            380160
+          ]
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -3.031039251730627,
+          "estimated_sisdr": -1.7309625426084863,
+          "improvement": 1.3000767091221406
+        },
+        {
+          "input_sisdr": -3.025234510402292,
+          "estimated_sisdr": -3.816954407154214,
+          "improvement": -0.7917198967519217
+        },
+        {
+          "input_sisdr": -2.966429358919356,
+          "estimated_sisdr": 3.587103414924371,
+          "improvement": 6.5535327738437275
+        }
+      ],
+      "estimate": [
+        {
+          "input_sisdr": -3.031039251730627,
+          "estimated_sisdr": -1.7309625426084863,
+          "improvement": 1.3000767091221406
+        },
+        {
+          "input_sisdr": -3.025234510402292,
+          "estimated_sisdr": -3.816954407154214,
+          "improvement": -0.7917198967519217
+        },
+        {
+          "input_sisdr": -2.966429358919356,
+          "estimated_sisdr": 3.587103414924371,
+          "improvement": 6.5535327738437275
+        }
+      ],
+      "spatial_used": false,
+      "max_sum_error": 7.450580596923828e-09
+    },
+    {
+      "sources": [
+        {
+          "id": "254778",
+          "author": "GreekIrish",
+          "category": "train",
+          "offsets": [
+            142080,
+            318720
+          ]
+        },
+        {
+          "id": "395684",
+          "author": "columbia23",
+          "category": "wind",
+          "offsets": [
+            134400,
+            330240
+          ]
+        },
+        {
+          "id": "401692",
+          "author": "heitormar",
+          "category": "guitar",
+          "offsets": [
+            26880,
+            126589
+          ]
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -2.485529229247133,
+          "estimated_sisdr": 6.789407433613288,
+          "improvement": 9.274936662860421
+        },
+        {
+          "input_sisdr": -2.84075576274121,
+          "estimated_sisdr": -0.16842879183616824,
+          "improvement": 2.6723269709050417
+        },
+        {
+          "input_sisdr": -4.056499684965429,
+          "estimated_sisdr": 4.2539701088756505,
+          "improvement": 8.31046979384108
+        }
+      ],
+      "estimate": [
+        {
+          "input_sisdr": -2.485529229247133,
+          "estimated_sisdr": 6.789407433613288,
+          "improvement": 9.274936662860421
+        },
+        {
+          "input_sisdr": -2.84075576274121,
+          "estimated_sisdr": -0.16842879183616824,
+          "improvement": 2.6723269709050417
+        },
+        {
+          "input_sisdr": -4.056499684965429,
+          "estimated_sisdr": 4.2539701088756505,
+          "improvement": 8.31046979384108
+        }
+      ],
+      "spatial_used": false,
+      "max_sum_error": 3.725290298461914e-09
+    },
+    {
+      "sources": [
+        {
+          "id": "177229",
+          "author": "HojnyTomasz",
+          "category": "piano",
+          "offsets": [
+            134400,
+            215040
+          ]
+        },
+        {
+          "id": "87681",
+          "author": "flogman",
+          "category": "speech",
+          "offsets": [
+            11520,
+            169484
+          ]
+        },
+        {
+          "id": "396982",
+          "author": "macdaddyno1",
+          "category": "train",
+          "offsets": [
+            30720,
+            199680
+          ]
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -3.4857440036098577,
+          "estimated_sisdr": -1.6114635452902752,
+          "improvement": 1.8742804583195825
+        },
+        {
+          "input_sisdr": -2.84292524310789,
+          "estimated_sisdr": 1.0235437723453586,
+          "improvement": 3.866469015453249
+        },
+        {
+          "input_sisdr": -3.1592234944235487,
+          "estimated_sisdr": -0.7537865609960931,
+          "improvement": 2.4054369334274557
+        }
+      ],
+      "estimate": [
+        {
+          "input_sisdr": -3.4857440036098577,
+          "estimated_sisdr": -1.6114635452902752,
+          "improvement": 1.8742804583195825
+        },
+        {
+          "input_sisdr": -2.84292524310789,
+          "estimated_sisdr": 1.0235437723453586,
+          "improvement": 3.866469015453249
+        },
+        {
+          "input_sisdr": -3.1592234944235487,
+          "estimated_sisdr": -0.7537865609960931,
+          "improvement": 2.4054369334274557
+        }
+      ],
+      "spatial_used": false,
+      "max_sum_error": 3.725290298461914e-09
+    },
+    {
+      "sources": [
+        {
+          "id": "386515",
+          "author": "iimck",
+          "category": "wind",
+          "offsets": [
+            46080,
+            326400
+          ]
+        },
+        {
+          "id": "101383",
+          "author": "bnicole2022",
+          "category": "piano",
+          "offsets": [
+            130560,
+            268800
+          ]
+        },
+        {
+          "id": "330660",
+          "author": "drlids",
+          "category": "train",
+          "offsets": [
+            3840,
+            606720
+          ]
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -2.9676486377766063,
+          "estimated_sisdr": 4.706337709931011,
+          "improvement": 7.673986347707618
+        },
+        {
+          "input_sisdr": -3.35358199189775,
+          "estimated_sisdr": 11.803795990105684,
+          "improvement": 15.157377982003434
+        },
+        {
+          "input_sisdr": -2.89711924756026,
+          "estimated_sisdr": -18.2900685475514,
+          "improvement": -15.39294929999114
+        }
+      ],
+      "estimate": [
+        {
+          "input_sisdr": -2.9676486377766063,
+          "estimated_sisdr": 4.706337709931011,
+          "improvement": 7.673986347707618
+        },
+        {
+          "input_sisdr": -3.35358199189775,
+          "estimated_sisdr": 11.803795990105684,
+          "improvement": 15.157377982003434
+        },
+        {
+          "input_sisdr": -2.89711924756026,
+          "estimated_sisdr": -18.2900685475514,
+          "improvement": -15.39294929999114
+        }
+      ],
+      "spatial_used": false,
+      "max_sum_error": 2.1832420316059142e-08
+    },
+    {
+      "sources": [
+        {
+          "id": "16799",
+          "author": "mattfl",
+          "category": "wind",
+          "offsets": [
+            19200,
+            380160
+          ]
+        },
+        {
+          "id": "70214",
+          "author": "QLC",
+          "category": "piano",
+          "offsets": [
+            111360,
+            196430
+          ]
+        },
+        {
+          "id": "381702",
+          "author": "bengomori",
+          "category": "train",
+          "offsets": [
+            142080,
+            360960
+          ]
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -3.107424270025891,
+          "estimated_sisdr": 3.1181651921240956,
+          "improvement": 6.225589462149987
+        },
+        {
+          "input_sisdr": -2.8847817991676337,
+          "estimated_sisdr": 7.513134029191724,
+          "improvement": 10.397915828359357
+        },
+        {
+          "input_sisdr": -3.0775731882590995,
+          "estimated_sisdr": 2.06363544583145,
+          "improvement": 5.14120863409055
+        }
+      ],
+      "estimate": [
+        {
+          "input_sisdr": -3.107424270025891,
+          "estimated_sisdr": 3.1181651921240956,
+          "improvement": 6.225589462149987
+        },
+        {
+          "input_sisdr": -2.8847817991676337,
+          "estimated_sisdr": 7.513134029191724,
+          "improvement": 10.397915828359357
+        },
+        {
+          "input_sisdr": -3.0775731882590995,
+          "estimated_sisdr": 2.06363544583145,
+          "improvement": 5.14120863409055
+        }
+      ],
+      "spatial_used": false,
+      "max_sum_error": 1.862645149230957e-09
+    },
+    {
+      "sources": [
+        {
+          "id": "382591",
+          "author": "macdaddyno1",
+          "category": "wind",
+          "offsets": [
+            72960,
+            637440
+          ]
+        },
+        {
+          "id": "52081",
+          "author": "guitarguy1985",
+          "category": "guitar",
+          "offsets": [
+            65280,
+            215356
+          ]
+        },
+        {
+          "id": "177828",
+          "author": "joabir",
+          "category": "piano",
+          "offsets": [
+            122880,
+            245760
+          ]
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -2.9932526261463597,
+          "estimated_sisdr": 16.50048945581422,
+          "improvement": 19.493742081960576
+        },
+        {
+          "input_sisdr": -3.077833819453354,
+          "estimated_sisdr": -0.9118522840886877,
+          "improvement": 2.1659815353646663
+        },
+        {
+          "input_sisdr": -2.9838025204633793,
+          "estimated_sisdr": -3.6198536429199013,
+          "improvement": -0.636051122456522
+        }
+      ],
+      "estimate": [
+        {
+          "input_sisdr": -2.9932526261463597,
+          "estimated_sisdr": 16.50048945581422,
+          "improvement": 19.493742081960576
+        },
+        {
+          "input_sisdr": -3.077833819453354,
+          "estimated_sisdr": -0.9118522840886877,
+          "improvement": 2.1659815353646663
+        },
+        {
+          "input_sisdr": -2.9838025204633793,
+          "estimated_sisdr": -3.6198536429199013,
+          "improvement": -0.636051122456522
+        }
+      ],
+      "spatial_used": false,
+      "max_sum_error": 1.862645149230957e-09
+    },
+    {
+      "sources": [
+        {
+          "id": "33474",
+          "author": "hello_flowers",
+          "category": "speech",
+          "offsets": [
+            103680,
+            380160
+          ]
+        },
+        {
+          "id": "254778",
+          "author": "GreekIrish",
+          "category": "train",
+          "offsets": [
+            142080,
+            318720
+          ]
+        },
+        {
+          "id": "395684",
+          "author": "columbia23",
+          "category": "wind",
+          "offsets": [
+            134400,
+            330240
+          ]
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -3.3564552106205703,
+          "estimated_sisdr": -3.9440384521289475,
+          "improvement": -0.5875832415083773
+        },
+        {
+          "input_sisdr": -3.073324468877904,
+          "estimated_sisdr": 0.23603622340365102,
+          "improvement": 3.309360692281555
+        },
+        {
+          "input_sisdr": -2.863045632091773,
+          "estimated_sisdr": -2.539989142064416,
+          "improvement": 0.32305649002735715
+        }
+      ],
+      "estimate": [
+        {
+          "input_sisdr": -3.3564552106205703,
+          "estimated_sisdr": -3.9440384521289475,
+          "improvement": -0.5875832415083773
+        },
+        {
+          "input_sisdr": -3.073324468877904,
+          "estimated_sisdr": 0.23603622340365102,
+          "improvement": 3.309360692281555
+        },
+        {
+          "input_sisdr": -2.863045632091773,
+          "estimated_sisdr": -2.539989142064416,
+          "improvement": 0.32305649002735715
+        }
+      ],
+      "spatial_used": false,
+      "max_sum_error": 3.725290298461914e-09
+    },
+    {
+      "sources": [
+        {
+          "id": "401692",
+          "author": "heitormar",
+          "category": "guitar",
+          "offsets": [
+            26880,
+            126589
+          ]
+        },
+        {
+          "id": "177229",
+          "author": "HojnyTomasz",
+          "category": "piano",
+          "offsets": [
+            134400,
+            215040
+          ]
+        },
+        {
+          "id": "87681",
+          "author": "flogman",
+          "category": "speech",
+          "offsets": [
+            11520,
+            169484
+          ]
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -3.643731132520794,
+          "estimated_sisdr": 8.2812451856624,
+          "improvement": 11.924976318183194
+        },
+        {
+          "input_sisdr": -3.066607700413892,
+          "estimated_sisdr": 0.2675109216432896,
+          "improvement": 3.334118622057182
+        },
+        {
+          "input_sisdr": -2.6159935905711573,
+          "estimated_sisdr": 2.9989656571536507,
+          "improvement": 5.6149592477248085
+        }
+      ],
+      "estimate": [
+        {
+          "input_sisdr": -3.643731132520794,
+          "estimated_sisdr": 8.2812451856624,
+          "improvement": 11.924976318183194
+        },
+        {
+          "input_sisdr": -3.066607700413892,
+          "estimated_sisdr": 0.2675109216432896,
+          "improvement": 3.334118622057182
+        },
+        {
+          "input_sisdr": -2.6159935905711573,
+          "estimated_sisdr": 2.9989656571536507,
+          "improvement": 5.6149592477248085
+        }
+      ],
+      "spatial_used": false,
+      "max_sum_error": 1.862645149230957e-09
+    },
+    {
+      "sources": [
+        {
+          "id": "396982",
+          "author": "macdaddyno1",
+          "category": "train",
+          "offsets": [
+            30720,
+            199680
+          ]
+        },
+        {
+          "id": "386515",
+          "author": "iimck",
+          "category": "wind",
+          "offsets": [
+            46080,
+            326400
+          ]
+        },
+        {
+          "id": "101383",
+          "author": "bnicole2022",
+          "category": "piano",
+          "offsets": [
+            130560,
+            268800
+          ]
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -3.094731821654826,
+          "estimated_sisdr": 5.716865983267866,
+          "improvement": 8.811597804922691
+        },
+        {
+          "input_sisdr": -2.6428251727087204,
+          "estimated_sisdr": 17.050035573013922,
+          "improvement": 19.69286074572264
+        },
+        {
+          "input_sisdr": -3.483406527048931,
+          "estimated_sisdr": 5.474569830466397,
+          "improvement": 8.957976357515328
+        }
+      ],
+      "estimate": [
+        {
+          "input_sisdr": -3.094731821654826,
+          "estimated_sisdr": 5.716865983267866,
+          "improvement": 8.811597804922691
+        },
+        {
+          "input_sisdr": -2.6428251727087204,
+          "estimated_sisdr": 17.050035573013922,
+          "improvement": 19.69286074572264
+        },
+        {
+          "input_sisdr": -3.483406527048931,
+          "estimated_sisdr": 5.474569830466397,
+          "improvement": 8.957976357515328
+        }
+      ],
+      "spatial_used": false,
+      "max_sum_error": 3.725290298461914e-09
+    },
+    {
+      "sources": [
+        {
+          "id": "330660",
+          "author": "drlids",
+          "category": "train",
+          "offsets": [
+            3840,
+            606720
+          ]
+        },
+        {
+          "id": "16799",
+          "author": "mattfl",
+          "category": "wind",
+          "offsets": [
+            19200,
+            380160
+          ]
+        },
+        {
+          "id": "70214",
+          "author": "QLC",
+          "category": "piano",
+          "offsets": [
+            111360,
+            196430
+          ]
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -2.8788689504196094,
+          "estimated_sisdr": -19.32124677528812,
+          "improvement": -16.44237782486851
+        },
+        {
+          "input_sisdr": -3.3663381008311335,
+          "estimated_sisdr": 1.9698619002227082,
+          "improvement": 5.336200001053841
+        },
+        {
+          "input_sisdr": -2.9507640485411972,
+          "estimated_sisdr": 1.9167694039582206,
+          "improvement": 4.867533452499417
+        }
+      ],
+      "estimate": [
+        {
+          "input_sisdr": -2.8788689504196094,
+          "estimated_sisdr": -19.32124677528812,
+          "improvement": -16.44237782486851
+        },
+        {
+          "input_sisdr": -3.3663381008311335,
+          "estimated_sisdr": 1.9698619002227082,
+          "improvement": 5.336200001053841
+        },
+        {
+          "input_sisdr": -2.9507640485411972,
+          "estimated_sisdr": 1.9167694039582206,
+          "improvement": 4.867533452499417
+        }
+      ],
+      "spatial_used": false,
+      "max_sum_error": 2.3187567421700805e-08
+    },
+    {
+      "sources": [
+        {
+          "id": "381702",
+          "author": "bengomori",
+          "category": "train",
+          "offsets": [
+            142080,
+            360960
+          ]
+        },
+        {
+          "id": "382591",
+          "author": "macdaddyno1",
+          "category": "wind",
+          "offsets": [
+            72960,
+            637440
+          ]
+        },
+        {
+          "id": "52081",
+          "author": "guitarguy1985",
+          "category": "guitar",
+          "offsets": [
+            65280,
+            215356
+          ]
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -3.3489838506346015,
+          "estimated_sisdr": 3.238081225909253,
+          "improvement": 6.587065076543855
+        },
+        {
+          "input_sisdr": -3.305559117394626,
+          "estimated_sisdr": 3.2469708028581783,
+          "improvement": 6.5525299202528045
+        },
+        {
+          "input_sisdr": -2.7592396824632273,
+          "estimated_sisdr": 12.010196372096686,
+          "improvement": 14.769436054559915
+        }
+      ],
+      "estimate": [
+        {
+          "input_sisdr": -3.3489838506346015,
+          "estimated_sisdr": 3.238081225909253,
+          "improvement": 6.587065076543855
+        },
+        {
+          "input_sisdr": -3.305559117394626,
+          "estimated_sisdr": 3.2469708028581783,
+          "improvement": 6.5525299202528045
+        },
+        {
+          "input_sisdr": -2.7592396824632273,
+          "estimated_sisdr": 12.010196372096686,
+          "improvement": 14.769436054559915
+        }
+      ],
+      "spatial_used": false,
+      "max_sum_error": 1.862645149230957e-09
+    },
+    {
+      "sources": [
+        {
+          "id": "177828",
+          "author": "joabir",
+          "category": "piano",
+          "offsets": [
+            122880,
+            245760
+          ]
+        },
+        {
+          "id": "33474",
+          "author": "hello_flowers",
+          "category": "speech",
+          "offsets": [
+            103680,
+            380160
+          ]
+        },
+        {
+          "id": "254778",
+          "author": "GreekIrish",
+          "category": "train",
+          "offsets": [
+            142080,
+            318720
+          ]
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -2.9278904072681704,
+          "estimated_sisdr": -1.3888927485882792,
+          "improvement": 1.5389976586798912
+        },
+        {
+          "input_sisdr": -3.2256382417926255,
+          "estimated_sisdr": 0.7969969370766016,
+          "improvement": 4.022635178869227
+        },
+        {
+          "input_sisdr": -3.2678184014677476,
+          "estimated_sisdr": -0.9880789051216038,
+          "improvement": 2.279739496346144
+        }
+      ],
+      "estimate": [
+        {
+          "input_sisdr": -2.9278904072681704,
+          "estimated_sisdr": -1.3888927485882792,
+          "improvement": 1.5389976586798912
+        },
+        {
+          "input_sisdr": -3.2256382417926255,
+          "estimated_sisdr": 0.7969969370766016,
+          "improvement": 4.022635178869227
+        },
+        {
+          "input_sisdr": -3.2678184014677476,
+          "estimated_sisdr": -0.9880789051216038,
+          "improvement": 2.279739496346144
+        }
+      ],
+      "spatial_used": false,
+      "max_sum_error": 7.450580596923828e-09
+    }
+  ]
+}

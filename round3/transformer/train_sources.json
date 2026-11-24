@@ -1,0 +1,602 @@
+[
+  {
+    "id": "266476",
+    "category": "guitar",
+    "author": "kubriel",
+    "sha256": "290e9d9db249e9b976d087a354e83a1a096c877ae766bfc4b1e841d2e231c403",
+    "path": "round3_data/environment/guitar/266476.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "97769",
+    "category": "guitar",
+    "author": "timcam",
+    "sha256": "b8eae012ef3d7b295bd2ecd672aa10a194e5b3e0005ab35dcbd43722ba59591f",
+    "path": "round2_data/environment/guitar/97769.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "368089",
+    "category": "guitar",
+    "author": "nsauzede",
+    "sha256": "61c712c3321403826c4da21c3ada9af8b6f2555b27dceda94959eca6890dc62e",
+    "path": "round3_data/environment/guitar/368089.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "141186",
+    "category": "guitar",
+    "author": "splurgo",
+    "sha256": "fa381ef7ffbd8e0b7124150cf32d189648efd7ba94844c0d8510d9b704f03eb7",
+    "path": "round3_data/environment/guitar/141186.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "135703",
+    "category": "guitar",
+    "author": "univ_lyon3",
+    "sha256": "44b0d3e5a6f7bb946388d9b79ca95793f590f6828c547c99e8ad19d0a2c80dda",
+    "path": "round3_data/environment/guitar/135703.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "130468",
+    "category": "guitar",
+    "author": "be-steele",
+    "sha256": "0b3230ffeb08d7e80a13b75fa09b7f71c07b18e82cb0a594423814af599ef52e",
+    "path": "round3_data/environment/guitar/130468.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "324059",
+    "category": "guitar",
+    "author": "Corsica_S",
+    "sha256": "c611caa35a275b9a8296fb944dcc42b4b61619ae72aab76421f1e1278737bdcc",
+    "path": "round2_data/environment/guitar/324059.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "45584",
+    "category": "guitar",
+    "author": "walkerbelm",
+    "sha256": "264a27e32e63e933bbc29db4074b53c8868a8f56a2b02baafd38482f4175d9a6",
+    "path": "round2_data/environment/guitar/45584.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "211963",
+    "category": "guitar",
+    "author": "maurolupo",
+    "sha256": "463aa3ff946fafb6cd15da664a53f7140a050a6afd508bdf673f7ee0a15b308d",
+    "path": "round3_data/environment/guitar/211963.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "60138",
+    "category": "guitar",
+    "author": "uzerx",
+    "sha256": "9e0b508417daa7bf665c4eae44257e9cb71a88cd0700c25f36b2e57287d67125",
+    "path": "round3_data/environment/guitar/60138.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "40423",
+    "category": "guitar",
+    "author": "hubertmichel",
+    "sha256": "e080676bbc012b24b0e032d1cde564d1a32f6b5eabc403d7c8cd2cb17f7e91ca",
+    "path": "round3_data/environment/guitar/40423.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "256506",
+    "category": "guitar",
+    "author": "smart61",
+    "sha256": "2bbb46f1ac194b059fc71faf582b82a7491816197aee72104e931ef7b63ded1c",
+    "path": "round3_data/environment/guitar/256506.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "321268",
+    "category": "guitar",
+    "author": "Rgoldkind",
+    "sha256": "d806f186b881cb427053c13cd05bebbfa210c5f8336ccdbf0df108e56b0b6426",
+    "path": "round3_data/environment/guitar/321268.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "333247",
+    "category": "guitar",
+    "author": "alexnekita",
+    "sha256": "fa14b4f8c466d170dadbcb51477013fa971be111b914c2d71aa08f0254e47f81",
+    "path": "round3_data/environment/guitar/333247.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "127336",
+    "category": "guitar",
+    "author": "arightwizard",
+    "sha256": "53664830e7e37342d5a97dd7263f8ac38b1df290ebf0942764eb6f7b49973f4d",
+    "path": "round2_data/environment/guitar/127336.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "214416",
+    "category": "piano",
+    "author": "keinzweiter",
+    "sha256": "006db8d9b750b472d00b9fa78e73578ff2d18dc6ddaf0ca8611738bc9c6c3cff",
+    "path": "round3_data/environment/piano/214416.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "412332",
+    "category": "piano",
+    "author": "clemza",
+    "sha256": "c83c229ea513288d2973bd83c0128b0ad71b8ca6bef1259bcbd3c57f738c3ac8",
+    "path": "round2_data/environment/piano/412332.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "381293",
+    "category": "piano",
+    "author": "visual",
+    "sha256": "44acb0aa8dcb14ed4e76533781a33c2e97c23d5fa749be4c1edab2d74aca346d",
+    "path": "round3_data/environment/piano/381293.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "319585",
+    "category": "piano",
+    "author": "visual",
+    "sha256": "de1698f7f119b3054245bbaebcaba2d83d578223768e304ba0bb8719b93e6bed",
+    "path": "round3_data/environment/piano/319585.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "85321",
+    "category": "piano",
+    "author": "RandyMcMillan",
+    "sha256": "169f77a258227071009704b9f958dba46898c9d8170725a88d8b482d6392238f",
+    "path": "round3_data/environment/piano/85321.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "363684",
+    "category": "piano",
+    "author": "Noedell",
+    "sha256": "9ff106469385907cddd8b9f41ade27ff99a4de9ca2cffa6a8ed7c781c638fe18",
+    "path": "round3_data/environment/piano/363684.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "316631",
+    "category": "piano",
+    "author": "benjaminharveydesign",
+    "sha256": "5abe44eb124078bb175451230cb019b3f244e50069965e6040fd65282779e941",
+    "path": "round3_data/environment/piano/316631.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "28630",
+    "category": "piano",
+    "author": "thanvannispen",
+    "sha256": "0a22c8d88c46c962a4cb0b214f5e7c24500f4c449264e950a5b9320dbe6e912e",
+    "path": "round3_data/environment/piano/28630.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "363694",
+    "category": "piano",
+    "author": "Noedell",
+    "sha256": "8a8401971dd3ef6434bedb4db950d34620620dd5058ab08eaca3ab9d743e63d7",
+    "path": "round3_data/environment/piano/363694.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "253250",
+    "category": "piano",
+    "author": "poissonmort",
+    "sha256": "075eed98d8cf187696b5ee482fc29af6e8c092276b6d910a653da4b50508d105",
+    "path": "round3_data/environment/piano/253250.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "367533",
+    "category": "piano",
+    "author": "leewarner",
+    "sha256": "21c568d2e7cd377fcb84841735e050fbda68f468e1fcff6c445af4b584fe585d",
+    "path": "round3_data/environment/piano/367533.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "132053",
+    "category": "piano",
+    "author": "keplar",
+    "sha256": "12f2fe5b029acd817ed1d9a0bc587a0fb707f1b1b66e20751e185ad7020bb7bd",
+    "path": "round2_data/environment/piano/132053.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "322275",
+    "category": "piano",
+    "author": "rhodesmas",
+    "sha256": "7d32c440e59a79955ebc4d14855c36c4718765bfa7eb112e5cfa61fb05d87148",
+    "path": "round3_data/environment/piano/322275.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "253253",
+    "category": "piano",
+    "author": "poissonmort",
+    "sha256": "59c39088e0abe0b6c6d33bed50c7e2af9455e4fcf94466563ad23c50e49b8eb0",
+    "path": "round3_data/environment/piano/253253.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "351328",
+    "category": "piano",
+    "author": "Zodoz",
+    "sha256": "c5bd75218ac1279d866cbd065527be698d5b200851048419f029f29171c28211",
+    "path": "round3_data/environment/piano/351328.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "196382",
+    "category": "speech",
+    "author": "Jaturo",
+    "sha256": "d4e4ba58e0f982260b0ba25f1f6e9b88d779e87924416aa27d5f9f8305ef8754",
+    "path": "round3_data/environment/speech/196382.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "340165",
+    "category": "speech",
+    "author": "Cell31_Sound_Productions",
+    "sha256": "07d296dd7ddcd35d3260f61c3a0d8f2bf46d2d09fe61873926b71a9421fb8cfb",
+    "path": "round3_data/environment/speech/340165.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "258102",
+    "category": "speech",
+    "author": "mauress",
+    "sha256": "a1c47d5f8c412a545eb613914087284ef2f9b2fe1f121227d073e444ba4fcbcc",
+    "path": "round3_data/environment/speech/258102.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "246318",
+    "category": "speech",
+    "author": "Borys_Kozielski",
+    "sha256": "2a4d8efed09d44e654120ecb3f8c78918680f58602dd54791da1324d7213aab3",
+    "path": "round3_data/environment/speech/246318.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "174627",
+    "category": "speech",
+    "author": "altfuture",
+    "sha256": "ac6e1750888e834c07488abbae8e787caaaaf4e99638cb8ee006fc33755823eb",
+    "path": "round3_data/environment/speech/174627.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "166438",
+    "category": "speech",
+    "author": "ultradust",
+    "sha256": "465feb6df85853ae86515e7c6f2c19f54317c4377a10f0a550bb1ea302516611",
+    "path": "round3_data/environment/speech/166438.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "271630",
+    "category": "speech",
+    "author": "carmsie",
+    "sha256": "a7546872dd6963de4aa424ecdff6464404069d1817f2f47612732f2204874e53",
+    "path": "round2_data/environment/speech/271630.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "116390",
+    "category": "speech",
+    "author": "FunnyMan374",
+    "sha256": "ea521d689d5262b83b15750c27be9d9e280998898550c03c2285daa1e86758db",
+    "path": "round3_data/environment/speech/116390.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "232176",
+    "category": "speech",
+    "author": "nick121087",
+    "sha256": "c1270fe44e33f2b0eea8f493def4556a0345cb75001ed043ea34f03064a517bf",
+    "path": "round3_data/environment/speech/232176.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "337723",
+    "category": "speech",
+    "author": "schroedel",
+    "sha256": "bbc928276faba2674372985d1bc81a4abece5c1db7a1a385515ea60a8d4213a9",
+    "path": "round3_data/environment/speech/337723.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "90738",
+    "category": "speech",
+    "author": "Teron",
+    "sha256": "b3d0ec43e8b0e272a1da3f994bcacb0a432e33078d458e717256eaf19520d5d9",
+    "path": "round3_data/environment/speech/90738.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "136427",
+    "category": "speech",
+    "author": "OTBTechno",
+    "sha256": "b4b4f8d00575167adb5785a8c8bc7cbce19e8ba60f199c3ceb0dfec06aaeffc6",
+    "path": "round3_data/environment/speech/136427.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "87379",
+    "category": "speech",
+    "author": "ogrivo",
+    "sha256": "2ba572d926c82a7122ed7d84d3342a02169294693806c7e940286ce71fdc0673",
+    "path": "round3_data/environment/speech/87379.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "58996",
+    "category": "speech",
+    "author": "morgantj",
+    "sha256": "168378317e155e6635d6ebde0a20b995661445522545948f0b41f84517518a90",
+    "path": "round2_data/environment/speech/58996.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "388857",
+    "category": "speech",
+    "author": "djfroyd",
+    "sha256": "09197cc982b05bf47a3ae8f84b9743d665455733b341081cd5b4d6f37446ba46",
+    "path": "round3_data/environment/speech/388857.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "340466",
+    "category": "train",
+    "author": "rollingmill",
+    "sha256": "48c3d59d5ef238031b6a6d652bf115ac4f6aecb3ff28ae4224a88169ddcfad5d",
+    "path": "round2_data/environment/train/340466.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "341198",
+    "category": "train",
+    "author": "Yoyodaman234",
+    "sha256": "0127db4dbde60cbf2f72d8f65fe3871dda8b75a3ece1f848fdca0ff0e39c0aec",
+    "path": "round3_data/environment/train/341198.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "262640",
+    "category": "train",
+    "author": "magedu",
+    "sha256": "049d5981fde653ca4adda77901f26e1587485fb4e8fac5d34bd8bb44ae37f478",
+    "path": "round3_data/environment/train/262640.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "86753",
+    "category": "train",
+    "author": "LG",
+    "sha256": "8b541c1958dee1f908ed333302943ad425c156c91783c75c64d8439f6ed46381",
+    "path": "round3_data/environment/train/86753.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "146205",
+    "category": "train",
+    "author": "Ferdinger",
+    "sha256": "4255bcf2a54af327c092da3e06d74c27febf3c1ca5e4f7791aa7a9d1a971d67e",
+    "path": "round3_data/environment/train/146205.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "259870",
+    "category": "train",
+    "author": "jppi_Stu",
+    "sha256": "90b98ef51066c789693408fdc6eca2c631668d916f93d5645b6aa721c6d1206a",
+    "path": "round2_data/environment/train/259870.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "232443",
+    "category": "train",
+    "author": "Sandermotions",
+    "sha256": "9bb86009b709553c616ea1698e2ec669d34da987af300b4ebeef5d74be29e276",
+    "path": "round2_data/environment/train/232443.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "341197",
+    "category": "train",
+    "author": "Yoyodaman234",
+    "sha256": "521c40cd0ee8e806c08b6dbc4e659a50984fd0ab093ac933d4a034089ba69db2",
+    "path": "round3_data/environment/train/341197.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "328113",
+    "category": "train",
+    "author": "InspectorJ",
+    "sha256": "02ba134664978d2951747afc20df9c22115b9db9bb1e70209050c4248d97c07f",
+    "path": "round2_data/environment/train/328113.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "162817",
+    "category": "train",
+    "author": "timgormly",
+    "sha256": "973c6777614b4e21525871d15501f285ed0010db8dd4db3b73952d4f04917174",
+    "path": "round3_data/environment/train/162817.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "92887",
+    "category": "train",
+    "author": "alpert",
+    "sha256": "e0e2c2c31d80a48ba4a522203b190fbc91f36e34c166b695808a8121598eea66",
+    "path": "round3_data/environment/train/92887.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "393780",
+    "category": "train",
+    "author": "_CAZAPROD_",
+    "sha256": "e5d8e70e9f61ca696c43458a3e81123be90dc65655e28dab9ef4a332d4e36300",
+    "path": "round2_data/environment/train/393780.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "162803",
+    "category": "train",
+    "author": "timgormly",
+    "sha256": "90e07933257490e2a13fb6f3999e24dc27a6419495182ba5397e3669036ec260",
+    "path": "round3_data/environment/train/162803.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "71242",
+    "category": "train",
+    "author": "hkmtrhah",
+    "sha256": "2280d3e9da79bc9e2326aeeff02d2cbeb985e9510fa8b216d3a9199cf7c70239",
+    "path": "round3_data/environment/train/71242.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "146206",
+    "category": "train",
+    "author": "Ferdinger",
+    "sha256": "ee9cc1008985ab9c00fdc83abc1ae375768a1e4837f752d549a979e56d5c2915",
+    "path": "round3_data/environment/train/146206.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "121945",
+    "category": "wind",
+    "author": "hantorio",
+    "sha256": "8c8362e34a2055c5618d3a44205507bc6c2a380aaef74aafe79f98fe74f26520",
+    "path": "round3_data/environment/wind/121945.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "109291",
+    "category": "wind",
+    "author": "vinjatovix",
+    "sha256": "0d891ab0e6239cb263a80f4a4965c263fd9b71c780456301fa17c9ad8b2816b8",
+    "path": "round3_data/environment/wind/109291.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "79253",
+    "category": "wind",
+    "author": "RoofDog",
+    "sha256": "729327caecca2acfca12c3a1f06b92df8400349c9970a96eab00227f0ff878ef",
+    "path": "round2_data/environment/wind/79253.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "62591",
+    "category": "wind",
+    "author": "bsumusictech",
+    "sha256": "668542fbeee6e56a296f0b373def7825d56b028630777f245baf83ccdfe7feee",
+    "path": "round3_data/environment/wind/62591.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "25908",
+    "category": "wind",
+    "author": "Percy Duke",
+    "sha256": "20bf545d15d1b398d89235aedfc1072460b0f6b198019bcfc4e0ef7e2bac029a",
+    "path": "round3_data/environment/wind/25908.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "410369",
+    "category": "wind",
+    "author": "BenjaminNelan",
+    "sha256": "959627e2e4613e296f1887a942e306ed73dfa57adbb89a8e27003f5ccd93bf72",
+    "path": "round2_data/environment/wind/410369.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "169540",
+    "category": "wind",
+    "author": "jorickhoofd",
+    "sha256": "3bb6e893447745de42100975e5e294c559914471af38e0f8aa34dc7d697ef3d1",
+    "path": "round3_data/environment/wind/169540.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "344887",
+    "category": "wind",
+    "author": "thearxx08",
+    "sha256": "caeeb421f0fe39e97b591fb8d113918522b01acbc28a3825cf3d9c5f203c9921",
+    "path": "round3_data/environment/wind/344887.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "151853",
+    "category": "wind",
+    "author": "carroll27",
+    "sha256": "bb7891b53c6389764b5257b85ee413b8191fc759a4ce0ca83842f8126cfe2b63",
+    "path": "round2_data/environment/wind/151853.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "245674",
+    "category": "wind",
+    "author": "TicAshfield",
+    "sha256": "2443b1218b5136c16c0a94910f081366d441c3ef185ca65e9ff70e29dbc2eb42",
+    "path": "round3_data/environment/wind/245674.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "146932",
+    "category": "wind",
+    "author": "crashoverride61088",
+    "sha256": "6877e46cc3514e66a33ba2caf3f22bcc6b9c315465f3c08dc591b762ddd884f9",
+    "path": "round3_data/environment/wind/146932.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "238803",
+    "category": "wind",
+    "author": "OneSoundToRuleThemAll",
+    "sha256": "ee6cffe8775e9eda28f1cc164a67505e235793ebb08b4dfbd44651aa55dd3700",
+    "path": "round3_data/environment/wind/238803.wav",
+    "license": "http://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "135780",
+    "category": "wind",
+    "author": "echobones",
+    "sha256": "afa2b12b1205e9d73d53f7ef387ff8e0a07778207bca529e71b067c9fd3add11",
+    "path": "round3_data/environment/wind/135780.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "152803",
+    "category": "wind",
+    "author": "mireia_af",
+    "sha256": "725fb0f1378af3f407bec9d85d09ac1eb919260f63ed5118d686a69b40ba867b",
+    "path": "round3_data/environment/wind/152803.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "354025",
+    "category": "wind",
+    "author": "stondi",
+    "sha256": "853d18a69457ca4b3ec08c648fb561656c6140e2d2ab8d66e748490046bf17e2",
+    "path": "round3_data/environment/wind/354025.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  }
+]

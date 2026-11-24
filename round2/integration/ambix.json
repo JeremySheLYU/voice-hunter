@@ -1,0 +1,28 @@
+{
+  "front": {
+    "max_error": 7.335234322725093e-09,
+    "pass_gate": true
+  },
+  "left": {
+    "max_error": 7.335234322725093e-09,
+    "pass_gate": true
+  },
+  "right": {
+    "max_error": 7.335234322725093e-09,
+    "pass_gate": true
+  },
+  "back": {
+    "max_error": 2.146825568011268e-09,
+    "pass_gate": true
+  },
+  "up": {
+    "max_error": 1.862606159586111e-09,
+    "pass_gate": true
+  },
+  "field": {
+    "source": "Beach.1.flac.flac",
+    "frames": 384000,
+    "channels": 2,
+    "pass_gate": true
+  }
+}

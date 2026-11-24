@@ -1,0 +1,9 @@
+{
+  "model": "reference spatial Wiener v1",
+  "temperature": 0.075,
+  "spectral_exponent": 0.45,
+  "supervised_objective": "mean weakest named-image paired SI-SDR improvement",
+  "training_scenes": 36,
+  "validation_scenes": 12,
+  "source_manifest_sha256": "4a3be692a05099be49b7d64753d828ee45ed1437f981fbd22d0f4885fcab123a"
+}

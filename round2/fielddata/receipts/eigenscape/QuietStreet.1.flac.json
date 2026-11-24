@@ -1,0 +1,21 @@
+{
+  "id": "eigenscape/QuietStreet.1.flac",
+  "dataset": "eigenscape",
+  "record": "2628463",
+  "member": "QuietStreet.1.flac",
+  "source_offset_s": 0,
+  "duration_s": 8.0,
+  "rate": 48000,
+  "channels": 4,
+  "bytes": 2539437,
+  "sha256": "efaaab400aeba319bd257cffd19f39b62a33a267721991f7581bbaac3d22a249",
+  "pcm_s32le_sha256": "e45a3dc1211c79498b23378d6110c1ff7a1bd56bca0547428791dc4ab7faeada",
+  "archive_crc32": "0xa305979f",
+  "archive_range": [
+    6362784627,
+    6368034162
+  ],
+  "range_sha256": "17f981a65dbedd1fd8c89440685d905381c09f12470a022853aa8952cfad632c",
+  "path": "round2_data/field/eigenscape/QuietStreet.1.flac.flac",
+  "license": "CC-BY-4.0"
+}

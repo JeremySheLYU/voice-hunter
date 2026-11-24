@@ -1,0 +1,21 @@
+{
+  "id": "london/BFormat_Ambix_Ambix_BFmt_Siren.wav",
+  "dataset": "london",
+  "record": "10687363",
+  "member": "BFormat_Ambix/Ambix_BFmt_Siren.wav",
+  "source_offset_s": 0,
+  "duration_s": 8.0,
+  "rate": 48000,
+  "channels": 4,
+  "bytes": 3162465,
+  "sha256": "a265ec0e16cf8085023f123a855a6d327dcb8e1d9f115c54c9d0336ad77c22b0",
+  "pcm_s32le_sha256": "a9d102297fd6fa2afe38990623927f173f9a5f2c10744d1fa312fb7018ca9051",
+  "archive_crc32": "0x502dc4bc",
+  "archive_range": [
+    163651054,
+    168900589
+  ],
+  "range_sha256": "1a2096b9f7b8fdabc6356acd500bc0bc3bbf74cbed45c896a4013e5388666ff9",
+  "path": "round2_data/field/london/BFormat_Ambix_Ambix_BFmt_Siren.wav.flac",
+  "license": "CC-BY-4.0"
+}

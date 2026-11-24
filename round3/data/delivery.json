@@ -1,0 +1,26 @@
+{
+  "files": {
+    "train": 450,
+    "test": 87,
+    "native": 19,
+    "unknown": 30
+  },
+  "unique_freesound_sources": 579,
+  "raw_bytes": 570823143,
+  "shared_primary_native_test_ids": [
+    "339982",
+    "340998",
+    "361579",
+    "417331",
+    "434629",
+    "65150",
+    "68133"
+  ],
+  "native_training_author_overlap": 0,
+  "old_new_author_overlap": 0,
+  "negative_control_manifest_sha256": "667487e2c649e45858ebe25851a1992d201ecabfd566917598c1ca5fc7b3bbbc",
+  "license_file_counts": {
+    "http://creativecommons.org/licenses/by/3.0/": 239,
+    "http://creativecommons.org/publicdomain/zero/1.0/": 347
+  }
+}

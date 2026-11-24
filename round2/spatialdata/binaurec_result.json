@@ -1,0 +1,789 @@
+{
+  "summary": {
+    "recorded": {
+      "n": 36,
+      "median_db": 4.694906976328149,
+      "range_db": [
+        -50.44752897174955,
+        7.723836038109392
+      ],
+      "positive": 35,
+      "at_least_1db": 33,
+      "max_additive_error": 5.960464477539063e-08
+    },
+    "software_added": {
+      "n": 36,
+      "median_db": 4.873287515703158,
+      "range_db": [
+        -51.17039171979293,
+        7.811687860410158
+      ],
+      "positive": 35,
+      "at_least_1db": 34,
+      "max_additive_error": 5.960464477539063e-08
+    },
+    "by_snr": {
+      "-5": {
+        "n": 12,
+        "median_db": 4.631632967503252,
+        "range_db": [
+          -50.44752897174955,
+          7.723836038109392
+        ],
+        "positive": 11,
+        "at_least_1db": 10,
+        "max_additive_error": 5.960464477539063e-08
+      },
+      "0": {
+        "n": 12,
+        "median_db": 5.441345165510487,
+        "range_db": [
+          1.409810808387963,
+          6.661615294807278
+        ],
+        "positive": 12,
+        "at_least_1db": 12,
+        "max_additive_error": 2.9802322387695312e-08
+      },
+      "5": {
+        "n": 12,
+        "median_db": 4.163575647632134,
+        "range_db": [
+          0.7196841003512501,
+          5.8449318439102615
+        ],
+        "positive": 12,
+        "at_least_1db": 11,
+        "max_additive_error": 2.9802322387695312e-08
+      }
+    },
+    "closure_range_db": [
+      5.124269505571597,
+      29.350527935346392
+    ],
+    "closure_median_db": 15.456985376331279,
+    "model_sha256": "6b8943dc4a9b6b24425873992a44f29c0577503276456af46a8854774faeb294"
+  },
+  "rows": [
+    {
+      "scene": "scenarioA_snr-5_11100",
+      "utterance_id": "11100",
+      "scenario": "A",
+      "nominal_db": -5,
+      "duration": 8.1505625,
+      "closure_db": 13.665600392415794,
+      "recorded": {
+        "input_db": -6.7609495098490395,
+        "output_db": -4.032043005975946,
+        "improvement_db": 2.7289065038730937,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": -6.709536282002065,
+        "output_db": -4.22504505976497,
+        "improvement_db": 2.4844912222370956,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioA_snr-5_11101",
+      "utterance_id": "11101",
+      "scenario": "A",
+      "nominal_db": -5,
+      "duration": 8.1355625,
+      "closure_db": 15.757147165587016,
+      "recorded": {
+        "input_db": -7.097028347157353,
+        "output_db": -7.038172578944261,
+        "improvement_db": 0.058855768213092574,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": -7.062702614155175,
+        "output_db": -6.966716280617913,
+        "improvement_db": 0.0959863335372626,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioA_snr0_11500",
+      "utterance_id": "11500",
+      "scenario": "A",
+      "nominal_db": 0,
+      "duration": 6.6355625,
+      "closure_db": 14.435955145504158,
+      "recorded": {
+        "input_db": -4.525105966153743,
+        "output_db": 0.8338854035948635,
+        "improvement_db": 5.3589913697486065,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": -4.510411918259346,
+        "output_db": 0.8336786738153379,
+        "improvement_db": 5.344090592074684,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioA_snr0_11501",
+      "utterance_id": "11501",
+      "scenario": "A",
+      "nominal_db": 0,
+      "duration": 9.3805625,
+      "closure_db": 10.534727007599274,
+      "recorded": {
+        "input_db": -4.6191130393927615,
+        "output_db": 1.2064604989825434,
+        "improvement_db": 5.825573538375305,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": -3.899854144494816,
+        "output_db": 2.4263984446216327,
+        "improvement_db": 6.326252589116448,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioA_snr5_11300",
+      "utterance_id": "11300",
+      "scenario": "A",
+      "nominal_db": 5,
+      "duration": 7.0055625,
+      "closure_db": 18.713482779019465,
+      "recorded": {
+        "input_db": -0.030979682395635214,
+        "output_db": 5.614328825705006,
+        "improvement_db": 5.6453085081006416,
+        "additive_max": 7.450580596923828e-09
+      },
+      "software_added": {
+        "input_db": 0.04794141093408884,
+        "output_db": 5.776537685709587,
+        "improvement_db": 5.728596274775498,
+        "additive_max": 7.450580596923828e-09
+      }
+    },
+    {
+      "scene": "scenarioA_snr5_11301",
+      "utterance_id": "11301",
+      "scenario": "A",
+      "nominal_db": 5,
+      "duration": 11.1955625,
+      "closure_db": 14.920105562035689,
+      "recorded": {
+        "input_db": 1.1920832015756542,
+        "output_db": 5.2344614362708,
+        "improvement_db": 4.042378234695146,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": 1.361827883675458,
+        "output_db": 5.515711415183318,
+        "improvement_db": 4.15388353150786,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioB_snr-5_11200",
+      "utterance_id": "11200",
+      "scenario": "B",
+      "nominal_db": -5,
+      "duration": 7.4805625,
+      "closure_db": 8.231635382317197,
+      "recorded": {
+        "input_db": -6.672437565120449,
+        "output_db": -0.07123757794089447,
+        "improvement_db": 6.601199987179554,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": -6.648302147810662,
+        "output_db": 0.45878349734147905,
+        "improvement_db": 7.107085645152141,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioB_snr-5_11201",
+      "utterance_id": "11201",
+      "scenario": "B",
+      "nominal_db": -5,
+      "duration": 6.5305625,
+      "closure_db": 10.375810631665608,
+      "recorded": {
+        "input_db": -7.004721480122095,
+        "output_db": -0.212945965729195,
+        "improvement_db": 6.7917755143929,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": -6.946621231367116,
+        "output_db": -0.1481951251518113,
+        "improvement_db": 6.798426106215305,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioB_snr0_11600",
+      "utterance_id": "11600",
+      "scenario": "B",
+      "nominal_db": 0,
+      "duration": 11.1955625,
+      "closure_db": 19.94710338298325,
+      "recorded": {
+        "input_db": -2.9529028722614346,
+        "output_db": 2.7332670484854438,
+        "improvement_db": 5.686169920746878,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": -2.9537586559196622,
+        "output_db": 2.7602335796903796,
+        "improvement_db": 5.713992235610042,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioB_snr0_11601",
+      "utterance_id": "11601",
+      "scenario": "B",
+      "nominal_db": 0,
+      "duration": 11.1955625,
+      "closure_db": 12.35818826843438,
+      "recorded": {
+        "input_db": -1.7702203800660696,
+        "output_db": 4.20835940550858,
+        "improvement_db": 5.97857978557465,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": -1.6741546646323897,
+        "output_db": 4.452968782350685,
+        "improvement_db": 6.127123446983075,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioB_snr5_11400",
+      "utterance_id": "11400",
+      "scenario": "B",
+      "nominal_db": 5,
+      "duration": 8.3655625,
+      "closure_db": 19.008262049928483,
+      "recorded": {
+        "input_db": 4.4240630015427245,
+        "output_db": 9.632332230883698,
+        "improvement_db": 5.208269229340973,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": 4.423627132434934,
+        "output_db": 9.630027955928119,
+        "improvement_db": 5.206400823493185,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioB_snr5_11401",
+      "utterance_id": "11401",
+      "scenario": "B",
+      "nominal_db": 5,
+      "duration": 11.1955625,
+      "closure_db": 13.419077644956193,
+      "recorded": {
+        "input_db": 2.0302022193073426,
+        "output_db": 6.279007316044785,
+        "improvement_db": 4.248805096737442,
+        "additive_max": 1.4901161193847656e-08
+      },
+      "software_added": {
+        "input_db": 2.522076330782826,
+        "output_db": 7.205915166526575,
+        "improvement_db": 4.6838388357437495,
+        "additive_max": 1.4901161193847656e-08
+      }
+    },
+    {
+      "scene": "scenarioC_snr-5_11302",
+      "utterance_id": "11302",
+      "scenario": "C",
+      "nominal_db": -5,
+      "duration": 11.1955625,
+      "closure_db": 24.224722371128316,
+      "recorded": {
+        "input_db": -5.943512491039568,
+        "output_db": -1.1419523991960743,
+        "improvement_db": 4.801560091843494,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": -5.850755451610842,
+        "output_db": -0.7880192559482755,
+        "improvement_db": 5.062736195662567,
+        "additive_max": 5.960464477539063e-08
+      }
+    },
+    {
+      "scene": "scenarioC_snr-5_11303",
+      "utterance_id": "11303",
+      "scenario": "C",
+      "nominal_db": -5,
+      "duration": 7.0755625,
+      "closure_db": 14.880087733512026,
+      "recorded": {
+        "input_db": -5.214763506960015,
+        "output_db": 0.5483390748685477,
+        "improvement_db": 5.763102581828562,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": -5.0568593227469645,
+        "output_db": 0.8114672839439552,
+        "improvement_db": 5.868326606690919,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioC_snr0_11102",
+      "utterance_id": "11102",
+      "scenario": "C",
+      "nominal_db": 0,
+      "duration": 6.6655625,
+      "closure_db": 19.157739333866278,
+      "recorded": {
+        "input_db": -0.8578324922776782,
+        "output_db": 5.8037828025296,
+        "improvement_db": 6.661615294807278,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": -0.8343619180530065,
+        "output_db": 5.904602091956631,
+        "improvement_db": 6.738964010009638,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioC_snr0_11103",
+      "utterance_id": "11103",
+      "scenario": "C",
+      "nominal_db": 0,
+      "duration": 8.7055625,
+      "closure_db": 13.4249769436292,
+      "recorded": {
+        "input_db": -0.35480921476370836,
+        "output_db": 2.725042971675144,
+        "improvement_db": 3.0798521864388526,
+        "additive_max": 1.4901161193847656e-08
+      },
+      "software_added": {
+        "input_db": -0.17202222868603786,
+        "output_db": 2.8980573925701965,
+        "improvement_db": 3.0700796212562342,
+        "additive_max": 1.4901161193847656e-08
+      }
+    },
+    {
+      "scene": "scenarioC_snr5_11502",
+      "utterance_id": "11502",
+      "scenario": "C",
+      "nominal_db": 5,
+      "duration": 11.1955625,
+      "closure_db": 10.838262145295145,
+      "recorded": {
+        "input_db": 2.902699063269672,
+        "output_db": 5.26956250903413,
+        "improvement_db": 2.366863445764458,
+        "additive_max": 1.4901161193847656e-08
+      },
+      "software_added": {
+        "input_db": 4.548079210833879,
+        "output_db": 8.413630259939161,
+        "improvement_db": 3.8655510491052825,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioC_snr5_11503",
+      "utterance_id": "11503",
+      "scenario": "C",
+      "nominal_db": 5,
+      "duration": 7.1955625,
+      "closure_db": 15.578994970197007,
+      "recorded": {
+        "input_db": 3.994780041916988,
+        "output_db": 7.692222826034926,
+        "improvement_db": 3.697442784117938,
+        "additive_max": 1.4901161193847656e-08
+      },
+      "software_added": {
+        "input_db": 4.414086944737536,
+        "output_db": 8.300946171402707,
+        "improvement_db": 3.8868592266651705,
+        "additive_max": 1.4901161193847656e-08
+      }
+    },
+    {
+      "scene": "scenarioD_snr-5_11402",
+      "utterance_id": "11402",
+      "scenario": "D",
+      "nominal_db": -5,
+      "duration": 10.8405625,
+      "closure_db": 21.826894010359844,
+      "recorded": {
+        "input_db": -6.140090457754747,
+        "output_db": -2.059671159390509,
+        "improvement_db": 4.080419298364237,
+        "additive_max": 5.960464477539063e-08
+      },
+      "software_added": {
+        "input_db": -6.10834424044708,
+        "output_db": -2.0154204688758544,
+        "improvement_db": 4.0929237715712254,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioD_snr-5_11403",
+      "utterance_id": "11403",
+      "scenario": "D",
+      "nominal_db": -5,
+      "duration": 10.2255625,
+      "closure_db": 20.904701410409373,
+      "recorded": {
+        "input_db": -6.962409676382832,
+        "output_db": -2.5007038332198213,
+        "improvement_db": 4.46170584316301,
+        "additive_max": 1.4901161193847656e-08
+      },
+      "software_added": {
+        "input_db": -6.939912520941017,
+        "output_db": -2.499106215636856,
+        "improvement_db": 4.440806305304161,
+        "additive_max": 1.4901161193847656e-08
+      }
+    },
+    {
+      "scene": "scenarioD_snr0_11202",
+      "utterance_id": "11202",
+      "scenario": "D",
+      "nominal_db": 0,
+      "duration": 9.6355625,
+      "closure_db": 13.394830249421243,
+      "recorded": {
+        "input_db": -0.06963606844264948,
+        "output_db": 5.569355426895895,
+        "improvement_db": 5.638991495338545,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": -0.010908069197871257,
+        "output_db": 5.660445186003342,
+        "improvement_db": 5.671353255201213,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioD_snr0_11203",
+      "utterance_id": "11203",
+      "scenario": "D",
+      "nominal_db": 0,
+      "duration": 11.1955625,
+      "closure_db": 11.053475729890671,
+      "recorded": {
+        "input_db": -0.4980612464358257,
+        "output_db": 5.025637714836542,
+        "improvement_db": 5.523698961272367,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": 0.1874837669045948,
+        "output_db": 6.637867362993122,
+        "improvement_db": 6.4503835960885265,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioD_snr5_11602",
+      "utterance_id": "11602",
+      "scenario": "D",
+      "nominal_db": 5,
+      "duration": 10.1155625,
+      "closure_db": 18.72877965632602,
+      "recorded": {
+        "input_db": 4.772216716248575,
+        "output_db": 10.110396667305274,
+        "improvement_db": 5.3381799510566985,
+        "additive_max": 1.4901161193847656e-08
+      },
+      "software_added": {
+        "input_db": 4.779983424413021,
+        "output_db": 10.134123778275178,
+        "improvement_db": 5.3541403538621575,
+        "additive_max": 1.4901161193847656e-08
+      }
+    },
+    {
+      "scene": "scenarioD_snr5_11603",
+      "utterance_id": "11603",
+      "scenario": "D",
+      "nominal_db": 5,
+      "duration": 11.1955625,
+      "closure_db": 15.334975782465552,
+      "recorded": {
+        "input_db": 4.0219675171944385,
+        "output_db": 8.100313715721265,
+        "improvement_db": 4.078346198526827,
+        "additive_max": 1.4901161193847656e-08
+      },
+      "software_added": {
+        "input_db": 4.522922844577861,
+        "output_db": 9.148521785489267,
+        "improvement_db": 4.625598940911406,
+        "additive_max": 7.450580596923828e-09
+      }
+    },
+    {
+      "scene": "scenarioE_snr-5_11504",
+      "utterance_id": "11504",
+      "scenario": "E",
+      "nominal_db": -5,
+      "duration": 11.1955625,
+      "closure_db": 10.811229542478882,
+      "recorded": {
+        "input_db": -7.276365969589362,
+        "output_db": 0.4474700685200297,
+        "improvement_db": 7.723836038109392,
+        "additive_max": 5.960464477539063e-08
+      },
+      "software_added": {
+        "input_db": -7.111749663133223,
+        "output_db": 0.6999381972769353,
+        "improvement_db": 7.811687860410158,
+        "additive_max": 5.960464477539063e-08
+      }
+    },
+    {
+      "scene": "scenarioE_snr-5_11505",
+      "utterance_id": "11505",
+      "scenario": "E",
+      "nominal_db": -5,
+      "duration": 6.525625,
+      "closure_db": 20.294443915078478,
+      "recorded": {
+        "input_db": -7.4971973131947935,
+        "output_db": -3.403561955538567,
+        "improvement_db": 4.093635357656226,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": -7.469209257042949,
+        "output_db": -3.189260422374591,
+        "improvement_db": 4.2799488346683585,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioE_snr0_11304",
+      "utterance_id": "11304",
+      "scenario": "E",
+      "nominal_db": 0,
+      "duration": 8.7655625,
+      "closure_db": 20.79087488670366,
+      "recorded": {
+        "input_db": -1.7698024858137842,
+        "output_db": 0.6250256473343094,
+        "improvement_db": 2.394828133148094,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": -1.7439970501889004,
+        "output_db": 0.7774499470599627,
+        "improvement_db": 2.521446997248863,
+        "additive_max": 5.960464477539063e-08
+      }
+    },
+    {
+      "scene": "scenarioE_snr0_11305",
+      "utterance_id": "11305",
+      "scenario": "E",
+      "nominal_db": 0,
+      "duration": 8.0355625,
+      "closure_db": 18.952195356134066,
+      "recorded": {
+        "input_db": -2.4001765647745277,
+        "output_db": 2.819312742173282,
+        "improvement_db": 5.21948930694781,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": -2.361355473457081,
+        "output_db": 2.839520499713199,
+        "improvement_db": 5.20087597317028,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioE_snr5_11104",
+      "utterance_id": "11104",
+      "scenario": "E",
+      "nominal_db": 5,
+      "duration": 11.1955625,
+      "closure_db": 15.257817149087405,
+      "recorded": {
+        "input_db": 2.787044968410753,
+        "output_db": 6.190447719244524,
+        "improvement_db": 3.403402750833771,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": 3.37624106094605,
+        "output_db": 7.388266592295603,
+        "improvement_db": 4.012025531349552,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioE_snr5_11105",
+      "utterance_id": "11105",
+      "scenario": "E",
+      "nominal_db": 5,
+      "duration": 11.1955625,
+      "closure_db": 29.350527935346392,
+      "recorded": {
+        "input_db": 2.8588334546499645,
+        "output_db": 7.447087315462767,
+        "improvement_db": 4.588253860812802,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": 2.8928094321239946,
+        "output_db": 7.480741528522824,
+        "improvement_db": 4.587932096398829,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioF_snr-5_11604",
+      "utterance_id": "11604",
+      "scenario": "F",
+      "nominal_db": -5,
+      "duration": 6.4605625,
+      "closure_db": 22.34978980027863,
+      "recorded": {
+        "input_db": -6.531451344835729,
+        "output_db": -56.97898031658528,
+        "improvement_db": -50.44752897174955,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": -6.386872563967497,
+        "output_db": -57.557264283760425,
+        "improvement_db": -51.17039171979293,
+        "additive_max": 1.4901161193847656e-08
+      }
+    },
+    {
+      "scene": "scenarioF_snr-5_11605",
+      "utterance_id": "11605",
+      "scenario": "F",
+      "nominal_db": -5,
+      "duration": 11.1955625,
+      "closure_db": 16.20031955377271,
+      "recorded": {
+        "input_db": -6.264454369314544,
+        "output_db": -1.2900365257907545,
+        "improvement_db": 4.974417843523789,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": -6.256780792680544,
+        "output_db": -1.6724408241519706,
+        "improvement_db": 4.584339968528574,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioF_snr0_11404",
+      "utterance_id": "11404",
+      "scenario": "F",
+      "nominal_db": 0,
+      "duration": 7.2205625,
+      "closure_db": 5.124269505571597,
+      "recorded": {
+        "input_db": -6.184404360888598,
+        "output_db": -4.774593552500635,
+        "improvement_db": 1.409810808387963,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": -1.2057336535292942,
+        "output_db": 5.258915386054264,
+        "improvement_db": 6.464649039583558,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioF_snr0_11405",
+      "utterance_id": "11405",
+      "scenario": "F",
+      "nominal_db": 0,
+      "duration": 11.1955625,
+      "closure_db": 19.969884516339363,
+      "recorded": {
+        "input_db": -1.4993616260141192,
+        "output_db": 0.5474855716507017,
+        "improvement_db": 2.046847197664821,
+        "additive_max": 2.9802322387695312e-08
+      },
+      "software_added": {
+        "input_db": -1.3736312067222816,
+        "output_db": 0.620975934005127,
+        "improvement_db": 1.9946071407274086,
+        "additive_max": 2.9802322387695312e-08
+      }
+    },
+    {
+      "scene": "scenarioF_snr5_11204",
+      "utterance_id": "11204",
+      "scenario": "F",
+      "nominal_db": 5,
+      "duration": 7.3205625,
+      "closure_db": 23.760945719125157,
+      "recorded": {
+        "input_db": 3.446403761082017,
+        "output_db": 9.291335604992279,
+        "improvement_db": 5.8449318439102615,
+        "additive_max": 1.4901161193847656e-08
+      },
+      "software_added": {
+        "input_db": 3.471608002162256,
+        "output_db": 9.413675920171594,
+        "improvement_db": 5.942067918009338,
+        "additive_max": 1.4901161193847656e-08
+      }
+    },
+    {
+      "scene": "scenarioF_snr5_11205",
+      "utterance_id": "11205",
+      "scenario": "F",
+      "nominal_db": 5,
+      "duration": 10.7555625,
+      "closure_db": 7.725688581425185,
+      "recorded": {
+        "input_db": 0.8836780190521915,
+        "output_db": 1.6033621194034415,
+        "improvement_db": 0.7196841003512501,
+        "additive_max": 1.4901161193847656e-08
+      },
+      "software_added": {
+        "input_db": 3.8676410864379145,
+        "output_db": 6.4115475586677935,
+        "improvement_db": 2.543906472229879,
+        "additive_max": 1.4901161193847656e-08
+      }
+    }
+  ]
+}

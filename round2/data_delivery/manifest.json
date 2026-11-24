@@ -1,0 +1,370 @@
+{
+  "summary": {
+    "parts": 29,
+    "asset_files": 6610,
+    "logical_asset_bytes": 2928205003,
+    "stored_archive_bytes": 2706208802
+  },
+  "sampler": {
+    "name": "Public_Spatial_Sampler.zip",
+    "bytes": 31175495,
+    "sha256": "05f43dd820d0d2b4f92210b162b455dff49bc3cb81ad21a44b306e99b94d8893",
+    "assets": 11,
+    "logical_bytes": 35114916,
+    "collections": [
+      "AIR",
+      "Blender_films",
+      "FMA",
+      "Field_eigenscape",
+      "Field_eigenscape_hoa",
+      "Field_ihta_ears",
+      "Field_ihta_foa",
+      "Field_london",
+      "Freesound",
+      "Huddersfield",
+      "SATP"
+    ]
+  },
+  "archives": [
+    {
+      "name": "AIR_01.zip",
+      "bytes": 29256542,
+      "sha256": "08013f459df9cc76982a3b1478ea8a5903c299c9912fd9d63fdfc29de843f3a1",
+      "assets": 232,
+      "logical_bytes": 98693162,
+      "collections": [
+        "AIR"
+      ]
+    },
+    {
+      "name": "BinauRec_01.zip",
+      "bytes": 53097994,
+      "sha256": "0063530a5d7d2c641fc7066963a6db0419d4b87a6051e04ac3dd662f5aab8ac5",
+      "assets": 108,
+      "logical_bytes": 63896652,
+      "collections": [
+        "BinauRec"
+      ]
+    },
+    {
+      "name": "Blender_films_01.zip",
+      "bytes": 42545843,
+      "sha256": "32ab3565479090038f08186c406b631cea187ea3635f1b2544e519e20b8cc5f2",
+      "assets": 16,
+      "logical_bytes": 42541102,
+      "collections": [
+        "Blender_films"
+      ]
+    },
+    {
+      "name": "CIPIC_01.zip",
+      "bytes": 131389762,
+      "sha256": "7bd51e01030333caf35c677ecd635b0fb70cb604061ff339a960fdc727382567",
+      "assets": 35,
+      "logical_bytes": 141068200,
+      "collections": [
+        "CIPIC"
+      ]
+    },
+    {
+      "name": "CIPIC_02.zip",
+      "bytes": 37551278,
+      "sha256": "804e41c72659bef930bb318e5b2c99a09c73b241065f0bc5d04a0955f4026800",
+      "assets": 10,
+      "logical_bytes": 40305200,
+      "collections": [
+        "CIPIC"
+      ]
+    },
+    {
+      "name": "FMA_01.zip",
+      "bytes": 144310937,
+      "sha256": "58b97e83d0934bfea29e4cef24d2660ba9caa3e6c8ad96375878377b65dabc19",
+      "assets": 143,
+      "logical_bytes": 144269682,
+      "collections": [
+        "FMA"
+      ]
+    },
+    {
+      "name": "FMA_02.zip",
+      "bytes": 55999544,
+      "sha256": "3e62cf3617b62700cf4a95cadf76db988e4d072e1b4167862525d4912c9a8ac5",
+      "assets": 51,
+      "logical_bytes": 55984451,
+      "collections": [
+        "FMA"
+      ]
+    },
+    {
+      "name": "Field_eigenscape_01.zip",
+      "bytes": 141953965,
+      "sha256": "9c0f4521522cbaf6609329793095173e6de72d52959a276cd508afab9e400bb4",
+      "assets": 52,
+      "logical_bytes": 141939117,
+      "collections": [
+        "Field_eigenscape"
+      ]
+    },
+    {
+      "name": "Field_eigenscape_02.zip",
+      "bytes": 31499412,
+      "sha256": "37874f898b5d019270b1670897fe41b3a869e5f7a34e59a39c415d292a6ffdb4",
+      "assets": 12,
+      "logical_bytes": 31494184,
+      "collections": [
+        "Field_eigenscape"
+      ]
+    },
+    {
+      "name": "Field_eigenscape_hoa_01.zip",
+      "bytes": 46173552,
+      "sha256": "54e306a4418d9c8d2cf64fb12f6f94dd55073328f8ddf5cedf1f1a2b411d0980",
+      "assets": 8,
+      "logical_bytes": 57600816,
+      "collections": [
+        "Field_eigenscape_hoa"
+      ]
+    },
+    {
+      "name": "Field_ihta_ears_01.zip",
+      "bytes": 64660387,
+      "sha256": "e343add1b1325a36f1631b8a8663d270e184ba7cff3fd6e48816bee313a58e48",
+      "assets": 102,
+      "logical_bytes": 64628293,
+      "collections": [
+        "Field_ihta_ears"
+      ]
+    },
+    {
+      "name": "Field_ihta_foa_01.zip",
+      "bytes": 137339147,
+      "sha256": "0c8f135f6b8b3503268dd29f2b90af361c70361c911bad1e4046932a16657e06",
+      "assets": 102,
+      "logical_bytes": 137304764,
+      "collections": [
+        "Field_ihta_foa"
+      ]
+    },
+    {
+      "name": "Field_london_01.zip",
+      "bytes": 16198199,
+      "sha256": "0546f396973a311243cf4f3191eae72193e4631ff45e57452ce2434f1b7f8e7c",
+      "assets": 5,
+      "logical_bytes": 16194351,
+      "collections": [
+        "Field_london"
+      ]
+    },
+    {
+      "name": "Freesound_01.zip",
+      "bytes": 118947126,
+      "sha256": "3011a43a477d71887aa2f3fed387f539a9f09c8d19e86cffe98fc829c9e85c19",
+      "assets": 153,
+      "logical_bytes": 142772868,
+      "collections": [
+        "Freesound"
+      ]
+    },
+    {
+      "name": "Freesound_02.zip",
+      "bytes": 117229980,
+      "sha256": "690b532e2fb4c9fc82e6a70ac4585c25d2687bd7323f0c96ea30190300d3142b",
+      "assets": 104,
+      "logical_bytes": 144359057,
+      "collections": [
+        "Freesound"
+      ]
+    },
+    {
+      "name": "Freesound_03.zip",
+      "bytes": 121550940,
+      "sha256": "3ffad4200563dbd384205bb877b7d4277e43626d4bc1b0545c4edbe399a4672e",
+      "assets": 111,
+      "logical_bytes": 141570632,
+      "collections": [
+        "Freesound"
+      ]
+    },
+    {
+      "name": "HUTUBS_01.zip",
+      "bytes": 144271123,
+      "sha256": "0238f3daa9f47e2cd58f7003ece8de1e3ae3a2230449b61c8c643e5835effa60",
+      "assets": 87,
+      "logical_bytes": 144249054,
+      "collections": [
+        "HUTUBS"
+      ]
+    },
+    {
+      "name": "HUTUBS_02.zip",
+      "bytes": 14937174,
+      "sha256": "265e525fe69fdc470946f5d3f25fcd2371fbb0caeb30b43453ccc62967600453",
+      "assets": 9,
+      "logical_bytes": 14933915,
+      "collections": [
+        "HUTUBS"
+      ]
+    },
+    {
+      "name": "Huddersfield_01.zip",
+      "bytes": 46414456,
+      "sha256": "b724b662bba410a61d3ccf6fb217de22c54b7591b227080cf7fbe21eaeff2342",
+      "assets": 13,
+      "logical_bytes": 49929568,
+      "collections": [
+        "Huddersfield"
+      ]
+    },
+    {
+      "name": "Huddersfield_SOFA_01.zip",
+      "bytes": 163171714,
+      "sha256": "cbff3d88dad37e651e8501d676a44341f4cf796072c1dd06863ee8bcb975d072",
+      "assets": 1,
+      "logical_bytes": 163170474,
+      "collections": [
+        "Huddersfield_SOFA"
+      ]
+    },
+    {
+      "name": "LibriSpeech_dev-clean-2_01.zip",
+      "bytes": 134993190,
+      "sha256": "3a0216398ee8529465c015132b0ee120e828f43ca7926e89e1a379d7f725491d",
+      "assets": 1089,
+      "logical_bytes": 134653742,
+      "collections": [
+        "LibriSpeech_dev-clean-2"
+      ]
+    },
+    {
+      "name": "LibriSpeech_test-clean_01.zip",
+      "bytes": 144770043,
+      "sha256": "d1e23af915178f8652cd33ff80ae75fea53ba7d4aeb3fcb0ad36aaa566ba48fa",
+      "assets": 1013,
+      "logical_bytes": 144411156,
+      "collections": [
+        "LibriSpeech_test-clean"
+      ]
+    },
+    {
+      "name": "LibriSpeech_test-clean_02.zip",
+      "bytes": 144796534,
+      "sha256": "bf08c627173c2e71e39bac5d7744160885373410cd3263bbdad60c23abc039ad",
+      "assets": 1103,
+      "logical_bytes": 144411478,
+      "collections": [
+        "LibriSpeech_test-clean"
+      ]
+    },
+    {
+      "name": "LibriSpeech_test-clean_03.zip",
+      "bytes": 78565583,
+      "sha256": "c4af437e41899ae34de8bfd7e6597e18ade2334e507b3577ff22c79a2004d07e",
+      "assets": 504,
+      "logical_bytes": 78362427,
+      "collections": [
+        "LibriSpeech_test-clean"
+      ]
+    },
+    {
+      "name": "LibriSpeech_train-clean-5_01.zip",
+      "bytes": 144803951,
+      "sha256": "ea8d00e7740f548a6fd80043aa9091550cac47287515bf983a24217bc94037dd",
+      "assets": 644,
+      "logical_bytes": 144558792,
+      "collections": [
+        "LibriSpeech_train-clean-5"
+      ]
+    },
+    {
+      "name": "LibriSpeech_train-clean-5_02.zip",
+      "bytes": 144781496,
+      "sha256": "59d88a982e56dc1482d08400a78f3411fdbd22d9c1f7af9c18c915c4fd4297a5",
+      "assets": 629,
+      "logical_bytes": 144540163,
+      "collections": [
+        "LibriSpeech_train-clean-5"
+      ]
+    },
+    {
+      "name": "LibriSpeech_train-clean-5_03.zip",
+      "bytes": 55670546,
+      "sha256": "7b0b4bae96df3d3c9e3bd23055b639a399e9d56f3b85cf78dbf7edd505ba2693",
+      "assets": 246,
+      "logical_bytes": 55549257,
+      "collections": [
+        "LibriSpeech_train-clean-5"
+      ]
+    },
+    {
+      "name": "SATP_01.zip",
+      "bytes": 113288442,
+      "sha256": "c32b226387e03d73e7dd148014b5842547820ea28e2e2ea2302b6fe4f3e5dabb",
+      "assets": 16,
+      "logical_bytes": 141120470,
+      "collections": [
+        "SATP"
+      ]
+    },
+    {
+      "name": "SATP_02.zip",
+      "bytes": 86039942,
+      "sha256": "bbd2dd4d7a0e66d73dddc38a0d029ee3c7b32c5b92ae001da9f29968cf0fc905",
+      "assets": 12,
+      "logical_bytes": 103691976,
+      "collections": [
+        "SATP"
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "path": "round2_data/field/london/BFormat_Ambix_Ambix_BFmt_Music.wav.flac",
+      "reason": "Underlying third-party music or TV rights unverified; held locally as reference.",
+      "source": "https://zenodo.org/records/10687363",
+      "retrieval": "round2/fielddata/collect.py"
+    },
+    {
+      "path": "round2_data/field/london/BFormat_Ambix_Ambix_BFmt_TV.wav.flac",
+      "reason": "Underlying third-party music or TV rights unverified; held locally as reference.",
+      "source": "https://zenodo.org/records/10687363",
+      "retrieval": "round2/fielddata/collect.py"
+    }
+  ],
+  "by_collection": {
+    "AIR": 232,
+    "BinauRec": 108,
+    "Blender_films": 16,
+    "CIPIC": 45,
+    "FMA": 194,
+    "Field_eigenscape": 64,
+    "Field_eigenscape_hoa": 8,
+    "Field_ihta_ears": 102,
+    "Field_ihta_foa": 102,
+    "Field_london": 5,
+    "Freesound": 368,
+    "HUTUBS": 96,
+    "Huddersfield": 13,
+    "Huddersfield_SOFA": 1,
+    "LibriSpeech_dev-clean-2": 1089,
+    "LibriSpeech_test-clean": 2620,
+    "LibriSpeech_train-clean-5": 1519,
+    "SATP": 28
+  },
+  "note": "Audio asset files are counted including alternate representations and repeated measurements; they are not counts of independent scenes. Sampler and optional ADM test material are excluded from the bulk archive totals.",
+  "optional_format_test": {
+    "name": "ADM_Object_Conformance.zip",
+    "bytes": 49714,
+    "sha256": "ceeef59212900fe193370d4bdf5eaed4e1a9179a03af7a342c1b01c4f877da24",
+    "assets": 11,
+    "logical_bytes": 1215529,
+    "collections": [
+      "EBU_object_conformance"
+    ],
+    "unique_tones": 1,
+    "wav_variants": 4,
+    "authored_xml": 4,
+    "note": "Complete unmodified upstream technical fixtures and source XML with original notices; optional, excluded from all training and audio corpus counts."
+  },
+  "part_size_note": "Nominal maximum 140 MiB. Huddersfield_SOFA_01.zip preserves a single 163,170,474-byte measured SOFA and is larger."
+}

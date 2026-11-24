@@ -1,0 +1,63 @@
+{
+  "trial": 1,
+  "source_order": [
+    "170641",
+    "245399",
+    "16799"
+  ],
+  "selection": "first frozen fresh named test scene, no external bed",
+  "scored_section_s": [
+    3.49,
+    5.06
+  ],
+  "sample_rate": 48000,
+  "edge_fade_each_ms": 6,
+  "release_sha256": "eff4673286a17556e8e1d6ebe8633459c786285881aafa036632c037ee1b97c7",
+  "calibration_sha256": "d38c86403627c08f75726c6689b109a6bf0b16d278425d6c61882179d20df928",
+  "scores": {
+    "v0.1 分軌": {
+      "input_sisdr": -3.713154974098135,
+      "estimated_sisdr": 8.662957534370083,
+      "improvement": 12.376112508468218
+    },
+    "v0.2 固定方位": {
+      "input_sisdr": -3.713154974098135,
+      "estimated_sisdr": 13.70598563438103,
+      "improvement": 17.419140608479164
+    }
+  },
+  "loudness": {
+    "原始混音": {
+      "input_lufs": -24.27,
+      "gain_db": 1.2699999999999996,
+      "delivered_lufs": -23.01,
+      "true_peak_dbtp": -7.73,
+      "frames": 75360,
+      "wav_sha256": "f839194ec482101e4979105a714676de912569fc156debcae25e3337f38bccb2"
+    },
+    "列車真值": {
+      "input_lufs": -27.57,
+      "gain_db": 4.57,
+      "delivered_lufs": -23.0,
+      "true_peak_dbtp": -13.22,
+      "frames": 75360,
+      "wav_sha256": "460b4a82a575d586bff6eefc07cc40201f81e8d35d8408643a7181d34f7b53ce"
+    },
+    "v0.1 分軌": {
+      "input_lufs": -27.97,
+      "gain_db": 4.969999999999999,
+      "delivered_lufs": -23.0,
+      "true_peak_dbtp": -13.35,
+      "frames": 75360,
+      "wav_sha256": "594f2411e56f33bbc7b176bb8e442f1cf61ee8b6c21331f8b90979a9847e05bc"
+    },
+    "v0.2 固定方位": {
+      "input_lufs": -27.78,
+      "gain_db": 4.780000000000001,
+      "delivered_lufs": -23.01,
+      "true_peak_dbtp": -13.37,
+      "frames": 75360,
+      "wav_sha256": "ad62d96d82604547a613e3dadf476bb66129f9c4b22db0d809ca121a606aee7b"
+    }
+  }
+}

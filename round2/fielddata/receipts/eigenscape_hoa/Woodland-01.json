@@ -1,0 +1,30 @@
+{
+  "id": "eigenscape_hoa/Woodland.1",
+  "dataset": "eigenscape_hoa",
+  "record": "2628463",
+  "member": "Woodland.1.wav",
+  "archive": "Woodland.zip",
+  "archive_checksum": "md5:dadcf83c711ef0cf72f7a4d8585eddad",
+  "url": "https://zenodo.org/api/records/2628463/files/Woodland.zip/content",
+  "archive_range": [
+    0,
+    8199999
+  ],
+  "range_sha256": "74139958929e28ada14a11601db7b13573e351d1424af55dc33d237a792f6e1e",
+  "source_offset_s": 0,
+  "duration_s": 2,
+  "rate": 48000,
+  "channels": 25,
+  "format": "ACN/SN3D order 4",
+  "bytes": 7200102,
+  "sha256": "79a091cadef9a32bf21e98785fe552b0198598f9d72459fa327dca0e14d2d95c",
+  "pcm_s32le_sha256": "6a8c7fc64eb0b7e168c235cdc57811b15d5f287dd95cee79b7eecac0189aac7a",
+  "first_four_vs_lite_correlation": [
+    1.0,
+    0.9999999999999999,
+    0.9999999999999999,
+    1.0
+  ],
+  "path": "round2_data/field/eigenscape_hoa/Woodland-01.wav",
+  "license": "CC-BY-4.0"
+}

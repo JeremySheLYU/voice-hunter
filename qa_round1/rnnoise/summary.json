@@ -1,0 +1,260 @@
+{
+  "product_sha256": {
+    "voicehunter/pretrained.py": "8de206f3613af28b78b6d0c1fc00b4c4ea7322f76e08a4ea560efac32557bcfb",
+    "voicehunter/engine.py": "18e6ce622a0373d29be295e07cfc365cb39505c4856dc1f3de0fc28f26cd0721",
+    "voicehunter/spatial.py": "2df7eb291bc08364710f7026c2d1baad2eb4b01a8a2b06e7d1de566c8e8e3b57",
+    "voicehunter/models/std.rnnn": "6b8943dc4a9b6b24425873992a44f29c0577503276456af46a8854774faeb294"
+  },
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "platform": "macOS-27.2.1-arm64-arm-64bit",
+    "ffmpeg": "ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers"
+  },
+  "planned_cases": 70,
+  "n": 70,
+  "missing_sources": {},
+  "statuses": {
+    "PASS": 66,
+    "FAIL": 4,
+    "ERROR": 0,
+    "SKIP": 0
+  },
+  "mixtures": {
+    "n": 60,
+    "median": 6.695882163149128,
+    "min": -0.8828234301546996,
+    "max": 11.10102285351208,
+    "positive": 59,
+    "at_least_1db": 57
+  },
+  "by_noise": {
+    "wind": {
+      "n": 12,
+      "median": 6.695882163149128,
+      "min": 3.1626000395903855,
+      "max": 8.920385702401731,
+      "positive": 12,
+      "at_least_1db": 12
+    },
+    "train": {
+      "n": 12,
+      "median": 7.033506848739286,
+      "min": 2.07576798833556,
+      "max": 10.10333260477788,
+      "positive": 12,
+      "at_least_1db": 12
+    },
+    "vacuum": {
+      "n": 12,
+      "median": 7.638234226511192,
+      "min": 3.383326373370572,
+      "max": 11.10102285351208,
+      "positive": 12,
+      "at_least_1db": 12
+    },
+    "music": {
+      "n": 12,
+      "median": 1.1973960605032867,
+      "min": -0.8828234301546996,
+      "max": 2.5907333799417067,
+      "positive": 11,
+      "at_least_1db": 9
+    },
+    "white": {
+      "n": 12,
+      "median": 8.399986585422676,
+      "min": 4.080333011358541,
+      "max": 10.650352664148684,
+      "positive": 12,
+      "at_least_1db": 12
+    }
+  },
+  "by_snr": {
+    "-5": {
+      "n": 20,
+      "median": 7.671190630426814,
+      "min": -0.8828234301546996,
+      "max": 11.10102285351208,
+      "positive": 19,
+      "at_least_1db": 19
+    },
+    "0": {
+      "n": 20,
+      "median": 8.248831551377414,
+      "min": 0.37818240215369137,
+      "max": 10.650352664148684,
+      "positive": 20,
+      "at_least_1db": 19
+    },
+    "10": {
+      "n": 20,
+      "median": 4.775420599948571,
+      "min": 0.39205894413754017,
+      "max": 9.89506190480777,
+      "positive": 20,
+      "at_least_1db": 19
+    }
+  },
+  "by_speaker": {
+    "reader_198": {
+      "n": 15,
+      "median": 6.398614013920076,
+      "min": 1.1511184557039122,
+      "max": 9.810469106064433,
+      "positive": 15,
+      "at_least_1db": 15
+    },
+    "reader_3436": {
+      "n": 15,
+      "median": 8.634115474372834,
+      "min": 1.1876820996700213,
+      "max": 11.10102285351208,
+      "positive": 15,
+      "at_least_1db": 15
+    },
+    "reader_5703": {
+      "n": 15,
+      "median": 5.294097391143329,
+      "min": 0.39205894413754017,
+      "max": 9.218263417944705,
+      "positive": 15,
+      "at_least_1db": 14
+    },
+    "overlap_198_3436": {
+      "n": 15,
+      "median": 6.042028758857075,
+      "min": -0.8828234301546996,
+      "max": 8.633572989154157,
+      "positive": 14,
+      "at_least_1db": 13
+    }
+  },
+  "mixture_gate_pass": true,
+  "controls": [
+    {
+      "condition": "clean",
+      "speaker": "reader_198",
+      "noise": "",
+      "snr_db": "",
+      "status": "PASS",
+      "max_reconstruction_error": 7.450580596923828e-09,
+      "output_sisdr_db": 21.301840842763955,
+      "target_gain_db": -0.133609361331132,
+      "target_lag_samples": 0
+    },
+    {
+      "condition": "clean",
+      "speaker": "reader_3436",
+      "noise": "",
+      "snr_db": "",
+      "status": "PASS",
+      "max_reconstruction_error": 1.862645149230957e-09,
+      "output_sisdr_db": 27.00564990100161,
+      "target_gain_db": -0.17922962951759303,
+      "target_lag_samples": 0
+    },
+    {
+      "condition": "clean",
+      "speaker": "reader_5703",
+      "noise": "",
+      "snr_db": "",
+      "status": "PASS",
+      "max_reconstruction_error": 3.725290298461914e-09,
+      "output_sisdr_db": 19.259191690869272,
+      "target_gain_db": -0.4998515557576475,
+      "target_lag_samples": 0
+    },
+    {
+      "condition": "clean",
+      "speaker": "overlap_198_3436",
+      "noise": "",
+      "snr_db": "",
+      "status": "PASS",
+      "max_reconstruction_error": 1.4901161193847656e-08,
+      "output_sisdr_db": 18.851925383312267,
+      "target_gain_db": -0.3427504398548038,
+      "target_lag_samples": 0
+    },
+    {
+      "condition": "no_speech",
+      "speaker": "",
+      "noise": "wind",
+      "snr_db": "",
+      "status": "PASS",
+      "max_reconstruction_error": 1.4901161193847656e-08,
+      "target_suppression_db": 22.547517461336753
+    },
+    {
+      "condition": "no_speech",
+      "speaker": "",
+      "noise": "train",
+      "snr_db": "",
+      "status": "PASS",
+      "max_reconstruction_error": 1.4901161193847656e-08,
+      "target_suppression_db": 30.601326612571885
+    },
+    {
+      "condition": "no_speech",
+      "speaker": "",
+      "noise": "vacuum",
+      "snr_db": "",
+      "status": "PASS",
+      "max_reconstruction_error": 1.4901161193847656e-08,
+      "target_suppression_db": 19.524134342720494
+    },
+    {
+      "condition": "no_speech",
+      "speaker": "",
+      "noise": "music",
+      "snr_db": "",
+      "status": "FAIL",
+      "max_reconstruction_error": 1.4901161193847656e-08,
+      "target_suppression_db": 2.3685679150324503
+    },
+    {
+      "condition": "no_speech",
+      "speaker": "",
+      "noise": "white",
+      "snr_db": "",
+      "status": "PASS",
+      "max_reconstruction_error": 1.4901161193847656e-08,
+      "target_suppression_db": 11.705039803561554
+    },
+    {
+      "condition": "silence",
+      "speaker": "",
+      "noise": "",
+      "snr_db": "",
+      "status": "PASS",
+      "max_reconstruction_error": 0.0,
+      "target_peak_fs": 0.0
+    }
+  ],
+  "adapter_gates": {
+    "rnnoise_ready": true,
+    "demucs_unset_rejected": true,
+    "missing_checkpoint_rejected": true,
+    "bad_rnnoise_target_rejected": true,
+    "unknown_model_rejected": true
+  },
+  "optional": [
+    {
+      "adapter": "demucs",
+      "status": "SKIP",
+      "reason": "No configured, verified four-stem weights for this benchmark."
+    }
+  ],
+  "largest_reconstruction_error": 2.9802322387695312e-08,
+  "worst": {
+    "condition": "mixture",
+    "speaker": "overlap_198_3436",
+    "noise": "music",
+    "snr_db": -5,
+    "status": "FAIL",
+    "max_reconstruction_error": 2.9802322387695312e-08,
+    "input_sisdr_db": -5.025602038023145,
+    "output_sisdr_db": -5.908425468177844,
+    "sisdri_db": -0.8828234301546996
+  }
+}

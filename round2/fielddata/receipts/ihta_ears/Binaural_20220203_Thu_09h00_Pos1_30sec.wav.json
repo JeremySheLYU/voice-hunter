@@ -1,0 +1,21 @@
+{
+  "id": "ihta_ears/Binaural_20220203_Thu_09h00_Pos1_30sec.wav",
+  "dataset": "ihta_ears",
+  "record": "11184517",
+  "member": "Binaural/20220203_Thu_09h00_Pos1_30sec.wav",
+  "source_offset_s": 0,
+  "duration_s": 4.0,
+  "rate": 48000,
+  "channels": 2,
+  "bytes": 668729,
+  "sha256": "14e0c97f17abfdf723afea02680276b15fbffecb04c78170a8fb38ba8a04c584",
+  "pcm_s32le_sha256": "8336d1907bab214081a4d3f3fa48ba23b116861e609a2a1636efdec588736b44",
+  "archive_crc32": "0x9ad389c",
+  "archive_range": [
+    53255407,
+    54760942
+  ],
+  "range_sha256": "510b45a5dd999f324497a8b7ed347bde7bd8191e720041317c2f07f14fdbb3d7",
+  "path": "round2_data/field/ihta_ears/Binaural_20220203_Thu_09h00_Pos1_30sec.wav.flac",
+  "license": "CC-BY-4.0"
+}

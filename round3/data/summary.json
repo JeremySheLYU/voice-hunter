@@ -1,0 +1,35 @@
+{
+ "test": {
+  "n": 87,
+  "counts": {
+   "guitar": 15,
+   "piano": 12,
+   "speech": 20,
+   "train": 20,
+   "wind": 20
+  },
+  "examined": 240,
+  "rejected": {
+   "below minimum duration": 151
+  },
+  "uploaders": 79,
+  "seconds": 1179.1642630385488
+ },
+ "train": {
+  "n": 450,
+  "counts": {
+   "guitar": 90,
+   "piano": 90,
+   "speech": 90,
+   "train": 90,
+   "wind": 90
+  },
+  "examined": 549,
+  "rejected": {
+   "below minimum duration": 95,
+   "size ceiling": 1
+  },
+  "uploaders": 308,
+  "seconds": 4477.480068027211
+ }
+}

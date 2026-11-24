@@ -1,0 +1,46 @@
+{
+ "count": 19,
+ "classes": {
+  "wind": 4,
+  "train": 4,
+  "guitar": 4,
+  "piano": 3,
+  "speech": 4
+ },
+ "authors": 18,
+ "shared_primary_test_ids": [
+  "68133",
+  "361579",
+  "434629",
+  "339982",
+  "340998",
+  "65150",
+  "417331"
+ ],
+ "shared_primary_test_uploaders": 8,
+ "attempts": {
+  "guitar": 48,
+  "piano": 68,
+  "speech": 100,
+  "train": 24,
+  "wind": 24
+ },
+ "skipped": {
+  "Not stereo preview": 91,
+  "Page attribution mismatch": 30,
+  "Short stereo reference": 91,
+  "HTTP Error 404: Not Found": 29,
+  "near dual mono": 4
+ },
+ "total_seconds": 203.4089,
+ "sha256": "48aa95a3449b444600301943bcd60aafdf3ee4ad46823b94ce789e22e625b937",
+ "initial_native_count": 15,
+ "reserve_examined": 30,
+ "reserve_eligibility_rejections": {
+  "Page attribution mismatch": 11,
+  "near dual mono": 5,
+  "Short stereo reference": 4,
+  "HTTP Error 404: Not Found": 1,
+  "Not stereo preview": 2
+ }
+}

@@ -1,0 +1,11 @@
+{
+  "statuses": [
+    200,
+    200,
+    200,
+    400
+  ],
+  "partial_files": [],
+  "error": "ffmpeg 無法讀寫這個媒體檔。請試用原始 MOV、MP4 或 WAV。",
+  "passed": true
+}

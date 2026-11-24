@@ -1,0 +1,44 @@
+[
+  {
+    "partition": "train-clean-5",
+    "clips": 1519,
+    "readers": 28,
+    "seconds": 19118.67482,
+    "url": "https://www.openslr.org/resources/31/train-clean-5.tar.gz",
+    "bytes": 332954390,
+    "archive_md5": "5df7d4e78065366204ca6845bb08f490",
+    "archive_sha256": "47805806c8b15f7549f3c51bd6b7da72ec0128a34d32830c8014a88658c0292d",
+    "source_md5_index": "https://www.openslr.org/resources/31/md5sum.txt",
+    "license": "CC BY 4.0",
+    "channels": "mono (originals)",
+    "official_page": "https://www.openslr.org/31/"
+  },
+  {
+    "partition": "dev-clean-2",
+    "clips": 1089,
+    "readers": 26,
+    "seconds": 7328.95524,
+    "url": "https://www.openslr.org/resources/31/dev-clean-2.tar.gz",
+    "bytes": 126046265,
+    "archive_md5": "6d7ab67ac6a1d2c993d050e16d61080d",
+    "archive_sha256": "176ec501490eced2d6c1f89f4f0ddc7dfe799e649e5322f8ba49fe3ff50c8012",
+    "source_md5_index": "https://www.openslr.org/resources/31/md5sum.txt",
+    "license": "CC BY 4.0",
+    "channels": "mono (originals)",
+    "official_page": "https://www.openslr.org/31/"
+  },
+  {
+    "partition": "test-clean",
+    "clips": 2620,
+    "readers": 40,
+    "seconds": 19452.4806,
+    "url": "https://www.openslr.org/resources/12/test-clean.tar.gz",
+    "bytes": 346663984,
+    "archive_md5": "32fa31d27d2e1cad72775fee3f4849a9",
+    "archive_sha256": "39fde525e59672dc6d1551919b1478f724438a95aa55f874b576be21967e6c23",
+    "source_md5_index": "https://www.openslr.org/resources/12/md5sum.txt",
+    "license": "CC BY 4.0",
+    "channels": "mono (originals)",
+    "official_page": "https://www.openslr.org/12/"
+  }
+]

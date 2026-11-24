@@ -1,0 +1,42 @@
+{
+  "persistent": {
+    "requests": 120,
+    "decision_flips": 0,
+    "useful_delivery_flips": 0,
+    "maximum_abs_sisdri_change": 0.0,
+    "serial_summary": {
+      "TP": 55,
+      "FP": 11,
+      "TN": 49,
+      "FN": 5,
+      "accuracy": 0.8666666666666667,
+      "f1": 0.873015873015873,
+      "precision": 0.8333333333333334,
+      "recall": 0.9166666666666666,
+      "useful": 52,
+      "useful_fraction": 0.8666666666666667,
+      "harmful": 3,
+      "undefined_truth": 0
+    }
+  },
+  "intermittent": {
+    "requests": 120,
+    "decision_flips": 0,
+    "useful_delivery_flips": 0,
+    "maximum_abs_sisdri_change": 0.0,
+    "serial_summary": {
+      "TP": 51,
+      "FP": 9,
+      "TN": 51,
+      "FN": 9,
+      "accuracy": 0.85,
+      "f1": 0.85,
+      "precision": 0.85,
+      "recall": 0.85,
+      "useful": 49,
+      "useful_fraction": 0.8166666666666667,
+      "harmful": 2,
+      "undefined_truth": 1
+    }
+  }
+}

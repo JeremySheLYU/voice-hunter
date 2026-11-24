@@ -1,0 +1,30 @@
+{
+  "id": "eigenscape_hoa/PedestrianZone.1",
+  "dataset": "eigenscape_hoa",
+  "record": "2628463",
+  "member": "PedestrianZone.1.wav",
+  "archive": "PedestrianZone.zip",
+  "archive_checksum": "md5:799eb3fccdc628785b3fb69d01e9a7e4",
+  "url": "https://zenodo.org/api/records/2628463/files/PedestrianZone.zip/content",
+  "archive_range": [
+    0,
+    8199999
+  ],
+  "range_sha256": "9858684d856fae899e6566a64e2f0e9e517cb7cad7cd89d18f0d2150636383e2",
+  "source_offset_s": 0,
+  "duration_s": 2,
+  "rate": 48000,
+  "channels": 25,
+  "format": "ACN/SN3D order 4",
+  "bytes": 7200102,
+  "sha256": "617011c31915a7fff94b682e9d9a14ce0e0a6cabf3378a1fdfed0689b7fdf0dc",
+  "pcm_s32le_sha256": "58e7dd64dcd62b41c6399e5925135cabdb42e0dca6715e843a47ee6a7cdaed94",
+  "first_four_vs_lite_correlation": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "path": "round2_data/field/eigenscape_hoa/PedestrianZone-01.wav",
+  "license": "CC-BY-4.0"
+}

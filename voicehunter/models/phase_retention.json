@@ -1,0 +1,7 @@
+{
+  "threshold": 0.24,
+  "validation_gate": true,
+  "training_source": "FMA small",
+  "training_records": 140,
+  "provenance": "round2/phase/ and round2/stereo/manifest.json"
+}

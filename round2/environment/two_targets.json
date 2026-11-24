@@ -1,0 +1,558 @@
+{
+  "summary": {
+    "stationary": {
+      "baseline": {
+        "pass_count": 8,
+        "cases": 8,
+        "median": 7.618370580162191,
+        "worst": 4.656239595314341
+      },
+      "estimate": {
+        "pass_count": 8,
+        "cases": 8,
+        "median": 18.338210634464097,
+        "worst": 13.189337756556872
+      },
+      "spatial_used": 8,
+      "worst_additive_error": 1.4901161193847656e-08
+    },
+    "colocated": {
+      "baseline": {
+        "pass_count": 8,
+        "cases": 8,
+        "median": 7.801662584565147,
+        "worst": 4.69704540658174
+      },
+      "estimate": {
+        "pass_count": 8,
+        "cases": 8,
+        "median": 7.801662584565147,
+        "worst": 4.69704540658174
+      },
+      "spatial_used": 0,
+      "worst_additive_error": 7.450580596923828e-09
+    },
+    "moved": {
+      "baseline": {
+        "pass_count": 8,
+        "cases": 8,
+        "median": 7.618370580162191,
+        "worst": 4.656239595314341
+      },
+      "estimate": {
+        "pass_count": 0,
+        "cases": 8,
+        "median": -31.16988114542451,
+        "worst": -74.27983307199061
+      },
+      "spatial_used": 8,
+      "worst_additive_error": 1.4842953532934189e-08
+    }
+  },
+  "cases": [
+    {
+      "scene": 0,
+      "condition": "stationary",
+      "source": [
+        "146271",
+        "204347"
+      ],
+      "baseline": {
+        "input_sisdr": 0.6755461057799048,
+        "estimated_sisdr": 8.687212959756298,
+        "improvement": 8.011666853976394
+      },
+      "estimate": {
+        "input_sisdr": 0.6755461057799048,
+        "estimated_sisdr": 24.651644956520798,
+        "improvement": 23.976098850740893
+      },
+      "spatial_used": true,
+      "reconstruct": 3.725290298461914e-09,
+      "max_change_fullscale": 0.07059627771377563
+    },
+    {
+      "scene": 0,
+      "condition": "colocated",
+      "source": [
+        "146271",
+        "204347"
+      ],
+      "baseline": {
+        "input_sisdr": -0.3849574709087494,
+        "estimated_sisdr": 7.929926266690375,
+        "improvement": 8.314883737599125
+      },
+      "estimate": {
+        "input_sisdr": -0.3849574709087494,
+        "estimated_sisdr": 7.929926266690375,
+        "improvement": 8.314883737599125
+      },
+      "spatial_used": false,
+      "reconstruct": 3.725290298461914e-09,
+      "max_change_fullscale": 0.0
+    },
+    {
+      "scene": 0,
+      "condition": "moved",
+      "source": [
+        "146271",
+        "204347"
+      ],
+      "baseline": {
+        "input_sisdr": 0.6755461057799048,
+        "estimated_sisdr": 8.687212959756298,
+        "improvement": 8.011666853976394
+      },
+      "estimate": {
+        "input_sisdr": 0.6755461057799048,
+        "estimated_sisdr": -20.800815473305427,
+        "improvement": -21.47636157908533
+      },
+      "spatial_used": true,
+      "reconstruct": 1.4784745872020721e-08,
+      "max_change_fullscale": 0.3837085962295532
+    },
+    {
+      "scene": 1,
+      "condition": "stationary",
+      "source": [
+        "401692",
+        "170641"
+      ],
+      "baseline": {
+        "input_sisdr": -0.23108940379406534,
+        "estimated_sisdr": 6.993984902553922,
+        "improvement": 7.225074306347987
+      },
+      "estimate": {
+        "input_sisdr": -0.23108940379406534,
+        "estimated_sisdr": 12.958248352762807,
+        "improvement": 13.189337756556872
+      },
+      "spatial_used": true,
+      "reconstruct": 6.255191919990466e-09,
+      "max_change_fullscale": 0.08792804926633835
+    },
+    {
+      "scene": 1,
+      "condition": "colocated",
+      "source": [
+        "401692",
+        "170641"
+      ],
+      "baseline": {
+        "input_sisdr": -0.37361002126315274,
+        "estimated_sisdr": 6.9148314102680155,
+        "improvement": 7.288441431531168
+      },
+      "estimate": {
+        "input_sisdr": -0.37361002126315274,
+        "estimated_sisdr": 6.9148314102680155,
+        "improvement": 7.288441431531168
+      },
+      "spatial_used": false,
+      "reconstruct": 3.725290298461914e-09,
+      "max_change_fullscale": 0.0
+    },
+    {
+      "scene": 1,
+      "condition": "moved",
+      "source": [
+        "401692",
+        "170641"
+      ],
+      "baseline": {
+        "input_sisdr": -0.23108940379406534,
+        "estimated_sisdr": 6.993984902553922,
+        "improvement": 7.225074306347987
+      },
+      "estimate": {
+        "input_sisdr": -0.23108940379406534,
+        "estimated_sisdr": -41.09449011555776,
+        "improvement": -40.863400711763695
+      },
+      "spatial_used": true,
+      "reconstruct": 6.255191919990466e-09,
+      "max_change_fullscale": 0.09338750690221786
+    },
+    {
+      "scene": 2,
+      "condition": "stationary",
+      "source": [
+        "173075",
+        "70214"
+      ],
+      "baseline": {
+        "input_sisdr": -0.7085286660535316,
+        "estimated_sisdr": 5.48570525470478,
+        "improvement": 6.194233920758312
+      },
+      "estimate": {
+        "input_sisdr": -0.7085286660535316,
+        "estimated_sisdr": 16.248496977310637,
+        "improvement": 16.95702564336417
+      },
+      "spatial_used": true,
+      "reconstruct": 7.450580596923828e-09,
+      "max_change_fullscale": 0.06642185896635056
+    },
+    {
+      "scene": 2,
+      "condition": "colocated",
+      "source": [
+        "173075",
+        "70214"
+      ],
+      "baseline": {
+        "input_sisdr": -1.6301101554964155,
+        "estimated_sisdr": 5.048821212333618,
+        "improvement": 6.6789313678300335
+      },
+      "estimate": {
+        "input_sisdr": -1.6301101554964155,
+        "estimated_sisdr": 5.048821212333618,
+        "improvement": 6.6789313678300335
+      },
+      "spatial_used": false,
+      "reconstruct": 7.450580596923828e-09,
+      "max_change_fullscale": 0.0
+    },
+    {
+      "scene": 2,
+      "condition": "moved",
+      "source": [
+        "173075",
+        "70214"
+      ],
+      "baseline": {
+        "input_sisdr": -0.7085286660535316,
+        "estimated_sisdr": 5.48570525470478,
+        "improvement": 6.194233920758312
+      },
+      "estimate": {
+        "input_sisdr": -0.7085286660535316,
+        "estimated_sisdr": -11.372936152932047,
+        "improvement": -10.664407486878515
+      },
+      "spatial_used": true,
+      "reconstruct": 1.210719347000122e-08,
+      "max_change_fullscale": 0.2604057192802429
+    },
+    {
+      "scene": 3,
+      "condition": "stationary",
+      "source": [
+        "252506",
+        "31225"
+      ],
+      "baseline": {
+        "input_sisdr": -0.6141833781608431,
+        "estimated_sisdr": 11.855072999570282,
+        "improvement": 12.469256377731126
+      },
+      "estimate": {
+        "input_sisdr": -0.6141833781608431,
+        "estimated_sisdr": 14.567016784668203,
+        "improvement": 15.181200162829047
+      },
+      "spatial_used": true,
+      "reconstruct": 7.450580596923828e-09,
+      "max_change_fullscale": 0.058057136833667755
+    },
+    {
+      "scene": 3,
+      "condition": "colocated",
+      "source": [
+        "252506",
+        "31225"
+      ],
+      "baseline": {
+        "input_sisdr": -1.0010630873721673,
+        "estimated_sisdr": 11.495697498316861,
+        "improvement": 12.496760585689028
+      },
+      "estimate": {
+        "input_sisdr": -1.0010630873721673,
+        "estimated_sisdr": 11.495697498316861,
+        "improvement": 12.496760585689028
+      },
+      "spatial_used": false,
+      "reconstruct": 7.450580596923828e-09,
+      "max_change_fullscale": 0.0
+    },
+    {
+      "scene": 3,
+      "condition": "moved",
+      "source": [
+        "252506",
+        "31225"
+      ],
+      "baseline": {
+        "input_sisdr": -0.6141833781608431,
+        "estimated_sisdr": 11.855072999570282,
+        "improvement": 12.469256377731126
+      },
+      "estimate": {
+        "input_sisdr": -0.6141833781608431,
+        "estimated_sisdr": -46.06874348833537,
+        "improvement": -45.454560110174526
+      },
+      "spatial_used": true,
+      "reconstruct": 1.3969838619232178e-08,
+      "max_change_fullscale": 0.2797640264034271
+    },
+    {
+      "scene": 4,
+      "condition": "stationary",
+      "source": [
+        "187698",
+        "217740"
+      ],
+      "baseline": {
+        "input_sisdr": -0.6193298381098101,
+        "estimated_sisdr": 8.08479764960856,
+        "improvement": 8.70412748771837
+      },
+      "estimate": {
+        "input_sisdr": -0.6193298381098101,
+        "estimated_sisdr": 22.987746663915523,
+        "improvement": 23.607076502025333
+      },
+      "spatial_used": true,
+      "reconstruct": 1.4901161193847656e-08,
+      "max_change_fullscale": 0.11696034669876099
+    },
+    {
+      "scene": 4,
+      "condition": "colocated",
+      "source": [
+        "187698",
+        "217740"
+      ],
+      "baseline": {
+        "input_sisdr": 0.42334050220710406,
+        "estimated_sisdr": 8.741709524565454,
+        "improvement": 8.31836902235835
+      },
+      "estimate": {
+        "input_sisdr": 0.42334050220710406,
+        "estimated_sisdr": 8.741709524565454,
+        "improvement": 8.31836902235835
+      },
+      "spatial_used": false,
+      "reconstruct": 7.450580596923828e-09,
+      "max_change_fullscale": 0.0
+    },
+    {
+      "scene": 4,
+      "condition": "moved",
+      "source": [
+        "187698",
+        "217740"
+      ],
+      "baseline": {
+        "input_sisdr": -0.6193298381098101,
+        "estimated_sisdr": 8.08479764960856,
+        "improvement": 8.70412748771837
+      },
+      "estimate": {
+        "input_sisdr": -0.6193298381098101,
+        "estimated_sisdr": -0.24552718397954934,
+        "improvement": 0.3738026541302608
+      },
+      "spatial_used": true,
+      "reconstruct": 1.4842953532934189e-08,
+      "max_change_fullscale": 0.22954927384853363
+    },
+    {
+      "scene": 5,
+      "condition": "stationary",
+      "source": [
+        "146270",
+        "177828"
+      ],
+      "baseline": {
+        "input_sisdr": 0.8410846792281883,
+        "estimated_sisdr": 5.49732427454253,
+        "improvement": 4.656239595314341
+      },
+      "estimate": {
+        "input_sisdr": 0.8410846792281883,
+        "estimated_sisdr": 20.56048030479221,
+        "improvement": 19.719395625564022
+      },
+      "spatial_used": true,
+      "reconstruct": 3.725290298461914e-09,
+      "max_change_fullscale": 0.06533817946910858
+    },
+    {
+      "scene": 5,
+      "condition": "colocated",
+      "source": [
+        "146270",
+        "177828"
+      ],
+      "baseline": {
+        "input_sisdr": 0.404583810202172,
+        "estimated_sisdr": 5.101629216783912,
+        "improvement": 4.69704540658174
+      },
+      "estimate": {
+        "input_sisdr": 0.404583810202172,
+        "estimated_sisdr": 5.101629216783912,
+        "improvement": 4.69704540658174
+      },
+      "spatial_used": false,
+      "reconstruct": 3.6343408282846212e-09,
+      "max_change_fullscale": 0.0
+    },
+    {
+      "scene": 5,
+      "condition": "moved",
+      "source": [
+        "146270",
+        "177828"
+      ],
+      "baseline": {
+        "input_sisdr": 0.8410846792281883,
+        "estimated_sisdr": 5.49732427454253,
+        "improvement": 4.656239595314341
+      },
+      "estimate": {
+        "input_sisdr": 0.8410846792281883,
+        "estimated_sisdr": -73.43874839276242,
+        "improvement": -74.27983307199061
+      },
+      "spatial_used": true,
+      "reconstruct": 7.450580596923828e-09,
+      "max_change_fullscale": 0.12400629371404648
+    },
+    {
+      "scene": 6,
+      "condition": "stationary",
+      "source": [
+        "395684",
+        "177229"
+      ],
+      "baseline": {
+        "input_sisdr": 0.4547919331639116,
+        "estimated_sisdr": 5.415096094702122,
+        "improvement": 4.96030416153821
+      },
+      "estimate": {
+        "input_sisdr": 0.4547919331639116,
+        "estimated_sisdr": 14.869691096426301,
+        "improvement": 14.41489916326239
+      },
+      "spatial_used": true,
+      "reconstruct": 1.4202669262886047e-08,
+      "max_change_fullscale": 0.10162542760372162
+    },
+    {
+      "scene": 6,
+      "condition": "colocated",
+      "source": [
+        "395684",
+        "177229"
+      ],
+      "baseline": {
+        "input_sisdr": 1.3712545794969837,
+        "estimated_sisdr": 6.142248647588939,
+        "improvement": 4.770994068091955
+      },
+      "estimate": {
+        "input_sisdr": 1.3712545794969837,
+        "estimated_sisdr": 6.142248647588939,
+        "improvement": 4.770994068091955
+      },
+      "spatial_used": false,
+      "reconstruct": 7.392372936010361e-09,
+      "max_change_fullscale": 0.0
+    },
+    {
+      "scene": 6,
+      "condition": "moved",
+      "source": [
+        "395684",
+        "177229"
+      ],
+      "baseline": {
+        "input_sisdr": 0.4547919331639116,
+        "estimated_sisdr": 5.415096094702122,
+        "improvement": 4.96030416153821
+      },
+      "estimate": {
+        "input_sisdr": 0.4547919331639116,
+        "estimated_sisdr": 2.146488936409206,
+        "improvement": 1.6916970032452943
+      },
+      "spatial_used": true,
+      "reconstruct": 1.4202669262886047e-08,
+      "max_change_fullscale": 0.13666324317455292
+    },
+    {
+      "scene": 7,
+      "condition": "stationary",
+      "source": [
+        "231920",
+        "52081"
+      ],
+      "baseline": {
+        "input_sisdr": 1.2284467947459259,
+        "estimated_sisdr": 24.65406041102995,
+        "improvement": 23.425613616284025
+      },
+      "estimate": {
+        "input_sisdr": 1.2284467947459259,
+        "estimated_sisdr": 26.011611638038367,
+        "improvement": 24.78316484329244
+      },
+      "spatial_used": true,
+      "reconstruct": 7.450580596923828e-09,
+      "max_change_fullscale": 0.022426683455705643
+    },
+    {
+      "scene": 7,
+      "condition": "colocated",
+      "source": [
+        "231920",
+        "52081"
+      ],
+      "baseline": {
+        "input_sisdr": 1.2329399986072511,
+        "estimated_sisdr": 24.662807618821372,
+        "improvement": 23.42986762021412
+      },
+      "estimate": {
+        "input_sisdr": 1.2329399986072511,
+        "estimated_sisdr": 24.662807618821372,
+        "improvement": 23.42986762021412
+      },
+      "spatial_used": false,
+      "reconstruct": 3.725290298461914e-09,
+      "max_change_fullscale": 0.0
+    },
+    {
+      "scene": 7,
+      "condition": "moved",
+      "source": [
+        "231920",
+        "52081"
+      ],
+      "baseline": {
+        "input_sisdr": 1.2284467947459259,
+        "estimated_sisdr": 24.65406041102995,
+        "improvement": 23.425613616284025
+      },
+      "estimate": {
+        "input_sisdr": 1.2284467947459259,
+        "estimated_sisdr": -63.53197731912016,
+        "improvement": -64.76042411386608
+      },
+      "spatial_used": true,
+      "reconstruct": 7.450580596923828e-09,
+      "max_change_fullscale": 0.17692503333091736
+    }
+  ]
+}

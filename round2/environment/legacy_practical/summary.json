@@ -1,0 +1,51 @@
+{
+  "planned_scenes": 3,
+  "scenes": [
+    {
+      "trial": 1,
+      "status": "PASS",
+      "n_targets_passed": 3,
+      "max_reconstruction_error": 1.862645149230957e-09
+    },
+    {
+      "trial": 2,
+      "status": "PASS",
+      "n_targets_passed": 3,
+      "max_reconstruction_error": 3.725290298461914e-09
+    },
+    {
+      "trial": 3,
+      "status": "PASS",
+      "n_targets_passed": 3,
+      "max_reconstruction_error": 3.4924596548080444e-09
+    }
+  ],
+  "scene_pass_count": 3,
+  "target_pass_count": 9,
+  "source_count": 9,
+  "missing_sources": {},
+  "threshold_db": 3,
+  "by_target": {
+    "speech": [
+      15.62853,
+      6.07738,
+      14.1262
+    ],
+    "train": [
+      9.63769,
+      9.12188,
+      11.93316
+    ],
+    "wind": [
+      11.81882,
+      9.92083,
+      9.55421
+    ]
+  },
+  "product_sha256": {
+    "voicehunter/multitrack.py": "8472e75d329fda4894ad13fb641b3697992ef19e131f1d4120853da18ce57fc4",
+    "voicehunter/media.py": "935287c869f9ad1a81352c639cc6dc642df4f991c8a6945183c44fd211fc2e89",
+    "voicehunter/separation.py": "c8ceb6911c539b7806efcd6bb2f52f86a5b93cc00718e5de0016f649e27a2db9",
+    "voicehunter/spatial.py": "2df7eb291bc08364710f7026c2d1baad2eb4b01a8a2b06e7d1de566c8e8e3b57"
+  }
+}

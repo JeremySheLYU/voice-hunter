@@ -1,0 +1,405 @@
+{
+  "groups": {
+    "train": [
+      "131",
+      "028",
+      "058",
+      "050",
+      "012",
+      "152",
+      "154",
+      "126",
+      "008",
+      "048",
+      "060",
+      "134",
+      "124",
+      "065",
+      "158",
+      "155",
+      "017",
+      "163",
+      "127",
+      "147",
+      "040",
+      "133",
+      "162",
+      "010",
+      "061",
+      "019",
+      "059"
+    ],
+    "validation": [
+      "027",
+      "119",
+      "051",
+      "156",
+      "044",
+      "018"
+    ],
+    "test": [
+      "135",
+      "033",
+      "011",
+      "009",
+      "148",
+      "153",
+      "015",
+      "137",
+      "003",
+      "020"
+    ],
+    "mannequin": [
+      "021",
+      "165"
+    ]
+  },
+  "angles_deg": [
+    -80,
+    -65,
+    -55,
+    -45,
+    -40,
+    -35,
+    -30,
+    -25,
+    -20,
+    -15,
+    -10,
+    -5,
+    0,
+    5,
+    10,
+    15,
+    20,
+    25,
+    30,
+    35,
+    40,
+    45,
+    55,
+    65,
+    80
+  ],
+  "unseen_abs_angles": [
+    10,
+    35,
+    55
+  ],
+  "train_measurements": 486,
+  "raw_pose_count": 56250,
+  "horizontal_poses_in_raw": 1125,
+  "reports": {
+    "validation": {
+      "analytic": {
+        "all": {
+          "directions": 144,
+          "ILD_MAE_dB": 4.206376784507034,
+          "ITD_MAE_us": 87.0248899874991
+        },
+        "unseen_angles": {
+          "directions": 36,
+          "ILD_MAE_dB": 4.174101481315574,
+          "ITD_MAE_us": 88.61097525032508
+        },
+        "by_subject": {
+          "027": {
+            "directions": 24,
+            "ILD_MAE_dB": 4.166765444904012,
+            "ITD_MAE_us": 153.24087714333018
+          },
+          "119": {
+            "directions": 24,
+            "ILD_MAE_dB": 4.385765427307047,
+            "ITD_MAE_us": 123.61757177540926
+          },
+          "051": {
+            "directions": 24,
+            "ILD_MAE_dB": 4.285353105434587,
+            "ITD_MAE_us": 93.03408005523887
+          },
+          "156": {
+            "directions": 24,
+            "ILD_MAE_dB": 4.34695992447404,
+            "ITD_MAE_us": 29.867392273666628
+          },
+          "044": {
+            "directions": 24,
+            "ILD_MAE_dB": 4.367033474657578,
+            "ITD_MAE_us": 53.176331594978905
+          },
+          "018": {
+            "directions": 24,
+            "ILD_MAE_dB": 3.686383330264943,
+            "ITD_MAE_us": 69.21308708237069
+          }
+        }
+      },
+      "measured": {
+        "all": {
+          "directions": 144,
+          "ILD_MAE_dB": 1.6062361284380577,
+          "ITD_MAE_us": 82.4229658687049
+        },
+        "unseen_angles": {
+          "directions": 36,
+          "ILD_MAE_dB": 1.656826644331769,
+          "ITD_MAE_us": 86.09793493162552
+        },
+        "by_subject": {
+          "027": {
+            "directions": 24,
+            "ILD_MAE_dB": 0.977175357031717,
+            "ITD_MAE_us": 137.7063509659222
+          },
+          "119": {
+            "directions": 24,
+            "ILD_MAE_dB": 2.5649505864379916,
+            "ITD_MAE_us": 137.99164224878172
+          },
+          "051": {
+            "directions": 24,
+            "ILD_MAE_dB": 1.777395393970738,
+            "ITD_MAE_us": 80.50628085714168
+          },
+          "156": {
+            "directions": 24,
+            "ILD_MAE_dB": 1.25215138186864,
+            "ITD_MAE_us": 36.659957208436715
+          },
+          "044": {
+            "directions": 24,
+            "ILD_MAE_dB": 1.6722896758837893,
+            "ITD_MAE_us": 32.412218025998094
+          },
+          "018": {
+            "directions": 24,
+            "ILD_MAE_dB": 1.3934543754354707,
+            "ITD_MAE_us": 69.26134590594893
+          }
+        }
+      }
+    },
+    "test": {
+      "analytic": {
+        "all": {
+          "directions": 240,
+          "ILD_MAE_dB": 4.3051685951308185,
+          "ITD_MAE_us": 69.18718458785419
+        },
+        "unseen_angles": {
+          "directions": 60,
+          "ILD_MAE_dB": 4.21576079047737,
+          "ITD_MAE_us": 69.45453986278652
+        },
+        "by_subject": {
+          "135": {
+            "directions": 24,
+            "ILD_MAE_dB": 4.555459101132087,
+            "ITD_MAE_us": 107.64120802014425
+          },
+          "033": {
+            "directions": 24,
+            "ILD_MAE_dB": 3.9971352536087594,
+            "ITD_MAE_us": 59.690061815376886
+          },
+          "011": {
+            "directions": 24,
+            "ILD_MAE_dB": 4.27735599183771,
+            "ITD_MAE_us": 44.00900707241046
+          },
+          "009": {
+            "directions": 24,
+            "ILD_MAE_dB": 4.9835157165303725,
+            "ITD_MAE_us": 45.51251796882764
+          },
+          "148": {
+            "directions": 24,
+            "ILD_MAE_dB": 4.18290276214978,
+            "ITD_MAE_us": 54.40767279859117
+          },
+          "153": {
+            "directions": 24,
+            "ILD_MAE_dB": 4.298744325691243,
+            "ITD_MAE_us": 107.33727425637476
+          },
+          "015": {
+            "directions": 24,
+            "ILD_MAE_dB": 4.314855737444205,
+            "ITD_MAE_us": 58.60752580700797
+          },
+          "137": {
+            "directions": 24,
+            "ILD_MAE_dB": 4.170972103399511,
+            "ITD_MAE_us": 77.11508384454741
+          },
+          "003": {
+            "directions": 24,
+            "ILD_MAE_dB": 4.3938231903166365,
+            "ITD_MAE_us": 49.80953836614665
+          },
+          "020": {
+            "directions": 24,
+            "ILD_MAE_dB": 3.876921769197877,
+            "ITD_MAE_us": 87.74195592911458
+          }
+        }
+      },
+      "measured": {
+        "all": {
+          "directions": 240,
+          "ILD_MAE_dB": 1.5305953117705344,
+          "ITD_MAE_us": 59.682612920500496
+        },
+        "unseen_angles": {
+          "directions": 60,
+          "ILD_MAE_dB": 1.5901698713003218,
+          "ITD_MAE_us": 64.50407276911429
+        },
+        "by_subject": {
+          "135": {
+            "directions": 24,
+            "ILD_MAE_dB": 2.6407683316630792,
+            "ITD_MAE_us": 84.97965143109698
+          },
+          "033": {
+            "directions": 24,
+            "ILD_MAE_dB": 1.1404681128335046,
+            "ITD_MAE_us": 48.584499302731246
+          },
+          "011": {
+            "directions": 24,
+            "ILD_MAE_dB": 1.0681737438715428,
+            "ITD_MAE_us": 38.971802175609206
+          },
+          "009": {
+            "directions": 24,
+            "ILD_MAE_dB": 2.235364532578678,
+            "ITD_MAE_us": 44.83113088081083
+          },
+          "148": {
+            "directions": 24,
+            "ILD_MAE_dB": 1.1950073324898627,
+            "ITD_MAE_us": 43.33797838779396
+          },
+          "153": {
+            "directions": 24,
+            "ILD_MAE_dB": 1.4600237308128816,
+            "ITD_MAE_us": 103.66916831829069
+          },
+          "015": {
+            "directions": 24,
+            "ILD_MAE_dB": 1.5547368368605998,
+            "ITD_MAE_us": 59.34191264917496
+          },
+          "137": {
+            "directions": 24,
+            "ILD_MAE_dB": 1.1549057995234444,
+            "ITD_MAE_us": 50.90556852571418
+          },
+          "003": {
+            "directions": 24,
+            "ILD_MAE_dB": 1.4237403499547947,
+            "ITD_MAE_us": 42.94110321552993
+          },
+          "020": {
+            "directions": 24,
+            "ILD_MAE_dB": 1.4327643471169562,
+            "ITD_MAE_us": 79.26331431825297
+          }
+        }
+      }
+    },
+    "mannequin": {
+      "analytic": {
+        "all": {
+          "directions": 48,
+          "ILD_MAE_dB": 4.022460652225612,
+          "ITD_MAE_us": 40.531190776296775
+        },
+        "unseen_angles": {
+          "directions": 12,
+          "ILD_MAE_dB": 4.002173635235835,
+          "ITD_MAE_us": 36.22477873160543
+        },
+        "by_subject": {
+          "021": {
+            "directions": 24,
+            "ILD_MAE_dB": 3.954408798572075,
+            "ITD_MAE_us": 42.33995721352476
+          },
+          "165": {
+            "directions": 24,
+            "ILD_MAE_dB": 4.09051250587915,
+            "ITD_MAE_us": 38.72242433906878
+          }
+        }
+      },
+      "measured": {
+        "all": {
+          "directions": 48,
+          "ILD_MAE_dB": 1.4250327341718325,
+          "ITD_MAE_us": 18.77973940714749
+        },
+        "unseen_angles": {
+          "directions": 12,
+          "ILD_MAE_dB": 1.3959175913058937,
+          "ITD_MAE_us": 16.4883413942505
+        },
+        "by_subject": {
+          "021": {
+            "directions": 24,
+            "ILD_MAE_dB": 1.1301382350454536,
+            "ITD_MAE_us": 23.295316488089828
+          },
+          "165": {
+            "directions": 24,
+            "ILD_MAE_dB": 1.7199272332982112,
+            "ITD_MAE_us": 14.264162326205145
+          }
+        }
+      }
+    }
+  },
+  "controls": [
+    {
+      "rate": 8000,
+      "mid_max_error": 0.0,
+      "residual_max_error": 0.0,
+      "mirror_max_error": 0.0
+    },
+    {
+      "rate": 16000,
+      "mid_max_error": 0.0,
+      "residual_max_error": 0.0,
+      "mirror_max_error": 0.0
+    },
+    {
+      "rate": 44100,
+      "mid_max_error": 0.0,
+      "residual_max_error": 0.0,
+      "mirror_max_error": 0.0
+    },
+    {
+      "rate": 48000,
+      "mid_max_error": 0.0,
+      "residual_max_error": 0.0,
+      "mirror_max_error": 0.0
+    },
+    {
+      "rate": 96000,
+      "mid_max_error": 0.0,
+      "residual_max_error": 0.0,
+      "mirror_max_error": 0.0
+    },
+    {
+      "rate": 192000,
+      "mid_max_error": 0.0,
+      "residual_max_error": 0.0,
+      "mirror_max_error": 0.0
+    }
+  ],
+  "weight_sha256": "b88e48e82509c479f1d982dc80e6dfce8239cc4d237d40fafa82d841ae5cce59",
+  "rate": 44100,
+  "passes_frozen_gate": true
+}

@@ -1,0 +1,13 @@
+{
+  "target_si_sdr_improvement_db": 26.44564037005353,
+  "residual_si_sdr_improvement_db": 26.449863847797502,
+  "target_interference_ratio_improvement_db": 48.101391887340036,
+  "target_original_right_minus_left_db": 4.642066323764816,
+  "target_separated_right_minus_left_db": 4.654110713872399,
+  "pan_right_change_db": 10.176421021959147,
+  "mono_background_lr_max_difference": 2.9802322387695312e-08,
+  "wider_background_side_mid_change_db": 3.5218251813624413,
+  "neutral_max_sample_error": 2.9802322387695312e-08,
+  "estimated_stem_sum_max_error": 2.9802322387695312e-08,
+  "mono_fold_down_error_at_non_neutral_render": 5.960464477539063e-08
+}

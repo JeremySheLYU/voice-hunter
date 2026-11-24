@@ -1,0 +1,322 @@
+[
+  {
+    "film": "bbb",
+    "kind": "st",
+    "file": "bbb_st_60s.flac",
+    "url": "https://media.xiph.org/BBB/BigBuckBunny-stereo.flac",
+    "start_seconds": 60,
+    "duration": 12,
+    "sr": 48000,
+    "channels": 2,
+    "layout": "FL FR",
+    "source_header_sha256": "95ff79e164dc19b941598fefe8c5bc6e1615964eb9117fe335371fb553ab0f0d",
+    "source_range": [
+      10428529,
+      13932460
+    ],
+    "source_range_sha256": "fee3dbe026840dbb984090e443c634ca8e79bd5e38a2fae13dc928861c9fd330",
+    "source_seekpoint_sample": 2879488,
+    "decoded_pcm_sha256": "72b18efce142bf5b977d14d21692c89c87e10241217c7304e38d3cbec9923800",
+    "local_sha256": "80e18726ab0bd011c82c1ebf98cac70821df3c4adf3d4ddbbb14a5ed6b934476"
+  },
+  {
+    "film": "bbb",
+    "kind": "st",
+    "file": "bbb_st_180s.flac",
+    "url": "https://media.xiph.org/BBB/BigBuckBunny-stereo.flac",
+    "start_seconds": 180,
+    "duration": 12,
+    "sr": 48000,
+    "channels": 2,
+    "layout": "FL FR",
+    "source_header_sha256": "95ff79e164dc19b941598fefe8c5bc6e1615964eb9117fe335371fb553ab0f0d",
+    "source_range": [
+      30326762,
+      33967042
+    ],
+    "source_range_sha256": "80d70cd196d4a3b01b3e9b8b29821c3248ba59ca043a7dff5455eb4158b662db",
+    "source_seekpoint_sample": 8638464,
+    "decoded_pcm_sha256": "c6cc0c2f906a3f45850f942727036ad07c9012bf72a4dd47d037aeb560ce3c6f",
+    "local_sha256": "aeeadd987ec84497020f23ab7a8b17cb8b2e114f96e55fe7862a3da893f81e0a"
+  },
+  {
+    "film": "bbb",
+    "kind": "st",
+    "file": "bbb_st_300s.flac",
+    "url": "https://media.xiph.org/BBB/BigBuckBunny-stereo.flac",
+    "start_seconds": 300,
+    "duration": 12,
+    "sr": 48000,
+    "channels": 2,
+    "layout": "FL FR",
+    "source_header_sha256": "95ff79e164dc19b941598fefe8c5bc6e1615964eb9117fe335371fb553ab0f0d",
+    "source_range": [
+      53911010,
+      57207034
+    ],
+    "source_range_sha256": "24836bf1f1eacf697cc3966cc24401d102b15f16e33e7e659c848a9b7ed6ed65",
+    "source_seekpoint_sample": 14397440,
+    "decoded_pcm_sha256": "308d5b57865d968cb03133597666d7a7745c2cef9a0d96b9d3c8d5de2f24dbe8",
+    "local_sha256": "2178b211da38a2613d7a45659e6aa39c5cb5e09abaee23c3f5f695532d6a6755"
+  },
+  {
+    "film": "bbb",
+    "kind": "st",
+    "file": "bbb_st_420s.flac",
+    "url": "https://media.xiph.org/BBB/BigBuckBunny-stereo.flac",
+    "start_seconds": 420,
+    "duration": 12,
+    "sr": 48000,
+    "channels": 2,
+    "layout": "FL FR",
+    "source_header_sha256": "95ff79e164dc19b941598fefe8c5bc6e1615964eb9117fe335371fb553ab0f0d",
+    "source_range": [
+      74020596,
+      78422360
+    ],
+    "source_range_sha256": "425e5f22e4e498a04ada07c1ccb8e64dcfd036c5112ecc1bfb3e7821934bbcfa",
+    "source_seekpoint_sample": 20156416,
+    "decoded_pcm_sha256": "04c36d6da31705a8047e3a6eaba965cc9b8d8d1c8d9bc41b45924527a673dea8",
+    "local_sha256": "bb400df22a0c64048f8a49cb637cef5cf248a4cab9662c67ada5008f825f26f8"
+  },
+  {
+    "film": "bbb",
+    "kind": "51",
+    "file": "bbb_51_60s.flac",
+    "url": "https://media.xiph.org/BBB/BigBuckBunny-surround.flac",
+    "start_seconds": 60,
+    "duration": 12,
+    "sr": 48000,
+    "channels": 6,
+    "layout": "FL FR FC LFE BL BR",
+    "source_header_sha256": "53442d15a6716d21d59269f21058bfe975d550a1e751cc7ee41b9c3d3b5e3c87",
+    "source_range": [
+      22814587,
+      30521222
+    ],
+    "source_range_sha256": "901ed8d5cc65ed11c5875561b953316b4226551b7e4871089434ca37ba50e491",
+    "source_seekpoint_sample": 2879488,
+    "decoded_pcm_sha256": "2cb9ec460ab00002107215124a087e3cc07c173bffc3ab110e1b9e3027edf5a8",
+    "local_sha256": "0423a61c3ebd10987073f6bfc00e4e92dc81a348651c62884ab6ef647070c4e5"
+  },
+  {
+    "film": "bbb",
+    "kind": "51",
+    "file": "bbb_51_180s.flac",
+    "url": "https://media.xiph.org/BBB/BigBuckBunny-surround.flac",
+    "start_seconds": 180,
+    "duration": 12,
+    "sr": 48000,
+    "channels": 6,
+    "layout": "FL FR FC LFE BL BR",
+    "source_header_sha256": "53442d15a6716d21d59269f21058bfe975d550a1e751cc7ee41b9c3d3b5e3c87",
+    "source_range": [
+      66736066,
+      74620824
+    ],
+    "source_range_sha256": "febc2b1c80e1acc4c7ef8913bb4e461acb2947fd992d82c08fc3446999ebd608",
+    "source_seekpoint_sample": 8638464,
+    "decoded_pcm_sha256": "356aa885191eac94fb359409de77b94138e5b028e2a128d39309acf41a5e2152",
+    "local_sha256": "7903b1edf04d915f5917c420a1891a668463cc3d53688dc23ebd0288879d52d2"
+  },
+  {
+    "film": "bbb",
+    "kind": "51",
+    "file": "bbb_51_300s.flac",
+    "url": "https://media.xiph.org/BBB/BigBuckBunny-surround.flac",
+    "start_seconds": 300,
+    "duration": 12,
+    "sr": 48000,
+    "channels": 6,
+    "layout": "FL FR FC LFE BL BR",
+    "source_header_sha256": "53442d15a6716d21d59269f21058bfe975d550a1e751cc7ee41b9c3d3b5e3c87",
+    "source_range": [
+      115627466,
+      122471613
+    ],
+    "source_range_sha256": "1398b5b88b270d9b5aa5d697139531b62b39a4cef0f303384c173140edd87a7f",
+    "source_seekpoint_sample": 14397440,
+    "decoded_pcm_sha256": "bbee896d9f1d10000617e0b4865155a8c3da2295c2f4cbc7778ddb180d94e5d5",
+    "local_sha256": "c0cd92b5b04e376b33f1bce3fb6e87482addc87801a3a203f77b11d4dca6884d"
+  },
+  {
+    "film": "bbb",
+    "kind": "51",
+    "file": "bbb_51_420s.flac",
+    "url": "https://media.xiph.org/BBB/BigBuckBunny-surround.flac",
+    "start_seconds": 420,
+    "duration": 12,
+    "sr": 48000,
+    "channels": 6,
+    "layout": "FL FR FC LFE BL BR",
+    "source_header_sha256": "53442d15a6716d21d59269f21058bfe975d550a1e751cc7ee41b9c3d3b5e3c87",
+    "source_range": [
+      158929331,
+      167740845
+    ],
+    "source_range_sha256": "570de338c9b12c2fc13a6cc97314f93fb2524fb526a0d972d2c21d7680a9d8ad",
+    "source_seekpoint_sample": 20156416,
+    "decoded_pcm_sha256": "6600b801ee4ffc8dc6c51f094a3e2bfaf3132f55e4f50fa0d6eabd095292407e",
+    "local_sha256": "a845338245b5f1c9380e50be489d61cc5009185207523057a7034684e06d3723"
+  },
+  {
+    "film": "sintel",
+    "kind": "st",
+    "file": "sintel_st_60s.flac",
+    "url": "https://media.xiph.org/sintel/sintel-master-st.flac",
+    "start_seconds": 60,
+    "duration": 12,
+    "sr": 48000,
+    "channels": 2,
+    "layout": "FL FR",
+    "source_header_sha256": "8146f19bb0da849c21e0ea29dd662c77e3897e60cd0cad004940529394472613",
+    "source_range": [
+      5360590,
+      7047899
+    ],
+    "source_range_sha256": "aec09e2d71b01eaabff8a884234b3cd0212455e31fe0c3fd287c04b800257591",
+    "source_seekpoint_sample": 2879488,
+    "decoded_pcm_sha256": "9db5d932b2bf2ad6cdd7a6b9790b57d56a6dd05cec5ab25f5c8dbbbf0b0e0256",
+    "local_sha256": "27956b0cf90d5b1fc6828d5b5e0ce04750fdf65caba2864b517ed5de94f06dfb"
+  },
+  {
+    "film": "sintel",
+    "kind": "st",
+    "file": "sintel_st_180s.flac",
+    "url": "https://media.xiph.org/sintel/sintel-master-st.flac",
+    "start_seconds": 180,
+    "duration": 12,
+    "sr": 48000,
+    "channels": 2,
+    "layout": "FL FR",
+    "source_header_sha256": "8146f19bb0da849c21e0ea29dd662c77e3897e60cd0cad004940529394472613",
+    "source_range": [
+      14189158,
+      15529119
+    ],
+    "source_range_sha256": "31eeaa0e9fdc47b16d52f2f132e11e4e0835c1d78e9dbf79336ece24072702a3",
+    "source_seekpoint_sample": 8638464,
+    "decoded_pcm_sha256": "58673b401c1af3383d93f80f5e908e58ebdc8f64792a9ad51c096f9cff7c83b1",
+    "local_sha256": "1bcfd1969d6a6b97893c11dab992c4b0858b83062e8efa17223ed8fe3a1e51a9"
+  },
+  {
+    "film": "sintel",
+    "kind": "st",
+    "file": "sintel_st_300s.flac",
+    "url": "https://media.xiph.org/sintel/sintel-master-st.flac",
+    "start_seconds": 300,
+    "duration": 12,
+    "sr": 48000,
+    "channels": 2,
+    "layout": "FL FR",
+    "source_header_sha256": "8146f19bb0da849c21e0ea29dd662c77e3897e60cd0cad004940529394472613",
+    "source_range": [
+      23672870,
+      25873676
+    ],
+    "source_range_sha256": "18296d59fd51d173a7121e5240804fe8937c20b704877d3c5115ac23fb315897",
+    "source_seekpoint_sample": 14397440,
+    "decoded_pcm_sha256": "e139654383aed75ddb5e1dd97a8253c05015893d4110cf2eb7252f5440361d8a",
+    "local_sha256": "669527d6f73dd69d0d794fcd82f2cf07c439fa13bf05ed1f097a5641dd6a87ff"
+  },
+  {
+    "film": "sintel",
+    "kind": "st",
+    "file": "sintel_st_420s.flac",
+    "url": "https://media.xiph.org/sintel/sintel-master-st.flac",
+    "start_seconds": 420,
+    "duration": 12,
+    "sr": 48000,
+    "channels": 2,
+    "layout": "FL FR",
+    "source_header_sha256": "8146f19bb0da849c21e0ea29dd662c77e3897e60cd0cad004940529394472613",
+    "source_range": [
+      35476652,
+      37095324
+    ],
+    "source_range_sha256": "a467a30c24bbe714c8b0d536a70e26a9eeba3b6601fe7493192afd7d0b674cbe",
+    "source_seekpoint_sample": 20156416,
+    "decoded_pcm_sha256": "5ebff957b1c7f0d735d87cd351c351400d789d3e081526669876d2b3fb6c8082",
+    "local_sha256": "a1b99ec9873a556f89957d8bc799347c7f73d0c6ac29dec2795fa3d63719fcc3"
+  },
+  {
+    "film": "sintel",
+    "kind": "51",
+    "file": "sintel_51_60s.flac",
+    "url": "https://media.xiph.org/sintel/sintel-master-51.flac",
+    "start_seconds": 60,
+    "duration": 12,
+    "sr": 48000,
+    "channels": 6,
+    "layout": "FL FR FC LFE BL BR",
+    "source_header_sha256": "161819bbf2a297e57fbf4477be76c47cc9702b532344cefde416a533c0e86dc4",
+    "source_range": [
+      10665412,
+      13949178
+    ],
+    "source_range_sha256": "e6698694e5a966c44977a4f78fab003138682fe280d07a2df6a370b2a7e31260",
+    "source_seekpoint_sample": 2879488,
+    "decoded_pcm_sha256": "2f939c85fe79c0bfb404fe11567a2edb3c4c3a5b200ce9806f59bd818f532253",
+    "local_sha256": "53eade8670ea846d96f338404371234df890a16b27379281965ca90055d89c35"
+  },
+  {
+    "film": "sintel",
+    "kind": "51",
+    "file": "sintel_51_180s.flac",
+    "url": "https://media.xiph.org/sintel/sintel-master-51.flac",
+    "start_seconds": 180,
+    "duration": 12,
+    "sr": 48000,
+    "channels": 6,
+    "layout": "FL FR FC LFE BL BR",
+    "source_header_sha256": "161819bbf2a297e57fbf4477be76c47cc9702b532344cefde416a533c0e86dc4",
+    "source_range": [
+      26750573,
+      29183581
+    ],
+    "source_range_sha256": "d03f4187f2faf1186ca894bebf4aaef95a708cbbb8823430451803d6bdf2ddb8",
+    "source_seekpoint_sample": 8638464,
+    "decoded_pcm_sha256": "3e430b3f6854fad2453bdca8a4c2ce2b16443502eca1dca171f518b3b72ab58f",
+    "local_sha256": "ff3c411ca65ed1c723d602bbebd72ab649b25ead792479080711e83c1c0edc60"
+  },
+  {
+    "film": "sintel",
+    "kind": "51",
+    "file": "sintel_51_300s.flac",
+    "url": "https://media.xiph.org/sintel/sintel-master-51.flac",
+    "start_seconds": 300,
+    "duration": 12,
+    "sr": 48000,
+    "channels": 6,
+    "layout": "FL FR FC LFE BL BR",
+    "source_header_sha256": "161819bbf2a297e57fbf4477be76c47cc9702b532344cefde416a533c0e86dc4",
+    "source_range": [
+      44756549,
+      49523688
+    ],
+    "source_range_sha256": "66193371b970fc466e28254ba82d1c1111e96f4db74e7d8bff198a1a2eccfa73",
+    "source_seekpoint_sample": 14397440,
+    "decoded_pcm_sha256": "76743edcfbd7891ac956ec39705551fd5c8501a684ec220e3c11c7738d65b72c",
+    "local_sha256": "ad3b72c3028bf36690ff1694b352d8f296a9df48b1133ddb188809a07e1230b3"
+  },
+  {
+    "film": "sintel",
+    "kind": "51",
+    "file": "sintel_51_420s.flac",
+    "url": "https://media.xiph.org/sintel/sintel-master-51.flac",
+    "start_seconds": 420,
+    "duration": 12,
+    "sr": 48000,
+    "channels": 6,
+    "layout": "FL FR FC LFE BL BR",
+    "source_header_sha256": "161819bbf2a297e57fbf4477be76c47cc9702b532344cefde416a533c0e86dc4",
+    "source_range": [
+      69192477,
+      72338161
+    ],
+    "source_range_sha256": "a5f4ea4efa8f7104f77fda7d5988ece559413a0d4bfe43075d000d7ab888150a",
+    "source_seekpoint_sample": 20156416,
+    "decoded_pcm_sha256": "0d4b45bb6e3569465160e5912b74557f0f032f1b900a4e4cda857cf72a5b470c",
+    "local_sha256": "e1cf21f6115e773ef19bd9cb159cad170db05fd22995bb3830af2e40d2c1181e"
+  }
+]

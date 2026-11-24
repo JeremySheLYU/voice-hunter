@@ -1,0 +1,12 @@
+{
+  "frozen_vs_delivered_all_row_values_identical": {
+    "heldout-final": true,
+    "measured-heldout-final": true
+  },
+  "delivered_code_sha256": {
+    "voicehunter/speech.py": "167ea007d167e4e1fc6c1887138829c0e2441c8b7132425aac34a1ec7e887c9b",
+    "voicehunter/speaker_identity.py": "500d104ebd89a0f41d68ac0ff87ba5e867b0b4f1c51c2d6a708a9fde00a0dbfb",
+    "voicehunter/models/speaker-distance.json": "b6b09af6aca2a885945fc21fc1c96a9ba687cabf5d9637243828925bf4ab2d97",
+    "round2/speakers/evaluate.py": "40cad4ce91e51beb6e7c416d7dba1bacb04d505e37cc74562630e110cb734b23"
+  }
+}

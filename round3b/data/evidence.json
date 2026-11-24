@@ -1,0 +1,17 @@
+{
+ "gate_passed": false,
+ "eligible_candidates": 160,
+ "sealed_test_audio_files": 0,
+ "waveforms_fully_downloaded_for_this_census": 0,
+ "method": "Pinned Hugging Face LFS SHA-256 and byte length from the official mirror paths-info API and separately decoded RIFF PCM format/data headers. Only headers were read, not full PCM waveforms. No primary test audio or score produced.",
+ "sha256": {
+  "feasibility.json": "db069b18e05aa14193511d57658022d463e61e891e3fa28dc9021c9447f05fb7",
+  "freeze.json": "f1cf3a542bbb098325163a4fc90265577d52248939dc56e9276dc7fba6d8cb75",
+  "plan.json": "45e7b79a776a055798d3f21f0006e54cfbe6b5a9d4ea8eb271fe88f380155ce6",
+  "durations.json": "bf559569da0121452fdb5d786bb039558a56d22b189791b7aada3be8d1623831",
+  "source_exclusions.json": "3673a259d527d858f961a3a09e717afdfce7f5becc36c260e26728c8b1d5530e",
+  "lfs_provenance.json": "7e5ad076f276552dff27189e7f64c62f4be89cf2e4e3ba0f9c1d5b5d1e456563",
+  "eligible_sources.json": "4b645a3f1a93262b76a103a25f1bec1f39a2445f2deb34ffa9f1ac2f5df9912b",
+  "sealed_primary.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+ }
+}

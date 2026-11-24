@@ -1,0 +1,37 @@
+{
+  "hashes": {
+    "model.py": "22068af755947532597a0e8589995851324d505fece5750571585ecc3eb49232",
+    "train.py": "d90957e9265ba27abef8762a23ad7a0b8d92261a5b974164d3c7d48db2554d45",
+    "weights.npz": "891dccaca964321e4329ea612872962a6ea585a428fd7807171ce9fe7b9d2ef4"
+  },
+  "validation": {
+    "threshold": 0.3,
+    "metrics": {
+      "persistent": {
+        "tp": 43,
+        "fp": 18,
+        "tn": 37,
+        "fn": 12,
+        "accuracy": 0.7272727272727273,
+        "f1": 0.7413793103448276,
+        "useful": 0.7636363636363637,
+        "false_positive_rate": 0.32727272727272727
+      },
+      "intermittent": {
+        "tp": 41,
+        "fp": 17,
+        "tn": 38,
+        "fn": 14,
+        "accuracy": 0.7181818181818181,
+        "f1": 0.7256637168141593,
+        "useful": 0.7090909090909091,
+        "false_positive_rate": 0.3090909090909091
+      }
+    }
+  },
+  "weights": "weights.npz",
+  "train_source_manifests": [
+    "round2/semantic/cohort.json",
+    "round3/data/train.json"
+  ]
+}

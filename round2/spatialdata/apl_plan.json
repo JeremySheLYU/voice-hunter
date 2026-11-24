@@ -1,0 +1,131 @@
+{
+  "doi": "10.5281/zenodo.2641166",
+  "license": {
+    "id": "cc-by-4.0"
+  },
+  "author": [
+    {
+      "name": "Bogdan Ioan Bacila",
+      "affiliation": "Applied Psychoacoustics Lab, University of Huddersfield"
+    },
+    {
+      "name": "Hyunkook Lee",
+      "affiliation": "Applied Psychoacoustics Lab, University of Huddersfield"
+    }
+  ],
+  "archive_md5": "md5:3062197450b799b8d660c1bb1d2d6134",
+  "members": [
+    [
+      "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/C1m.wav",
+      3840736,
+      3556336,
+      6508544728,
+      8,
+      3715631096
+    ],
+    [
+      "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/C2m.wav",
+      3840736,
+      3562091,
+      6512101146,
+      8,
+      3017312518
+    ],
+    [
+      "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/C4m.wav",
+      3840736,
+      3548576,
+      6515663319,
+      8,
+      1253650006
+    ],
+    [
+      "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/C6m.wav",
+      3840736,
+      3561437,
+      6519211977,
+      8,
+      3735143496
+    ],
+    [
+      "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/C8m.wav",
+      3840736,
+      3548316,
+      6522773496,
+      8,
+      3837593709
+    ],
+    [
+      "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/L2m.wav",
+      3840736,
+      3575165,
+      6526321894,
+      8,
+      2976282576
+    ],
+    [
+      "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/L4m.wav",
+      3840736,
+      3567966,
+      6529897141,
+      8,
+      3301677481
+    ],
+    [
+      "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/L6m.wav",
+      3840736,
+      3559330,
+      6533465189,
+      8,
+      63337695
+    ],
+    [
+      "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/L8m.wav",
+      3840736,
+      3565552,
+      6537024601,
+      8,
+      1888047668
+    ],
+    [
+      "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/LW2m.wav",
+      3840736,
+      3559280,
+      6540590235,
+      8,
+      3329030156
+    ],
+    [
+      "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/LW4m.wav",
+      3840736,
+      3557832,
+      6544149598,
+      8,
+      3434849930
+    ],
+    [
+      "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/LW6m.wav",
+      3840736,
+      3556403,
+      6547707513,
+      8,
+      407903991
+    ],
+    [
+      "360-BRIR-FOAIR-database/FOA/B Format (AmbiX)/LW8m.wav",
+      3840736,
+      3560861,
+      6551263999,
+      8,
+      4095794457
+    ],
+    [
+      "360-BRIR-FOAIR-database/Binaural/SOFA/C1m.sofa",
+      163170474,
+      162581390,
+      3693660539,
+      8,
+      552790406
+    ]
+  ]
+}

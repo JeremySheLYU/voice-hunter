@@ -1,0 +1,134 @@
+[
+  {
+    "check": "five-events-advertised",
+    "passed": true,
+    "primary": "fusion"
+  },
+  {
+    "check": "fixture-provenance",
+    "passed": true,
+    "sha256": "7b08418d6043be65624177d8bd9ebd7a757394aae09a6ca282e293b1cf640764",
+    "source_ids": [
+      "15753",
+      "5997"
+    ]
+  },
+  {
+    "check": "published-cli-accepts-stereo",
+    "passed": true,
+    "primary": "fusion",
+    "returncode": 0,
+    "detail": [],
+    "samples": 216000,
+    "channels": 2,
+    "finite": true,
+    "peak_sum_error": 2.9802322387695312e-08,
+    "shapes": {
+      "target": [
+        216000,
+        2
+      ],
+      "remainder": [
+        216000,
+        2
+      ],
+      "mix": [
+        216000,
+        2
+      ]
+    }
+  },
+  {
+    "check": "cli-refuses-silence",
+    "passed": true,
+    "returncode": 1,
+    "message": [
+      "指定聲音沒有足夠證據。"
+    ],
+    "wrote_folder": false
+  },
+  {
+    "check": "cli-refuses-mono",
+    "passed": true,
+    "returncode": 1,
+    "message": [
+      "請選擇含雙聲道音訊的影片或錄音。這版的輸入是 stereo。"
+    ],
+    "wrote_folder": false
+  },
+  {
+    "check": "cli-refuses-unknown-label",
+    "passed": true,
+    "returncode": 1,
+    "message": [
+      "請選擇五種支援的聲音之一。"
+    ],
+    "wrote_folder": false
+  },
+  {
+    "check": "http-capabilities",
+    "passed": true,
+    "status": 200
+  },
+  {
+    "check": "http-stereo-upload",
+    "passed": true,
+    "status": 200
+  },
+  {
+    "check": "http-accepts-request",
+    "passed": true,
+    "status": 200,
+    "message": null
+  },
+  {
+    "check": "http-neutral-render",
+    "passed": true,
+    "status": 200
+  },
+  {
+    "check": "http-alignment-and-cli-parity",
+    "passed": true,
+    "bytes_match": {
+      "target.wav": true,
+      "remaining.wav": true,
+      "remix.wav": true
+    },
+    "samples": 216000,
+    "channels": 2,
+    "finite": true,
+    "peak_sum_error": 2.9802322387695312e-08,
+    "shapes": {
+      "target": [
+        216000,
+        2
+      ],
+      "remainder": [
+        216000,
+        2
+      ],
+      "mix": [
+        216000,
+        2
+      ]
+    }
+  },
+  {
+    "check": "http-rejects-unknown-label",
+    "passed": true,
+    "status": 400,
+    "message": "請選擇五種支援的聲音之一。"
+  },
+  {
+    "check": "http-rejects-mono",
+    "passed": true,
+    "status": 400,
+    "message": "請選擇含雙聲道音訊的影片或錄音。這版的輸入是 stereo。"
+  },
+  {
+    "check": "http-refuses-silence",
+    "passed": true,
+    "status": 400,
+    "message": "指定聲音沒有足夠證據。"
+  }
+]

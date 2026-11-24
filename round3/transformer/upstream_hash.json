@@ -1,0 +1,7 @@
+{
+  "repo": "Xenova/ast-finetuned-audioset-10-10-0.4593",
+  "revision": "249a1fbf0286b40e7f1ed687a8ae396997bf7dc6",
+  "path": "onnx/model_quantized.onnx",
+  "sha256": "807d244b58a30eaa89f0a721fb841619c696857aabe4eac93769bd0b61497f61",
+  "bytes": 90807386
+}

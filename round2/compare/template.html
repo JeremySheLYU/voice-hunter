@@ -1,0 +1,50 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Voice Hunter · 列車分軌試聽</title><style>
+:root{color-scheme:light dark;--bg:#f5f8f6;--fg:#15352e;--surface:white;--line:#c5d7cc;--brand:#175d4a;--strong:white;--quiet:#48645a}@media(prefers-color-scheme:dark){:root{--bg:#111c19;--fg:#e0ece4;--surface:#1a2823;--line:#3e554b;--brand:#95dbba;--strong:#142c20;--quiet:#acc3b6}}
+*{box-sizing:border-box}body{background:var(--bg);color:var(--fg);margin:0;font:16px/1.6 -apple-system,BlinkMacSystemFont,"PingFang TC",sans-serif}main{margin:clamp(1rem,5vw,4rem) auto;max-width:770px;padding:clamp(1.15rem,5vw,3rem);background:var(--surface);border:1px solid var(--line);border-radius:14px}
+h1{font-size:clamp(2rem,5vw,3rem);letter-spacing:-.05em;line-height:1.2;margin:.45rem 0 .7rem}h2{font-size:1.25rem;margin:1.5rem 0 .35rem}p{margin:.45rem 0 1rem}small,footer{color:var(--quiet)}
+nav{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.55rem}button{font:inherit;min-height:48px;background:var(--surface);color:var(--fg);border:1px solid var(--line);border-radius:8px;cursor:pointer}button:focus-visible,a:focus-visible{outline:3px solid var(--brand);outline-offset:2px}button[aria-pressed=true],#play{background:var(--brand);color:var(--strong);border-color:var(--brand)}
+.controls{display:flex;gap:1rem;align-items:center;margin:1rem 0}#play{padding:.3rem 1.2rem}#status{font-size:.92rem;color:var(--quiet)}ul{padding-left:1.25rem}li{margin:.3rem 0}a{color:var(--brand)}details{margin-top:1.2rem}summary{cursor:pointer;font-weight:600}footer{margin-top:2rem;border-top:1px solid var(--line);padding-top:1rem;font-size:.92em}
+</style></head><body><main><small>Voice Hunter · 公開錄音比較</small><h1>聽列車軌還留下了哪些聲音</h1>
+<p>三段公開實錄分別是人聲、列車與風聲。這個測試先替三個來源設定固定方位，再讓它們同時發聲。可先聽單獨的列車，熟悉聲音後比較兩個分軌版本。</p>
+<nav aria-label="選擇試聽版本" id="versions"></nav><div class="controls"><button id="play" type="button">開始循環播放</button><span role="status" id="status">已選取列車真值</span></div>
+<p><small>同一段 1.57 秒重疊音訊會循環播放。播放時可直接切換版本，保留當前時間點。四個版本實測為 __RANGE__ LUFS。</small></p>
+<details><summary>這一例的測試結果</summary><p>相對混音，v0.1 的列車軌 SI-SDR 改善 __OLD__ dB，v0.2 選用固定方位分軌後改善 __NEW__ dB。這是六個新測試場景按順序取的第一例。數值以原匯出音檔和列車真值計算。</p></details>
+<footer><strong>素材與授權</strong><ul>__CREDITS__</ul><p>音檔已擷取、改變聲像、混音、分軌及調整響度。聲音內嵌在本頁，可離線播放。資料集為 <a href="https://zenodo.org/records/4060432">FSD50K</a>，Eduardo Fonseca 等人編製，採 CC BY 4.0。</p></footer></main>
+<script>
+const clips=__AUDIO__;
+const names=Object.keys(clips), controls=document.getElementById('versions'), play=document.getElementById('play'), statusEl=document.getElementById('status');
+let selected='列車真值', ctx,ready,source,baseTime=0,pausedAt=0,started=false,busy=false;
+const decoded={};
+for(const name of names){
+  const b=document.createElement('button'); b.textContent=name; b.type='button'; b.setAttribute('aria-pressed',String(name===selected));
+  b.addEventListener('click',()=>selectTrack(name));controls.appendChild(b);
+}
+function position(){return source?(ctx.currentTime-baseTime)%decoded[selected].duration:pausedAt;}
+function stopNode(){if(source){source.stop();source.disconnect();source=null;}}
+function begin(offset){
+  stopNode();source=ctx.createBufferSource();source.buffer=decoded[selected];source.loop=true;source.connect(ctx.destination);
+  const at=offset%source.buffer.duration;source.start(0,at);baseTime=ctx.currentTime-at;pausedAt=at;started=true;
+}
+function paint(){for(const b of controls.children)b.setAttribute('aria-pressed',String(b.textContent===selected));
+  play.textContent=started?'暫停':'開始循環播放';statusEl.textContent=(started?'正在播放':'已選取')+selected;}
+function selectTrack(name){const at=position();selected=name;if(started)begin(at);paint();}
+async function prepare(){
+  if(!ctx)ctx=new (window.AudioContext||window.webkitAudioContext)();
+  await ctx.resume();
+  if(!ready)ready=Promise.all(names.map(async n=>{
+    const bytes=Uint8Array.from(atob(clips[n]),c=>c.charCodeAt(0));
+    decoded[n]=await ctx.decodeAudioData(bytes.buffer);
+  }));
+  await ready;
+}
+play.addEventListener('click',async()=>{
+  if(busy)return;busy=true;
+  try{
+    if(started){pausedAt=position();stopNode();started=false;}
+    else{await prepare();begin(pausedAt);}
+    paint();
+  }catch(e){ready=null;statusEl.textContent='未能播放，請用支援 Web Audio 的瀏覽器開啟。';}
+  finally{busy=false;}
+});
+paint();
+</script></body></html>

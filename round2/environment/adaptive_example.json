@@ -1,0 +1,8 @@
+{
+  "separator": "adaptive",
+  "tracks": [
+    {"id":"speech","span":[0.025,1.225]},
+    {"id":"train","span":[1.525,2.725]},
+    {"id":"wind","span":[3.025,4.225]}
+  ]
+}

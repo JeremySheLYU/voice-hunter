@@ -1,0 +1,61 @@
+<!doctype html><html lang="zh-Hant"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Voice Hunter｜耳機方位比較</title>
+<style>
+:root{color-scheme:light;--ink:#192e32;--green:#00695e;--line:#c8d7d3}
+*{box-sizing:border-box}body{margin:0;background:#eff4f2;font:16px/1.6 -apple-system,BlinkMacSystemFont,"PingFang TC",sans-serif;color:var(--ink)}main{max-width:760px;margin:3rem auto;background:white;padding:clamp(22px,5vw,48px);border:1px solid var(--line);border-radius:14px}h1{font-size:clamp(27px,5vw,40px);line-height:1.24;margin:0 0 .65em}label,legend{font-weight:650}fieldset{border:0;margin:1.35rem 0 0;padding:0}button{font:inherit;background:white;color:var(--ink);border:1px solid #89a7a0;border-radius:7px;padding:.55rem 1.05rem;cursor:pointer}button[aria-pressed=true],button#play{background:var(--green);color:white;border-color:var(--green)}.buttons{display:flex;gap:.5rem;flex-wrap:wrap;margin:.4rem 0}#play{margin:1.2rem 0}input[type=range]{width:100%;accent-color:var(--green)}#status{min-height:1.5em;font-size:.9em;color:#315c55}aside{font-size:.88rem;margin-top:1.4rem;border-top:1px solid var(--line);padding-top:.8rem}a{color:var(--green)}summary{cursor:pointer} @media(max-width:640px){main{margin:0;border:0;border-radius:0}}
+</style><main><h1>聽聽人聲移到左右兩側</h1>
+<p>戴上立體聲耳機，固定音量，關閉播放器的空間音效。背景是倫敦運河的雙耳實錄。選擇人聲方位，在播放中直接切換版本，留意人聲是否容易定位、音色有沒有變化。</p>
+<fieldset><legend>設定人聲方位</legend><div class="buttons"><button class="pos" data-side="L" aria-pressed="false">左 45°</button><button class="pos" data-side="R" aria-pressed="true">右 45°</button></div></fieldset>
+<fieldset><legend>比較版本</legend><div class="buttons"><button class="cond" data-cond="ref" aria-pressed="true">中央原聲</button><button class="cond" data-cond="a" aria-pressed="false">版本 A</button><button class="cond" data-cond="b" aria-pressed="false">版本 B</button></div></fieldset>
+<button id="play" aria-pressed="false">播放</button><div><label for="position">片段進度</label><input type="range" id="position" min="0" max="1000" value="0"></div><p id="status" role="status">中央原聲保留同一背景，人聲置於中央。</p>
+<button id="reveal">揭曉本次版本順序</button><p id="answer" aria-live="polite"></p>
+<aside><details><summary>素材、處理與授權</summary><p>人聲取自 Heather Barnett 朗讀 Jane Austen 的 LibriSpeech 節錄（librosa，198-209-0000）。環境音取自 Tin Oberman、Andrew Mitchell、Francesco Aletta、José Antonio Almagro Pastor、Kristian Jambrošić、Jian Kang 的 SATP W06，2019 年 8 月 29 日於倫敦 Little Venice 錄製。兩份素材皆採 CC BY 4.0。此頁使用經剪輯、調整音量、混音的人聲與環境音。原聲、A、B 各自對齊響度。左右方位由混音者指定。這些聲音在不同地點分別錄製，聆聽結果須由聽者自行判斷。</p><p>量測資料 CIPIC HRTF Database，Copyright (c) 2001 The Regents of the University of California. All Rights Reserved. 每次開頁重新隨機分配 A、B，頁面沒有上傳或記錄個人評分。</p><p><a href="https://doi.org/10.5281/zenodo.18362685">SATP 資料</a> · <a href="https://librosa.org/doc/latest/generated/librosa.ex.html">librosa 朗讀資料</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p></details></aside></main>
+<script id="material" type="application/json">__MATERIAL__</script>
+<script>
+'use strict';
+const clips=JSON.parse(document.querySelector('#material').textContent);
+const coin=crypto.getRandomValues(new Uint8Array(1))[0]%2;
+const names=coin?{a:'measured',b:'analytic'}:{a:'analytic',b:'measured'};
+const desc={measured:'CIPIC 量測校準版',analytic:'v0.1 球形頭部模型'};
+const play=document.querySelector('#play'), seek=document.querySelector('#position'), status=document.querySelector('#status');
+let ctx, loaded, nodes={}, gains={}, started=0, elapsed=0, playing=false, side='R', choice='ref', duration=4.75;
+function key(){return choice==='ref'?'ref':names[choice]+side;}
+async function init(){
+ if(!ctx)ctx=new (window.AudioContext||window.webkitAudioContext)();
+ await ctx.resume();
+ if(!loaded)loaded=Promise.all(Object.entries(clips).map(async ([id,data])=>{
+   const bytes=Uint8Array.from(atob(data),c=>c.charCodeAt(0));
+   const buffer=await ctx.decodeAudioData(bytes.buffer);
+   return [id,buffer];})).then(rows=>Object.fromEntries(rows));
+ return loaded;
+}
+function start(buffers){
+ nodes={};gains={}; const time=ctx.currentTime+.025;
+ for(const [id,b] of Object.entries(buffers)){
+   const s=ctx.createBufferSource(),g=ctx.createGain();
+   s.buffer=b;s.loop=true;s.connect(g);g.connect(ctx.destination);
+   g.gain.value=id===key()?1:0;s.start(time,elapsed % b.duration);nodes[id]=s;gains[id]=g;
+ }
+ duration=buffers.ref.duration;started=time-elapsed;playing=true;play.textContent='暫停';play.setAttribute('aria-pressed','true');
+}
+function pause(){
+ if(!playing)return;
+ elapsed=Math.max(0,ctx.currentTime-started)%duration;
+ for(const s of Object.values(nodes)){s.stop();s.disconnect();}
+ for(const g of Object.values(gains))g.disconnect();
+ playing=false;play.textContent='播放';play.setAttribute('aria-pressed','false');
+}
+function select(){
+ for(const b of document.querySelectorAll('.pos'))b.setAttribute('aria-pressed',b.dataset.side===side?'true':'false');
+ for(const b of document.querySelectorAll('.cond'))b.setAttribute('aria-pressed',b.dataset.cond===choice?'true':'false');
+ if(playing)for(const [id,g] of Object.entries(gains))g.gain.setTargetAtTime(id===key()?1:0,ctx.currentTime,.006);
+ status.textContent=choice==='ref'?'中央原聲保留同一背景，人聲置於中央。':('人聲設定在'+(side==='L'?'左':'右')+'方 45°，正在比較版本 '+choice.toUpperCase()+'。');
+}
+for(const b of document.querySelectorAll('.pos'))b.onclick=()=>{side=b.dataset.side;select();};
+for(const b of document.querySelectorAll('.cond'))b.onclick=()=>{choice=b.dataset.cond;select();};
+play.onclick=async()=>{if(playing){pause();return;}play.disabled=true;try{start(await init());}catch(e){status.textContent='無法啟動播放。請在支援 Web Audio 的 Safari 或 Chrome 開啟。';}finally{play.disabled=false;}};
+seek.onchange=async()=>{const was=playing;if(was)pause();elapsed=duration*(+seek.value)/1000;if(was)start(await init());};
+let dragging=false;seek.onpointerdown=()=>{dragging=true;};window.addEventListener('pointerup',()=>{dragging=false;});
+function tick(){if(playing&&!dragging)seek.value=Math.round(1000*((Math.max(0,ctx.currentTime-started)%duration)/duration));requestAnimationFrame(tick);}
+requestAnimationFrame(tick);
+document.querySelector('#reveal').onclick=()=>{document.querySelector('#answer').textContent='A 為'+desc[names.a]+'，B 為'+desc[names.b]+'。';};
+</script></html>

@@ -1,0 +1,448 @@
+[
+ {
+  "id": "104952",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "2-104952-B-16.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "117773",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "5-117773-A-16.wav",
+  "url": "https://freesound.org/people/klangfabrik/sounds/117773/",
+  "author": "klangfabrik",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "title": "roaring wind.aiff by klangfabrik",
+  "download_url": "https://cdn.freesound.org/previews/117/117773_181941-hq.mp3",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "163609",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "4-163609-B-16.wav",
+  "url": "https://freesound.org/people/Leandros.Ntounis/sounds/163609/",
+  "author": "Leandros.Ntounis",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "Wind, strong. through rocks 1.wav by Leandros.Ntounis",
+  "download_url": "https://cdn.freesound.org/previews/163/163609_59982-hq.mp3"
+ },
+ {
+  "id": "163608",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "4-163608-B-16.wav",
+  "url": "https://freesound.org/people/Leandros.Ntounis/sounds/163608/",
+  "author": "Leandros.Ntounis",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "Wind, strong. through rocks 2.wav by Leandros.Ntounis",
+  "download_url": "https://cdn.freesound.org/previews/163/163608_59982-hq.mp3"
+ },
+ {
+  "id": "157204",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "5-157204-B-16.wav",
+  "url": "https://freesound.org/people/inchadney/sounds/157204/",
+  "author": "inchadney",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "howling wind.WAV by inchadney",
+  "download_url": "https://cdn.freesound.org/previews/157/157204_28867-hq.mp3"
+ },
+ {
+  "id": "51036",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "1-51036-A-16.wav",
+  "author": "dobroide",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "163606",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "4-163606-A-16.wav",
+  "url": "https://freesound.org/people/Leandros.Ntounis/sounds/163606/",
+  "author": "Leandros.Ntounis",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "Wind, strong. through power cables.wav by Leandros.Ntounis",
+  "download_url": "https://cdn.freesound.org/previews/163/163606_59982-hq.mp3"
+ },
+ {
+  "id": "117504",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "3-117504-B-16.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "217186",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "5-217186-C-16.wav",
+  "url": "https://freesound.org/people/Bosk1/sounds/217186/",
+  "author": "Bosk1",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "Wind at door howling 4.wav by Bosk1",
+  "download_url": "https://cdn.freesound.org/previews/217/217186_2429597-hq.mp3"
+ },
+ {
+  "id": "144083",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "4-144083-C-16.wav",
+  "error": "missing CC0/BY individual source permission"
+ },
+ {
+  "id": "137296",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "1-137296-A-16.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "51035",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "1-51035-A-16.wav",
+  "author": "dobroide",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "51037",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "1-51037-A-16.wav",
+  "author": "dobroide",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "136608",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "3-136608-A-16.wav",
+  "author": "TheSoundcatcher",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "134699",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "3-134699-C-16.wav",
+  "author": "Benboncan",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "109374",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "2-109374-A-16.wav",
+  "author": "dobroide",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "47714",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "1-47714-A-16.wav",
+  "author": "Jovica",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "69760",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "1-69760-A-16.wav",
+  "author": "Benboncan",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "109371",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "2-109371-D-16.wav",
+  "author": "dobroide",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "246513",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "3-246513-B-16.wav",
+  "author": "kangaroovindaloo",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "179496",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "5-179496-B-16.wav",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "id": "29532",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "1-29532-A-16.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "47709",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "1-47709-A-16.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "144085",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "4-144085-A-16.wav",
+  "error": "missing CC0/BY individual source permission"
+ },
+ {
+  "id": "205966",
+  "category": "wind",
+  "corpus": "ESC-50 source",
+  "official": "2-205966-A-16.wav",
+  "author": "kangaroovindaloo",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "119125",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "1-119125-A-45.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "135649",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "2-135649-C-45.wav",
+  "error": "missing CC0/BY individual source permission"
+ },
+ {
+  "id": "70300",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "1-70300-A-45.wav",
+  "author": "Benboncan",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "188945",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "5-188945-A-45.wav",
+  "author": "felix.blume",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "197118",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "5-197118-A-45.wav",
+  "url": "https://freesound.org/people/avakas/sounds/197118/",
+  "author": "avakas",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "title": "Train coming to a stop (recorded between two cars) by avakas",
+  "download_url": "https://cdn.freesound.org/previews/197/197118_1467893-hq.mp3"
+ },
+ {
+  "id": "165791",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "4-165791-B-45.wav",
+  "author": "felix.blume",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "159445",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "3-159445-B-45.wav",
+  "author": "felix.blume",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "136451",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "3-136451-A-45.wav",
+  "author": "felix.blume",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "88409",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "1-88409-B-45.wav",
+  "author": "Heigh-hoo",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "54065",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "1-54065-B-45.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "168446",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "4-168446-A-45.wav",
+  "author": "felix.blume",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "157492",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "3-157492-A-45.wav",
+  "url": "https://freesound.org/people/caquet/sounds/157492/",
+  "author": "caquet",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "Inside Train Wagon by caquet",
+  "download_url": "https://cdn.freesound.org/previews/157/157492_1645319-hq.mp3"
+ },
+ {
+  "id": "165933",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "4-165933-A-45.wav",
+  "author": "felix.blume",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "141559",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "3-141559-A-45.wav",
+  "author": "xserra",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "197121",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "5-197121-B-45.wav",
+  "url": "https://freesound.org/people/avakas/sounds/197121/",
+  "author": "avakas",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "title": "Train moving slowly (recorded between two cars) by avakas",
+  "download_url": "https://cdn.freesound.org/previews/197/197121_1467893-hq.mp3"
+ },
+ {
+  "id": "188796",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "5-188796-A-45.wav",
+  "author": "felix.blume",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "62509",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "1-62509-A-45.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "138212",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "3-138212-A-45.wav",
+  "url": "https://freesound.org/people/aesqe/sounds/138212/",
+  "author": "aesqe",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "train_passing_by_fast.wav by aesqe",
+  "download_url": "https://cdn.freesound.org/previews/138/138212_52655-hq.mp3"
+ },
+ {
+  "id": "178881",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "4-178881-A-45.wav",
+  "author": "xserra",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "198600",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "5-198600-A-45.wav",
+  "url": "https://freesound.org/people/toam/sounds/198600/",
+  "author": "toam",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "title": "Train departs from the station by toam",
+  "download_url": "https://cdn.freesound.org/previews/198/198600_2214556-hq.mp3"
+ },
+ {
+  "id": "165606",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "4-165606-A-45.wav",
+  "author": "felix.blume",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "135650",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "3-135650-B-45.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "165845",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "4-165845-B-45.wav",
+  "author": "felix.blume",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "64473",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "1-64473-A-45.wav",
+  "author": "daveincamas",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "199284",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "5-199284-B-45.wav",
+  "error": "missing CC0/BY individual source permission"
+ },
+ {
+  "id": "122066",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "2-122066-B-45.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "122067",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "2-122067-B-45.wav",
+  "author": "lonemonk",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "262579",
+  "category": "train",
+  "corpus": "ESC-50 source",
+  "official": "2-262579-A-45.wav",
+  "url": "https://freesound.org/people/Trautwein/sounds/262579/",
+  "author": "Trautwein",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "Subway1.wav by Trautwein",
+  "download_url": "https://cdn.freesound.org/previews/262/262579_525245-hq.mp3"
+ }
+]

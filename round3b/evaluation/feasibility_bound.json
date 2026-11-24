@@ -1,0 +1,28 @@
+{
+  "fresh_collection_plan_sha256": "45e7b79a776a055798d3f21f0006e54cfbe6b5a9d4ea8eb271fe88f380155ce6",
+  "upper_bound": {
+    "guitar": {
+      "files_before_duration_check": 37,
+      "distinct_uploaders_before_duration_check": 21
+    },
+    "piano": {
+      "files_before_duration_check": 77,
+      "distinct_uploaders_before_duration_check": 15
+    },
+    "speech": {
+      "files_before_duration_check": 364,
+      "distinct_uploaders_before_duration_check": 178
+    },
+    "train": {
+      "files_before_duration_check": 15,
+      "distinct_uploaders_before_duration_check": 10
+    },
+    "wind": {
+      "files_before_duration_check": 61,
+      "distinct_uploaders_before_duration_check": 29
+    }
+  },
+  "required_distinct_uploaders_each_class": 12,
+  "balanced_confirmatory_feasible": false,
+  "consequence": "No confirmatory 90% claim from this pool. Eligible smaller holdout, if any, remains descriptive."
+}

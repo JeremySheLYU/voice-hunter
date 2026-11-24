@@ -1,0 +1,42 @@
+{
+  "method": "fusion",
+  "metrics": {
+    "persistent": {
+      "accuracy": 0.8272727272727273,
+      "f1": 0.8403361344537815,
+      "useful": 0.9090909090909091,
+      "tp": 50,
+      "fp": 14,
+      "tn": 41,
+      "fn": 5,
+      "n_useful": 50
+    },
+    "intermittent": {
+      "accuracy": 0.8545454545454545,
+      "f1": 0.8666666666666667,
+      "useful": 0.9272727272727272,
+      "tp": 52,
+      "fp": 13,
+      "tn": 42,
+      "fn": 3,
+      "n_useful": 51
+    }
+  },
+  "params": {
+    "blend": 0.2,
+    "threshold": [
+      0.15,
+      0.15,
+      0.15,
+      0.15,
+      0.15
+    ]
+  },
+  "sha256": {
+    "round3/fusion/calibration.npz": "2dc6a54753920eafe5ded136f7b57296b8f3682a2e9574e6b598458c26423ef1",
+    "round3/fusion/model.py": "0a9c6c8d870fc385af374dd768117bce656e65f412588c8113e64fb3db3c45c0",
+    "round3/apple_features/weights.npz": "8192dff93eba9c9bff7efb5366e6226577482a8ccae1482b11bde4493987391c",
+    "round3/transfer/head.npz": "ab4aa44c9e0f522e904d91a4ee7856b242329e7911ade34b72a52e4ef7ac40f6",
+    "round3/transfer/yamnet.onnx": "d3835ffbbd4a1bb3e777f0ca217b5007907f5171dd5d17c4236b95b2af8f908e"
+  }
+}

@@ -1,0 +1,34 @@
+{
+ "purpose": "Apply original full-history exclusion to two additional prior ESC-50 benchmark manifests. Stable order retained. Census-only, no model trained or scored.",
+ "old_fsd_benchmark_manifests": [
+  "qa_round1/events/public_sources.json",
+  "qa_round1/mixtures/sources.json"
+ ],
+ "authors": [
+  "benboncan",
+  "eliasheuninck",
+  "glaneur de sons",
+  "jgrzinich",
+  "jovica",
+  "klangfabrik",
+  "lonemonk",
+  "reinsamba"
+ ],
+ "all_old_esc50_original_ids_including_already_excluded": [
+  "104952",
+  "117504",
+  "119125",
+  "122066",
+  "135650",
+  "137296",
+  "29532",
+  "47709",
+  "54065",
+  "62509"
+ ],
+ "excluded_candidate_ids": [
+  "239492",
+  "156638",
+  "156641"
+ ]
+}

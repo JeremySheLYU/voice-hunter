@@ -1,0 +1,232 @@
+{
+  "persistent": {
+    "per_requested_class": {
+      "guitar": {
+        "TP": 11,
+        "FP": 2,
+        "TN": 10,
+        "FN": 1,
+        "f1": 0.88,
+        "useful": 11,
+        "harmful": 0
+      },
+      "piano": {
+        "TP": 12,
+        "FP": 0,
+        "TN": 12,
+        "FN": 0,
+        "f1": 1.0,
+        "useful": 12,
+        "harmful": 0
+      },
+      "speech": {
+        "TP": 12,
+        "FP": 7,
+        "TN": 5,
+        "FN": 0,
+        "f1": 0.7741935483870968,
+        "useful": 11,
+        "harmful": 1
+      },
+      "train": {
+        "TP": 9,
+        "FP": 1,
+        "TN": 11,
+        "FN": 3,
+        "f1": 0.8181818181818182,
+        "useful": 9,
+        "harmful": 0
+      },
+      "wind": {
+        "TP": 11,
+        "FP": 1,
+        "TN": 11,
+        "FN": 1,
+        "f1": 0.9166666666666666,
+        "useful": 9,
+        "harmful": 2
+      }
+    },
+    "false_accept_context": [
+      {
+        "requested": "speech",
+        "present_labels": [
+          "guitar",
+          "wind"
+        ],
+        "n": 2
+      },
+      {
+        "requested": "speech",
+        "present_labels": [
+          "piano",
+          "train"
+        ],
+        "n": 2
+      },
+      {
+        "requested": "guitar",
+        "present_labels": [
+          "piano",
+          "wind"
+        ],
+        "n": 1
+      },
+      {
+        "requested": "guitar",
+        "present_labels": [
+          "piano",
+          "train"
+        ],
+        "n": 1
+      },
+      {
+        "requested": "speech",
+        "present_labels": [
+          "piano",
+          "wind"
+        ],
+        "n": 1
+      },
+      {
+        "requested": "train",
+        "present_labels": [
+          "speech",
+          "wind"
+        ],
+        "n": 1
+      },
+      {
+        "requested": "wind",
+        "present_labels": [
+          "speech",
+          "train"
+        ],
+        "n": 1
+      },
+      {
+        "requested": "speech",
+        "present_labels": [
+          "guitar",
+          "train"
+        ],
+        "n": 1
+      },
+      {
+        "requested": "speech",
+        "present_labels": [
+          "train",
+          "wind"
+        ],
+        "n": 1
+      }
+    ]
+  },
+  "intermittent": {
+    "per_requested_class": {
+      "guitar": {
+        "TP": 11,
+        "FP": 1,
+        "TN": 11,
+        "FN": 1,
+        "f1": 0.9166666666666666,
+        "useful": 11,
+        "harmful": 0
+      },
+      "piano": {
+        "TP": 11,
+        "FP": 0,
+        "TN": 12,
+        "FN": 1,
+        "f1": 0.9565217391304348,
+        "useful": 11,
+        "harmful": 0
+      },
+      "speech": {
+        "TP": 12,
+        "FP": 6,
+        "TN": 6,
+        "FN": 0,
+        "f1": 0.8,
+        "useful": 11,
+        "harmful": 1
+      },
+      "train": {
+        "TP": 9,
+        "FP": 2,
+        "TN": 10,
+        "FN": 3,
+        "f1": 0.782608695652174,
+        "useful": 9,
+        "harmful": 0
+      },
+      "wind": {
+        "TP": 8,
+        "FP": 0,
+        "TN": 12,
+        "FN": 4,
+        "f1": 0.8,
+        "useful": 7,
+        "harmful": 1
+      }
+    },
+    "false_accept_context": [
+      {
+        "requested": "speech",
+        "present_labels": [
+          "guitar",
+          "wind"
+        ],
+        "n": 3
+      },
+      {
+        "requested": "train",
+        "present_labels": [
+          "piano",
+          "wind"
+        ],
+        "n": 1
+      },
+      {
+        "requested": "guitar",
+        "present_labels": [
+          "piano",
+          "train"
+        ],
+        "n": 1
+      },
+      {
+        "requested": "train",
+        "present_labels": [
+          "speech",
+          "wind"
+        ],
+        "n": 1
+      },
+      {
+        "requested": "speech",
+        "present_labels": [
+          "piano",
+          "train"
+        ],
+        "n": 1
+      },
+      {
+        "requested": "speech",
+        "present_labels": [
+          "guitar",
+          "train"
+        ],
+        "n": 1
+      },
+      {
+        "requested": "speech",
+        "present_labels": [
+          "train",
+          "wind"
+        ],
+        "n": 1
+      }
+    ]
+  }
+}

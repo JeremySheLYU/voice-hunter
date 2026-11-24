@@ -1,0 +1,1206 @@
+{
+  "model_sha256": "b88e48e82509c479f1d982dc80e6dfce8239cc4d237d40fafa82d841ae5cce59",
+  "loaded_measured_poses": 42240,
+  "results": {
+    "independent_humans": {
+      "n_subject_records": 93,
+      "analytic": {
+        "directions": 1488,
+        "ILD_MAE_dB": 6.049858325518503,
+        "ITD_MAE_us": 65.03477504663469
+      },
+      "measured": {
+        "directions": 1488,
+        "ILD_MAE_dB": 1.785685298174221,
+        "ITD_MAE_us": 42.60865455736937
+      },
+      "by_subject": {
+        "2": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.041067432757107,
+            "ITD_MAE_us": 57.39833093632096
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.4494655057200243,
+            "ITD_MAE_us": 35.561915328561525
+          }
+        },
+        "3": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.591755404243122,
+            "ITD_MAE_us": 79.47090790233908
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 2.2848721112000576,
+            "ITD_MAE_us": 49.887384150414036
+          }
+        },
+        "4": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.498563316152194,
+            "ITD_MAE_us": 71.43468809981619
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.2610384325216706,
+            "ITD_MAE_us": 57.33229841652192
+          }
+        },
+        "5": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.168340150667562,
+            "ITD_MAE_us": 73.87781744267636
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.957386218249292,
+            "ITD_MAE_us": 47.31013189976151
+          }
+        },
+        "6": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.156865798566742,
+            "ITD_MAE_us": 40.71053601046772
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.2974067271494008,
+            "ITD_MAE_us": 19.756616480821922
+          }
+        },
+        "7": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.116822454063657,
+            "ITD_MAE_us": 66.73824241129486
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.8531554507056636,
+            "ITD_MAE_us": 40.395300437242646
+          }
+        },
+        "8": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.562084340138882,
+            "ITD_MAE_us": 83.24729428109288
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 2.631540318749919,
+            "ITD_MAE_us": 56.913970644099145
+          }
+        },
+        "9": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.786987959426615,
+            "ITD_MAE_us": 78.60084756816728
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.6084609028916577,
+            "ITD_MAE_us": 67.4418504485542
+          }
+        },
+        "10": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.298590048472292,
+            "ITD_MAE_us": 83.46176341968969
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.8030637533194156,
+            "ITD_MAE_us": 55.41625703271053
+          }
+        },
+        "11": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.455347649121651,
+            "ITD_MAE_us": 72.61551842701445
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.4735181484913595,
+            "ITD_MAE_us": 49.82061150141354
+          }
+        },
+        "12": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.202917524753662,
+            "ITD_MAE_us": 73.40554676271154
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.9342299962542961,
+            "ITD_MAE_us": 43.89021157597851
+          }
+        },
+        "13": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.215273647092638,
+            "ITD_MAE_us": 81.98319758029623
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.7451818500991947,
+            "ITD_MAE_us": 58.57442438059359
+          }
+        },
+        "14": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.1623667724831215,
+            "ITD_MAE_us": 47.35614037176883
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.6298182775028494,
+            "ITD_MAE_us": 36.55674002533053
+          }
+        },
+        "15": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.986375525700017,
+            "ITD_MAE_us": 67.7070209203342
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 2.017464687387048,
+            "ITD_MAE_us": 41.83198960852046
+          }
+        },
+        "16": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.06201097684534,
+            "ITD_MAE_us": 66.36580269468728
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.5820558204905644,
+            "ITD_MAE_us": 37.548916267021795
+          }
+        },
+        "17": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.8140170387503485,
+            "ITD_MAE_us": 66.87928081855009
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.8580568739336147,
+            "ITD_MAE_us": 38.06239439088462
+          }
+        },
+        "18": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.715826608847147,
+            "ITD_MAE_us": 47.84347418585662
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 2.092619193624022,
+            "ITD_MAE_us": 30.777764521673127
+          }
+        },
+        "19": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.3845020684987865,
+            "ITD_MAE_us": 71.49789792406791
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 2.2680197846291366,
+            "ITD_MAE_us": 57.64488113582219
+          }
+        },
+        "20": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.03770390201435,
+            "ITD_MAE_us": 67.32710027841208
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.5726397296869072,
+            "ITD_MAE_us": 43.01867908431727
+          }
+        },
+        "21": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.244231680144905,
+            "ITD_MAE_us": 61.61568531185675
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.6052117797748688,
+            "ITD_MAE_us": 35.13881177496036
+          }
+        },
+        "22": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.419160675361833,
+            "ITD_MAE_us": 64.81280243723516
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.7655450910382582,
+            "ITD_MAE_us": 38.81290766894091
+          }
+        },
+        "23": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.0718813361820185,
+            "ITD_MAE_us": 58.85368800725566
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.6236484930529982,
+            "ITD_MAE_us": 34.05729402527648
+          }
+        },
+        "24": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.224047896208857,
+            "ITD_MAE_us": 70.98269110158436
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.7391340055764002,
+            "ITD_MAE_us": 43.823303634446106
+          }
+        },
+        "25": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.480038098302883,
+            "ITD_MAE_us": 78.97559667418778
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.9223194429526262,
+            "ITD_MAE_us": 59.64836590581237
+          }
+        },
+        "26": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.175445413677586,
+            "ITD_MAE_us": 108.8176943358201
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.7079517390838894,
+            "ITD_MAE_us": 79.2294278674683
+          }
+        },
+        "27": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.0181397071159655,
+            "ITD_MAE_us": 19.764662290089255
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.1327033951018004,
+            "ITD_MAE_us": 19.689059451232467
+          }
+        },
+        "28": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.290786822193766,
+            "ITD_MAE_us": 69.78569132478702
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.7765175284362198,
+            "ITD_MAE_us": 41.29825439277644
+          }
+        },
+        "29": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.354481900159242,
+            "ITD_MAE_us": 75.28988581743536
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 2.050057052405828,
+            "ITD_MAE_us": 49.53420162175972
+          }
+        },
+        "30": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.043754216750896,
+            "ITD_MAE_us": 47.60045044075114
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.9169966108909895,
+            "ITD_MAE_us": 29.18672842639867
+          }
+        },
+        "31": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.311143705136485,
+            "ITD_MAE_us": 50.95223333232083
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.314914256893032,
+            "ITD_MAE_us": 31.188936025592493
+          }
+        },
+        "32": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.013059912814929,
+            "ITD_MAE_us": 88.57475847897172
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 2.3874223800905874,
+            "ITD_MAE_us": 59.75787205130624
+          }
+        },
+        "33": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.883076663255395,
+            "ITD_MAE_us": 89.31468127586942
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 4.2057703556000074,
+            "ITD_MAE_us": 73.64069976848998
+          }
+        },
+        "34": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.399793350466637,
+            "ITD_MAE_us": 64.42024651280215
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.890748261339258,
+            "ITD_MAE_us": 36.374740125822996
+          }
+        },
+        "35": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.011899322124027,
+            "ITD_MAE_us": 77.79081771616856
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 2.2524805631191063,
+            "ITD_MAE_us": 57.99053245818297
+          }
+        },
+        "36": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 7.088258586902077,
+            "ITD_MAE_us": 71.52335223772879
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 2.594572974770234,
+            "ITD_MAE_us": 44.35180648697494
+          }
+        },
+        "37": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.43093935860987,
+            "ITD_MAE_us": 91.2931931476671
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.8898423289166653,
+            "ITD_MAE_us": 63.24768676068794
+          }
+        },
+        "38": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.269503704049962,
+            "ITD_MAE_us": 79.56052726146902
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.806472300752075,
+            "ITD_MAE_us": 50.74364083380354
+          }
+        },
+        "39": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.946349350718494,
+            "ITD_MAE_us": 70.2516522102921
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.9762919100396599,
+            "ITD_MAE_us": 63.28009385844966
+          }
+        },
+        "40": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.106575708896244,
+            "ITD_MAE_us": 69.99264480128105
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.7451074482369,
+            "ITD_MAE_us": 41.947138414301904
+          }
+        },
+        "41": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.721047533468715,
+            "ITD_MAE_us": 82.11621574804715
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 2.4968159295662264,
+            "ITD_MAE_us": 53.07836404786596
+          }
+        },
+        "42": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.835101016253373,
+            "ITD_MAE_us": 58.44887276618919
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.4725617639890622,
+            "ITD_MAE_us": 35.98930762900023
+          }
+        },
+        "43": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.606212884938056,
+            "ITD_MAE_us": 73.69942989200138
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 2.382098690394248,
+            "ITD_MAE_us": 44.88254346433589
+          }
+        },
+        "44": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.104835149558784,
+            "ITD_MAE_us": 57.1116343935085
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 2.285254544532375,
+            "ITD_MAE_us": 38.67285479055738
+          }
+        },
+        "45": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.154870206688603,
+            "ITD_MAE_us": 54.29929095483207
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.9273631530888582,
+            "ITD_MAE_us": 26.253784567852914
+          }
+        },
+        "46": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.660284276473016,
+            "ITD_MAE_us": 39.478620434683876
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.4670472142759414,
+            "ITD_MAE_us": 30.932068673073655
+          }
+        },
+        "47": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.60241375891137,
+            "ITD_MAE_us": 64.26763949790319
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 2.0561407796154034,
+            "ITD_MAE_us": 58.43212798756432
+          }
+        },
+        "48": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 4.9068676980593535,
+            "ITD_MAE_us": 46.66821202926603
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.4654356600300686,
+            "ITD_MAE_us": 41.51555041827153
+          }
+        },
+        "49": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.2146460917212565,
+            "ITD_MAE_us": 60.59931586160135
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.722655181579562,
+            "ITD_MAE_us": 39.36657647309306
+          }
+        },
+        "50": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.509527812796454,
+            "ITD_MAE_us": 65.26376919032548
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.8824843051976328,
+            "ITD_MAE_us": 37.218262803346335
+          }
+        },
+        "51": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.464871756233111,
+            "ITD_MAE_us": 53.67104123428159
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.877722975354771,
+            "ITD_MAE_us": 26.17243451039196
+          }
+        },
+        "52": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.332312324055921,
+            "ITD_MAE_us": 72.89298043309103
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.7537762551377618,
+            "ITD_MAE_us": 51.71590131146887
+          }
+        },
+        "53": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.172663005284939,
+            "ITD_MAE_us": 74.00069920100701
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.8011822019894086,
+            "ITD_MAE_us": 45.502298338234446
+          }
+        },
+        "54": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.1789533825027725,
+            "ITD_MAE_us": 55.753917779473994
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.6567614049176131,
+            "ITD_MAE_us": 38.668235523750894
+          }
+        },
+        "55": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.658349833725224,
+            "ITD_MAE_us": 68.6902834770828
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.159272961131944,
+            "ITD_MAE_us": 43.63434620578147
+          }
+        },
+        "56": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.972457728150734,
+            "ITD_MAE_us": 56.43348037398968
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.4807167285768064,
+            "ITD_MAE_us": 28.138531334061028
+          }
+        },
+        "57": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.776620632520222,
+            "ITD_MAE_us": 65.79764258941847
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.5077316575997204,
+            "ITD_MAE_us": 51.69525290612421
+          }
+        },
+        "58": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.530324258868789,
+            "ITD_MAE_us": 85.01842153931257
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 2.1400036166397154,
+            "ITD_MAE_us": 69.8930076931583
+          }
+        },
+        "59": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.6619597967416055,
+            "ITD_MAE_us": 69.99076287295952
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.573917551522525,
+            "ITD_MAE_us": 49.1430941937399
+          }
+        },
+        "60": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.890087028657613,
+            "ITD_MAE_us": 53.71609732130125
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.4728086729733878,
+            "ITD_MAE_us": 32.56683836522573
+          }
+        },
+        "61": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.1555480554038295,
+            "ITD_MAE_us": 47.2138548086353
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.7520073340052873,
+            "ITD_MAE_us": 27.263523441906973
+          }
+        },
+        "62": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.654617132078683,
+            "ITD_MAE_us": 46.606863022270076
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.5377296931635742,
+            "ITD_MAE_us": 20.187838475360486
+          }
+        },
+        "63": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.672594617252454,
+            "ITD_MAE_us": 32.84888646820522
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.1977290006176458,
+            "ITD_MAE_us": 30.388670796639193
+          }
+        },
+        "64": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.201234360590876,
+            "ITD_MAE_us": 44.0831119821367
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.5747452271150646,
+            "ITD_MAE_us": 20.270860802289782
+          }
+        },
+        "65": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.01682869906867,
+            "ITD_MAE_us": 72.46804172891174
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.5603940748983893,
+            "ITD_MAE_us": 50.06320600514335
+          }
+        },
+        "66": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.5685987358148425,
+            "ITD_MAE_us": 54.27115762096226
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 2.082058263766112,
+            "ITD_MAE_us": 31.41801916831332
+          }
+        },
+        "67": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.643932597065911,
+            "ITD_MAE_us": 69.94282216725014
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.8018555399187937,
+            "ITD_MAE_us": 41.229342668921134
+          }
+        },
+        "68": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.852266017942355,
+            "ITD_MAE_us": 75.27386200887878
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.6565379554361706,
+            "ITD_MAE_us": 50.411543042229816
+          }
+        },
+        "69": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.838930051302876,
+            "ITD_MAE_us": 56.53457603563398
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.3411149453255047,
+            "ITD_MAE_us": 27.23603824505041
+          }
+        },
+        "70": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.945909181255524,
+            "ITD_MAE_us": 73.97642761409604
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.6294704189191187,
+            "ITD_MAE_us": 53.06340152875751
+          }
+        },
+        "71": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.287328381681087,
+            "ITD_MAE_us": 81.70932135373641
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.6249091232009518,
+            "ITD_MAE_us": 53.442849694241545
+          }
+        },
+        "72": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.020087130042594,
+            "ITD_MAE_us": 61.241644687754146
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.6021816275346663,
+            "ITD_MAE_us": 34.67320722236539
+          }
+        },
+        "73": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.3975996413761775,
+            "ITD_MAE_us": 51.90922841680942
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.8188866192750202,
+            "ITD_MAE_us": 26.56788246375331
+          }
+        },
+        "74": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.8861227549017325,
+            "ITD_MAE_us": 29.63590851455129
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.7343458471357391,
+            "ITD_MAE_us": 26.090016684977577
+          }
+        },
+        "75": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.924693202335645,
+            "ITD_MAE_us": 42.08722428474842
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.3793460161308015,
+            "ITD_MAE_us": 20.778265653100625
+          }
+        },
+        "76": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.2223861205441295,
+            "ITD_MAE_us": 63.75313882051171
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.660194702246276,
+            "ITD_MAE_us": 38.095362147052256
+          }
+        },
+        "77": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.579775010809538,
+            "ITD_MAE_us": 74.14102332504778
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.3565706572080543,
+            "ITD_MAE_us": 50.89634670216678
+          }
+        },
+        "78": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.543356840290506,
+            "ITD_MAE_us": 54.83680432210136
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 2.013861882718828,
+            "ITD_MAE_us": 32.715507341358006
+          }
+        },
+        "79": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.9544468133638455,
+            "ITD_MAE_us": 72.45244852412597
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 2.0285285607280885,
+            "ITD_MAE_us": 59.26959467157959
+          }
+        },
+        "80": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.786169466548583,
+            "ITD_MAE_us": 66.44908361660441
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.4384657672971923,
+            "ITD_MAE_us": 38.40357722962527
+          }
+        },
+        "81": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.53259050295985,
+            "ITD_MAE_us": 61.22404451990815
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.8844950983169866,
+            "ITD_MAE_us": 45.75836703834071
+          }
+        },
+        "82": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.207131289386937,
+            "ITD_MAE_us": 54.381477554070784
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 2.028745122368923,
+            "ITD_MAE_us": 26.335971167091632
+          }
+        },
+        "83": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.812395965019499,
+            "ITD_MAE_us": 52.11834167323798
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.6198464702594562,
+            "ITD_MAE_us": 24.315397922884564
+          }
+        },
+        "84": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.468742759740531,
+            "ITD_MAE_us": 67.58840911540709
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.2454022652222423,
+            "ITD_MAE_us": 39.63032511588703
+          }
+        },
+        "85": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.5589719752630655,
+            "ITD_MAE_us": 49.19650764942779
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.9598113516124802,
+            "ITD_MAE_us": 29.644144363777205
+          }
+        },
+        "86": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.859391760076936,
+            "ITD_MAE_us": 66.42364968722023
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.7822390085505142,
+            "ITD_MAE_us": 38.37814330024109
+          }
+        },
+        "87": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.955151511653731,
+            "ITD_MAE_us": 85.39622148777899
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.6601968635087285,
+            "ITD_MAE_us": 63.550893411955954
+          }
+        },
+        "89": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.022494345936872,
+            "ITD_MAE_us": 58.07862787427952
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.7959138380313808,
+            "ITD_MAE_us": 30.248843014773513
+          }
+        },
+        "90": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.129113207015157,
+            "ITD_MAE_us": 84.9355811132157
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.583483821334155,
+            "ITD_MAE_us": 56.89007472623656
+          }
+        },
+        "91": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.861750443853216,
+            "ITD_MAE_us": 60.752359576086064
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.4681681886842646,
+            "ITD_MAE_us": 39.54974952081792
+          }
+        },
+        "92": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.122691684540198,
+            "ITD_MAE_us": 101.87483219401614
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.8955032278475752,
+            "ITD_MAE_us": 72.94103592746951
+          }
+        },
+        "93": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.966861522773493,
+            "ITD_MAE_us": 53.054446931112835
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.6390152272536982,
+            "ITD_MAE_us": 35.02909805295954
+          }
+        },
+        "94": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.230273685840205,
+            "ITD_MAE_us": 43.69160042993289
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.9464202311577512,
+            "ITD_MAE_us": 19.818985381259147
+          }
+        },
+        "95": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.762446606213911,
+            "ITD_MAE_us": 72.06985986694662
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.5631058106225995,
+            "ITD_MAE_us": 43.893570786999035
+          }
+        }
+      }
+    },
+    "mannequin_repeat": {
+      "n_subject_records": 2,
+      "analytic": {
+        "directions": 32,
+        "ILD_MAE_dB": 5.511805762221684,
+        "ITD_MAE_us": 44.02271184118259
+      },
+      "measured": {
+        "directions": 32,
+        "ILD_MAE_dB": 1.3560552068856522,
+        "ITD_MAE_us": 32.95372120432566
+      },
+      "by_subject": {
+        "1": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.518267413700132,
+            "ITD_MAE_us": 46.42776294062616
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.3346294749364482,
+            "ITD_MAE_us": 31.974602284136992
+          }
+        },
+        "96": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 5.505344110743238,
+            "ITD_MAE_us": 41.61766074173902
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.3774809388348561,
+            "ITD_MAE_us": 33.93284012451434
+          }
+        }
+      }
+    },
+    "repeat_person22": {
+      "n_subject_records": 1,
+      "analytic": {
+        "directions": 16,
+        "ILD_MAE_dB": 6.285660392861629,
+        "ITD_MAE_us": 56.77611918786273
+      },
+      "measured": {
+        "directions": 16,
+        "ILD_MAE_dB": 1.8209030234932424,
+        "ITD_MAE_us": 34.08952119053505
+      },
+      "by_subject": {
+        "88": {
+          "analytic": {
+            "directions": 16,
+            "ILD_MAE_dB": 6.285660392861629,
+            "ITD_MAE_us": 56.77611918786273
+          },
+          "measured": {
+            "directions": 16,
+            "ILD_MAE_dB": 1.8209030234932424,
+            "ITD_MAE_us": 34.08952119053505
+          }
+        }
+      }
+    }
+  },
+  "credit": "F. Brinkmann, M. Dinakaran, R. Pelzer, J. J. Wohlgemuth, F. Seipel, S. Weinzierl, et al.; TU Berlin, 2019. DOI 10.14279/depositonce-8487.",
+  "license": "CC BY 4.0",
+  "assessment_only": true
+}

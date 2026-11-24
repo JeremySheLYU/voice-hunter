@@ -1,0 +1,23 @@
+{
+ "plan_sha256": "45e7b79a776a055798d3f21f0006e54cfbe6b5a9d4ea8eb271fe88f380155ce6",
+ "locked_exclusion_files": [
+  "round2/envdata/all_sources.json",
+  "round2/envdata/manifest.json",
+  "round2/envdata/stereo_candidates.json",
+  "round2/environment/native_inventory.json",
+  "round2/environment/cohort.json",
+  "round2/semantic/cohort.json",
+  "round3/data/train.json",
+  "round3/data/test.json",
+  "round3/data/native.json",
+  "round3/unknowns/manifest.json",
+  "round3/transformer/train_sources.json",
+  "round3/transfer/train_sources.json"
+ ],
+ "minimum_seconds": 4.5,
+ "minimum_unique_sources_per_class": 12,
+ "minimum_unique_uploaders_per_class": 12,
+ "priority": "SHA256(VH3B-primary-blind: + source ID), candidate order per class. Frozen FSD50K only. Must count actual duration on mono standardized PCM; CC BY/CC0 and single target class checked via original corpus metadata. Do not pool external sources.",
+ "historical_authors": 713,
+ "historical_ids": 909
+}

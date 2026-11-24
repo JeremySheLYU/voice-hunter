@@ -1,0 +1,459 @@
+{
+  "dataset": "eigenscape",
+  "record": "2628463",
+  "url": "https://zenodo.org/api/records/2628463/files/Lite-EigenScape.zip/content",
+  "archive": "Lite-EigenScape.zip",
+  "archive_checksum": "md5:f5ce72d80ae55bda6d3c5c3d9dd4c776",
+  "full_zip_size": 12603117058,
+  "seconds": 8,
+  "files": [
+    {
+      "name": "Beach.1.flac",
+      "offset": 0,
+      "compressed": 199406785,
+      "method": 8,
+      "crc32": 1047656859
+    },
+    {
+      "name": "Beach.2.flac",
+      "offset": 199406855,
+      "compressed": 190744886,
+      "method": 8,
+      "crc32": 887523217
+    },
+    {
+      "name": "Beach.3.flac",
+      "offset": 390151811,
+      "compressed": 189313956,
+      "method": 8,
+      "crc32": 2598184872
+    },
+    {
+      "name": "Beach.4.flac",
+      "offset": 579465837,
+      "compressed": 184620462,
+      "method": 8,
+      "crc32": 1458166084
+    },
+    {
+      "name": "Beach.5.flac",
+      "offset": 764086369,
+      "compressed": 194261696,
+      "method": 8,
+      "crc32": 1126211774
+    },
+    {
+      "name": "Beach.6.flac",
+      "offset": 958348135,
+      "compressed": 211899554,
+      "method": 8,
+      "crc32": 2527891487
+    },
+    {
+      "name": "Beach.7.flac",
+      "offset": 1170247759,
+      "compressed": 204556135,
+      "method": 8,
+      "crc32": 4117134268
+    },
+    {
+      "name": "Beach.8.flac",
+      "offset": 1374803964,
+      "compressed": 219296966,
+      "method": 8,
+      "crc32": 14285571
+    },
+    {
+      "name": "BusyStreet.1.flac",
+      "offset": 1594101000,
+      "compressed": 205235771,
+      "method": 8,
+      "crc32": 1094501047
+    },
+    {
+      "name": "BusyStreet.2.flac",
+      "offset": 1799336846,
+      "compressed": 209369888,
+      "method": 8,
+      "crc32": 3902053088
+    },
+    {
+      "name": "BusyStreet.3.flac",
+      "offset": 2008706809,
+      "compressed": 218463552,
+      "method": 8,
+      "crc32": 2964916835
+    },
+    {
+      "name": "BusyStreet.4.flac",
+      "offset": 2227170436,
+      "compressed": 214462783,
+      "method": 8,
+      "crc32": 2104024932
+    },
+    {
+      "name": "BusyStreet.5.flac",
+      "offset": 2441633294,
+      "compressed": 215873036,
+      "method": 8,
+      "crc32": 4281467764
+    },
+    {
+      "name": "BusyStreet.6.flac",
+      "offset": 2657506405,
+      "compressed": 203789419,
+      "method": 8,
+      "crc32": 1506773639
+    },
+    {
+      "name": "BusyStreet.7.flac",
+      "offset": 2861295899,
+      "compressed": 210364439,
+      "method": 8,
+      "crc32": 551808303
+    },
+    {
+      "name": "BusyStreet.8.flac",
+      "offset": 3071660413,
+      "compressed": 204848779,
+      "method": 8,
+      "crc32": 1176533817
+    },
+    {
+      "name": "Park.1.flac",
+      "offset": 3276509267,
+      "compressed": 189204153,
+      "method": 8,
+      "crc32": 533401812
+    },
+    {
+      "name": "Park.2.flac",
+      "offset": 3465713489,
+      "compressed": 187363486,
+      "method": 8,
+      "crc32": 1275326852
+    },
+    {
+      "name": "Park.3.flac",
+      "offset": 3653077044,
+      "compressed": 187802462,
+      "method": 8,
+      "crc32": 3415474294
+    },
+    {
+      "name": "Park.4.flac",
+      "offset": 3840879575,
+      "compressed": 193806257,
+      "method": 8,
+      "crc32": 177343888
+    },
+    {
+      "name": "Park.5.flac",
+      "offset": 4034685901,
+      "compressed": 187252144,
+      "method": 8,
+      "crc32": 2376938761
+    },
+    {
+      "name": "Park.6.flac",
+      "offset": 4221938114,
+      "compressed": 186132371,
+      "method": 8,
+      "crc32": 1671616383
+    },
+    {
+      "name": "Park.7.flac",
+      "offset": 4408070554,
+      "compressed": 189551795,
+      "method": 8,
+      "crc32": 691357034
+    },
+    {
+      "name": "Park.8.flac",
+      "offset": 4597622418,
+      "compressed": 193804095,
+      "method": 8,
+      "crc32": 3133209420
+    },
+    {
+      "name": "PedestrianZone.1.flac",
+      "offset": 4791426582,
+      "compressed": 175726378,
+      "method": 8,
+      "crc32": 2722089485
+    },
+    {
+      "name": "PedestrianZone.2.flac",
+      "offset": 4967153039,
+      "compressed": 188265085,
+      "method": 8,
+      "crc32": 1266055321
+    },
+    {
+      "name": "PedestrianZone.3.flac",
+      "offset": 5155418203,
+      "compressed": 208084661,
+      "method": 8,
+      "crc32": 1212500300
+    },
+    {
+      "name": "PedestrianZone.4.flac",
+      "offset": 5363502943,
+      "compressed": 209214403,
+      "method": 8,
+      "crc32": 2057071404
+    },
+    {
+      "name": "PedestrianZone.5.flac",
+      "offset": 5572717425,
+      "compressed": 199037711,
+      "method": 8,
+      "crc32": 3773540730
+    },
+    {
+      "name": "PedestrianZone.6.flac",
+      "offset": 5771755215,
+      "compressed": 201478064,
+      "method": 8,
+      "crc32": 4046305279
+    },
+    {
+      "name": "PedestrianZone.7.flac",
+      "offset": 5973233358,
+      "compressed": 193755548,
+      "method": 8,
+      "crc32": 250009858
+    },
+    {
+      "name": "PedestrianZone.8.flac",
+      "offset": 6166988985,
+      "compressed": 195795563,
+      "method": 8,
+      "crc32": 2125031310
+    },
+    {
+      "name": "QuietStreet.1.flac",
+      "offset": 6362784627,
+      "compressed": 186625617,
+      "method": 8,
+      "crc32": 2735052703
+    },
+    {
+      "name": "QuietStreet.2.flac",
+      "offset": 6549410320,
+      "compressed": 196890745,
+      "method": 8,
+      "crc32": 4153565395
+    },
+    {
+      "name": "QuietStreet.3.flac",
+      "offset": 6746301141,
+      "compressed": 192098912,
+      "method": 8,
+      "crc32": 735880128
+    },
+    {
+      "name": "QuietStreet.4.flac",
+      "offset": 6938400129,
+      "compressed": 185307585,
+      "method": 8,
+      "crc32": 3547591550
+    },
+    {
+      "name": "QuietStreet.5.flac",
+      "offset": 7123707790,
+      "compressed": 192379728,
+      "method": 8,
+      "crc32": 1936722118
+    },
+    {
+      "name": "QuietStreet.6.flac",
+      "offset": 7316087594,
+      "compressed": 188797828,
+      "method": 8,
+      "crc32": 2068751810
+    },
+    {
+      "name": "QuietStreet.7.flac",
+      "offset": 7504885498,
+      "compressed": 184729337,
+      "method": 8,
+      "crc32": 3716924040
+    },
+    {
+      "name": "QuietStreet.8.flac",
+      "offset": 7689614911,
+      "compressed": 187748421,
+      "method": 8,
+      "crc32": 3848177631
+    },
+    {
+      "name": "ShoppingCentre.1.flac",
+      "offset": 7877363408,
+      "compressed": 192035220,
+      "method": 8,
+      "crc32": 752821399
+    },
+    {
+      "name": "ShoppingCentre.2.flac",
+      "offset": 8069398707,
+      "compressed": 206396197,
+      "method": 8,
+      "crc32": 1042396475
+    },
+    {
+      "name": "ShoppingCentre.3.flac",
+      "offset": 8275794983,
+      "compressed": 201320798,
+      "method": 8,
+      "crc32": 856872944
+    },
+    {
+      "name": "ShoppingCentre.4.flac",
+      "offset": 8477115860,
+      "compressed": 199456889,
+      "method": 8,
+      "crc32": 3209122839
+    },
+    {
+      "name": "ShoppingCentre.5.flac",
+      "offset": 8676572828,
+      "compressed": 210332271,
+      "method": 8,
+      "crc32": 2621312152
+    },
+    {
+      "name": "ShoppingCentre.6.flac",
+      "offset": 8886905178,
+      "compressed": 211322981,
+      "method": 8,
+      "crc32": 3164019466
+    },
+    {
+      "name": "ShoppingCentre.7.flac",
+      "offset": 9098228238,
+      "compressed": 207887146,
+      "method": 8,
+      "crc32": 3066009836
+    },
+    {
+      "name": "ShoppingCentre.8.flac",
+      "offset": 9306115463,
+      "compressed": 213484330,
+      "method": 8,
+      "crc32": 4243284162
+    },
+    {
+      "name": "TrainStation.1.flac",
+      "offset": 9519599872,
+      "compressed": 181520991,
+      "method": 8,
+      "crc32": 4117254451
+    },
+    {
+      "name": "TrainStation.2.flac",
+      "offset": 9701120940,
+      "compressed": 203576597,
+      "method": 8,
+      "crc32": 1408693686
+    },
+    {
+      "name": "TrainStation.3.flac",
+      "offset": 9904697614,
+      "compressed": 199835518,
+      "method": 8,
+      "crc32": 3844749272
+    },
+    {
+      "name": "TrainStation.4.flac",
+      "offset": 10104533209,
+      "compressed": 219885424,
+      "method": 8,
+      "crc32": 2430481797
+    },
+    {
+      "name": "TrainStation.5.flac",
+      "offset": 10324418710,
+      "compressed": 215614150,
+      "method": 8,
+      "crc32": 654588383
+    },
+    {
+      "name": "TrainStation.6.flac",
+      "offset": 10540032937,
+      "compressed": 217000229,
+      "method": 8,
+      "crc32": 3426175151
+    },
+    {
+      "name": "TrainStation.7.flac",
+      "offset": 10757033243,
+      "compressed": 195106801,
+      "method": 8,
+      "crc32": 1166107126
+    },
+    {
+      "name": "TrainStation.8.flac",
+      "offset": 10952140121,
+      "compressed": 182485842,
+      "method": 8,
+      "crc32": 3430347476
+    },
+    {
+      "name": "Woodland.1.flac",
+      "offset": 11134626040,
+      "compressed": 185440159,
+      "method": 8,
+      "crc32": 1404686815
+    },
+    {
+      "name": "Woodland.2.flac",
+      "offset": 11320066272,
+      "compressed": 191173534,
+      "method": 8,
+      "crc32": 3737855605
+    },
+    {
+      "name": "Woodland.3.flac",
+      "offset": 11511239879,
+      "compressed": 186524044,
+      "method": 8,
+      "crc32": 2832866768
+    },
+    {
+      "name": "Woodland.4.flac",
+      "offset": 11697763996,
+      "compressed": 183137080,
+      "method": 8,
+      "crc32": 530156967
+    },
+    {
+      "name": "Woodland.5.flac",
+      "offset": 11880901149,
+      "compressed": 176152904,
+      "method": 8,
+      "crc32": 3821472146
+    },
+    {
+      "name": "Woodland.6.flac",
+      "offset": 12057054126,
+      "compressed": 177266463,
+      "method": 8,
+      "crc32": 2062490583
+    },
+    {
+      "name": "Woodland.7.flac",
+      "offset": 12234320662,
+      "compressed": 184175314,
+      "method": 8,
+      "crc32": 813604433
+    },
+    {
+      "name": "Woodland.8.flac",
+      "offset": 12418496049,
+      "compressed": 184614782,
+      "method": 8,
+      "crc32": 3838237949
+    }
+  ]
+}

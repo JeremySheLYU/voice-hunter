@@ -1,0 +1,130 @@
+{
+  "satp": {
+    "doi": "10.5281/zenodo.18362685",
+    "title": "Soundscape Attributes Translation Project (SATP) Dataset",
+    "creators": [
+      {
+        "name": "Oberman, Tin",
+        "affiliation": "University College London",
+        "orcid": "0000-0002-0014-0383"
+      },
+      {
+        "name": "Mitchell, Andrew",
+        "affiliation": "University College London",
+        "orcid": "0000-0003-0978-5046"
+      },
+      {
+        "name": "Aletta, Francesco",
+        "affiliation": "University College London",
+        "orcid": "0000-0003-0351-3189"
+      },
+      {
+        "name": "Almagro Pastor, José Antonio",
+        "affiliation": "Universidad de Granada",
+        "orcid": "0000-0003-2418-2905"
+      },
+      {
+        "name": "Jambrošić, Kristian",
+        "affiliation": "University of Zagreb",
+        "orcid": "0000-0002-5680-4919"
+      },
+      {
+        "name": "Kang, Jian",
+        "affiliation": "University College London",
+        "orcid": "0000-0001-8995-5636"
+      }
+    ],
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "record_url": "https://zenodo.org/records/18362685",
+    "archive_sha256": "7b1c85b4c734e971c5a088f6b23843930012b002213471087dafd8e1f6aa604f",
+    "locations": {
+      "CG01": "Covent Garden",
+      "CG04": "James Street",
+      "CG07": "Covent Garden",
+      "CT301": "Camden Town Station",
+      "E01b": "Hertford Union Canal, Bottom Lock",
+      "E02": "Hertford Union Canal, between Wick Lane and A12",
+      "E05": "Victoria Park, at the Victoria Park West Lake",
+      "E09": "Wharf Road Gardens",
+      "E10": "Granary Square",
+      "E11b": "A12, a pedestrian overpass",
+      "E12b": "Copper Street",
+      "HR01": "Highgate Road",
+      "KT01": "Ospringe Road",
+      "LS06": "Leicester Square",
+      "N1": "Alexandra Park",
+      "OS01c": "Charring Cross Road",
+      "OS01d": "Charring Cross Road",
+      "RPJ01": "Regent's Park",
+      "VP01b": "Victoria Park",
+      "W01": "Regent's Canal at Aldsworth Close",
+      "W06": "Regent's Canal at Little Venice",
+      "W09": "Sheldon Square",
+      "W11a": "Regent's Canal at the Paddington Station",
+      "W15": "Blomfield Road",
+      "W16": "Aberdeen Place",
+      "W22": "Regent's Canal at the London Zoo",
+      "W23a": "Regent's Canal at the Oval Road"
+    }
+  },
+  "binaurec": {
+    "doi": "10.5281/zenodo.7256984",
+    "title": "BinauRec: A dataset to test the influence of the use of room impulse responses on binaural speech enhancement",
+    "creators": [
+      {
+        "name": "Louis Delebecque",
+        "affiliation": "Université de Lorraine"
+      },
+      {
+        "name": "Romain Serizel",
+        "affiliation": "Université de Lorraine"
+      }
+    ],
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "record_url": "https://zenodo.org/records/7256984"
+  },
+  "apl": {
+    "doi": "10.5281/zenodo.2641166",
+    "title": "360° Binaural Room Impulse Response (BRIR) Database for 6DOF spatial perception research",
+    "creators": [
+      {
+        "name": "Bogdan Ioan Bacila",
+        "affiliation": "Applied Psychoacoustics Lab, University of Huddersfield"
+      },
+      {
+        "name": "Hyunkook Lee",
+        "affiliation": "Applied Psychoacoustics Lab, University of Huddersfield"
+      }
+    ],
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "record_url": "https://zenodo.org/records/2641166"
+  },
+  "aachen": {
+    "title": "Aachen Impulse Response Database v1.4",
+    "license": "MIT",
+    "attribution": "Copyright (c) 2011 RWTH Aachen University, Institute of Communication Systems and Data Processing (IND), Marco Jeub",
+    "license_file": "AIR_LICENSE.txt",
+    "archive_sha256": "d2fd52767505c402e8aed9299dcd046493c8254cfab2f769fcf480dc7c616a5f",
+    "url": "https://www.iks.rwth-aachen.de/en/research/tools-downloads/databases/aachen-impulse-response-database/"
+  },
+  "films": {
+    "authors": "Blender Foundation; original film scores by Jan Morgenstern",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "titles": {
+      "Big Buck Bunny": {
+        "credit": "(c) copyright 2008, Blender Foundation / www.bigbuckbunny.org",
+        "terms": "https://peach.blender.org/about/"
+      },
+      "Sintel": {
+        "credit": "© copyright Blender Foundation | www.sintel.org",
+        "terms": "https://durian.blender.org/sharing/"
+      }
+    },
+    "mirror": "https://media.xiph.org/",
+    "transformation": "Four 12 s PCM-exact excerpts from each original stereo & six-channel mix. No OST albums."
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "checks": [
+    {
+      "test": "tests/validate_audio.py",
+      "passed": true,
+      "details": "pan_right_change_db\": 10.176421021959147,\n  \"mono_background_lr_max_difference\": 2.9802322387695312e-08,\n  \"wider_background_side_mid_change_db\": 3.5218251813624413,\n  \"neutral_max_sample_error\": 2.9802322387695312e-08,\n  \"estimated_stem_sum_max_error\": 2.9802322387695312e-08,\n  \"mono_fold_down_error_at_non_neutral_render\": 5.960464477539063e-08\n}\n"
+    },
+    {
+      "test": "tests/check_binaural.py",
+      "passed": true,
+      "details": "±45° mirror and neutral pass. Far-ear onset delay 18 samples at 48 kHz, 150 Hz far/near -0.04 dB, 6 kHz -7.31 dB.\n"
+    },
+    {
+      "test": "tests/test_multitrack.py",
+      "passed": true,
+      "details": ".\n----------------------------------------------------------------------\nRan 1 test in 0.499s\n\nOK\n"
+    },
+    {
+      "test": "tests/validate_av_sync.py",
+      "passed": true,
+      "details": "PASS v=0.0 a=0.5 container=2.000s audio=1.521s\nPASS v=0.5 a=0.0 container=2.500s audio=1.500s\nPASS v=0.7 a=0.2 container=2.522s audio=1.521s\n"
+    },
+    {
+      "test": "scripts/speaker_demo.py",
+      "passed": true,
+      "details": "1193847656e-08,\n  \"method\": \"speakers\",\n  \"target\": \"A\",\n  \"separator\": \"two-example regularized stereo spatial demixer\",\n  \"target_span_seconds\": [\n    0.2,\n    1.65\n  ],\n  \"background_span_seconds\": [\n    2.2,\n    3.65\n  ],\n  \"spatial_contrast\": 0.7423,\n  \"reference_coherence\": 0.9957,\n  \"note\": \"已按參考段的左右聲像分出 A。另一軌包含 B 與其餘環境聲。移動、同方向與強反射會增加串音。\"\n}\n"
+    },
+    {
+      "test": "round2/integration/check_ambix.py",
+      "passed": true,
+      "details": "right\": {\n    \"max_error\": 7.335234322725093e-09,\n    \"pass_gate\": true\n  },\n  \"back\": {\n    \"max_error\": 2.146825568011268e-09,\n    \"pass_gate\": true\n  },\n  \"up\": {\n    \"max_error\": 1.862606159586111e-09,\n    \"pass_gate\": true\n  },\n  \"field\": {\n    \"source\": \"Beach.1.flac.flac\",\n    \"frames\": 384000,\n    \"channels\": 2,\n    \"pass_gate\": true\n  }\n}\n"
+    },
+    {
+      "test": "local-polarity-cancellation",
+      "passed": true,
+      "details": {
+        "baseline_rms": 0.0,
+        "measured_rms": 0.1414213478565216
+      }
+    },
+    {
+      "test": "desktop-workbench-http-dom",
+      "passed": true,
+      "details": {
+        "passed": 20,
+        "total": 20,
+        "actual_browser": "not-tested",
+        "individual": [
+          {
+            "id": "sample-link-studio",
+            "status": "pass",
+            "selected": "example",
+            "syntheticPhoneFixture": false
+          },
+          {
+            "id": "sample-link-duet",
+            "status": "pass",
+            "selected": "speakers",
+            "syntheticPhoneFixture": false
+          },
+          {
+            "id": "sample-link-iphone",
+            "status": "pass",
+            "selected": "rnnoise",
+            "syntheticPhoneFixture": true
+          },
+          {
+            "id": "unicode-mov-upload",
+            "status": "pass"
+          },
+          {
+            "id": "mono-error-and-prior-clip-usable",
+            "status": "pass"
+          },
+          {
+            "id": "invalid-span-before-first-separation",
+            "status": "pass"
+          },
+          {
+            "id": "overlapping-spans-error",
+            "status": "pass"
+          },
+          {
+            "id": "valid-separation-after-error",
+            "status": "pass"
+          },
+          {
+            "id": "solo-target-residual-URL-switch",
+            "status": "pass"
+          },
+          {
+            "id": "AB-source-and-position-request",
+            "status": "pass",
+            "seek": 3.25
+          },
+          {
+            "id": "stale-render-explicit",
+            "status": "pass"
+          },
+          {
+            "id": "current-render-file",
+            "status": "pass"
+          },
+          {
+            "id": "complete-downloads",
+            "status": "pass",
+            "files": 5,
+            "videoDownloadName": "%E8%A8%AA%E8%AB%87%20QA-mix.mov"
+          },
+          {
+            "id": "stale-after-target-reference-edit",
+            "status": "pass",
+            "retainedTarget": false,
+            "soloEnabled": false,
+            "renderEnabled": false,
+            "downloadVisible": false,
+            "statusMessage": "分軌條件已更改，請重新提取聲源。"
+          },
+          {
+            "id": "stale-after-method-change",
+            "status": "pass",
+            "selected": "rnnoise",
+            "retainedTarget": false,
+            "soloEnabled": false,
+            "renderEnabled": false,
+            "downloadVisible": false,
+            "statusMessage": "分軌條件已更改，請重新提取聲源。"
+          },
+          {
+            "id": "new-separation-clears-prior-render",
+            "status": "pass"
+          },
+          {
+            "id": "headphone-render",
+            "status": "pass"
+          },
+          {
+            "id": "switch-clip-clears-old-stems-and-mix",
+            "status": "pass"
+          },
+          {
+            "id": "private-fixture-button-hidden-when-unconfigured",
+            "status": "pass"
+          },
+          {
+            "id": "static-responsive-and-control-markup",
+            "status": "pass",
+            "checkedControls": 29,
+            "unlabelled": [],
+            "scope": "markup and CSS rules only; real layout and taps not measured"
+          }
+        ]
+      }
+    }
+  ]
+}

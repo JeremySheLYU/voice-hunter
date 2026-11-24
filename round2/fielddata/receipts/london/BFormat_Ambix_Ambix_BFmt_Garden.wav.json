@@ -1,0 +1,21 @@
+{
+  "id": "london/BFormat_Ambix_Ambix_BFmt_Garden.wav",
+  "dataset": "london",
+  "record": "10687363",
+  "member": "BFormat_Ambix/Ambix_BFmt_Garden.wav",
+  "source_offset_s": 0,
+  "duration_s": 8.0,
+  "rate": 48000,
+  "channels": 4,
+  "bytes": 3043986,
+  "sha256": "51d0c0c978f5f5bc44b022d12518023d161ae4ec164c140c583e7d8fb3b16f73",
+  "pcm_s32le_sha256": "3527e74e136529762ae4be0178ade7d253e4d7f88a68ca9de652610b79266c55",
+  "archive_crc32": "0xe08f9493",
+  "archive_range": [
+    32624821,
+    37874356
+  ],
+  "range_sha256": "136ad04dbab3388c07b1811f9fce59365a67b47789c0b4bf554e3efeb19e0b02",
+  "path": "round2_data/field/london/BFormat_Ambix_Ambix_BFmt_Garden.wav.flac",
+  "license": "CC-BY-4.0"
+}

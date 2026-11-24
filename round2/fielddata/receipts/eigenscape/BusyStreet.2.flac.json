@@ -1,0 +1,21 @@
+{
+  "id": "eigenscape/BusyStreet.2.flac",
+  "dataset": "eigenscape",
+  "record": "2628463",
+  "member": "BusyStreet.2.flac",
+  "source_offset_s": 0,
+  "duration_s": 8.0,
+  "rate": 48000,
+  "channels": 4,
+  "bytes": 3076498,
+  "sha256": "5c967e3af332df02fb9f30005b55e600c774e79a64a0da66e0820e30df3ab01b",
+  "pcm_s32le_sha256": "526f25e059593d7c29681b65831b386c6f7cca0fdccb76151c8b8e2bb8e4c33d",
+  "archive_crc32": "0xe8949ae0",
+  "archive_range": [
+    1799336846,
+    1804586381
+  ],
+  "range_sha256": "6cd3626735a70c8b8180253d28c72f6e6b6149753465edb9b3b31aff3374a8b3",
+  "path": "round2_data/field/eigenscape/BusyStreet.2.flac.flac",
+  "license": "CC-BY-4.0"
+}

@@ -1,0 +1,60 @@
+{
+  "dataset": "london",
+  "record": "10687363",
+  "url": "https://zenodo.org/api/records/10687363/files/BFormat_Ambix.zip/content",
+  "archive": "BFormat_Ambix.zip",
+  "archive_checksum": "md5:0166cafe3cb5462b3733dfebd551c817",
+  "full_zip_size": 227865836,
+  "seconds": 8,
+  "files": [
+    {
+      "name": "BFormat_Ambix/Ambix_BFmt_Fan.wav",
+      "offset": 0,
+      "compressed": 32624759,
+      "method": 8,
+      "crc32": 639718901
+    },
+    {
+      "name": "BFormat_Ambix/Ambix_BFmt_Garden.wav",
+      "offset": 32624821,
+      "compressed": 31411923,
+      "method": 8,
+      "crc32": 3767506067
+    },
+    {
+      "name": "BFormat_Ambix/Ambix_BFmt_Light_traffic.wav",
+      "offset": 64036809,
+      "compressed": 32891118,
+      "method": 8,
+      "crc32": 2370606257
+    },
+    {
+      "name": "BFormat_Ambix/Ambix_BFmt_Music.wav",
+      "offset": 96927999,
+      "compressed": 32611034,
+      "method": 8,
+      "crc32": 1166341827
+    },
+    {
+      "name": "BFormat_Ambix/Ambix_BFmt_Pedestrian_area.wav",
+      "offset": 129539097,
+      "compressed": 34111883,
+      "method": 8,
+      "crc32": 1187965598
+    },
+    {
+      "name": "BFormat_Ambix/Ambix_BFmt_Siren.wav",
+      "offset": 163651054,
+      "compressed": 32956255,
+      "method": 8,
+      "crc32": 1345176764
+    },
+    {
+      "name": "BFormat_Ambix/Ambix_BFmt_TV.wav",
+      "offset": 196607373,
+      "compressed": 31257806,
+      "method": 8,
+      "crc32": 850184726
+    }
+  ]
+}

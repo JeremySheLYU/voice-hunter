@@ -1,0 +1,62 @@
+{
+  "1-119125-A-45.wav": {
+    "attribution": "Benboncan, Steam Train L To R",
+    "collection_license": "CC BY-NC 3.0 (ESC-50)",
+    "individual_source_license": "CC-BY",
+    "sha256": "d78fe04767546d49b741d9d7df6173152e06dcb4224d70f350c3cb73768f265d",
+    "source_url": "https://raw.githubusercontent.com/karolpiczak/ESC-50/33c8ce9eb2cf0b1c2f8bcf322eb349b6be34dbb6/audio/1-119125-A-45.wav"
+  },
+  "1-137296-A-16.wav": {
+    "attribution": "Benboncan, Rain And Wind On Glass",
+    "collection_license": "CC BY-NC 3.0 (ESC-50)",
+    "individual_source_license": "CC-BY",
+    "sha256": "73e2dd5e66dda29f76a54b53c3c8e33441d105fc35c1d231bfbd8f7a18442969",
+    "source_url": "https://raw.githubusercontent.com/karolpiczak/ESC-50/33c8ce9eb2cf0b1c2f8bcf322eb349b6be34dbb6/audio/1-137296-A-16.wav"
+  },
+  "198-209-0000.ogg": {
+    "attribution": "Heather Barnett, reader (Jane Austen)",
+    "collection_license": "CC BY 4.0 (librosa source metadata)",
+    "sha256": "0473ba9613befa1026db5e254546f105aeffba8366b5468fc5e8d474d844ca1d",
+    "source_url": "https://raw.githubusercontent.com/librosa/data/5285c94e33c74bbe97501f5c9fa95e5e2ce55d48/audio/198-209-0000.ogg"
+  },
+  "2-104952-A-16.wav": {
+    "attribution": "Glaneur de sons, Vent - wind (1)",
+    "collection_license": "CC BY-NC 3.0 (ESC-50)",
+    "individual_source_license": "CC-BY",
+    "sha256": "d3f15c7eaac8332a48fb0aeb921d1b50ae8eba558928eaa4f7c30639018854df",
+    "source_url": "https://raw.githubusercontent.com/karolpiczak/ESC-50/33c8ce9eb2cf0b1c2f8bcf322eb349b6be34dbb6/audio/2-104952-A-16.wav"
+  },
+  "2-122066-A-45.wav": {
+    "attribution": "lonemonk, 06-2011 Freight Train Pass #1",
+    "collection_license": "CC BY-NC 3.0 (ESC-50)",
+    "individual_source_license": "CC-BY",
+    "sha256": "6e714ae789c1fd82370ef6c0fa38d17bd2b685632ddbc5129d88f828c7d6618f",
+    "source_url": "https://raw.githubusercontent.com/karolpiczak/ESC-50/33c8ce9eb2cf0b1c2f8bcf322eb349b6be34dbb6/audio/2-122066-A-45.wav"
+  },
+  "3-117504-A-16.wav": {
+    "attribution": "klangfabrik, winter wind 01a",
+    "collection_license": "CC BY-NC 3.0 (ESC-50)",
+    "individual_source_license": "CC0",
+    "sha256": "e8870d76a3bb29b43606231859c1b75ffc6dfaded319944028d122993470669e",
+    "source_url": "https://raw.githubusercontent.com/karolpiczak/ESC-50/33c8ce9eb2cf0b1c2f8bcf322eb349b6be34dbb6/audio/3-117504-A-16.wav"
+  },
+  "3-135650-A-45.wav": {
+    "attribution": "jgrzinich, Train recording",
+    "collection_license": "CC BY-NC 3.0 (ESC-50)",
+    "individual_source_license": "CC-BY-NC",
+    "sha256": "bf3702813123d2fd8ab091d08a7a7a48af204e9d51fe902da019a45f1c22b979",
+    "source_url": "https://raw.githubusercontent.com/karolpiczak/ESC-50/33c8ce9eb2cf0b1c2f8bcf322eb349b6be34dbb6/audio/3-135650-A-45.wav"
+  },
+  "3436-172162-0000.ogg": {
+    "attribution": "Anders Lankford, reader (Thomas Bulfinch)",
+    "collection_license": "CC BY 4.0 (librosa source metadata)",
+    "sha256": "780e482b52f2c8a500356babf60178ce005449cc171a8537eb3ef2961eb3e855",
+    "source_url": "https://raw.githubusercontent.com/librosa/data/5285c94e33c74bbe97501f5c9fa95e5e2ce55d48/audio/3436-172162-0000.ogg"
+  },
+  "5703-47212-0000.ogg": {
+    "attribution": "Garth Comira, reader (Marion Bryce)",
+    "collection_license": "CC BY 4.0 (librosa source metadata)",
+    "sha256": "a284612b46af0535f7e1873758c4387bb8369f6dbbe192ffdec1f171108f98dd",
+    "source_url": "https://raw.githubusercontent.com/librosa/data/5285c94e33c74bbe97501f5c9fa95e5e2ce55d48/audio/5703-47212-0000.ogg"
+  }
+}

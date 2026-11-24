@@ -1,0 +1,41 @@
+{
+ "fsd50k_primary_gate_met": false,
+ "source": "FSD50K residual pool, files and authors unused by the project, CC BY or CC0, ≥4.5 s, mono PCM. At least 12 distinct eligible uploaders per class required.",
+ "classes": {
+  "guitar": {
+   "candidates": 37,
+   "candidate_uploaders": 21,
+   "eligible_sources": 3,
+   "eligible_uploaders": 2,
+   "unreadable_headers": 0
+  },
+  "piano": {
+   "candidates": 77,
+   "candidate_uploaders": 15,
+   "eligible_sources": 0,
+   "eligible_uploaders": 0,
+   "unreadable_headers": 0
+  },
+  "speech": {
+   "candidates": 362,
+   "candidate_uploaders": 177,
+   "eligible_sources": 139,
+   "eligible_uploaders": 118,
+   "unreadable_headers": 0
+  },
+  "train": {
+   "candidates": 15,
+   "candidate_uploaders": 10,
+   "eligible_sources": 3,
+   "eligible_uploaders": 2,
+   "unreadable_headers": 0
+  },
+  "wind": {
+   "candidates": 60,
+   "candidate_uploaders": 28,
+   "eligible_sources": 15,
+   "eligible_uploaders": 15,
+   "unreadable_headers": 0
+  }
+ }
+}

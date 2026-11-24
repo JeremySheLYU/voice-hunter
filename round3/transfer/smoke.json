@@ -1,0 +1,11 @@
+{
+  "source_split": "original validation",
+  "source_id": "37794",
+  "background_id": "43743",
+  "requested": "guitar",
+  "samples": 216000,
+  "channels": 2,
+  "float_stem_sum_max_abs_error": 2.9802322387695312e-08,
+  "same_channel_refusal_exit_code": 2,
+  "refusal_wrote_files": false
+}

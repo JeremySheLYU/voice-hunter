@@ -1,0 +1,21 @@
+{
+  "id": "london/BFormat_Ambix_Ambix_BFmt_Light_traffic.wav",
+  "dataset": "london",
+  "record": "10687363",
+  "member": "BFormat_Ambix/Ambix_BFmt_Light_traffic.wav",
+  "source_offset_s": 0,
+  "duration_s": 8.0,
+  "rate": 48000,
+  "channels": 4,
+  "bytes": 3095964,
+  "sha256": "6803c1b575784958e2245e9e16fb28ac056014984920bddc3e37d792d8d8d751",
+  "pcm_s32le_sha256": "75fcab604208ce83c4f4d5f4ce0e84a6a2a87f6c277f510fe29bd7759c7ddd8d",
+  "archive_crc32": "0x8d4c94b1",
+  "archive_range": [
+    64036809,
+    69286344
+  ],
+  "range_sha256": "2f90d040c8df33809766a0070c9f043820e993378019994db9b3e2c14807966b",
+  "path": "round2_data/field/london/BFormat_Ambix_Ambix_BFmt_Light_traffic.wav.flac",
+  "license": "CC-BY-4.0"
+}

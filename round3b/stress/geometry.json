@@ -1,0 +1,14 @@
+{
+  "native": {
+    "total": 76,
+    "gate_passed": 0,
+    "no_image_pair": 0,
+    "geometry_quality_rejected": 76
+  },
+  "room": {
+    "total": 55,
+    "gate_passed": 0,
+    "no_image_pair": 0,
+    "geometry_quality_rejected": 55
+  }
+}

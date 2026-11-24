@@ -1,0 +1,5 @@
+# Transfer to measured binaural room responses
+
+Use the predeclared all-reader dev-clean-2 groups in evaluate.py on both the synthetic two-tap scene and a second acoustical condition. Require utterance duration at least 4.6 s before choosing indices. This eligibility repair followed a harness failure (near-empty scored overlap with a padded, too-short final utterance); no model output or threshold informed the repair.
+
+The second condition convolves the two dry source tracks with the measured Aachen impulse-response database stairway BRIRs at 3 m and −45/+45 degrees, at their original relative channel gains and lag. A half-second crossfade between left/right multipath responses models a position exchange. This is constructed stereo using real binaural microphone measurements and human speech, not live conversation or a continuously tracked physical trajectory. Use the same +3 dB quality tests and report refusals as failing the useful-extraction gate. There are 52 paired conditions per room, not 104 independent source pairs. No measured IR is used to fit the voice-distance model.

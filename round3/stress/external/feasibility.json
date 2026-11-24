@@ -1,0 +1,33 @@
+{
+  "status": "infeasible_no_audio_scored",
+  "minimum_required_per_class": 12,
+  "minimum_seconds": 4.5,
+  "protocol_sha256": "79dc76b8f25298598ac478ef748cb4c04faabbe51b1caa9206388ec5f8dadea4",
+  "sources": {
+    "esc50": "https://github.com/karolpiczak/ESC-50",
+    "esc50_metadata_sha256": "ca660da60191a97de289983a05821c9382d852a38a2ba8428980816b68cf6246",
+    "fsdkaggle2018": "https://zenodo.org/records/2552860",
+    "librispeech": "https://www.openslr.org/12"
+  },
+  "census": {
+    "train": {
+      "original_ESC50_items": 40,
+      "unique_original_recording_ids": 28,
+      "same_prior_recording": 5,
+      "additional_prior_author": 15,
+      "unverified_license_or_missing": 2,
+      "verified_id_and_licence_candidates_before_audio_checks": 6,
+      "upper_bound_if_all_unverified_eligible": 8
+    },
+    "wind": {
+      "original_ESC50_items": 40,
+      "unique_original_recording_ids": 25,
+      "same_prior_recording": 5,
+      "additional_prior_author": 12,
+      "unverified_license_or_missing": 3,
+      "verified_id_and_licence_candidates_before_audio_checks": 5,
+      "upper_bound_if_all_unverified_eligible": 8
+    }
+  },
+  "note": "Original Freesound source permissions audited separately. Eligibility here is an upper bound before decoding, not a count of ingested audio. Training/validation/previous-test uploader exclusivity retained. Acoustic_guitar and Electric_piano official labels and unused LibriSpeech validation pool identified, but a five-class test cannot meet its required environmental sample size. Existing labels across different source corpora would not ensure common capture conditions."
+}

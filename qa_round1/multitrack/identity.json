@@ -1,0 +1,68 @@
+[
+  {
+    "scene": "distinct",
+    "seed": 11,
+    "emitted_id": "object1",
+    "rms": 0.032193129434657054,
+    "stereo_waveform_cosine_by_true_object": [
+      0.9984451691724243,
+      0.0038677869010981104,
+      0.00010418608064779569
+    ]
+  },
+  {
+    "scene": "distinct",
+    "seed": 11,
+    "emitted_id": "object2",
+    "rms": 0.033658168531205374,
+    "stereo_waveform_cosine_by_true_object": [
+      0.003910269429495158,
+      0.9995914152795533,
+      8.539044585448194e-05
+    ]
+  },
+  {
+    "scene": "distinct",
+    "seed": 11,
+    "emitted_id": "object3",
+    "rms": 0.03435924306958052,
+    "stereo_waveform_cosine_by_true_object": [
+      0.00010388813788361965,
+      8.455484803067115e-05,
+      0.9999963898671694
+    ]
+  },
+  {
+    "scene": "changed",
+    "seed": 11,
+    "emitted_id": "object1",
+    "rms": 0.030525368742072255,
+    "stereo_waveform_cosine_by_true_object": [
+      0.00763722530735116,
+      1.8885556213265912e-05,
+      0.9804509274119061
+    ]
+  },
+  {
+    "scene": "changed",
+    "seed": 11,
+    "emitted_id": "object2",
+    "rms": 0.03034772626360322,
+    "stereo_waveform_cosine_by_true_object": [
+      0.9982063951985529,
+      1.3742908622829559e-05,
+      0.0023011825296832297
+    ]
+  },
+  {
+    "scene": "changed",
+    "seed": 11,
+    "emitted_id": "object3",
+    "rms": 0.015932148844613688,
+    "stereo_waveform_cosine_by_true_object": [
+      0.00014068232498293238,
+      0.8958855118322764,
+      -2.1536381802724997e-05
+    ]
+  }
+]

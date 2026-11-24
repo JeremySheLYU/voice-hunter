@@ -1,0 +1,30 @@
+{
+  "id": "eigenscape_hoa/BusyStreet.1",
+  "dataset": "eigenscape_hoa",
+  "record": "2628463",
+  "member": "BusyStreet.1.wav",
+  "archive": "BusyStreet.zip",
+  "archive_checksum": "md5:532b45f5d941d66506c42321a3e062ab",
+  "url": "https://zenodo.org/api/records/2628463/files/BusyStreet.zip/content",
+  "archive_range": [
+    0,
+    8199999
+  ],
+  "range_sha256": "81bd55eb9a523ed4edccf8973f7809fcd1a38c7ff2c08e474b173ed154f57d4a",
+  "source_offset_s": 0,
+  "duration_s": 2,
+  "rate": 48000,
+  "channels": 25,
+  "format": "ACN/SN3D order 4",
+  "bytes": 7200102,
+  "sha256": "226cb0f161ebb87fe677c00b814b0c1650be5dee4a94233941511a53124baab7",
+  "pcm_s32le_sha256": "251dbc675a3b27e7028c0d49126aa4f1ba11c065fa815b29b8faf0ceea02a69c",
+  "first_four_vs_lite_correlation": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "path": "round2_data/field/eigenscape_hoa/BusyStreet-01.wav",
+  "license": "CC-BY-4.0"
+}

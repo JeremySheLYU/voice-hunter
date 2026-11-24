@@ -1,0 +1,69 @@
+{
+  "name": "r3b_ensemble",
+  "inference": "round3b.model.model.predict_scene(audio, sr=48000)",
+  "config": {
+    "thresholds": [
+      0.23999999999999994,
+      0.23999999999999994,
+      0.23999999999999994,
+      0.23999999999999994,
+      0.23999999999999994
+    ],
+    "smoothing": 0.5,
+    "training_thresholds": [
+      0.32000000000000006,
+      0.26,
+      0.3400000000000001,
+      0.32000000000000006,
+      0.3400000000000001
+    ],
+    "validation": {
+      "persistent": {
+        "n": 55,
+        "tp": 49,
+        "fp": 7,
+        "accuracy": 0.8818181818181818,
+        "f1": 0.8828828828828829,
+        "useful": 49,
+        "harmful": 0
+      },
+      "intermittent": {
+        "n": 55,
+        "tp": 48,
+        "fp": 9,
+        "accuracy": 0.8545454545454545,
+        "f1": 0.8571428571428571,
+        "useful": 48,
+        "harmful": 0
+      }
+    }
+  },
+  "training_count": 625,
+  "ast_count": 225,
+  "oof_folds": 5,
+  "fold_counts": [
+    51,
+    31,
+    48,
+    58,
+    37
+  ],
+  "hashes": {
+    "round3b/model/weights.npz": "5a32f96f28a7cbfa9cb5df575648f8a9cdadbc7c10e686d0bcfa7a5e24d5dd5f",
+    "round3b/model/model.py": "bd4792bae9b7bed564485401375952cd02df0d00806d70c024c3dcc8ceea636b",
+    "round3b/model/train.py": "13632bf5b14edf21b8763d88cf5559a531cbf5c36c8b31fe02ec50eab8af2b48",
+    "round3b/model/encode_train.py": "abc28ca051241e59a01be933ed5d264170283f7e82f2e22451df41ee0f4d639b",
+    "round3b/model/encode_prior.py": "ca4a6afb93c229a0fbfb6f3d0dea70680fc3c9a0f7812f41f98afc8787ef627a",
+    "round3b/model/dev_features.py": "276b6e3a490a8cbbc073937fe3baeef90b14cb8cc289f00aebb0f6112e99b38f",
+    "round3b/model/PROTOCOL.md": "90d1c4764e254bbafa9f5bc0eb5667ff804b567cc1b69216e3fe76bd2601888e",
+    "round3b/model/training_sources.json": "6920017188d4fb8b866c86a3e5edc6e330ac4ba75a582dce6c53b518ada60502",
+    "round3/transformer/ast-int8.onnx": "807d244b58a30eaa89f0a721fb841619c696857aabe4eac93769bd0b61497f61",
+    "round3/transformer/model.py": "543a948986e826cca0296e7c26d2049f9e04c8083dac13938dbbc215436eb5e0",
+    "round3/transfer/yamnet.onnx": "d3835ffbbd4a1bb3e777f0ca217b5007907f5171dd5d17c4236b95b2af8f908e",
+    "round3/transfer/candidate.py": "e9b5be770a691f505e9b42d00b91391015cc441ec517686c6b1d10ffe38ec742",
+    "round3/fusion/model.py": "0a9c6c8d870fc385af374dd768117bce656e65f412588c8113e64fb3db3c45c0",
+    "round3/apple_features/model.py": "745e4af891c85fda2540c5dd0003b455824ee6ba9e6ea4d25eccf9e98918aa0c",
+    "round3/mixture/jointdiag.py": "f533a96d113c960ce4975c919e687ca9c584255790502890e06c6fcb448386ce",
+    "round3/data/train.json": "e574af231f307ca2c7c0b3c00331e40ee6dffbf5c5d7799573419b16019a9391"
+  }
+}

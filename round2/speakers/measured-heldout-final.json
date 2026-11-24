@@ -1,0 +1,2466 @@
+{
+  "partition": "test-clean",
+  "files_catalogued": 2620,
+  "reader_count": 40,
+  "speaker_overlap_with_train": 0,
+  "input_type": "real public speech convolved with independent measured Aachen stairway 3 m BRIRs, \u00b145\u00b0; a temporal mixture of the two measured paths simulates movement",
+  "groups": {
+    "fixed": {
+      "v01": {
+        "n": 40,
+        "returned": 40,
+        "passed": 2,
+        "harmful": 5,
+        "median_min_gain": 1.453029674314068,
+        "worst_min_gain": -1.9059547573395186,
+        "peak_reconstruction_fs": 4.656612873077393e-10
+      },
+      "candidate": {
+        "n": 40,
+        "returned": 0,
+        "passed": 0,
+        "harmful": 0,
+        "median_min_gain": null,
+        "worst_min_gain": null,
+        "peak_reconstruction_fs": null
+      }
+    },
+    "crossing": {
+      "v01": {
+        "n": 40,
+        "returned": 40,
+        "passed": 0,
+        "harmful": 39,
+        "median_min_gain": -1.2359671491304667,
+        "worst_min_gain": -3.1734222955197087,
+        "peak_reconstruction_fs": 4.656612873077393e-10
+      },
+      "candidate": {
+        "n": 40,
+        "returned": 0,
+        "passed": 0,
+        "harmful": 0,
+        "median_min_gain": null,
+        "worst_min_gain": null,
+        "peak_reconstruction_fs": null
+      }
+    }
+  },
+  "scenes": [
+    {
+      "pair": [
+        "908",
+        "7021"
+      ],
+      "utterances": [
+        "908-157963-0000",
+        "908-31957-0025",
+        "7021-79730-0001",
+        "7021-85628-0027"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          0.9299830829043864,
+          1.738959681635741
+        ],
+        "minimum_db": 0.9299830829043864,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "908",
+        "7021"
+      ],
+      "utterances": [
+        "908-157963-0000",
+        "908-31957-0025",
+        "7021-79730-0001",
+        "7021-85628-0027"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          0.4341277308277509,
+          -1.606174484556512
+        ],
+        "minimum_db": -1.606174484556512,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "908",
+        "7021"
+      ],
+      "utterances": [
+        "908-157963-0004",
+        "908-31957-0024",
+        "7021-79730-0003",
+        "7021-85628-0023"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          0.04748191328880469,
+          1.4137805407722497
+        ],
+        "minimum_db": 0.04748191328880469,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "908",
+        "7021"
+      ],
+      "utterances": [
+        "908-157963-0004",
+        "908-31957-0024",
+        "7021-79730-0003",
+        "7021-85628-0023"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -0.8119044190524792,
+          -1.236762619309887
+        ],
+        "minimum_db": -1.236762619309887,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "4446",
+        "1089"
+      ],
+      "utterances": [
+        "4446-2271-0001",
+        "4446-2275-0043",
+        "1089-134686-0000",
+        "1089-134691-0025"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -0.5967758479661462,
+          3.2552936369152126
+        ],
+        "minimum_db": -0.5967758479661462,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "4446",
+        "1089"
+      ],
+      "utterances": [
+        "4446-2271-0001",
+        "4446-2275-0043",
+        "1089-134686-0000",
+        "1089-134691-0025"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.166910095800173,
+          1.5799300631695248
+        ],
+        "minimum_db": -2.166910095800173,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "4446",
+        "1089"
+      ],
+      "utterances": [
+        "4446-2271-0004",
+        "4446-2275-0042",
+        "1089-134686-0002",
+        "1089-134691-0023"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          0.9519406373841659,
+          1.9923110217898121
+        ],
+        "minimum_db": 0.9519406373841659,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "4446",
+        "1089"
+      ],
+      "utterances": [
+        "4446-2271-0004",
+        "4446-2275-0042",
+        "1089-134686-0002",
+        "1089-134691-0023"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -1.476809864297857,
+          -0.3984461826758747
+        ],
+        "minimum_db": -1.476809864297857,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "8455",
+        "260"
+      ],
+      "utterances": [
+        "8455-210777-0000",
+        "8455-210777-0070",
+        "260-123286-0000",
+        "260-123440-0020"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          2.1426882871258375,
+          3.063387532694065
+        ],
+        "minimum_db": 2.1426882871258375,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "8455",
+        "260"
+      ],
+      "utterances": [
+        "8455-210777-0000",
+        "8455-210777-0070",
+        "260-123286-0000",
+        "260-123440-0020"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -1.789685300886536,
+          -0.6258786108773475
+        ],
+        "minimum_db": -1.789685300886536,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "8455",
+        "260"
+      ],
+      "utterances": [
+        "8455-210777-0001",
+        "8455-210777-0069",
+        "260-123286-0002",
+        "260-123440-0019"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          1.9452854131117507,
+          3.800904252054399
+        ],
+        "minimum_db": 1.9452854131117507,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "8455",
+        "260"
+      ],
+      "utterances": [
+        "8455-210777-0001",
+        "8455-210777-0069",
+        "260-123286-0002",
+        "260-123440-0019"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -0.8510585428642339,
+          0.35686981494234504
+        ],
+        "minimum_db": -0.8510585428642339,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "237",
+        "6930"
+      ],
+      "utterances": [
+        "237-126133-0000",
+        "237-134500-0041",
+        "6930-75918-0001",
+        "6930-81414-0024"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          3.629560461742929,
+          4.366675225497638
+        ],
+        "minimum_db": 3.629560461742929,
+        "pass": true,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "237",
+        "6930"
+      ],
+      "utterances": [
+        "237-126133-0000",
+        "237-134500-0041",
+        "6930-75918-0001",
+        "6930-81414-0024"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -0.18205370751161398,
+          0.7444151171664779
+        ],
+        "minimum_db": -0.18205370751161398,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "237",
+        "6930"
+      ],
+      "utterances": [
+        "237-126133-0001",
+        "237-134500-0039",
+        "6930-75918-0002",
+        "6930-81414-0023"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          2.676384382004567,
+          3.4465435286630575
+        ],
+        "minimum_db": 2.676384382004567,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "237",
+        "6930"
+      ],
+      "utterances": [
+        "237-126133-0001",
+        "237-134500-0039",
+        "6930-75918-0002",
+        "6930-81414-0023"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -0.3264749137412637,
+          -0.16561038041777434
+        ],
+        "minimum_db": -0.3264749137412637,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "6829",
+        "2094"
+      ],
+      "utterances": [
+        "6829-68769-0000",
+        "6829-68771-0036",
+        "2094-142345-0000",
+        "2094-142345-0059"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          1.9328615498775887,
+          1.2220174649602233
+        ],
+        "minimum_db": 1.2220174649602233,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "6829",
+        "2094"
+      ],
+      "utterances": [
+        "6829-68769-0000",
+        "6829-68771-0036",
+        "2094-142345-0000",
+        "2094-142345-0059"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -0.9233775459236412,
+          -1.4828065863325288
+        ],
+        "minimum_db": -1.4828065863325288,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "6829",
+        "2094"
+      ],
+      "utterances": [
+        "6829-68769-0001",
+        "6829-68771-0033",
+        "2094-142345-0001",
+        "2094-142345-0058"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          1.0532129496898528,
+          3.7598440660439802
+        ],
+        "minimum_db": 1.0532129496898528,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "6829",
+        "2094"
+      ],
+      "utterances": [
+        "6829-68769-0001",
+        "6829-68771-0033",
+        "2094-142345-0001",
+        "2094-142345-0058"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.4421283027700706,
+          0.7545283668652822
+        ],
+        "minimum_db": -2.4421283027700706,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "1995",
+        "4970"
+      ],
+      "utterances": [
+        "1995-1826-0000",
+        "1995-1837-0029",
+        "4970-29093-0001",
+        "4970-29095-0038"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          0.6999842976274979,
+          2.422183864041656
+        ],
+        "minimum_db": 0.6999842976274979,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "1995",
+        "4970"
+      ],
+      "utterances": [
+        "1995-1826-0000",
+        "1995-1837-0029",
+        "4970-29093-0001",
+        "4970-29095-0038"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -1.2297394877049928,
+          0.4241742316850592
+        ],
+        "minimum_db": -1.2297394877049928,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "1995",
+        "4970"
+      ],
+      "utterances": [
+        "1995-1826-0001",
+        "1995-1837-0027",
+        "4970-29093-0002",
+        "4970-29095-0037"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          1.770989603941317,
+          3.2298640873916664
+        ],
+        "minimum_db": 1.770989603941317,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "1995",
+        "4970"
+      ],
+      "utterances": [
+        "1995-1826-0001",
+        "1995-1837-0027",
+        "4970-29093-0002",
+        "4970-29095-0037"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -1.4538028377179084,
+          -0.2049188054207649
+        ],
+        "minimum_db": -1.4538028377179084,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "1188",
+        "1320"
+      ],
+      "utterances": [
+        "1188-133604-0000",
+        "1188-133604-0044",
+        "1320-122612-0000",
+        "1320-122617-0040"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -1.9059547573395186,
+          3.2911731614746835
+        ],
+        "minimum_db": -1.9059547573395186,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "1188",
+        "1320"
+      ],
+      "utterances": [
+        "1188-133604-0000",
+        "1188-133604-0044",
+        "1320-122612-0000",
+        "1320-122617-0040"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.8649873805715815,
+          0.3640189365473403
+        ],
+        "minimum_db": -2.8649873805715815,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "1188",
+        "1320"
+      ],
+      "utterances": [
+        "1188-133604-0001",
+        "1188-133604-0043",
+        "1320-122612-0001",
+        "1320-122617-0039"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          1.3286617746400522,
+          2.040632813146873
+        ],
+        "minimum_db": 1.3286617746400522,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "1188",
+        "1320"
+      ],
+      "utterances": [
+        "1188-133604-0001",
+        "1188-133604-0043",
+        "1320-122612-0001",
+        "1320-122617-0039"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -0.7914526219420435,
+          -0.9204526506519806
+        ],
+        "minimum_db": -0.9204526506519806,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "1221",
+        "7176"
+      ],
+      "utterances": [
+        "1221-135766-0000",
+        "1221-135767-0024",
+        "7176-88083-0000",
+        "7176-92135-0045"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          2.2281453442962897,
+          2.3092333575354247
+        ],
+        "minimum_db": 2.2281453442962897,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "1221",
+        "7176"
+      ],
+      "utterances": [
+        "1221-135766-0000",
+        "1221-135767-0024",
+        "7176-88083-0000",
+        "7176-92135-0045"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -0.5741723940319173,
+          -0.19639132840430923
+        ],
+        "minimum_db": -0.5741723940319173,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "1221",
+        "7176"
+      ],
+      "utterances": [
+        "1221-135766-0001",
+        "1221-135767-0023",
+        "7176-88083-0001",
+        "7176-92135-0044"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          0.8626771687200403,
+          3.2946271619181995
+        ],
+        "minimum_db": 0.8626771687200403,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "1221",
+        "7176"
+      ],
+      "utterances": [
+        "1221-135766-0001",
+        "1221-135767-0023",
+        "7176-88083-0001",
+        "7176-92135-0044"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -0.66849922635168,
+          0.3197479415359574
+        ],
+        "minimum_db": -0.66849922635168,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "4077",
+        "4507"
+      ],
+      "utterances": [
+        "4077-13751-0000",
+        "4077-13754-0016",
+        "4507-16021-0001",
+        "4507-16021-0059"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          3.867309185698146,
+          -0.6496257885415524
+        ],
+        "minimum_db": -0.6496257885415524,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "4077",
+        "4507"
+      ],
+      "utterances": [
+        "4077-13751-0000",
+        "4077-13754-0016",
+        "4507-16021-0001",
+        "4507-16021-0059"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          0.9438662358109471,
+          -3.1734222955197087
+        ],
+        "minimum_db": -3.1734222955197087,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "4077",
+        "4507"
+      ],
+      "utterances": [
+        "4077-13751-0001",
+        "4077-13754-0015",
+        "4507-16021-0003",
+        "4507-16021-0057"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          2.636738606125732,
+          2.2568771482992585
+        ],
+        "minimum_db": 2.2568771482992585,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "4077",
+        "4507"
+      ],
+      "utterances": [
+        "4077-13751-0001",
+        "4077-13754-0015",
+        "4507-16021-0003",
+        "4507-16021-0057"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -0.2922627809019904,
+          -0.47640765092840875
+        ],
+        "minimum_db": -0.47640765092840875,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "672",
+        "3570"
+      ],
+      "utterances": [
+        "672-122797-0001",
+        "672-122797-0074",
+        "3570-5694-0000",
+        "3570-5696-0010"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          3.384902638638259,
+          3.5182695117481746
+        ],
+        "minimum_db": 3.384902638638259,
+        "pass": true,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "672",
+        "3570"
+      ],
+      "utterances": [
+        "672-122797-0001",
+        "672-122797-0074",
+        "3570-5694-0000",
+        "3570-5696-0010"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -0.2081089227398804,
+          -0.5269419272902172
+        ],
+        "minimum_db": -0.5269419272902172,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "672",
+        "3570"
+      ],
+      "utterances": [
+        "672-122797-0002",
+        "672-122797-0073",
+        "3570-5694-0001",
+        "3570-5696-0009"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          2.550289259919258,
+          3.0714734726493433
+        ],
+        "minimum_db": 2.550289259919258,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "672",
+        "3570"
+      ],
+      "utterances": [
+        "672-122797-0002",
+        "672-122797-0073",
+        "3570-5694-0001",
+        "3570-5696-0009"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -0.1969347252378617,
+          0.3787945495340723
+        ],
+        "minimum_db": -0.1969347252378617,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "5142",
+        "8463"
+      ],
+      "utterances": [
+        "5142-33396-0001",
+        "5142-36600-0001",
+        "8463-287645-0000",
+        "8463-294828-0038"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          1.753812683370841,
+          3.245182988434978
+        ],
+        "minimum_db": 1.753812683370841,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "5142",
+        "8463"
+      ],
+      "utterances": [
+        "5142-33396-0001",
+        "5142-36600-0001",
+        "8463-287645-0000",
+        "8463-294828-0038"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.1214355867246444,
+          0.2597902938051857
+        ],
+        "minimum_db": -2.1214355867246444,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "5142",
+        "8463"
+      ],
+      "utterances": [
+        "5142-33396-0006",
+        "5142-36586-0003",
+        "8463-287645-0002",
+        "8463-294828-0037"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          2.6629135923611478,
+          2.9974354113416126
+        ],
+        "minimum_db": 2.6629135923611478,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "5142",
+        "8463"
+      ],
+      "utterances": [
+        "5142-33396-0006",
+        "5142-36586-0003",
+        "8463-287645-0002",
+        "8463-294828-0037"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -0.5964548311985294,
+          0.1083815232691584
+        ],
+        "minimum_db": -0.5964548311985294,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "3575",
+        "8230"
+      ],
+      "utterances": [
+        "3575-170457-0000",
+        "3575-170457-0055",
+        "8230-279154-0000",
+        "8230-279154-0043"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          3.1684069887572397,
+          1.0593090882338432
+        ],
+        "minimum_db": 1.0593090882338432,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "3575",
+        "8230"
+      ],
+      "utterances": [
+        "3575-170457-0000",
+        "3575-170457-0055",
+        "8230-279154-0000",
+        "8230-279154-0043"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          1.0663339557506735,
+          -1.2591089444721772
+        ],
+        "minimum_db": -1.2591089444721772,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "3575",
+        "8230"
+      ],
+      "utterances": [
+        "3575-170457-0003",
+        "3575-170457-0054",
+        "8230-279154-0001",
+        "8230-279154-0042"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          1.5007590060955183,
+          1.3863583703376707
+        ],
+        "minimum_db": 1.3863583703376707,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "3575",
+        "8230"
+      ],
+      "utterances": [
+        "3575-170457-0003",
+        "3575-170457-0054",
+        "8230-279154-0001",
+        "8230-279154-0042"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -0.605128489363578,
+          -0.4194377706587693
+        ],
+        "minimum_db": -0.605128489363578,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "8224",
+        "1284"
+      ],
+      "utterances": [
+        "8224-274381-0000",
+        "8224-274384-0013",
+        "1284-1180-0000",
+        "1284-134647-0007"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          1.2693256764459917,
+          1.898027997446587
+        ],
+        "minimum_db": 1.2693256764459917,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "8224",
+        "1284"
+      ],
+      "utterances": [
+        "8224-274381-0000",
+        "8224-274384-0013",
+        "1284-1180-0000",
+        "1284-134647-0007"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -0.8462505509888272,
+          -0.6620966793319445
+        ],
+        "minimum_db": -0.8462505509888272,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "8224",
+        "1284"
+      ],
+      "utterances": [
+        "8224-274381-0001",
+        "8224-274384-0012",
+        "1284-1180-0001",
+        "1284-134647-0006"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -0.5929933178123745,
+          2.3239887480840533
+        ],
+        "minimum_db": -0.5929933178123745,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "8224",
+        "1284"
+      ],
+      "utterances": [
+        "8224-274381-0001",
+        "8224-274384-0012",
+        "1284-1180-0001",
+        "1284-134647-0006"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -1.4727303990885954,
+          -1.98033203799546
+        ],
+        "minimum_db": -1.98033203799546,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "2300",
+        "5105"
+      ],
+      "utterances": [
+        "2300-131720-0000",
+        "2300-131720-0040",
+        "5105-28233-0002",
+        "5105-28241-0019"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          0.762677312391719,
+          2.6934738630250856
+        ],
+        "minimum_db": 0.762677312391719,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "2300",
+        "5105"
+      ],
+      "utterances": [
+        "2300-131720-0000",
+        "2300-131720-0040",
+        "5105-28233-0002",
+        "5105-28241-0019"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.1205759994296254,
+          -0.8246199343361043
+        ],
+        "minimum_db": -2.1205759994296254,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "2300",
+        "5105"
+      ],
+      "utterances": [
+        "2300-131720-0001",
+        "2300-131720-0038",
+        "5105-28233-0003",
+        "5105-28241-0018"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          4.277117681558606,
+          2.6638984750230503
+        ],
+        "minimum_db": 2.6638984750230503,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "2300",
+        "5105"
+      ],
+      "utterances": [
+        "2300-131720-0001",
+        "2300-131720-0038",
+        "5105-28233-0003",
+        "5105-28241-0018"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          0.6802706773310829,
+          -1.2351716789510465
+        ],
+        "minimum_db": -1.2351716789510465,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "2961",
+        "61"
+      ],
+      "utterances": [
+        "2961-960-0000",
+        "2961-961-0022",
+        "61-70968-0000",
+        "61-70970-0039"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          1.3660854104970004,
+          4.683089531042322
+        ],
+        "minimum_db": 1.3660854104970004,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "2961",
+        "61"
+      ],
+      "utterances": [
+        "2961-960-0000",
+        "2961-961-0022",
+        "61-70968-0000",
+        "61-70970-0039"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          0.22802480139582193,
+          1.337461268029645
+        ],
+        "minimum_db": 0.22802480139582193,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "2961",
+        "61"
+      ],
+      "utterances": [
+        "2961-960-0001",
+        "2961-961-0021",
+        "61-70968-0005",
+        "61-70970-0038"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          2.5560025019462693,
+          2.950836980482511
+        ],
+        "minimum_db": 2.5560025019462693,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "2961",
+        "61"
+      ],
+      "utterances": [
+        "2961-960-0001",
+        "2961-961-0021",
+        "61-70968-0005",
+        "61-70970-0038"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -1.1486740637464667,
+          0.7008835331927783
+        ],
+        "minimum_db": -1.1486740637464667,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "2830",
+        "121"
+      ],
+      "utterances": [
+        "2830-3979-0000",
+        "2830-3980-0076",
+        "121-121726-0000",
+        "121-127105-0035"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          2.3544621389565594,
+          2.9393786660222867
+        ],
+        "minimum_db": 2.3544621389565594,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "2830",
+        "121"
+      ],
+      "utterances": [
+        "2830-3979-0000",
+        "2830-3980-0076",
+        "121-121726-0000",
+        "121-127105-0035"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -0.9923287008971998,
+          -0.7427773133236093
+        ],
+        "minimum_db": -0.9923287008971998,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "2830",
+        "121"
+      ],
+      "utterances": [
+        "2830-3979-0001",
+        "2830-3980-0075",
+        "121-121726-0001",
+        "121-127105-0034"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          1.8280824424297082,
+          2.26590527591339
+        ],
+        "minimum_db": 1.8280824424297082,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "2830",
+        "121"
+      ],
+      "utterances": [
+        "2830-3979-0001",
+        "2830-3980-0075",
+        "121-121726-0001",
+        "121-127105-0034"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -1.1377355275783376,
+          -1.3928904213345166
+        ],
+        "minimum_db": -1.3928904213345166,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "7729",
+        "3729"
+      ],
+      "utterances": [
+        "7729-102255-0002",
+        "7729-102255-0046",
+        "3729-6852-0000",
+        "3729-6852-0046"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          4.215663849161915,
+          1.9675796736583742
+        ],
+        "minimum_db": 1.9675796736583742,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "7729",
+        "3729"
+      ],
+      "utterances": [
+        "7729-102255-0002",
+        "7729-102255-0046",
+        "3729-6852-0000",
+        "3729-6852-0046"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          0.40859744378497087,
+          -1.3019360024273605
+        ],
+        "minimum_db": -1.3019360024273605,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "7729",
+        "3729"
+      ],
+      "utterances": [
+        "7729-102255-0003",
+        "7729-102255-0045",
+        "3729-6852-0001",
+        "3729-6852-0045"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          3.637064134230203,
+          2.659037114816714
+        ],
+        "minimum_db": 2.659037114816714,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "7729",
+        "3729"
+      ],
+      "utterances": [
+        "7729-102255-0003",
+        "7729-102255-0045",
+        "3729-6852-0001",
+        "3729-6852-0045"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          0.6883864831878315,
+          -0.35761438720663297
+        ],
+        "minimum_db": -0.35761438720663297,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "7127",
+        "5683"
+      ],
+      "utterances": [
+        "7127-75946-0000",
+        "7127-75947-0040",
+        "5683-32865-0004",
+        "5683-32879-0023"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          2.766854674960101,
+          2.2900224418573516
+        ],
+        "minimum_db": 2.2900224418573516,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "7127",
+        "5683"
+      ],
+      "utterances": [
+        "7127-75946-0000",
+        "7127-75947-0040",
+        "5683-32865-0004",
+        "5683-32879-0023"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -0.8652641499419342,
+          -0.012418506491938874
+        ],
+        "minimum_db": -0.8652641499419342,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "7127",
+        "5683"
+      ],
+      "utterances": [
+        "7127-75946-0002",
+        "7127-75947-0039",
+        "5683-32865-0005",
+        "5683-32879-0020"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          2.5314303159397964,
+          1.6317482638126009
+        ],
+        "minimum_db": 1.6317482638126009,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "7127",
+        "5683"
+      ],
+      "utterances": [
+        "7127-75946-0002",
+        "7127-75947-0039",
+        "5683-32865-0005",
+        "5683-32879-0020"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -0.814111652070331,
+          -0.5980559683578269
+        ],
+        "minimum_db": -0.814111652070331,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "4992",
+        "5639"
+      ],
+      "utterances": [
+        "4992-23283-0000",
+        "4992-41806-0017",
+        "5639-40744-0000",
+        "5639-40744-0041"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          0.45432145950468505,
+          1.1620236207398227
+        ],
+        "minimum_db": 0.45432145950468505,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "4992",
+        "5639"
+      ],
+      "utterances": [
+        "4992-23283-0000",
+        "4992-41806-0017",
+        "5639-40744-0000",
+        "5639-40744-0041"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -1.3779094350497054,
+          -0.5984459730036543
+        ],
+        "minimum_db": -1.3779094350497054,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "4992",
+        "5639"
+      ],
+      "utterances": [
+        "4992-23283-0003",
+        "4992-41806-0016",
+        "5639-40744-0001",
+        "5639-40744-0040"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          0.37002319296828023,
+          2.267808442503155
+        ],
+        "minimum_db": 0.37002319296828023,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "4992",
+        "5639"
+      ],
+      "utterances": [
+        "4992-23283-0003",
+        "4992-41806-0016",
+        "5639-40744-0001",
+        "5639-40744-0040"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.071278821946631,
+          -0.3526664035722882
+        ],
+        "minimum_db": -2.071278821946631,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "1580",
+        "8555"
+      ],
+      "utterances": [
+        "1580-141083-0000",
+        "1580-141084-0049",
+        "8555-284447-0000",
+        "8555-292519-0012"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          1.5197009782904654,
+          2.6527882057035477
+        ],
+        "minimum_db": 1.5197009782904654,
+        "pass": false,
+        "sample_sum_error": 2.3283064365386963e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "1580",
+        "8555"
+      ],
+      "utterances": [
+        "1580-141083-0000",
+        "1580-141084-0049",
+        "8555-284447-0000",
+        "8555-292519-0012"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -1.316463450985008,
+          1.2078295126259058
+        ],
+        "minimum_db": -1.316463450985008,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "1580",
+        "8555"
+      ],
+      "utterances": [
+        "1580-141083-0001",
+        "1580-141084-0048",
+        "8555-284447-0001",
+        "8555-292519-0010"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -1.06994282430411,
+          2.7866498383152356
+        ],
+        "minimum_db": -1.06994282430411,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    },
+    {
+      "pair": [
+        "1580",
+        "8555"
+      ],
+      "utterances": [
+        "1580-141083-0001",
+        "1580-141084-0048",
+        "8555-284447-0001",
+        "8555-292519-0010"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -3.089676747439788,
+          -0.2945966230152508
+        ],
+        "minimum_db": -3.089676747439788,
+        "pass": false,
+        "sample_sum_error": 4.656612873077393e-10,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "refused",
+        "reason": "\u5169\u4eba\u7684\u55ae\u7368\u53c3\u8003\u6bb5\u5728\u5206\u8ecc\u5f8c\u4ecd\u6709\u8f03\u591a\u4e32\u97f3\uff0c\u96e3\u4ee5\u53ef\u9760\u8ffd\u8e64\u8eab\u5206\u3002\u8acb\u6539\u9078\u66f4\u4e7e\u6de8\u3001\u8f03\u9577\u7684\u55ae\u4eba\u7247\u6bb5\uff0c\u6216\u4f7f\u7528\u7bc4\u4f8b\u5206\u96e2\u3002",
+        "pass": false
+      }
+    }
+  ],
+  "hashes": {
+    "speech.py": "167ea007d167e4e1fc6c1887138829c0e2441c8b7132425aac34a1ec7e887c9b",
+    "speaker_identity.py": "500d104ebd89a0f41d68ac0ff87ba5e867b0b4f1c51c2d6a708a9fde00a0dbfb",
+    "models/speaker-distance.json": "b6b09af6aca2a885945fc21fc1c96a9ba687cabf5d9637243828925bf4ab2d97"
+  },
+  "room_sources": [
+    {
+      "file": "stairway_az-45.wav",
+      "sha256": "7021e28eb5cff3f8f61ad00de3a9f7afdeb1ed95b7976e9f09e556ed27eb25ef"
+    },
+    {
+      "file": "stairway_az+45.wav",
+      "sha256": "1dd67cd6c4110a779c1c23813bfb117a29b8a9f7c87f3569bddd2df16f2aaa2f"
+    }
+  ]
+}

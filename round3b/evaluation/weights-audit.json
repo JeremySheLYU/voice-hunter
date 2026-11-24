@@ -1,0 +1,10 @@
+{
+  "round3b/model/freeze.json": {
+    "sha256": "6c152dffd48facf288fa9de4a477e9c173992955275ad6ad364fd4c4eb96dd16",
+    "referenced_files_verified": 16
+  },
+  "round3/fusion/freeze.json": {
+    "sha256": "afeb5ff9570814ce7d166cf29d6a4f38b0af1ac264afef60077fc813b06b58e5",
+    "referenced_files_verified": 5
+  }
+}

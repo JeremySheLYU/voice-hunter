@@ -1,0 +1,56 @@
+{
+  "sampling_hz": 48000,
+  "seconds": 4.75,
+  "voice_excerpt": [
+    1,
+    5.75
+  ],
+  "bed_excerpt": [
+    3,
+    7.75
+  ],
+  "dry_voice_sha256": "0473ba9613befa1026db5e254546f105aeffba8366b5468fc5e8d474d844ca1d",
+  "bed_sha256": "1cf02acbd49afcbbaa88b022f1b938fa6737a8ba3e9190bd624db6ccac286f3a",
+  "asset": {
+    "ref": {
+      "wav_bytes": 912044,
+      "sha256": "f777e4be3de16f0fa61b39bb5b4b1e88c9683bf135b84d1dea961ee3a56605a5",
+      "adjustment_db": -5.699999999999999,
+      "integrated_lufs": -22.99,
+      "true_peak_dbtp": -3.74
+    },
+    "analyticL": {
+      "wav_bytes": 912044,
+      "sha256": "e304ef554f3868f01a3f6e2785cf2b0763d88dc4d5e115119d1dcdd6781f5402",
+      "adjustment_db": -5.16,
+      "integrated_lufs": -23.0,
+      "true_peak_dbtp": -3.32
+    },
+    "analyticR": {
+      "wav_bytes": 912044,
+      "sha256": "c00167c9f07f2d9ac506d36cec4a0d18fa55a799587def02708947d937498953",
+      "adjustment_db": -5.16,
+      "integrated_lufs": -23.0,
+      "true_peak_dbtp": -3.2
+    },
+    "measuredL": {
+      "wav_bytes": 912044,
+      "sha256": "8d7939ae21d4b04121a62c632e0516ec27191901744582f2e8b9f078dd704602",
+      "adjustment_db": -4.329999999999998,
+      "integrated_lufs": -23.01,
+      "true_peak_dbtp": -2.49
+    },
+    "measuredR": {
+      "wav_bytes": 912044,
+      "sha256": "c6789ce9089170abb9e140ce38bcb0e2f36b57ede93196b628986cc1c30a46b0",
+      "adjustment_db": -4.32,
+      "integrated_lufs": -23.0,
+      "true_peak_dbtp": -2.36
+    }
+  },
+  "within_spread_lu": 0.020000000000003126,
+  "human_ratings": 0,
+  "voice_origin": "https://raw.githubusercontent.com/librosa/data/5285c94e33c74bbe97501f5c9fa95e5e2ce55d48/audio/198-209-0000.ogg",
+  "bed_origin": "https://doi.org/10.5281/zenodo.18362685",
+  "bed_member": "W06.wav"
+}

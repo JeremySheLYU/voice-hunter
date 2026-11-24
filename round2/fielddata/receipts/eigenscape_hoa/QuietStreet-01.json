@@ -1,0 +1,30 @@
+{
+  "id": "eigenscape_hoa/QuietStreet.1",
+  "dataset": "eigenscape_hoa",
+  "record": "2628463",
+  "member": "QuietStreet.1.wav",
+  "archive": "QuietStreet.zip",
+  "archive_checksum": "md5:f3ead0a54b322886b78ca49c7374a987",
+  "url": "https://zenodo.org/api/records/2628463/files/QuietStreet.zip/content",
+  "archive_range": [
+    0,
+    8199999
+  ],
+  "range_sha256": "ecd40f89b4a49e584342c2fa26586645cf616b298b630191b1e7e72d4f643a69",
+  "source_offset_s": 0,
+  "duration_s": 2,
+  "rate": 48000,
+  "channels": 25,
+  "format": "ACN/SN3D order 4",
+  "bytes": 7200102,
+  "sha256": "f1d74b729f39b89f31a2ba5f3f4d22a5f3ef8897909621076bb643981bdd1c1b",
+  "pcm_s32le_sha256": "517ea05dc8efa26aa5f24274ca4428f3296e83724913ea0060835a177f1e9752",
+  "first_four_vs_lite_correlation": [
+    1.0,
+    1.0,
+    0.9999999999999998,
+    1.0
+  ],
+  "path": "round2_data/field/eigenscape_hoa/QuietStreet-01.wav",
+  "license": "CC-BY-4.0"
+}

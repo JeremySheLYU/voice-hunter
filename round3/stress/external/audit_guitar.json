@@ -1,0 +1,1727 @@
+[
+ {
+  "id": "331035",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "31bf625c.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "251061",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "cac7dcf1.wav",
+  "author": "Project16",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183808",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "f40edcdd.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "270601",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "b4a519aa.wav",
+  "url": "https://freesound.org/people/phantastonia/sounds/270601/",
+  "author": "phantastonia",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "guitar jingle2.wav by phantastonia",
+  "download_url": "https://cdn.freesound.org/previews/270/270601_5137631-hq.mp3"
+ },
+ {
+  "id": "251114",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "7ef380a8.wav",
+  "author": "Project16",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "8381",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "8da75280.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "251116",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "404c1e72.wav",
+  "author": "Project16",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "251047",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "7f828087.wav",
+  "author": "Project16",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "128799",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "5c9cee87.wav",
+  "author": "mtcband",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "251079",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "f4759653.wav",
+  "author": "Project16",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "128804",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "92602a1b.wav",
+  "author": "mtcband",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "58099",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "456a12f6.wav",
+  "author": "NoiseCollector",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "252371",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "0eeaebcb.wav",
+  "author": "GrowingUp",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "251092",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "10da16fb.wav",
+  "author": "Project16",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "8462",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "a4c6a3f7.wav",
+  "author": "SpeedY",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183792",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "fc55d588.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "251168",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "a1142a5e.wav",
+  "author": "Project16",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183063",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "34747922.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "58969",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "70b64fdc.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "183000",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "367ad7b1.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183082",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "db9d4d18.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "58110",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "f17ce543.wav",
+  "author": "NoiseCollector",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "252631",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "3831e47e.wav",
+  "author": "GrowingUp",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "15715",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "fceb6212.wav",
+  "author": "NoiseCollector",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "251044",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "4aa97c8e.wav",
+  "author": "Project16",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "182991",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "b02c57e9.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183077",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "61bee671.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183800",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "dd043345.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "41678",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "17f82c05.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "254883",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "b509697d.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "182967",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "2f2429ad.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183816",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "82fa96a7.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "252469",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "4a0a261e.wav",
+  "author": "GrowingUp",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "128797",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "2d21041f.wav",
+  "author": "mtcband",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183083",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "823e3be5.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183070",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "c7846d27.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "38469",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "f5dd877a.wav",
+  "author": "marvman",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "82927",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "07cf422e.wav",
+  "author": "NoiseCollector",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "252405",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "bd5a6718.wav",
+  "author": "GrowingUp",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "182938",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "8a2f4e19.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "252346",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "ed125cf8.wav",
+  "author": "GrowingUp",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "187698",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "826f23dd.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "182979",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "cc046f8d.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183078",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "3071420d.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "8481",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "b9dd574a.wav",
+  "author": "SpeedY",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "182981",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "585c9c8c.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "350221",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "89b36fe8.wav",
+  "author": "GrowingUp",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183733",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "44fb3eeb.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183722",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "46a95319.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "251843",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "f30c9ba4.wav",
+  "author": "GrowingUp",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "252502",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "5d79776e.wav",
+  "author": "GrowingUp",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183703",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "b88322f6.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "182944",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "16c9a838.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183038",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "82ecb65c.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "182940",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "7bce7d7c.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "24283",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "38216fad.wav",
+  "author": "NoiseCollector",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "328822",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "5064c8f4.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "9102",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "587a184f.wav",
+  "author": "SpeedY",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183022",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "08a68ba1.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "90063",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "11edc852.wav",
+  "author": "lucasgonze",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183760",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "be990588.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "58111",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "52f1a01d.wav",
+  "author": "NoiseCollector",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "252393",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "52834f79.wav",
+  "author": "GrowingUp",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183020",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "2e1bce45.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "54684",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "1a4cd763.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "8487",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "ce34b933.wav",
+  "author": "SpeedY",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "58117",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "6c9a3eb2.wav",
+  "author": "NoiseCollector",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "251123",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "e8f862ba.wav",
+  "author": "Project16",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183013",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "9923ddf8.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "8398",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "a18de0a5.wav",
+  "author": "SpeedY",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "253768",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "be09bb9d.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "181425",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "c159bdbb.wav",
+  "author": "SeryLis",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "8588",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "706c9a51.wav",
+  "author": "SpeedY",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183821",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "aefd8a46.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "64366",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "c36a59f9.wav",
+  "author": "NoiseCollector",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "251100",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "32dee61b.wav",
+  "author": "Project16",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "251102",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "4957c12d.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "369676",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "158a30ac.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "183023",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "14041f9a.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "254116",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "4bd0dcc1.wav",
+  "author": "GrowingUp",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "251108",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "3a0471fd.wav",
+  "author": "Project16",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "251142",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "75f988e6.wav",
+  "author": "Project16",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "38468",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "98b3bf67.wav",
+  "author": "marvman",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "24284",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "aad3fd7a.wav",
+  "author": "NoiseCollector",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "8402",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "fa4d4a92.wav",
+  "author": "SpeedY",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "97769",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "e7adefd3.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "251035",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "c5064313.wav",
+  "author": "Project16",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "58108",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "be437c69.wav",
+  "author": "NoiseCollector",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "128794",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "872be6c6.wav",
+  "author": "mtcband",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "58052",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "c71ffabf.wav",
+  "author": "NoiseCollector",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183715",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "c45ed547.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "183040",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "798b33e8.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "58070",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "da0d5d08.wav",
+  "author": "NoiseCollector",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "251137",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "673defaf.wav",
+  "author": "Project16",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "251034",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "de2b8ade.wav",
+  "author": "Project16",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "251848",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "55822aae.wav",
+  "author": "GrowingUp",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "58098",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "529c08a0.wav",
+  "author": "NoiseCollector",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "13710",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "70ca9c77.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "8586",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "67ed3008.wav",
+  "author": "SpeedY",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "182975",
+  "category": "guitar",
+  "corpus": "FSDKaggle2018 source",
+  "official": "1ac389e0.wav",
+  "author": "quartertone",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "12787",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "060fab76.wav",
+  "author": "Jovica",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "147784",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "5950780e.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/147784/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "ertaanicalo.wav by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/147/147784_7037-hq.mp3"
+ },
+ {
+  "id": "43743",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "abb3266d.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "12761",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "fad5b9af.wav",
+  "author": "Jovica",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "44829",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "49530e8c.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/44829/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "rhodes045.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/44/44829_7037-hq.mp3"
+ },
+ {
+  "id": "61830",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "ba696ee8.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/61830/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S_rhodes_mark_2_F0.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/61/61830_7037-hq.mp3"
+ },
+ {
+  "id": "65650",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "3d5cf3f8.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65650/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II A#5.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65650_7037-hq.mp3"
+ },
+ {
+  "id": "65728",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "910dc153.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65728/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II F2.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65728_7037-hq.mp3"
+ },
+ {
+  "id": "214334",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "defcfbdc.wav",
+  "author": "PatrickLieberkind",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "42981",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "54e0f1a8.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/42981/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "rhodes loop 1.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/42/42981_7037-hq.mp3"
+ },
+ {
+  "id": "65727",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "9bc1b7ae.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65727/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II F#2.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65727_7037-hq.mp3"
+ },
+ {
+  "id": "132061",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "3ac0c9ea.wav",
+  "author": "keplar",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "196006",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "9f40b21d.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/196006/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "patriceo.wav by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/196/196006_7037-hq.mp3"
+ },
+ {
+  "id": "25770",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "8f1c2008.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "196010",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "ca70cef8.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/196010/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "dreamland.wav by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/196/196010_7037-hq.mp3"
+ },
+ {
+  "id": "12769",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "4541aa66.wav",
+  "author": "Jovica",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "61828",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "75ae3ed3.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/61828/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S_rhodes_mark_2_E0.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/61/61828_7037-hq.mp3"
+ },
+ {
+  "id": "132050",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "a3c4944f.wav",
+  "author": "keplar",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "43744",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "6ba04f15.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "61832",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "553245ef.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/61832/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S_rhodes_mark_2_G0.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/61/61832_7037-hq.mp3"
+ },
+ {
+  "id": "195851",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "69ff0330.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/195851/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "beleveds.wav by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/195/195851_7037-hq.mp3"
+ },
+ {
+  "id": "327762",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "224ab14d.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "12755",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "978d94c2.wav",
+  "author": "Jovica",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "26978",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "3b95f75a.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "65722",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "93f8f151.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65722/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II D#3.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65722_7037-hq.mp3"
+ },
+ {
+  "id": "65723",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "cc2f3023.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65723/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II D2.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65723_7037-hq.mp3"
+ },
+ {
+  "id": "132064",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "e98202a8.wav",
+  "author": "keplar",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "29550",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "efa4618b.wav",
+  "author": "-zin-",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "346956",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "0f2ab678.wav",
+  "url": "https://freesound.org/people/alexlancemx/sounds/346956/",
+  "author": "alexlancemx",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "title": "SI_BEMOL_TONE_2016.wav by alexlancemx",
+  "download_url": "https://cdn.freesound.org/previews/346/346956_6317821-hq.mp3"
+ },
+ {
+  "id": "6385",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "7b8874c3.wav",
+  "author": "Jovica",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "65714",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "a8d78e51.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65714/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II A#2.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65714_7037-hq.mp3"
+ },
+ {
+  "id": "65660",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "02107093.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65660/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II E6.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65660_7037-hq.mp3"
+ },
+ {
+  "id": "65757",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "e34b7b46.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65757/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II D#1.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65757_7037-hq.mp3"
+ },
+ {
+  "id": "65716",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "e8e45406.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65716/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II B2.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65716_7037-hq.mp3"
+ },
+ {
+  "id": "132056",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "d5ab8880.wav",
+  "author": "keplar",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "196011",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "9c3579f4.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/196011/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "helandovr.wav by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/196/196011_7037-hq.mp3"
+ },
+ {
+  "id": "12773",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "87d039f6.wav",
+  "author": "Jovica",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "65754",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "1648effc.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65754/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II A#1.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65754_7037-hq.mp3"
+ },
+ {
+  "id": "132065",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "027482e2.wav",
+  "author": "keplar",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "132062",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "25eb383d.wav",
+  "author": "keplar",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "195065",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "1779afe8.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/195065/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "nevelens.wav by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/195/195065_7037-hq.mp3"
+ },
+ {
+  "id": "51425",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "faa56a16.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/51425/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "shivvle.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/51/51425_7037-hq.mp3"
+ },
+ {
+  "id": "65719",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "d4ebef41.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65719/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II C2.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65719_7037-hq.mp3"
+ },
+ {
+  "id": "132052",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "2cef6d07.wav",
+  "author": "keplar",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "12753",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "5e28a9a2.wav",
+  "author": "Jovica",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "65652",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "1c3d00bf.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65652/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II B5.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65652_7037-hq.mp3"
+ },
+ {
+  "id": "131423",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "1d987419.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "316631",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "482944c1.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "132063",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "ce03e0d8.wav",
+  "author": "keplar",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "65662",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "1bcb3c6f.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65662/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II F5.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65662_7037-hq.mp3"
+ },
+ {
+  "id": "266005",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "bf72b23f.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "132053",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "530ff8db.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "106877",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "c6f603bf.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "65651",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "6a8317a5.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65651/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II A5.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65651_7037-hq.mp3"
+ },
+ {
+  "id": "65717",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "6b64661f.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65717/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II C#2.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65717_7037-hq.mp3"
+ },
+ {
+  "id": "65653",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "1d26c5e5.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65653/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II C#6.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65653_7037-hq.mp3"
+ },
+ {
+  "id": "61824",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "2c403fbe.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/61824/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S_rhodes_mark_2_C#1.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/61/61824_7037-hq.mp3"
+ },
+ {
+  "id": "106876",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "7761c964.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/106876/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "chord 01.wav by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/106/106876_7037-hq.mp3"
+ },
+ {
+  "id": "106878",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "a3d78cd5.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/106878/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "chord 03.wav by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/106/106878_7037-hq.mp3"
+ },
+ {
+  "id": "132057",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "b6971689.wav",
+  "author": "keplar",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "12745",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "b16a44a5.wav",
+  "author": "Jovica",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "65725",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "99fa57ed.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65725/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II E2.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65725_7037-hq.mp3"
+ },
+ {
+  "id": "371494",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "00eac343.wav",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "id": "65724",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "6ca5f5d1.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65724/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II D3.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65724_7037-hq.mp3"
+ },
+ {
+  "id": "61829",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "9e80181e.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/61829/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S_rhodes_mark_2_F#0.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/61/61829_7037-hq.mp3"
+ },
+ {
+  "id": "65720",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "523f65d5.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65720/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II C3.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65720_7037-hq.mp3"
+ },
+ {
+  "id": "65762",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "59214b26.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65762/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II G1.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65762_7037-hq.mp3"
+ },
+ {
+  "id": "12744",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "499a352d.wav",
+  "author": "Jovica",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "65664",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "98ba4032.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65664/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II G5.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65664_7037-hq.mp3"
+ },
+ {
+  "id": "6380",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "0b05208c.wav",
+  "author": "Jovica",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "371495",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "ee6fa9f6.wav",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "id": "214416",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "5e6b34b1.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "65663",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "e3bf2bf9.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65663/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II G#5.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65663_7037-hq.mp3"
+ },
+ {
+  "id": "368594",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "f7ebc9e1.wav",
+  "error": "recording previously used"
+ },
+ {
+  "id": "65726",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "351dcc25.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65726/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II E3aif.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65726_7037-hq.mp3"
+ },
+ {
+  "id": "61827",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "12a38093.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/61827/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S_rhodes_mark_2_D1.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/61/61827_7037-hq.mp3"
+ },
+ {
+  "id": "12756",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "9df97a89.wav",
+  "author": "Jovica",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "371490",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "892a2db5.wav",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "id": "65656",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "393042b9.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65656/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II D#6.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65656_7037-hq.mp3"
+ },
+ {
+  "id": "65729",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "e94eabd3.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65729/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II G#2.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65729_7037-hq.mp3"
+ },
+ {
+  "id": "12758",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "16f26de0.wav",
+  "author": "Jovica",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "6388",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "f975263f.wav",
+  "author": "Jovica",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "65654",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "9e9c303e.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65654/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II C6.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65654_7037-hq.mp3"
+ },
+ {
+  "id": "371487",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "955561df.wav",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "id": "12746",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "cf3f6594.wav",
+  "author": "Jovica",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "371492",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "67822329.wav",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "id": "65657",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "3d88d530.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65657/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II D5.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65657_7037-hq.mp3"
+ },
+ {
+  "id": "25483",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "32d9a198.wav",
+  "author": "Raggaman",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "12776",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "7ffe5c32.wav",
+  "author": "Jovica",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "65715",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "750c0beb.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65715/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II A2.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65715_7037-hq.mp3"
+ },
+ {
+  "id": "26979",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "595a4fba.wav",
+  "author": "Raggaman",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "6379",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "5014dfcc.wav",
+  "author": "Jovica",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "132051",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "50fc3ef5.wav",
+  "author": "keplar",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "165169",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "a508c78f.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/165169/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "symetric2.wav by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/165/165169_7037-hq.mp3"
+ },
+ {
+  "id": "25484",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "c45994bd.wav",
+  "author": "Raggaman",
+  "error": "contributor previously used"
+ },
+ {
+  "id": "171105",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "695db66e.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/171105/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "shembles.wav by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/171/171105_7037-hq.mp3"
+ },
+ {
+  "id": "65718",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "cee063a7.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65718/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II C#3.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65718_7037-hq.mp3"
+ },
+ {
+  "id": "65756",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "4c00af54.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/65756/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S Rhodes Mark II B1.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/65/65756_7037-hq.mp3"
+ },
+ {
+  "id": "61825",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "24bae325.wav",
+  "url": "https://freesound.org/people/tim.kahn/sounds/61825/",
+  "author": "tim.kahn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "title": "C_S_rhodes_mark_2_C1.aif by tim.kahn",
+  "download_url": "https://cdn.freesound.org/previews/61/61825_7037-hq.mp3"
+ },
+ {
+  "id": "12789",
+  "category": "piano",
+  "corpus": "FSDKaggle2018 source",
+  "official": "c37eaf5c.wav",
+  "author": "Jovica",
+  "error": "contributor previously used"
+ }
+]

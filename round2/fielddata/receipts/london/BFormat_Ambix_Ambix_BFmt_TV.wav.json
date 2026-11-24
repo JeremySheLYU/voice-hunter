@@ -1,0 +1,21 @@
+{
+  "id": "london/BFormat_Ambix_Ambix_BFmt_TV.wav",
+  "dataset": "london",
+  "record": "10687363",
+  "member": "BFormat_Ambix/Ambix_BFmt_TV.wav",
+  "source_offset_s": 0,
+  "duration_s": 8.0,
+  "rate": 48000,
+  "channels": 4,
+  "bytes": 2929402,
+  "sha256": "7c75111df9e1def999ea713ba1feabfc2dcf96f2e2055291b89709814bb82545",
+  "pcm_s32le_sha256": "b62b9488e20cadd084261fd9b6987675f7ce650fc3b01c8afa1a58a6d2b7a864",
+  "archive_crc32": "0x32acca16",
+  "archive_range": [
+    196607373,
+    201856908
+  ],
+  "range_sha256": "111ae324fbf1b5ec8b58a8c0a9833c6c30c2f0282a87a8ca33b377ba86662faf",
+  "path": "round2_data/field/london/BFormat_Ambix_Ambix_BFmt_TV.wav.flac",
+  "license": "CC-BY-4.0"
+}

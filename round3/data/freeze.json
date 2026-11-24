@@ -1,0 +1,19 @@
+{
+ "sha256": "35b9b767c59e0b01a5020ce22e98d2b6c75aaaf8ad2491c37a36729155b7760f",
+ "quotas": {
+  "train": 90,
+  "test": 20
+ },
+ "minimum_seconds": {
+  "test": 4.9,
+  "train": 2.0
+ },
+ "excluded_historic": [
+  "round2/envdata/all_sources.json",
+  "round2/environment/native_inventory.json",
+  "round2/semantic/cohort.json"
+ ],
+ "author_partition": "SHA256(VH3-new-uploader: + stripped casefolded uploader) first 12 hex mod 100; below 30=test; else train",
+ "order": "Within each class/role prioritize diverse uploaders, few extraneous labels, prioritized matching descriptions, SHA tie breaker. Select in frozen order, skip invalid/unavailable/duplicate bytes.",
+ "population": "Public mono FSD50K standardized audio with exactly one of five target class groups; inherited provenance/selection in round2/envdata/collect.py. Official weak class labels."
+}

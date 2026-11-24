@@ -1,0 +1,21 @@
+{
+  "id": "eigenscape/TrainStation.2.flac",
+  "dataset": "eigenscape",
+  "record": "2628463",
+  "member": "TrainStation.2.flac",
+  "source_offset_s": 0,
+  "duration_s": 8.0,
+  "rate": 48000,
+  "channels": 4,
+  "bytes": 2805643,
+  "sha256": "42147fcc66a5ad95f3d017d5267c18bea80076d11f023d1120d9c7d56b58d14f",
+  "pcm_s32le_sha256": "22d677c88b6759065744dfa766c3b2c8675f4a042c3f2b0903203b6fe9bfc26a",
+  "archive_crc32": "0x53f6f5b6",
+  "archive_range": [
+    9701120940,
+    9706370475
+  ],
+  "range_sha256": "c1715942fc894c3ae309095fb6698c3756c3f089fedfaa19487ac7b18271ac69",
+  "path": "round2_data/field/eigenscape/TrainStation.2.flac.flac",
+  "license": "CC-BY-4.0"
+}

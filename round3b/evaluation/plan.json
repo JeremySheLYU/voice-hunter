@@ -1,0 +1,62 @@
+{
+  "mode": "insufficient",
+  "counts_distinct_uploaders": {
+    "guitar": 2,
+    "piano": 0,
+    "speech": 118,
+    "train": 2,
+    "wind": 15
+  },
+  "distinct_target_recordings_per_class": 0,
+  "excluded_invalid_or_overlapping_ids": [],
+  "source_status": {
+    "fsd50k_primary_gate_met": false,
+    "source": "FSD50K residual pool, files and authors unused by the project, CC BY or CC0, \u22654.5 s, mono PCM. At least 12 distinct eligible uploaders per class required.",
+    "classes": {
+      "guitar": {
+        "candidates": 37,
+        "candidate_uploaders": 21,
+        "eligible_sources": 3,
+        "eligible_uploaders": 2,
+        "unreadable_headers": 0
+      },
+      "piano": {
+        "candidates": 77,
+        "candidate_uploaders": 15,
+        "eligible_sources": 0,
+        "eligible_uploaders": 0,
+        "unreadable_headers": 0
+      },
+      "speech": {
+        "candidates": 362,
+        "candidate_uploaders": 177,
+        "eligible_sources": 139,
+        "eligible_uploaders": 118,
+        "unreadable_headers": 0
+      },
+      "train": {
+        "candidates": 15,
+        "candidate_uploaders": 10,
+        "eligible_sources": 3,
+        "eligible_uploaders": 2,
+        "unreadable_headers": 0
+      },
+      "wind": {
+        "candidates": 60,
+        "candidate_uploaders": 28,
+        "eligible_sources": 15,
+        "eligible_uploaders": 15,
+        "unreadable_headers": 0
+      }
+    }
+  },
+  "evidence_sha256": {
+    "round3b/data/feasibility.json": "db069b18e05aa14193511d57658022d463e61e891e3fa28dc9021c9447f05fb7",
+    "round3b/data/plan.json": "45e7b79a776a055798d3f21f0006e54cfbe6b5a9d4ea8eb271fe88f380155ce6",
+    "round3b/data/source_exclusions.json": "3673a259d527d858f961a3a09e717afdfce7f5becc36c260e26728c8b1d5530e",
+    "round3b/data/durations.json": "bf559569da0121452fdb5d786bb039558a56d22b189791b7aada3be8d1623831",
+    "round3b/data/official_byte_sizes.json": "cdf0d472c02d8163d4eac1e139f2603dfb7a4ee3cdb22f40ae151d6235d93bd5"
+  },
+  "protocol_sha256": "cf54560b01b1a67ce9ed332156123dea455da2dbf0d913610e094f33557dd043",
+  "decision": "No primary (12/class) or small five-class descriptive set (4/class) exists under the frozen residual FSD design."
+}

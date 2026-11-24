@@ -1,0 +1,37 @@
+{
+ "train": {
+  "candidates": 15,
+  "candidate_uploaders": 10,
+  "eligible": 3,
+  "eligible_uploaders": 2,
+  "retrieval_errors": 0
+ },
+ "guitar": {
+  "candidates": 37,
+  "candidate_uploaders": 21,
+  "eligible": 3,
+  "eligible_uploaders": 2,
+  "retrieval_errors": 0
+ },
+ "piano": {
+  "candidates": 77,
+  "candidate_uploaders": 15,
+  "eligible": 0,
+  "eligible_uploaders": 0,
+  "retrieval_errors": 0
+ },
+ "wind": {
+  "candidates": 61,
+  "candidate_uploaders": 29,
+  "eligible": 16,
+  "eligible_uploaders": 16,
+  "retrieval_errors": 0
+ },
+ "speech": {
+  "candidates": 364,
+  "candidate_uploaders": 178,
+  "eligible": 141,
+  "eligible_uploaders": 119,
+  "retrieval_errors": 0
+ }
+}

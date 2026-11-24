@@ -1,0 +1,177 @@
+{
+  "primary": "fusion",
+  "ranking": [
+    {
+      "name": "fusion",
+      "worst_detection": 0.8272727272727273,
+      "worst_useful": 0.9090909090909091,
+      "validation": {
+        "persistent": {
+          "accuracy": 0.8272727272727273,
+          "f1": 0.8403361344537815,
+          "useful": 0.9090909090909091,
+          "tp": 50,
+          "fp": 14,
+          "tn": 41,
+          "fn": 5,
+          "n_useful": 50
+        },
+        "intermittent": {
+          "accuracy": 0.8545454545454545,
+          "f1": 0.8666666666666667,
+          "useful": 0.9272727272727272,
+          "tp": 52,
+          "fp": 13,
+          "tn": 42,
+          "fn": 3,
+          "n_useful": 51
+        }
+      },
+      "freeze_sha256": "afeb5ff9570814ce7d166cf29d6a4f38b0af1ac264afef60077fc813b06b58e5"
+    },
+    {
+      "name": "transformer",
+      "worst_detection": 0.822429906542056,
+      "worst_useful": 0.8,
+      "validation": {
+        "persistent": {
+          "tp": 47,
+          "fp": 7,
+          "tn": 48,
+          "fn": 8,
+          "accuracy": 0.8636363636363636,
+          "f1": 0.8623853211009175,
+          "useful": 0.8545454545454545,
+          "false_positive_rate": 0.12727272727272726
+        },
+        "intermittent": {
+          "tp": 44,
+          "fp": 8,
+          "tn": 47,
+          "fn": 11,
+          "accuracy": 0.8272727272727273,
+          "f1": 0.822429906542056,
+          "useful": 0.8,
+          "false_positive_rate": 0.14545454545454545
+        }
+      },
+      "freeze_sha256": "a9b8527249a60983ac46ec0698765211bc0dc72d1d30bc4840fa6f19a150338a"
+    },
+    {
+      "name": "apple_features",
+      "worst_detection": 0.8090909090909091,
+      "worst_useful": 0.8181818181818182,
+      "validation": {
+        "persistent": {
+          "accuracy": 0.8090909090909091,
+          "f1": 0.8108108108108109,
+          "useful": 0.8181818181818182,
+          "tp": 45,
+          "fp": 11,
+          "tn": 44,
+          "fn": 10,
+          "n_useful": 45
+        },
+        "intermittent": {
+          "accuracy": 0.8181818181818182,
+          "f1": 0.8214285714285714,
+          "useful": 0.8181818181818182,
+          "tp": 46,
+          "fp": 11,
+          "tn": 44,
+          "fn": 9,
+          "n_useful": 45
+        }
+      },
+      "freeze_sha256": "912ff04a23ca06bc93990cd912a85d1518fd2f6f5bb14fc61c5e2346993a33f4"
+    },
+    {
+      "name": "mixture",
+      "worst_detection": 0.8,
+      "worst_useful": 0.8363636363636363,
+      "validation": {
+        "persistent": {
+          "n": 55,
+          "tp": 46,
+          "fp": 13,
+          "accuracy": 0.8,
+          "f1": 0.8070175438596491,
+          "useful": 46,
+          "harmful": 0
+        },
+        "intermittent": {
+          "n": 55,
+          "tp": 47,
+          "fp": 13,
+          "accuracy": 0.8090909090909091,
+          "f1": 0.8173913043478261,
+          "useful": 46,
+          "harmful": 1
+        }
+      },
+      "freeze_sha256": "e05be999f09becad9b4723230c9557c4e0d671f3cfb8f1192aaa778336046396"
+    },
+    {
+      "name": "transfer",
+      "worst_detection": 0.75,
+      "worst_useful": 0.7090909090909091,
+      "validation": {
+        "persistent": {
+          "tp": 40,
+          "fp": 11,
+          "fn": 15,
+          "tn": 44,
+          "useful": 40,
+          "positive": 55,
+          "negative": 55,
+          "f1": 0.7547169811320755,
+          "accuracy": 0.7636363636363637,
+          "useful_fraction": 0.7272727272727273
+        },
+        "intermittent": {
+          "tp": 39,
+          "fp": 10,
+          "fn": 16,
+          "tn": 45,
+          "useful": 39,
+          "positive": 55,
+          "negative": 55,
+          "f1": 0.75,
+          "accuracy": 0.7636363636363637,
+          "useful_fraction": 0.7090909090909091
+        }
+      },
+      "freeze_sha256": "5bf364906d2c7aae8e4c72aadf87f0992754e658f3ff9d9b7b4d66e86f3cfcab"
+    },
+    {
+      "name": "classifier",
+      "worst_detection": 0.7181818181818181,
+      "worst_useful": 0.7090909090909091,
+      "validation": {
+        "persistent": {
+          "tp": 43,
+          "fp": 18,
+          "tn": 37,
+          "fn": 12,
+          "accuracy": 0.7272727272727273,
+          "f1": 0.7413793103448276,
+          "useful": 0.7636363636363637,
+          "false_positive_rate": 0.32727272727272727
+        },
+        "intermittent": {
+          "tp": 41,
+          "fp": 17,
+          "tn": 38,
+          "fn": 14,
+          "accuracy": 0.7181818181818181,
+          "f1": 0.7256637168141593,
+          "useful": 0.7090909090909091,
+          "false_positive_rate": 0.3090909090909091
+        }
+      },
+      "freeze_sha256": "0e10cb7c033ba7ff765748d8e7174437f3850388f2ddfbe8fc0a295e6f6d2fcf"
+    }
+  ],
+  "rule": "Use largest minimum of accuracy and F1 over both validation conditions, then largest minimum useful fraction; simpler backend breaks ties.",
+  "fresh_source_plan": "603676a5a9a35f01a899559a1a384dab7b11fc5ba73bff52331db1c0a36e71a6"
+}

@@ -1,0 +1,47 @@
+{
+  "1-100210-A-36.wav": {
+    "source_url": "https://raw.githubusercontent.com/karolpiczak/ESC-50/33c8ce9eb2cf0b1c2f8bcf322eb349b6be34dbb6/audio/1-100210-A-36.wav",
+    "sha256": "f97e97b0fe0afce323d858503b6fa3ffd6c8cb1162c43cf3b24461300fb9abf6",
+    "attribution": "joshfeed, Vacuum Cleaner-Samsung Easy 1300",
+    "collection_license": "CC BY-NC 3.0 (ESC-50)",
+    "individual_source_license": "CC-BY-NC"
+  },
+  "1-119125-A-45.wav": {
+    "source_url": "https://raw.githubusercontent.com/karolpiczak/ESC-50/33c8ce9eb2cf0b1c2f8bcf322eb349b6be34dbb6/audio/1-119125-A-45.wav",
+    "sha256": "d78fe04767546d49b741d9d7df6173152e06dcb4224d70f350c3cb73768f265d",
+    "attribution": "Benboncan, Steam Train L To R",
+    "collection_license": "CC BY-NC 3.0 (ESC-50)",
+    "individual_source_license": "CC-BY"
+  },
+  "1-137296-A-16.wav": {
+    "source_url": "https://raw.githubusercontent.com/karolpiczak/ESC-50/33c8ce9eb2cf0b1c2f8bcf322eb349b6be34dbb6/audio/1-137296-A-16.wav",
+    "sha256": "73e2dd5e66dda29f76a54b53c3c8e33441d105fc35c1d231bfbd8f7a18442969",
+    "attribution": "Benboncan, Rain And Wind On Glass",
+    "collection_license": "CC BY-NC 3.0 (ESC-50)",
+    "individual_source_license": "CC-BY"
+  },
+  "198-209-0000.ogg": {
+    "source_url": "https://raw.githubusercontent.com/librosa/data/5285c94e33c74bbe97501f5c9fa95e5e2ce55d48/audio/198-209-0000.ogg",
+    "sha256": "0473ba9613befa1026db5e254546f105aeffba8366b5468fc5e8d474d844ca1d",
+    "attribution": "Heather Barnett, reader (Jane Austen)",
+    "collection_license": "CC BY 4.0 (librosa source metadata)"
+  },
+  "3436-172162-0000.ogg": {
+    "source_url": "https://raw.githubusercontent.com/librosa/data/5285c94e33c74bbe97501f5c9fa95e5e2ce55d48/audio/3436-172162-0000.ogg",
+    "sha256": "780e482b52f2c8a500356babf60178ce005449cc171a8537eb3ef2961eb3e855",
+    "attribution": "Anders Lankford, reader (Thomas Bulfinch)",
+    "collection_license": "CC BY 4.0 (librosa source metadata)"
+  },
+  "5703-47212-0000.ogg": {
+    "source_url": "https://raw.githubusercontent.com/librosa/data/5285c94e33c74bbe97501f5c9fa95e5e2ce55d48/audio/5703-47212-0000.ogg",
+    "sha256": "a284612b46af0535f7e1873758c4387bb8369f6dbbe192ffdec1f171108f98dd",
+    "attribution": "Garth Comira, reader (Marion Bryce)",
+    "collection_license": "CC BY 4.0 (librosa source metadata)"
+  },
+  "Kevin_MacLeod_-_Vibe_Ace.ogg": {
+    "source_url": "https://raw.githubusercontent.com/librosa/data/5285c94e33c74bbe97501f5c9fa95e5e2ce55d48/audio/Kevin_MacLeod_-_Vibe_Ace.ogg",
+    "sha256": "6c23aed3dd5aa57f2b1652ecab68d15d9b82ad257f54e639eb2880ca09bc118a",
+    "attribution": "Kevin MacLeod",
+    "collection_license": "CC BY 4.0 (librosa source metadata)"
+  }
+}

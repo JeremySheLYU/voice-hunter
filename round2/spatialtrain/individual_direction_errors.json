@@ -1,0 +1,6056 @@
+{
+  "validation": [
+    {
+      "id": "027",
+      "angle": -80,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.873577394958815,
+      "ITD_abs_error_us": 13.22473217847903
+    },
+    {
+      "id": "027",
+      "angle": -80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.092194136616051,
+      "ITD_abs_error_us": 14.992454358604732
+    },
+    {
+      "id": "027",
+      "angle": -65,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.505695105388197,
+      "ITD_abs_error_us": 44.1168767396606
+    },
+    {
+      "id": "027",
+      "angle": -65,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9356004235207279,
+      "ITD_abs_error_us": 8.809919348494873
+    },
+    {
+      "id": "027",
+      "angle": -55,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.610632515659386,
+      "ITD_abs_error_us": 6.975999012553359
+    },
+    {
+      "id": "027",
+      "angle": -55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0342815484789198,
+      "ITD_abs_error_us": 18.476657294121367
+    },
+    {
+      "id": "027",
+      "angle": -45,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.1725928524783455,
+      "ITD_abs_error_us": 70.155319685155
+    },
+    {
+      "id": "027",
+      "angle": -45,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9532493802400338,
+      "ITD_abs_error_us": 48.253015448191206
+    },
+    {
+      "id": "027",
+      "angle": -40,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.843805242249035,
+      "ITD_abs_error_us": 92.14171261629537
+    },
+    {
+      "id": "027",
+      "angle": -40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0502922868529327,
+      "ITD_abs_error_us": 69.529657929412
+    },
+    {
+      "id": "027",
+      "angle": -35,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.013168095648108,
+      "ITD_abs_error_us": 74.29955672431277
+    },
+    {
+      "id": "027",
+      "angle": -35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1062366338039453,
+      "ITD_abs_error_us": 34.96615161186503
+    },
+    {
+      "id": "027",
+      "angle": -30,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.147186730622311,
+      "ITD_abs_error_us": 134.0762456395601
+    },
+    {
+      "id": "027",
+      "angle": -30,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9190016033072104,
+      "ITD_abs_error_us": 79.66427438307525
+    },
+    {
+      "id": "027",
+      "angle": -25,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.9355114201288504,
+      "ITD_abs_error_us": 254.68217172565767
+    },
+    {
+      "id": "027",
+      "angle": -25,
+      "model": "measured",
+      "ILD_MAE_dB": 0.6599149152009987,
+      "ITD_abs_error_us": 195.89495258785547
+    },
+    {
+      "id": "027",
+      "angle": -20,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.9913645530069073,
+      "ITD_abs_error_us": 203.33108314061073
+    },
+    {
+      "id": "027",
+      "angle": -20,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9113452144364421,
+      "ITD_abs_error_us": 136.48743648924395
+    },
+    {
+      "id": "027",
+      "angle": -15,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.6092497116196323,
+      "ITD_abs_error_us": 414.59077430456364
+    },
+    {
+      "id": "027",
+      "angle": -15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0659299882498372,
+      "ITD_abs_error_us": 441.6132381443118
+    },
+    {
+      "id": "027",
+      "angle": -10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.2584720735469461,
+      "ITD_abs_error_us": 435.1144470177008
+    },
+    {
+      "id": "027",
+      "angle": -10,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8150757809336852,
+      "ITD_abs_error_us": 459.83835870405943
+    },
+    {
+      "id": "027",
+      "angle": -5,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.7610155744970893,
+      "ITD_abs_error_us": 95.00086547072587
+    },
+    {
+      "id": "027",
+      "angle": -5,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9208260465802446,
+      "ITD_abs_error_us": 73.03169060786912
+    },
+    {
+      "id": "027",
+      "angle": 5,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.4654277686894597,
+      "ITD_abs_error_us": 11.904943095797549
+    },
+    {
+      "id": "027",
+      "angle": 5,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9958780371588952,
+      "ITD_abs_error_us": 10.064231767059187
+    },
+    {
+      "id": "027",
+      "angle": 10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.9115454654207613,
+      "ITD_abs_error_us": 352.7164932801788
+    },
+    {
+      "id": "027",
+      "angle": 10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1498537730114824,
+      "ITD_abs_error_us": 377.4404049665374
+    },
+    {
+      "id": "027",
+      "angle": 15,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.199127550719572,
+      "ITD_abs_error_us": 392.52612110091854
+    },
+    {
+      "id": "027",
+      "angle": 15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0025862357117918,
+      "ITD_abs_error_us": 419.54858494066673
+    },
+    {
+      "id": "027",
+      "angle": 20,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.869120516433017,
+      "ITD_abs_error_us": 447.851402443379
+    },
+    {
+      "id": "027",
+      "angle": 20,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8747656111693971,
+      "ITD_abs_error_us": 514.6950490947459
+    },
+    {
+      "id": "027",
+      "angle": 25,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.8314310051489264,
+      "ITD_abs_error_us": 154.91332052738446
+    },
+    {
+      "id": "027",
+      "angle": 25,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8893355893276365,
+      "ITD_abs_error_us": 96.12610138958226
+    },
+    {
+      "id": "027",
+      "angle": 30,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.404045660350574,
+      "ITD_abs_error_us": 152.349061074916
+    },
+    {
+      "id": "027",
+      "angle": 30,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9743577336941964,
+      "ITD_abs_error_us": 97.93708981843113
+    },
+    {
+      "id": "027",
+      "angle": 35,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.402603395269406,
+      "ITD_abs_error_us": 85.79575551231943
+    },
+    {
+      "id": "027",
+      "angle": 35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0693214430716407,
+      "ITD_abs_error_us": 46.462350399871696
+    },
+    {
+      "id": "027",
+      "angle": 40,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.421410058358784,
+      "ITD_abs_error_us": 102.81291841297997
+    },
+    {
+      "id": "027",
+      "angle": 40,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9835468943855372,
+      "ITD_abs_error_us": 80.2008637260966
+    },
+    {
+      "id": "027",
+      "angle": 45,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.031629795369628,
+      "ITD_abs_error_us": 49.853297082011466
+    },
+    {
+      "id": "027",
+      "angle": 45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1099272773512427,
+      "ITD_abs_error_us": 27.950992845047665
+    },
+    {
+      "id": "027",
+      "angle": 55,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.259957866943591,
+      "ITD_abs_error_us": 22.865320365921207
+    },
+    {
+      "id": "027",
+      "angle": 55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2222305701799885,
+      "ITD_abs_error_us": 11.3646620843532
+    },
+    {
+      "id": "027",
+      "angle": 65,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.80578445841139,
+      "ITD_abs_error_us": 39.786433657243265
+    },
+    {
+      "id": "027",
+      "angle": 65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0093172988004344,
+      "ITD_abs_error_us": 13.140362430912205
+    },
+    {
+      "id": "027",
+      "angle": 80,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.67801586677756,
+      "ITD_abs_error_us": 26.696200631599822
+    },
+    {
+      "id": "027",
+      "angle": 80,
+      "model": "measured",
+      "ILD_MAE_dB": 0.7071401466779326,
+      "ITD_abs_error_us": 28.463922811725524
+    },
+    {
+      "id": "119",
+      "angle": -80,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.484819155733242,
+      "ITD_abs_error_us": 37.56523509700867
+    },
+    {
+      "id": "119",
+      "angle": -80,
+      "model": "measured",
+      "ILD_MAE_dB": 2.3777542180852542,
+      "ITD_abs_error_us": 39.33295727713437
+    },
+    {
+      "id": "119",
+      "angle": -65,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.9224352153045,
+      "ITD_abs_error_us": 86.91840059048923
+    },
+    {
+      "id": "119",
+      "angle": -65,
+      "model": "measured",
+      "ILD_MAE_dB": 2.2975408198770024,
+      "ITD_abs_error_us": 33.99160450233376
+    },
+    {
+      "id": "119",
+      "angle": -55,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.30950678964506,
+      "ITD_abs_error_us": 176.61890968469095
+    },
+    {
+      "id": "119",
+      "angle": -55,
+      "model": "measured",
+      "ILD_MAE_dB": 2.5571855700715442,
+      "ITD_abs_error_us": 165.11825140312294
+    },
+    {
+      "id": "119",
+      "angle": -45,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.8448546474375416,
+      "ITD_abs_error_us": 229.25238700606707
+    },
+    {
+      "id": "119",
+      "angle": -45,
+      "model": "measured",
+      "ILD_MAE_dB": 3.0621802416747728,
+      "ITD_abs_error_us": 251.15469124303087
+    },
+    {
+      "id": "119",
+      "angle": -40,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.827508292810411,
+      "ITD_abs_error_us": 79.28110847848473
+    },
+    {
+      "id": "119",
+      "angle": -40,
+      "model": "measured",
+      "ILD_MAE_dB": 3.7096670230934845,
+      "ITD_abs_error_us": 101.8931631653681
+    },
+    {
+      "id": "119",
+      "angle": -35,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.0627051442061575,
+      "ITD_abs_error_us": 146.13185334618214
+    },
+    {
+      "id": "119",
+      "angle": -35,
+      "model": "measured",
+      "ILD_MAE_dB": 2.9089974143086783,
+      "ITD_abs_error_us": 185.46525845862988
+    },
+    {
+      "id": "119",
+      "angle": -30,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.456523170637214,
+      "ITD_abs_error_us": 50.19323385466373
+    },
+    {
+      "id": "119",
+      "angle": -30,
+      "model": "measured",
+      "ILD_MAE_dB": 2.7959008798601355,
+      "ITD_abs_error_us": 104.60520511114859
+    },
+    {
+      "id": "119",
+      "angle": -25,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.578706989553841,
+      "ITD_abs_error_us": 27.84988349996874
+    },
+    {
+      "id": "119",
+      "angle": -25,
+      "model": "measured",
+      "ILD_MAE_dB": 3.0890703738848213,
+      "ITD_abs_error_us": 30.937335637833456
+    },
+    {
+      "id": "119",
+      "angle": -20,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.7172057379552652,
+      "ITD_abs_error_us": 12.58283642949371
+    },
+    {
+      "id": "119",
+      "angle": -20,
+      "model": "measured",
+      "ILD_MAE_dB": 3.4885710510004224,
+      "ITD_abs_error_us": 79.42648308086049
+    },
+    {
+      "id": "119",
+      "angle": -15,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.50001282971232,
+      "ITD_abs_error_us": 45.7747252443376
+    },
+    {
+      "id": "119",
+      "angle": -15,
+      "model": "measured",
+      "ILD_MAE_dB": 4.4404025030413825,
+      "ITD_abs_error_us": 18.752261404589433
+    },
+    {
+      "id": "119",
+      "angle": -10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.8603199739626273,
+      "ITD_abs_error_us": 71.85121616173993
+    },
+    {
+      "id": "119",
+      "angle": -10,
+      "model": "measured",
+      "ILD_MAE_dB": 2.838974714084179,
+      "ITD_abs_error_us": 47.127304475381315
+    },
+    {
+      "id": "119",
+      "angle": -5,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.388652292134241,
+      "ITD_abs_error_us": 88.06549506779956
+    },
+    {
+      "id": "119",
+      "angle": -5,
+      "model": "measured",
+      "ILD_MAE_dB": 2.9026965579144246,
+      "ITD_abs_error_us": 110.03466993065629
+    },
+    {
+      "id": "119",
+      "angle": 5,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.3522157249559403,
+      "ITD_abs_error_us": 53.59654393600679
+    },
+    {
+      "id": "119",
+      "angle": 5,
+      "model": "measured",
+      "ILD_MAE_dB": 2.883761088322544,
+      "ITD_abs_error_us": 31.62736907315005
+    },
+    {
+      "id": "119",
+      "angle": 10,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.069824555528994,
+      "ITD_abs_error_us": 111.0377132748539
+    },
+    {
+      "id": "119",
+      "angle": 10,
+      "model": "measured",
+      "ILD_MAE_dB": 2.862111453641954,
+      "ITD_abs_error_us": 135.76162496121253
+    },
+    {
+      "id": "119",
+      "angle": 15,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.2682843817238383,
+      "ITD_abs_error_us": 99.95842196442072
+    },
+    {
+      "id": "119",
+      "angle": 15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.423123524910118,
+      "ITD_abs_error_us": 126.98088580416889
+    },
+    {
+      "id": "119",
+      "angle": 20,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.6415731689764055,
+      "ITD_abs_error_us": 66.96685899716115
+    },
+    {
+      "id": "119",
+      "angle": 20,
+      "model": "measured",
+      "ILD_MAE_dB": 2.2355882866891132,
+      "ITD_abs_error_us": 133.81050564852794
+    },
+    {
+      "id": "119",
+      "angle": 25,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.529029545033589,
+      "ITD_abs_error_us": 518.3411549142104
+    },
+    {
+      "id": "119",
+      "angle": 25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4602736380709154,
+      "ITD_abs_error_us": 577.1283740520125
+    },
+    {
+      "id": "119",
+      "angle": 30,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.045687176401379,
+      "ITD_abs_error_us": 412.3822031318977
+    },
+    {
+      "id": "119",
+      "angle": 30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3402620301182024,
+      "ITD_abs_error_us": 466.79417438838254
+    },
+    {
+      "id": "119",
+      "angle": 35,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.233934334656524,
+      "ITD_abs_error_us": 234.06620484856705
+    },
+    {
+      "id": "119",
+      "angle": 35,
+      "model": "measured",
+      "ILD_MAE_dB": 2.1696527672063297,
+      "ITD_abs_error_us": 273.3996099610148
+    },
+    {
+      "id": "119",
+      "angle": 40,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.423542185368309,
+      "ITD_abs_error_us": 161.31636816634983
+    },
+    {
+      "id": "119",
+      "angle": 40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6805124014726296,
+      "ITD_abs_error_us": 183.9284228532332
+    },
+    {
+      "id": "119",
+      "angle": 45,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.117870782976368,
+      "ITD_abs_error_us": 42.141516081050554
+    },
+    {
+      "id": "119",
+      "angle": 45,
+      "model": "measured",
+      "ILD_MAE_dB": 2.350869524163678,
+      "ITD_abs_error_us": 64.04382031801435
+    },
+    {
+      "id": "119",
+      "angle": 55,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.5865684858770965,
+      "ITD_abs_error_us": 118.9194402181713
+    },
+    {
+      "id": "119",
+      "angle": 55,
+      "model": "measured",
+      "ILD_MAE_dB": 2.224347369801386,
+      "ITD_abs_error_us": 107.4187819366033
+    },
+    {
+      "id": "119",
+      "angle": 65,
+      "model": "analytic",
+      "ILD_MAE_dB": 8.837915289558035,
+      "ITD_abs_error_us": 95.11787290429425
+    },
+    {
+      "id": "119",
+      "angle": 65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.9243015724786885,
+      "ITD_abs_error_us": 42.191076816138775
+    },
+    {
+      "id": "119",
+      "angle": 80,
+      "model": "analytic",
+      "ILD_MAE_dB": 9.198674385220222,
+      "ITD_abs_error_us": 0.8921397119128187
+    },
+    {
+      "id": "119",
+      "angle": 80,
+      "model": "measured",
+      "ILD_MAE_dB": 2.535069050740149,
+      "ITD_abs_error_us": 0.8755824682128832
+    },
+    {
+      "id": "051",
+      "angle": -80,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.782584822965358,
+      "ITD_abs_error_us": 46.729994699150325
+    },
+    {
+      "id": "051",
+      "angle": -80,
+      "model": "measured",
+      "ILD_MAE_dB": 2.0835739797412605,
+      "ITD_abs_error_us": 44.96227251902462
+    },
+    {
+      "id": "051",
+      "angle": -65,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.610042668940926,
+      "ITD_abs_error_us": 17.011020948333112
+    },
+    {
+      "id": "051",
+      "angle": -65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1721105810355978,
+      "ITD_abs_error_us": 69.93781703648858
+    },
+    {
+      "id": "051",
+      "angle": -55,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.347545058230947,
+      "ITD_abs_error_us": 91.41522358100275
+    },
+    {
+      "id": "051",
+      "angle": -55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.8016957734015253,
+      "ITD_abs_error_us": 102.91588186257076
+    },
+    {
+      "id": "051",
+      "angle": -45,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.540576939823387,
+      "ITD_abs_error_us": 157.60625847161202
+    },
+    {
+      "id": "051",
+      "angle": -45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.7739393568981638,
+      "ITD_abs_error_us": 135.70395423464822
+    },
+    {
+      "id": "051",
+      "angle": -40,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.45497300167704,
+      "ITD_abs_error_us": 232.09966409941032
+    },
+    {
+      "id": "051",
+      "angle": -40,
+      "model": "measured",
+      "ILD_MAE_dB": 2.2502259577912485,
+      "ITD_abs_error_us": 209.48760941252695
+    },
+    {
+      "id": "051",
+      "angle": -35,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.453154057345216,
+      "ITD_abs_error_us": 169.1499701733156
+    },
+    {
+      "id": "051",
+      "angle": -35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5297481676618379,
+      "ITD_abs_error_us": 129.81656506086787
+    },
+    {
+      "id": "051",
+      "angle": -30,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.6370718503600625,
+      "ITD_abs_error_us": 231.11542074600834
+    },
+    {
+      "id": "051",
+      "angle": -30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.9057941593839602,
+      "ITD_abs_error_us": 176.7034494895235
+    },
+    {
+      "id": "051",
+      "angle": -25,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.712064376003296,
+      "ITD_abs_error_us": 198.68477379460617
+    },
+    {
+      "id": "051",
+      "angle": -25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.890372847686353,
+      "ITD_abs_error_us": 139.89755465680398
+    },
+    {
+      "id": "051",
+      "angle": -20,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.8750003138167597,
+      "ITD_abs_error_us": 186.9843491645612
+    },
+    {
+      "id": "051",
+      "angle": -20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.701600966902279,
+      "ITD_abs_error_us": 120.14070251319441
+    },
+    {
+      "id": "051",
+      "angle": -15,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.3509547293494923,
+      "ITD_abs_error_us": 146.48345227526656
+    },
+    {
+      "id": "051",
+      "angle": -15,
+      "model": "measured",
+      "ILD_MAE_dB": 2.4589747702642346,
+      "ITD_abs_error_us": 119.4609884355184
+    },
+    {
+      "id": "051",
+      "angle": -10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.5313526874065952,
+      "ITD_abs_error_us": 147.0595189947241
+    },
+    {
+      "id": "051",
+      "angle": -10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5106319629514424,
+      "ITD_abs_error_us": 122.3356073083655
+    },
+    {
+      "id": "051",
+      "angle": -5,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.5341518160783958,
+      "ITD_abs_error_us": 78.63141879272276
+    },
+    {
+      "id": "051",
+      "angle": -5,
+      "model": "measured",
+      "ILD_MAE_dB": 1.9121138723491866,
+      "ITD_abs_error_us": 56.662243929866015
+    },
+    {
+      "id": "051",
+      "angle": 5,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.5874212037219249,
+      "ITD_abs_error_us": 74.58072934242888
+    },
+    {
+      "id": "051",
+      "angle": 5,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3060502966037493,
+      "ITD_abs_error_us": 96.54990420528561
+    },
+    {
+      "id": "051",
+      "angle": 10,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.741801971106399,
+      "ITD_abs_error_us": 21.22381368603901
+    },
+    {
+      "id": "051",
+      "angle": 10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.701293251543245,
+      "ITD_abs_error_us": 45.94772537239763
+    },
+    {
+      "id": "051",
+      "angle": 15,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.8598022267033443,
+      "ITD_abs_error_us": 4.158439024686885
+    },
+    {
+      "id": "051",
+      "angle": 15,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9304542243702075,
+      "ITD_abs_error_us": 22.864024815061285
+    },
+    {
+      "id": "051",
+      "angle": 20,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.82429303811759,
+      "ITD_abs_error_us": 16.493441105895727
+    },
+    {
+      "id": "051",
+      "angle": 20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.635847379938891,
+      "ITD_abs_error_us": 50.350205545471056
+    },
+    {
+      "id": "051",
+      "angle": 25,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.810526474045975,
+      "ITD_abs_error_us": 51.06114254585515
+    },
+    {
+      "id": "051",
+      "angle": 25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.898637599451119,
+      "ITD_abs_error_us": 7.726076591947049
+    },
+    {
+      "id": "051",
+      "angle": 30,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.684019001199817,
+      "ITD_abs_error_us": 72.54442683223195
+    },
+    {
+      "id": "051",
+      "angle": 30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4089755479895332,
+      "ITD_abs_error_us": 18.132455575747088
+    },
+    {
+      "id": "051",
+      "angle": 35,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.841564388759105,
+      "ITD_abs_error_us": 1.5965417573606828
+    },
+    {
+      "id": "051",
+      "angle": 35,
+      "model": "measured",
+      "ILD_MAE_dB": 2.049522123105559,
+      "ITD_abs_error_us": 37.73686335508705
+    },
+    {
+      "id": "051",
+      "angle": 40,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.784303725862025,
+      "ITD_abs_error_us": 64.27999947072686
+    },
+    {
+      "id": "051",
+      "angle": 40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.559380197676409,
+      "ITD_abs_error_us": 41.667944783843495
+    },
+    {
+      "id": "051",
+      "angle": 45,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.651471694122315,
+      "ITD_abs_error_us": 84.91190981130757
+    },
+    {
+      "id": "051",
+      "angle": 45,
+      "model": "measured",
+      "ILD_MAE_dB": 2.0929792612910174,
+      "ITD_abs_error_us": 106.81421404827137
+    },
+    {
+      "id": "051",
+      "angle": 55,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.912822667925608,
+      "ITD_abs_error_us": 45.53952004535904
+    },
+    {
+      "id": "051",
+      "angle": 55,
+      "model": "measured",
+      "ILD_MAE_dB": 2.1367775684834647,
+      "ITD_abs_error_us": 34.03886176379103
+    },
+    {
+      "id": "051",
+      "angle": 65,
+      "model": "analytic",
+      "ILD_MAE_dB": 8.611970293080182,
+      "ITD_abs_error_us": 89.3010440124616
+    },
+    {
+      "id": "051",
+      "angle": 65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.9867720330729215,
+      "ITD_abs_error_us": 36.37424792430613
+    },
+    {
+      "id": "051",
+      "angle": 80,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.709005523788331,
+      "ITD_abs_error_us": 4.155847950666839
+    },
+    {
+      "id": "051",
+      "angle": 80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.960017575704509,
+      "ITD_abs_error_us": 5.923570130792541
+    },
+    {
+      "id": "156",
+      "angle": -80,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.5328162090833395,
+      "ITD_abs_error_us": 38.94910226449258
+    },
+    {
+      "id": "156",
+      "angle": -80,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8845756273140896,
+      "ITD_abs_error_us": 37.18138008436688
+    },
+    {
+      "id": "156",
+      "angle": -65,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.838618289030826,
+      "ITD_abs_error_us": 20.04310547419493
+    },
+    {
+      "id": "156",
+      "angle": -65,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9548992753664566,
+      "ITD_abs_error_us": 72.9699015623504
+    },
+    {
+      "id": "156",
+      "angle": -55,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.556832564909772,
+      "ITD_abs_error_us": 28.439579706059305
+    },
+    {
+      "id": "156",
+      "angle": -55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2203361104372452,
+      "ITD_abs_error_us": 39.94023798762731
+    },
+    {
+      "id": "156",
+      "angle": -45,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.830001838107005,
+      "ITD_abs_error_us": 51.00477249357306
+    },
+    {
+      "id": "156",
+      "angle": -45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6075964825939815,
+      "ITD_abs_error_us": 29.102468256609257
+    },
+    {
+      "id": "156",
+      "angle": -40,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.675701908496693,
+      "ITD_abs_error_us": 58.880049467270055
+    },
+    {
+      "id": "156",
+      "angle": -40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4455390100574073,
+      "ITD_abs_error_us": 36.26799478038669
+    },
+    {
+      "id": "156",
+      "angle": -35,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.604510838463487,
+      "ITD_abs_error_us": 44.372625932703556
+    },
+    {
+      "id": "156",
+      "angle": -35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6240451348990141,
+      "ITD_abs_error_us": 5.039220820255821
+    },
+    {
+      "id": "156",
+      "angle": -30,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.5510688595410453,
+      "ITD_abs_error_us": 36.51698036058252
+    },
+    {
+      "id": "156",
+      "angle": -30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6173890209889867,
+      "ITD_abs_error_us": 17.89499089590234
+    },
+    {
+      "id": "156",
+      "angle": -25,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.7114609693787832,
+      "ITD_abs_error_us": 10.309186577318485
+    },
+    {
+      "id": "156",
+      "angle": -25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.657258969830166,
+      "ITD_abs_error_us": 69.09640571512068
+    },
+    {
+      "id": "156",
+      "angle": -20,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.4393461622100414,
+      "ITD_abs_error_us": 5.736603565610636
+    },
+    {
+      "id": "156",
+      "angle": -20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.478407190260774,
+      "ITD_abs_error_us": 72.58025021697742
+    },
+    {
+      "id": "156",
+      "angle": -15,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.5347123773869848,
+      "ITD_abs_error_us": 17.57860184688323
+    },
+    {
+      "id": "156",
+      "angle": -15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4105133451696819,
+      "ITD_abs_error_us": 44.6010656866314
+    },
+    {
+      "id": "156",
+      "angle": -10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.1231802881304578,
+      "ITD_abs_error_us": 11.831395140303684
+    },
+    {
+      "id": "156",
+      "angle": -10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1001152777041077,
+      "ITD_abs_error_us": 12.892516546054935
+    },
+    {
+      "id": "156",
+      "angle": -5,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.8719725281661374,
+      "ITD_abs_error_us": 24.046257449531485
+    },
+    {
+      "id": "156",
+      "angle": -5,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1495294114597412,
+      "ITD_abs_error_us": 2.0770825866747487
+    },
+    {
+      "id": "156",
+      "angle": 5,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.2281387678743265,
+      "ITD_abs_error_us": 3.7810097609815543
+    },
+    {
+      "id": "156",
+      "angle": 5,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0693935400771712,
+      "ITD_abs_error_us": 25.75018462383829
+    },
+    {
+      "id": "156",
+      "angle": 10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.8625995043263377,
+      "ITD_abs_error_us": 31.854801683532656
+    },
+    {
+      "id": "156",
+      "angle": 10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0733419487962825,
+      "ITD_abs_error_us": 56.578713369891275
+    },
+    {
+      "id": "156",
+      "angle": 15,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.2694626118668118,
+      "ITD_abs_error_us": 1.08436414414615
+    },
+    {
+      "id": "156",
+      "angle": 15,
+      "model": "measured",
+      "ILD_MAE_dB": 0.7456782657486263,
+      "ITD_abs_error_us": 28.10682798389432
+    },
+    {
+      "id": "156",
+      "angle": 20,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.505074017045608,
+      "ITD_abs_error_us": 18.462636949827555
+    },
+    {
+      "id": "156",
+      "angle": 20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.155645218847841,
+      "ITD_abs_error_us": 85.30628360119434
+    },
+    {
+      "id": "156",
+      "angle": 25,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.461549561806084,
+      "ITD_abs_error_us": 35.81088658470014
+    },
+    {
+      "id": "156",
+      "angle": 25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0303828484103794,
+      "ITD_abs_error_us": 22.976332553102054
+    },
+    {
+      "id": "156",
+      "angle": 30,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.628929240410058,
+      "ITD_abs_error_us": 53.953145609741
+    },
+    {
+      "id": "156",
+      "angle": 30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1773019328656802,
+      "ITD_abs_error_us": 0.45882564674386117
+    },
+    {
+      "id": "156",
+      "angle": 35,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.495711834011887,
+      "ITD_abs_error_us": 29.964262079192167
+    },
+    {
+      "id": "156",
+      "angle": 35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4125732711355192,
+      "ITD_abs_error_us": 9.369143033255568
+    },
+    {
+      "id": "156",
+      "angle": 40,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.798276644712148,
+      "ITD_abs_error_us": 63.474129501530456
+    },
+    {
+      "id": "156",
+      "angle": 40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5182645025757306,
+      "ITD_abs_error_us": 40.86207481464709
+    },
+    {
+      "id": "156",
+      "angle": 45,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.65150899936847,
+      "ITD_abs_error_us": 38.20936384838717
+    },
+    {
+      "id": "156",
+      "angle": 45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.743236428716072,
+      "ITD_abs_error_us": 16.30705961142337
+    },
+    {
+      "id": "156",
+      "angle": 55,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.974104003341015,
+      "ITD_abs_error_us": 42.315579573263335
+    },
+    {
+      "id": "156",
+      "angle": 55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4491754737027935,
+      "ITD_abs_error_us": 53.81623785483134
+    },
+    {
+      "id": "156",
+      "angle": 65,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.442834451451672,
+      "ITD_abs_error_us": 0.3471368457506969
+    },
+    {
+      "id": "156",
+      "angle": 65,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8276221961171042,
+      "ITD_abs_error_us": 52.57965924240477
+    },
+    {
+      "id": "156",
+      "angle": 80,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.738625718257969,
+      "ITD_abs_error_us": 49.851837708422636
+    },
+    {
+      "id": "156",
+      "angle": 80,
+      "model": "measured",
+      "ILD_MAE_dB": 0.6988126817725059,
+      "ITD_abs_error_us": 48.084115528296934
+    },
+    {
+      "id": "044",
+      "angle": -80,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.668284383845101,
+      "ITD_abs_error_us": 16.847955616294257
+    },
+    {
+      "id": "044",
+      "angle": -80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1384632459176753,
+      "ITD_abs_error_us": 15.080233436168555
+    },
+    {
+      "id": "044",
+      "angle": -65,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.348426668916811,
+      "ITD_abs_error_us": 68.13405024274277
+    },
+    {
+      "id": "044",
+      "angle": -65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4175904831381507,
+      "ITD_abs_error_us": 15.207254154587304
+    },
+    {
+      "id": "044",
+      "angle": -55,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.357278782853764,
+      "ITD_abs_error_us": 61.46360666095268
+    },
+    {
+      "id": "044",
+      "angle": -55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.7226752434390553,
+      "ITD_abs_error_us": 49.96294837938467
+    },
+    {
+      "id": "044",
+      "angle": -45,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.618926737984912,
+      "ITD_abs_error_us": 22.984177138650125
+    },
+    {
+      "id": "044",
+      "angle": -45,
+      "model": "measured",
+      "ILD_MAE_dB": 2.2832902096325722,
+      "ITD_abs_error_us": 1.0818729016863244
+    },
+    {
+      "id": "044",
+      "angle": -40,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.6461740884039346,
+      "ITD_abs_error_us": 101.51345491627939
+    },
+    {
+      "id": "044",
+      "angle": -40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.913465801692365,
+      "ITD_abs_error_us": 78.90140022939602
+    },
+    {
+      "id": "044",
+      "angle": -35,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.1910168897329787,
+      "ITD_abs_error_us": 117.42106542654426
+    },
+    {
+      "id": "044",
+      "angle": -35,
+      "model": "measured",
+      "ILD_MAE_dB": 2.232520699804152,
+      "ITD_abs_error_us": 78.08766031409652
+    },
+    {
+      "id": "044",
+      "angle": -30,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.0405004680345162,
+      "ITD_abs_error_us": 48.421258336817516
+    },
+    {
+      "id": "044",
+      "angle": -30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.863705618813047,
+      "ITD_abs_error_us": 5.990712919667345
+    },
+    {
+      "id": "044",
+      "angle": -25,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.6914793439337195,
+      "ITD_abs_error_us": 120.84615347360074
+    },
+    {
+      "id": "044",
+      "angle": -25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.936461012074191,
+      "ITD_abs_error_us": 62.05893433579854
+    },
+    {
+      "id": "044",
+      "angle": -20,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.3545547405907725,
+      "ITD_abs_error_us": 7.871214607435007
+    },
+    {
+      "id": "044",
+      "angle": -20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.7633181832554945,
+      "ITD_abs_error_us": 74.71486125880179
+    },
+    {
+      "id": "044",
+      "angle": -15,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.8612251001911508,
+      "ITD_abs_error_us": 86.19224623308112
+    },
+    {
+      "id": "044",
+      "angle": -15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.590182909283153,
+      "ITD_abs_error_us": 59.16978239333295
+    },
+    {
+      "id": "044",
+      "angle": -10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.689173089247582,
+      "ITD_abs_error_us": 51.49207293722824
+    },
+    {
+      "id": "044",
+      "angle": -10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.9496741263691986,
+      "ITD_abs_error_us": 26.768161250869618
+    },
+    {
+      "id": "044",
+      "angle": -5,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.5044162823092917,
+      "ITD_abs_error_us": 35.09267785105169
+    },
+    {
+      "id": "044",
+      "angle": -5,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5765594475921616,
+      "ITD_abs_error_us": 57.06185271390842
+    },
+    {
+      "id": "044",
+      "angle": 5,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.4584848337667093,
+      "ITD_abs_error_us": 10.136480614335447
+    },
+    {
+      "id": "044",
+      "angle": 5,
+      "model": "measured",
+      "ILD_MAE_dB": 1.9941680075805464,
+      "ITD_abs_error_us": 32.10565547719219
+    },
+    {
+      "id": "044",
+      "angle": 10,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.6541751885982454,
+      "ITD_abs_error_us": 7.533662177650655
+    },
+    {
+      "id": "044",
+      "angle": 10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6176622761598187,
+      "ITD_abs_error_us": 17.190249508707964
+    },
+    {
+      "id": "044",
+      "angle": 15,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.5199648656374003,
+      "ITD_abs_error_us": 22.906203030581622
+    },
+    {
+      "id": "044",
+      "angle": 15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5972428576014261,
+      "ITD_abs_error_us": 4.116260809166548
+    },
+    {
+      "id": "044",
+      "angle": 20,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.4997047009679623,
+      "ITD_abs_error_us": 105.21828984391966
+    },
+    {
+      "id": "044",
+      "angle": 20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.35171581806632,
+      "ITD_abs_error_us": 38.37464319255288
+    },
+    {
+      "id": "044",
+      "angle": 25,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.725971161382308,
+      "ITD_abs_error_us": 115.74766579957142
+    },
+    {
+      "id": "044",
+      "angle": 25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.754173668374962,
+      "ITD_abs_error_us": 56.960446661769225
+    },
+    {
+      "id": "044",
+      "angle": 30,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.031339890199717,
+      "ITD_abs_error_us": 49.673016356314776
+    },
+    {
+      "id": "044",
+      "angle": 30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1998496194672204,
+      "ITD_abs_error_us": 4.738954900170086
+    },
+    {
+      "id": "044",
+      "angle": 35,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.28271159785201,
+      "ITD_abs_error_us": 60.166483145626785
+    },
+    {
+      "id": "044",
+      "angle": 35,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9426049447927305,
+      "ITD_abs_error_us": 20.83307803317905
+    },
+    {
+      "id": "044",
+      "angle": 40,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.776642967476829,
+      "ITD_abs_error_us": 24.641561861521836
+    },
+    {
+      "id": "044",
+      "angle": 40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4669372812994634,
+      "ITD_abs_error_us": 2.029507174638468
+    },
+    {
+      "id": "044",
+      "angle": 45,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.869740046081132,
+      "ITD_abs_error_us": 55.21425237105882
+    },
+    {
+      "id": "044",
+      "angle": 45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5633110444780436,
+      "ITD_abs_error_us": 33.31194813409502
+    },
+    {
+      "id": "044",
+      "angle": 55,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.011688800089212,
+      "ITD_abs_error_us": 1.4545897834942707
+    },
+    {
+      "id": "044",
+      "angle": 55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.737501446232037,
+      "ITD_abs_error_us": 10.046068498073737
+    },
+    {
+      "id": "044",
+      "angle": 65,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.975149083938401,
+      "ITD_abs_error_us": 73.7032154703719
+    },
+    {
+      "id": "044",
+      "angle": 65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4288415293503935,
+      "ITD_abs_error_us": 20.77641938221643
+    },
+    {
+      "id": "044",
+      "angle": 80,
+      "model": "analytic",
+      "ILD_MAE_dB": 8.031773679747415,
+      "ITD_abs_error_us": 11.556604384368825
+    },
+    {
+      "id": "044",
+      "angle": 80,
+      "model": "measured",
+      "ILD_MAE_dB": 2.0930367467967645,
+      "ITD_abs_error_us": 13.324326564494527
+    },
+    {
+      "id": "018",
+      "angle": -80,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.209739765554406,
+      "ITD_abs_error_us": 117.22933041390706
+    },
+    {
+      "id": "018",
+      "angle": -80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4569106187566057,
+      "ITD_abs_error_us": 115.46160823378136
+    },
+    {
+      "id": "018",
+      "angle": -65,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.648506951699663,
+      "ITD_abs_error_us": 64.9649624055661
+    },
+    {
+      "id": "018",
+      "angle": -65,
+      "model": "measured",
+      "ILD_MAE_dB": 2.02617418202955,
+      "ITD_abs_error_us": 117.89175849372157
+    },
+    {
+      "id": "018",
+      "angle": -55,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.573705895914871,
+      "ITD_abs_error_us": 58.69861896219203
+    },
+    {
+      "id": "018",
+      "angle": -55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4460582246861666,
+      "ITD_abs_error_us": 70.19927724376004
+    },
+    {
+      "id": "018",
+      "angle": -45,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.7904256601515245,
+      "ITD_abs_error_us": 87.76386832189405
+    },
+    {
+      "id": "018",
+      "angle": -45,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9757834530876528,
+      "ITD_abs_error_us": 65.86156408493025
+    },
+    {
+      "id": "018",
+      "angle": -40,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.301774562380981,
+      "ITD_abs_error_us": 68.93702358060705
+    },
+    {
+      "id": "018",
+      "angle": -40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0122910239271201,
+      "ITD_abs_error_us": 46.32496889372368
+    },
+    {
+      "id": "018",
+      "angle": -35,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.0215819835996514,
+      "ITD_abs_error_us": 56.47467534901136
+    },
+    {
+      "id": "018",
+      "angle": -35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5169320354164302,
+      "ITD_abs_error_us": 17.141270236563628
+    },
+    {
+      "id": "018",
+      "angle": -30,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.956991753489969,
+      "ITD_abs_error_us": 63.6997499465223
+    },
+    {
+      "id": "018",
+      "angle": -30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5032706792890664,
+      "ITD_abs_error_us": 9.287778690037442
+    },
+    {
+      "id": "018",
+      "angle": -25,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.2180874500165624,
+      "ITD_abs_error_us": 108.97048137514594
+    },
+    {
+      "id": "018",
+      "angle": -25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.331320641810633,
+      "ITD_abs_error_us": 50.18326223734374
+    },
+    {
+      "id": "018",
+      "angle": -20,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.628871504197668,
+      "ITD_abs_error_us": 63.2958477095674
+    },
+    {
+      "id": "018",
+      "angle": -20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3888191634682294,
+      "ITD_abs_error_us": 3.5477989417993854
+    },
+    {
+      "id": "018",
+      "angle": -15,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.4232518510144487,
+      "ITD_abs_error_us": 50.24937946912506
+    },
+    {
+      "id": "018",
+      "angle": -15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3313535089671495,
+      "ITD_abs_error_us": 23.22691562937689
+    },
+    {
+      "id": "018",
+      "angle": -10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.57528433795752,
+      "ITD_abs_error_us": 86.65348704135906
+    },
+    {
+      "id": "018",
+      "angle": -10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3625261899424064,
+      "ITD_abs_error_us": 61.92957535500044
+    },
+    {
+      "id": "018",
+      "angle": -5,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.5190785101885684,
+      "ITD_abs_error_us": 37.5125799561678
+    },
+    {
+      "id": "018",
+      "angle": -5,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3084529998660612,
+      "ITD_abs_error_us": 15.54340509331106
+    },
+    {
+      "id": "018",
+      "angle": 5,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.0160603512089947,
+      "ITD_abs_error_us": 13.635551136576026
+    },
+    {
+      "id": "018",
+      "angle": 5,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1794551487039417,
+      "ITD_abs_error_us": 35.60472599943276
+    },
+    {
+      "id": "018",
+      "angle": 10,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.9798603552183257,
+      "ITD_abs_error_us": 2.968693058860538
+    },
+    {
+      "id": "018",
+      "angle": 10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.7030572943248774,
+      "ITD_abs_error_us": 21.75521862749808
+    },
+    {
+      "id": "018",
+      "angle": 15,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.0334094860791367,
+      "ITD_abs_error_us": 50.04456077118468
+    },
+    {
+      "id": "018",
+      "angle": 15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5910061771019823,
+      "ITD_abs_error_us": 77.06702461093285
+    },
+    {
+      "id": "018",
+      "angle": 20,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.1482532760463644,
+      "ITD_abs_error_us": 61.25074612515803
+    },
+    {
+      "id": "018",
+      "angle": 20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1020450060571472,
+      "ITD_abs_error_us": 128.0943927765248
+    },
+    {
+      "id": "018",
+      "angle": 25,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.5146073829755804,
+      "ITD_abs_error_us": 37.075463139845056
+    },
+    {
+      "id": "018",
+      "angle": 25,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8528670479749952,
+      "ITD_abs_error_us": 95.86268227764725
+    },
+    {
+      "id": "018",
+      "angle": 30,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.5902858642999504,
+      "ITD_abs_error_us": 20.622566792372993
+    },
+    {
+      "id": "018",
+      "angle": 30,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8376703018187637,
+      "ITD_abs_error_us": 75.03453804885785
+    },
+    {
+      "id": "018",
+      "angle": 35,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.3517505038379123,
+      "ITD_abs_error_us": 49.390657553496624
+    },
+    {
+      "id": "018",
+      "angle": 35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2525527695714773,
+      "ITD_abs_error_us": 88.72406266594436
+    },
+    {
+      "id": "018",
+      "angle": 40,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.678086021236447,
+      "ITD_abs_error_us": 130.0492438958227
+    },
+    {
+      "id": "018",
+      "angle": 40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.167021799640536,
+      "ITD_abs_error_us": 152.66129858270608
+    },
+    {
+      "id": "018",
+      "angle": 45,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.530832402759988,
+      "ITD_abs_error_us": 131.66148765368263
+    },
+    {
+      "id": "018",
+      "angle": 45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3993104792696966,
+      "ITD_abs_error_us": 153.56379189064643
+    },
+    {
+      "id": "018",
+      "angle": 55,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.555007342137101,
+      "ITD_abs_error_us": 135.12175511523947
+    },
+    {
+      "id": "018",
+      "angle": 55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5944688427895564,
+      "ITD_abs_error_us": 123.62109683367146
+    },
+    {
+      "id": "018",
+      "angle": 65,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.791119892447686,
+      "ITD_abs_error_us": 117.59917450580463
+    },
+    {
+      "id": "018",
+      "angle": 65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.7094769902085154,
+      "ITD_abs_error_us": 64.67237841764916
+    },
+    {
+      "id": "018",
+      "angle": 80,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.416626821945297,
+      "ITD_abs_error_us": 47.244185697787884
+    },
+    {
+      "id": "018",
+      "angle": 80,
+      "model": "measured",
+      "ILD_MAE_dB": 2.394080431742739,
+      "ITD_abs_error_us": 49.011907877913586
+    }
+  ],
+  "test": [
+    {
+      "id": "135",
+      "angle": -80,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.995656963971358,
+      "ITD_abs_error_us": 53.161446368119186
+    },
+    {
+      "id": "135",
+      "angle": -80,
+      "model": "measured",
+      "ILD_MAE_dB": 4.6795548084049905,
+      "ITD_abs_error_us": 51.393724187993485
+    },
+    {
+      "id": "135",
+      "angle": -65,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.717650894532737,
+      "ITD_abs_error_us": 43.111460473233706
+    },
+    {
+      "id": "135",
+      "angle": -65,
+      "model": "measured",
+      "ILD_MAE_dB": 2.564608250003709,
+      "ITD_abs_error_us": 96.03825656138918
+    },
+    {
+      "id": "135",
+      "angle": -55,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.104509861162036,
+      "ITD_abs_error_us": 141.3190075242543
+    },
+    {
+      "id": "135",
+      "angle": -55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.541098694903691,
+      "ITD_abs_error_us": 152.8196658058223
+    },
+    {
+      "id": "135",
+      "angle": -45,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.7133401700916036,
+      "ITD_abs_error_us": 176.113235298441
+    },
+    {
+      "id": "135",
+      "angle": -45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.7753960988581088,
+      "ITD_abs_error_us": 154.2109310614772
+    },
+    {
+      "id": "135",
+      "angle": -40,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.5618769740055805,
+      "ITD_abs_error_us": 188.6167953709034
+    },
+    {
+      "id": "135",
+      "angle": -40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2764774106125438,
+      "ITD_abs_error_us": 166.00474068402002
+    },
+    {
+      "id": "135",
+      "angle": -35,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.5855385108840712,
+      "ITD_abs_error_us": 194.86742108668955
+    },
+    {
+      "id": "135",
+      "angle": -35,
+      "model": "measured",
+      "ILD_MAE_dB": 5.025744464271732,
+      "ITD_abs_error_us": 155.5340159742418
+    },
+    {
+      "id": "135",
+      "angle": -30,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.6790916287225712,
+      "ITD_abs_error_us": 268.23912101811084
+    },
+    {
+      "id": "135",
+      "angle": -30,
+      "model": "measured",
+      "ILD_MAE_dB": 2.392233774055244,
+      "ITD_abs_error_us": 213.827149761626
+    },
+    {
+      "id": "135",
+      "angle": -25,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.2190599434566933,
+      "ITD_abs_error_us": 214.90833893017174
+    },
+    {
+      "id": "135",
+      "angle": -25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.313890598839269,
+      "ITD_abs_error_us": 156.12111979236954
+    },
+    {
+      "id": "135",
+      "angle": -20,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.190825328507364,
+      "ITD_abs_error_us": 221.19394269216474
+    },
+    {
+      "id": "135",
+      "angle": -20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.823208409569394,
+      "ITD_abs_error_us": 154.35029604079796
+    },
+    {
+      "id": "135",
+      "angle": -15,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.9002534347771094,
+      "ITD_abs_error_us": 142.77030815265164
+    },
+    {
+      "id": "135",
+      "angle": -15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.7779809079577216,
+      "ITD_abs_error_us": 115.74784431290345
+    },
+    {
+      "id": "135",
+      "angle": -10,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.530739483047192,
+      "ITD_abs_error_us": 86.07486396634182
+    },
+    {
+      "id": "135",
+      "angle": -10,
+      "model": "measured",
+      "ILD_MAE_dB": 5.738452584934233,
+      "ITD_abs_error_us": 61.350952279983204
+    },
+    {
+      "id": "135",
+      "angle": -5,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.3816362752736984,
+      "ITD_abs_error_us": 126.6764889346531
+    },
+    {
+      "id": "135",
+      "angle": -5,
+      "model": "measured",
+      "ILD_MAE_dB": 2.8956805410538826,
+      "ITD_abs_error_us": 104.70731407179636
+    },
+    {
+      "id": "135",
+      "angle": 5,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.769816746904466,
+      "ITD_abs_error_us": 70.88898478679334
+    },
+    {
+      "id": "135",
+      "angle": 5,
+      "model": "measured",
+      "ILD_MAE_dB": 2.255772481124282,
+      "ITD_abs_error_us": 92.85815964965008
+    },
+    {
+      "id": "135",
+      "angle": 10,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.7977628691591416,
+      "ITD_abs_error_us": 13.827882839843156
+    },
+    {
+      "id": "135",
+      "angle": 10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6638881579536264,
+      "ITD_abs_error_us": 10.896028846515463
+    },
+    {
+      "id": "135",
+      "angle": 15,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.546084255845216,
+      "ITD_abs_error_us": 18.620644556199352
+    },
+    {
+      "id": "135",
+      "angle": 15,
+      "model": "measured",
+      "ILD_MAE_dB": 5.605694582516154,
+      "ITD_abs_error_us": 8.401819283548818
+    },
+    {
+      "id": "135",
+      "angle": 20,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.324515002011996,
+      "ITD_abs_error_us": 52.82313442577998
+    },
+    {
+      "id": "135",
+      "angle": 20,
+      "model": "measured",
+      "ILD_MAE_dB": 2.8043926957975573,
+      "ITD_abs_error_us": 14.020512225586799
+    },
+    {
+      "id": "135",
+      "angle": 25,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.4985771937204975,
+      "ITD_abs_error_us": 69.61609774362731
+    },
+    {
+      "id": "135",
+      "angle": 25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4535433408124672,
+      "ITD_abs_error_us": 10.82887860582511
+    },
+    {
+      "id": "135",
+      "angle": 30,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.582800152317306,
+      "ITD_abs_error_us": 80.1239497520576
+    },
+    {
+      "id": "135",
+      "angle": 30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.8169069341897301,
+      "ITD_abs_error_us": 25.711978495572737
+    },
+    {
+      "id": "135",
+      "angle": 35,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.411776503807908,
+      "ITD_abs_error_us": 121.05939298319208
+    },
+    {
+      "id": "135",
+      "angle": 35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.646308757406119,
+      "ITD_abs_error_us": 81.72598787074435
+    },
+    {
+      "id": "135",
+      "angle": 40,
+      "model": "analytic",
+      "ILD_MAE_dB": 9.89245980428327,
+      "ITD_abs_error_us": 126.56095295281574
+    },
+    {
+      "id": "135",
+      "angle": 40,
+      "model": "measured",
+      "ILD_MAE_dB": 5.317174484630446,
+      "ITD_abs_error_us": 103.94889826593237
+    },
+    {
+      "id": "135",
+      "angle": 45,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.7509794469559585,
+      "ITD_abs_error_us": 67.42220956817516
+    },
+    {
+      "id": "135",
+      "angle": 45,
+      "model": "measured",
+      "ILD_MAE_dB": 2.5814227808260433,
+      "ITD_abs_error_us": 45.51990533121136
+    },
+    {
+      "id": "135",
+      "angle": 55,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.402788181680045,
+      "ITD_abs_error_us": 9.955458695470668
+    },
+    {
+      "id": "135",
+      "angle": 55,
+      "model": "measured",
+      "ILD_MAE_dB": 2.1255323679391194,
+      "ITD_abs_error_us": 21.456116977038675
+    },
+    {
+      "id": "135",
+      "angle": 65,
+      "model": "analytic",
+      "ILD_MAE_dB": 8.156678289078263,
+      "ITD_abs_error_us": 52.279795005760775
+    },
+    {
+      "id": "135",
+      "angle": 65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.7664799839448913,
+      "ITD_abs_error_us": 0.647001082394695
+    },
+    {
+      "id": "135",
+      "angle": 80,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.616600512974007,
+      "ITD_abs_error_us": 43.158059358012224
+    },
+    {
+      "id": "135",
+      "angle": 80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5369968493089579,
+      "ITD_abs_error_us": 41.39033717788652
+    },
+    {
+      "id": "033",
+      "angle": -80,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.371958685276486,
+      "ITD_abs_error_us": 16.869503111808058
+    },
+    {
+      "id": "033",
+      "angle": -80,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9120681358022753,
+      "ITD_abs_error_us": 18.63722529193376
+    },
+    {
+      "id": "033",
+      "angle": -65,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.874356485803669,
+      "ITD_abs_error_us": 58.21738601905565
+    },
+    {
+      "id": "033",
+      "angle": -65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3220886623218897,
+      "ITD_abs_error_us": 5.2905899309001825
+    },
+    {
+      "id": "033",
+      "angle": -55,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.391265071681171,
+      "ITD_abs_error_us": 96.79974605019288
+    },
+    {
+      "id": "033",
+      "angle": -55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3872047950547626,
+      "ITD_abs_error_us": 85.29908776862487
+    },
+    {
+      "id": "033",
+      "angle": -45,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.488775864123484,
+      "ITD_abs_error_us": 51.785770381490636
+    },
+    {
+      "id": "033",
+      "angle": -45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1024653609920194,
+      "ITD_abs_error_us": 73.68807461845444
+    },
+    {
+      "id": "033",
+      "angle": -40,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.819740171786617,
+      "ITD_abs_error_us": 7.685969268531949
+    },
+    {
+      "id": "033",
+      "angle": -40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.210010024440778,
+      "ITD_abs_error_us": 30.298023955415317
+    },
+    {
+      "id": "033",
+      "angle": -35,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.668795456977461,
+      "ITD_abs_error_us": 19.29175443115247
+    },
+    {
+      "id": "033",
+      "angle": -35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.25599716905605,
+      "ITD_abs_error_us": 58.625159543600205
+    },
+    {
+      "id": "033",
+      "angle": -30,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.671916603045374,
+      "ITD_abs_error_us": 29.626255321142708
+    },
+    {
+      "id": "033",
+      "angle": -30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0578537578055973,
+      "ITD_abs_error_us": 24.785715935342154
+    },
+    {
+      "id": "033",
+      "angle": -25,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.9536990420181324,
+      "ITD_abs_error_us": 85.66792054554023
+    },
+    {
+      "id": "033",
+      "angle": -25,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9818572185116826,
+      "ITD_abs_error_us": 26.88070140773803
+    },
+    {
+      "id": "033",
+      "angle": -20,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.3393353107458688,
+      "ITD_abs_error_us": 127.79700776986249
+    },
+    {
+      "id": "033",
+      "angle": -20,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9319496264148773,
+      "ITD_abs_error_us": 60.95336111849571
+    },
+    {
+      "id": "033",
+      "angle": -15,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.9464512344938488,
+      "ITD_abs_error_us": 184.39771804202226
+    },
+    {
+      "id": "033",
+      "angle": -15,
+      "model": "measured",
+      "ILD_MAE_dB": 2.244913499788133,
+      "ITD_abs_error_us": 157.37525420227408
+    },
+    {
+      "id": "033",
+      "angle": -10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.1602418682125721,
+      "ITD_abs_error_us": 17.69222899653488
+    },
+    {
+      "id": "033",
+      "angle": -10,
+      "model": "measured",
+      "ILD_MAE_dB": 0.7493306997039416,
+      "ITD_abs_error_us": 42.4161406828935
+    },
+    {
+      "id": "033",
+      "angle": -5,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.783005786900893,
+      "ITD_abs_error_us": 63.64135409441849
+    },
+    {
+      "id": "033",
+      "angle": -5,
+      "model": "measured",
+      "ILD_MAE_dB": 0.6792649815871595,
+      "ITD_abs_error_us": 85.61052895727522
+    },
+    {
+      "id": "033",
+      "angle": 5,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.1166864323239496,
+      "ITD_abs_error_us": 24.429248521970326
+    },
+    {
+      "id": "033",
+      "angle": 5,
+      "model": "measured",
+      "ILD_MAE_dB": 0.6780787198294728,
+      "ITD_abs_error_us": 2.46007365911359
+    },
+    {
+      "id": "033",
+      "angle": 10,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.787780893091529,
+      "ITD_abs_error_us": 13.054902158892872
+    },
+    {
+      "id": "033",
+      "angle": 10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5800677912044887,
+      "ITD_abs_error_us": 37.77881384525149
+    },
+    {
+      "id": "033",
+      "angle": 15,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.7102494760533284,
+      "ITD_abs_error_us": 111.36300510738275
+    },
+    {
+      "id": "033",
+      "angle": 15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0840371469523982,
+      "ITD_abs_error_us": 84.34054126763458
+    },
+    {
+      "id": "033",
+      "angle": 20,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.359709396968954,
+      "ITD_abs_error_us": 41.840451149146645
+    },
+    {
+      "id": "033",
+      "angle": 20,
+      "model": "measured",
+      "ILD_MAE_dB": 0.7538892585858711,
+      "ITD_abs_error_us": 25.003195502220137
+    },
+    {
+      "id": "033",
+      "angle": 25,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.2597237720781496,
+      "ITD_abs_error_us": 105.96955420835366
+    },
+    {
+      "id": "033",
+      "angle": 25,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9763676275071589,
+      "ITD_abs_error_us": 47.18233507055146
+    },
+    {
+      "id": "033",
+      "angle": 30,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.977304456947154,
+      "ITD_abs_error_us": 97.56449594437842
+    },
+    {
+      "id": "033",
+      "angle": 30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4033765074025781,
+      "ITD_abs_error_us": 43.15252468789356
+    },
+    {
+      "id": "033",
+      "angle": 35,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.069740771834982,
+      "ITD_abs_error_us": 112.98895212285515
+    },
+    {
+      "id": "033",
+      "angle": 35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5679843212228166,
+      "ITD_abs_error_us": 152.3223572353029
+    },
+    {
+      "id": "033",
+      "angle": 40,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.384420329056641,
+      "ITD_abs_error_us": 2.7462116820050255
+    },
+    {
+      "id": "033",
+      "angle": 40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3411249295740393,
+      "ITD_abs_error_us": 25.358266368888394
+    },
+    {
+      "id": "033",
+      "angle": 45,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.851479181999237,
+      "ITD_abs_error_us": 38.46198599899401
+    },
+    {
+      "id": "033",
+      "angle": 45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0303305077041987,
+      "ITD_abs_error_us": 16.55968176203021
+    },
+    {
+      "id": "033",
+      "angle": 55,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.38277246209411,
+      "ITD_abs_error_us": 50.376176150524884
+    },
+    {
+      "id": "033",
+      "angle": 55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4094613244905605,
+      "ITD_abs_error_us": 38.87551786895688
+    },
+    {
+      "id": "033",
+      "angle": 65,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.004973242464072,
+      "ITD_abs_error_us": 63.30045212752111
+    },
+    {
+      "id": "033",
+      "angle": 65,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8800658872530831,
+      "ITD_abs_error_us": 10.373656039365642
+    },
+    {
+      "id": "033",
+      "angle": 80,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.55686409063254,
+      "ITD_abs_error_us": 10.993434365267944
+    },
+    {
+      "id": "033",
+      "angle": 80,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8314467547982768,
+      "ITD_abs_error_us": 12.761156545393646
+    },
+    {
+      "id": "011",
+      "angle": -80,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.723615377027372,
+      "ITD_abs_error_us": 9.781778246988665
+    },
+    {
+      "id": "011",
+      "angle": -80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4957910428042198,
+      "ITD_abs_error_us": 8.014056066862963
+    },
+    {
+      "id": "011",
+      "angle": -65,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.553711071535233,
+      "ITD_abs_error_us": 15.268705789213072
+    },
+    {
+      "id": "011",
+      "angle": -65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6250699444364813,
+      "ITD_abs_error_us": 37.6580902989424
+    },
+    {
+      "id": "011",
+      "angle": -55,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.110294052191118,
+      "ITD_abs_error_us": 4.40610095035953
+    },
+    {
+      "id": "011",
+      "angle": -55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.640190872892526,
+      "ITD_abs_error_us": 7.0945573312084775
+    },
+    {
+      "id": "011",
+      "angle": -45,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.255337381437686,
+      "ITD_abs_error_us": 22.96152713712212
+    },
+    {
+      "id": "011",
+      "angle": -45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.36138329787417,
+      "ITD_abs_error_us": 1.0592229001583178
+    },
+    {
+      "id": "011",
+      "angle": -40,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.060776584983286,
+      "ITD_abs_error_us": 29.36400883022111
+    },
+    {
+      "id": "011",
+      "angle": -40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3474268276118826,
+      "ITD_abs_error_us": 6.751954143337741
+    },
+    {
+      "id": "011",
+      "angle": -35,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.583070969668412,
+      "ITD_abs_error_us": 59.81188119545004
+    },
+    {
+      "id": "011",
+      "angle": -35,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8614579664508412,
+      "ITD_abs_error_us": 20.478476083002306
+    },
+    {
+      "id": "011",
+      "angle": -30,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.468184429690957,
+      "ITD_abs_error_us": 122.90132401955992
+    },
+    {
+      "id": "011",
+      "angle": -30,
+      "model": "measured",
+      "ILD_MAE_dB": 0.7228158610186253,
+      "ITD_abs_error_us": 68.48935276307506
+    },
+    {
+      "id": "011",
+      "angle": -25,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.0311577422005573,
+      "ITD_abs_error_us": 101.76043165883979
+    },
+    {
+      "id": "011",
+      "angle": -25,
+      "model": "measured",
+      "ILD_MAE_dB": 0.6464485922414185,
+      "ITD_abs_error_us": 42.973212521037595
+    },
+    {
+      "id": "011",
+      "angle": -20,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.3401417611742446,
+      "ITD_abs_error_us": 90.77303948509012
+    },
+    {
+      "id": "011",
+      "angle": -20,
+      "model": "measured",
+      "ILD_MAE_dB": 0.7231418389095001,
+      "ITD_abs_error_us": 23.92939283372334
+    },
+    {
+      "id": "011",
+      "angle": -15,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.119738505143897,
+      "ITD_abs_error_us": 63.663781677556614
+    },
+    {
+      "id": "011",
+      "angle": -15,
+      "model": "measured",
+      "ILD_MAE_dB": 0.5443711617640944,
+      "ITD_abs_error_us": 36.641317837808444
+    },
+    {
+      "id": "011",
+      "angle": -10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.0877545631464132,
+      "ITD_abs_error_us": 37.926412250542185
+    },
+    {
+      "id": "011",
+      "angle": -10,
+      "model": "measured",
+      "ILD_MAE_dB": 0.5501099824691914,
+      "ITD_abs_error_us": 13.202500564183566
+    },
+    {
+      "id": "011",
+      "angle": -5,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.5156977948507286,
+      "ITD_abs_error_us": 55.31458661980008
+    },
+    {
+      "id": "011",
+      "angle": -5,
+      "model": "measured",
+      "ILD_MAE_dB": 0.6790169299848731,
+      "ITD_abs_error_us": 33.34541175694335
+    },
+    {
+      "id": "011",
+      "angle": 5,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.071456327165507,
+      "ITD_abs_error_us": 30.46223342474923
+    },
+    {
+      "id": "011",
+      "angle": 5,
+      "model": "measured",
+      "ILD_MAE_dB": 0.6086101551397,
+      "ITD_abs_error_us": 52.43140828760596
+    },
+    {
+      "id": "011",
+      "angle": 10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.3219879528842045,
+      "ITD_abs_error_us": 14.175756315222912
+    },
+    {
+      "id": "011",
+      "angle": 10,
+      "model": "measured",
+      "ILD_MAE_dB": 0.6246957112907365,
+      "ITD_abs_error_us": 10.548155371135707
+    },
+    {
+      "id": "011",
+      "angle": 15,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.401939179298704,
+      "ITD_abs_error_us": 23.513034869622203
+    },
+    {
+      "id": "011",
+      "angle": 15,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8246500232260705,
+      "ITD_abs_error_us": 50.53549870937037
+    },
+    {
+      "id": "011",
+      "angle": 20,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.532281801767891,
+      "ITD_abs_error_us": 39.377507627599755
+    },
+    {
+      "id": "011",
+      "angle": 20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2280922872421418,
+      "ITD_abs_error_us": 106.22115427896654
+    },
+    {
+      "id": "011",
+      "angle": 25,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.142691342538852,
+      "ITD_abs_error_us": 12.96357815211121
+    },
+    {
+      "id": "011",
+      "angle": 25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0965253886029465,
+      "ITD_abs_error_us": 71.75079728991341
+    },
+    {
+      "id": "011",
+      "angle": 30,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.438923707484992,
+      "ITD_abs_error_us": 22.77983277352041
+    },
+    {
+      "id": "011",
+      "angle": 30,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9907534463749048,
+      "ITD_abs_error_us": 77.19180403000527
+    },
+    {
+      "id": "011",
+      "angle": 35,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.528191885912948,
+      "ITD_abs_error_us": 26.59589570681942
+    },
+    {
+      "id": "011",
+      "angle": 35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0227738449741004,
+      "ITD_abs_error_us": 12.737509405628316
+    },
+    {
+      "id": "011",
+      "angle": 40,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.032268815939549,
+      "ITD_abs_error_us": 30.207043780297113
+    },
+    {
+      "id": "011",
+      "angle": 40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.180351043765665,
+      "ITD_abs_error_us": 52.81909846718048
+    },
+    {
+      "id": "011",
+      "angle": 45,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.914749934119174,
+      "ITD_abs_error_us": 63.29540594228922
+    },
+    {
+      "id": "011",
+      "angle": 45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6079217660989538,
+      "ITD_abs_error_us": 85.19771017925302
+    },
+    {
+      "id": "011",
+      "angle": 55,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.650056404066827,
+      "ITD_abs_error_us": 70.0778534813428
+    },
+    {
+      "id": "011",
+      "angle": 55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.747220411413007,
+      "ITD_abs_error_us": 58.57719519977479
+    },
+    {
+      "id": "011",
+      "angle": 65,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.802601672262393,
+      "ITD_abs_error_us": 96.84505657758973
+    },
+    {
+      "id": "011",
+      "angle": 65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5686679299739572,
+      "ITD_abs_error_us": 43.91826048943426
+    },
+    {
+      "id": "011",
+      "angle": 80,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.969914547614083,
+      "ITD_abs_error_us": 11.989393225943672
+    },
+    {
+      "id": "011",
+      "angle": 80,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9386835263570208,
+      "ITD_abs_error_us": 13.757115406069374
+    },
+    {
+      "id": "009",
+      "angle": -80,
+      "model": "analytic",
+      "ILD_MAE_dB": 9.818993236425138,
+      "ITD_abs_error_us": 96.9415770143471
+    },
+    {
+      "id": "009",
+      "angle": -80,
+      "model": "measured",
+      "ILD_MAE_dB": 3.5999360441523245,
+      "ITD_abs_error_us": 98.7092991944728
+    },
+    {
+      "id": "009",
+      "angle": -65,
+      "model": "analytic",
+      "ILD_MAE_dB": 10.889169838204785,
+      "ITD_abs_error_us": 79.02790437488557
+    },
+    {
+      "id": "009",
+      "angle": -65,
+      "model": "measured",
+      "ILD_MAE_dB": 3.745334844961565,
+      "ITD_abs_error_us": 26.101108286730096
+    },
+    {
+      "id": "009",
+      "angle": -55,
+      "model": "analytic",
+      "ILD_MAE_dB": 9.531052132034752,
+      "ITD_abs_error_us": 141.89496623506136
+    },
+    {
+      "id": "009",
+      "angle": -55,
+      "model": "measured",
+      "ILD_MAE_dB": 3.445061487043354,
+      "ITD_abs_error_us": 130.39430795349335
+    },
+    {
+      "id": "009",
+      "angle": -45,
+      "model": "analytic",
+      "ILD_MAE_dB": 8.439630450097404,
+      "ITD_abs_error_us": 7.900721226478026
+    },
+    {
+      "id": "009",
+      "angle": -45,
+      "model": "measured",
+      "ILD_MAE_dB": 3.2532539771925872,
+      "ITD_abs_error_us": 14.001583010485774
+    },
+    {
+      "id": "009",
+      "angle": -40,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.731878053153191,
+      "ITD_abs_error_us": 1.648204021288052
+    },
+    {
+      "id": "009",
+      "angle": -40,
+      "model": "measured",
+      "ILD_MAE_dB": 3.3036527422683033,
+      "ITD_abs_error_us": 24.26025870817142
+    },
+    {
+      "id": "009",
+      "angle": -35,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.8883695828007045,
+      "ITD_abs_error_us": 32.22279548158593
+    },
+    {
+      "id": "009",
+      "angle": -35,
+      "model": "measured",
+      "ILD_MAE_dB": 3.73060447042408,
+      "ITD_abs_error_us": 7.110609630861802
+    },
+    {
+      "id": "009",
+      "angle": -30,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.772951367696125,
+      "ITD_abs_error_us": 68.35830966992629
+    },
+    {
+      "id": "009",
+      "angle": -30,
+      "model": "measured",
+      "ILD_MAE_dB": 2.946528614835854,
+      "ITD_abs_error_us": 13.946338413441424
+    },
+    {
+      "id": "009",
+      "angle": -25,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.949068760848481,
+      "ITD_abs_error_us": 18.657245346434195
+    },
+    {
+      "id": "009",
+      "angle": -25,
+      "model": "measured",
+      "ILD_MAE_dB": 2.7521016516385197,
+      "ITD_abs_error_us": 40.129973791368
+    },
+    {
+      "id": "009",
+      "angle": -20,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.765907747757891,
+      "ITD_abs_error_us": 65.22070690298068
+    },
+    {
+      "id": "009",
+      "angle": -20,
+      "model": "measured",
+      "ILD_MAE_dB": 2.349271413667053,
+      "ITD_abs_error_us": 1.622939748386102
+    },
+    {
+      "id": "009",
+      "angle": -15,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.25180302995172,
+      "ITD_abs_error_us": 45.46321307400436
+    },
+    {
+      "id": "009",
+      "angle": -15,
+      "model": "measured",
+      "ILD_MAE_dB": 2.418228179166215,
+      "ITD_abs_error_us": 18.440749234256188
+    },
+    {
+      "id": "009",
+      "angle": -10,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.6814614047603964,
+      "ITD_abs_error_us": 18.329044956970193
+    },
+    {
+      "id": "009",
+      "angle": -10,
+      "model": "measured",
+      "ILD_MAE_dB": 2.473748302873356,
+      "ITD_abs_error_us": 43.05295664332881
+    },
+    {
+      "id": "009",
+      "angle": -5,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.671375388368142,
+      "ITD_abs_error_us": 15.402235990220419
+    },
+    {
+      "id": "009",
+      "angle": -5,
+      "model": "measured",
+      "ILD_MAE_dB": 2.149079759797294,
+      "ITD_abs_error_us": 6.566938872636317
+    },
+    {
+      "id": "009",
+      "angle": 5,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.9359283974544808,
+      "ITD_abs_error_us": 16.0266756301109
+    },
+    {
+      "id": "009",
+      "angle": 5,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1581589341062681,
+      "ITD_abs_error_us": 5.942499232745835
+    },
+    {
+      "id": "009",
+      "angle": 10,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.9363767063205464,
+      "ITD_abs_error_us": 19.92561448942054
+    },
+    {
+      "id": "009",
+      "angle": 10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2980092863743915,
+      "ITD_abs_error_us": 4.79829719693808
+    },
+    {
+      "id": "009",
+      "angle": 15,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.1335043092646626,
+      "ITD_abs_error_us": 23.77592902288123
+    },
+    {
+      "id": "009",
+      "angle": 15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.7053497071009494,
+      "ITD_abs_error_us": 50.7983928626294
+    },
+    {
+      "id": "009",
+      "angle": 20,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.6865827725850682,
+      "ITD_abs_error_us": 24.97178808265656
+    },
+    {
+      "id": "009",
+      "angle": 20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.356765430265201,
+      "ITD_abs_error_us": 91.81543473402334
+    },
+    {
+      "id": "009",
+      "angle": 25,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.7438169721187513,
+      "ITD_abs_error_us": 3.720579487169033
+    },
+    {
+      "id": "009",
+      "angle": 25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.940944029857988,
+      "ITD_abs_error_us": 55.066639650633164
+    },
+    {
+      "id": "009",
+      "angle": 30,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.883827494345854,
+      "ITD_abs_error_us": 17.570436978514067
+    },
+    {
+      "id": "009",
+      "angle": 30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3997634318788112,
+      "ITD_abs_error_us": 71.98240823499893
+    },
+    {
+      "id": "009",
+      "angle": 35,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.244448777171236,
+      "ITD_abs_error_us": 58.15374669493673
+    },
+    {
+      "id": "009",
+      "angle": 35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4096130427163114,
+      "ITD_abs_error_us": 97.48715180738446
+    },
+    {
+      "id": "009",
+      "angle": 40,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.4692967096506626,
+      "ITD_abs_error_us": 45.710331284730955
+    },
+    {
+      "id": "009",
+      "angle": 40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6618631411144908,
+      "ITD_abs_error_us": 23.098276597847587
+    },
+    {
+      "id": "009",
+      "angle": 45,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.006997594868042,
+      "ITD_abs_error_us": 9.49176156199411
+    },
+    {
+      "id": "009",
+      "angle": 45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5398312890196708,
+      "ITD_abs_error_us": 31.39406579895791
+    },
+    {
+      "id": "009",
+      "angle": 55,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.8296240257715395,
+      "ITD_abs_error_us": 67.53987515988763
+    },
+    {
+      "id": "009",
+      "angle": 55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6480090081942127,
+      "ITD_abs_error_us": 56.03921687831962
+    },
+    {
+      "id": "009",
+      "angle": 65,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.5131246398503215,
+      "ITD_abs_error_us": 110.26989710752491
+    },
+    {
+      "id": "009",
+      "angle": 65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2800359364229938,
+      "ITD_abs_error_us": 57.34310101936944
+    },
+    {
+      "id": "009",
+      "angle": 80,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.829187805229058,
+      "ITD_abs_error_us": 104.0768714578544
+    },
+    {
+      "id": "009",
+      "angle": 80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0836040568164844,
+      "ITD_abs_error_us": 105.8445936379801
+    },
+    {
+      "id": "148",
+      "angle": -80,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.002174079135614,
+      "ITD_abs_error_us": 32.44546181598287
+    },
+    {
+      "id": "148",
+      "angle": -80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1476464849156085,
+      "ITD_abs_error_us": 30.677739635857165
+    },
+    {
+      "id": "148",
+      "angle": -65,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.9596770945997015,
+      "ITD_abs_error_us": 43.36644373456386
+    },
+    {
+      "id": "148",
+      "angle": -65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2152352786065326,
+      "ITD_abs_error_us": 9.560352353591611
+    },
+    {
+      "id": "148",
+      "angle": -55,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.142051154013193,
+      "ITD_abs_error_us": 46.51863511425273
+    },
+    {
+      "id": "148",
+      "angle": -55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.7836861409208633,
+      "ITD_abs_error_us": 58.01929339582074
+    },
+    {
+      "id": "148",
+      "angle": -45,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.762105609695996,
+      "ITD_abs_error_us": 7.031731384161276
+    },
+    {
+      "id": "148",
+      "angle": -45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.514058775550918,
+      "ITD_abs_error_us": 28.934035621125076
+    },
+    {
+      "id": "148",
+      "angle": -40,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.520425921344638,
+      "ITD_abs_error_us": 114.38802696532184
+    },
+    {
+      "id": "148",
+      "angle": -40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3504176045972072,
+      "ITD_abs_error_us": 91.77597227843847
+    },
+    {
+      "id": "148",
+      "angle": -35,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.390496577153979,
+      "ITD_abs_error_us": 77.93340100236992
+    },
+    {
+      "id": "148",
+      "angle": -35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4710740386257806,
+      "ITD_abs_error_us": 38.599995889922184
+    },
+    {
+      "id": "148",
+      "angle": -30,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.5984490427278155,
+      "ITD_abs_error_us": 82.20264636054122
+    },
+    {
+      "id": "148",
+      "angle": -30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.179368816795469,
+      "ITD_abs_error_us": 27.790675104056362
+    },
+    {
+      "id": "148",
+      "angle": -25,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.25880529037267,
+      "ITD_abs_error_us": 193.48791359931627
+    },
+    {
+      "id": "148",
+      "angle": -25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4248749694917064,
+      "ITD_abs_error_us": 134.70069446151408
+    },
+    {
+      "id": "148",
+      "angle": -20,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.7124456256849836,
+      "ITD_abs_error_us": 94.88616189867165
+    },
+    {
+      "id": "148",
+      "angle": -20,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8296461429734556,
+      "ITD_abs_error_us": 28.042515247304863
+    },
+    {
+      "id": "148",
+      "angle": -15,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.0698652193311458,
+      "ITD_abs_error_us": 145.47833781795242
+    },
+    {
+      "id": "148",
+      "angle": -15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4561534433342787,
+      "ITD_abs_error_us": 118.45587397820427
+    },
+    {
+      "id": "148",
+      "angle": -10,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.9310227678533521,
+      "ITD_abs_error_us": 55.459191427533874
+    },
+    {
+      "id": "148",
+      "angle": -10,
+      "model": "measured",
+      "ILD_MAE_dB": 0.6401751186372905,
+      "ITD_abs_error_us": 30.735279741175255
+    },
+    {
+      "id": "148",
+      "angle": -5,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.7379587469218466,
+      "ITD_abs_error_us": 9.563206980885631
+    },
+    {
+      "id": "148",
+      "angle": -5,
+      "model": "measured",
+      "ILD_MAE_dB": 0.6641485202711753,
+      "ITD_abs_error_us": 12.405967881971105
+    },
+    {
+      "id": "148",
+      "angle": 5,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.8078922599514756,
+      "ITD_abs_error_us": 5.648812190770251
+    },
+    {
+      "id": "148",
+      "angle": 5,
+      "model": "measured",
+      "ILD_MAE_dB": 0.5422636201926421,
+      "ITD_abs_error_us": 16.320362672086485
+    },
+    {
+      "id": "148",
+      "angle": 10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.976121761352468,
+      "ITD_abs_error_us": 34.08947730797877
+    },
+    {
+      "id": "148",
+      "angle": 10,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9549945453868887,
+      "ITD_abs_error_us": 58.81338899433739
+    },
+    {
+      "id": "148",
+      "angle": 15,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.4567805428548057,
+      "ITD_abs_error_us": 18.113791894834037
+    },
+    {
+      "id": "148",
+      "angle": 15,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8434818943239254,
+      "ITD_abs_error_us": 45.13625573458221
+    },
+    {
+      "id": "148",
+      "angle": 20,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.733249778929078,
+      "ITD_abs_error_us": 64.51252223222045
+    },
+    {
+      "id": "148",
+      "angle": 20,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9036631308822819,
+      "ITD_abs_error_us": 2.3311244191463345
+    },
+    {
+      "id": "148",
+      "angle": 25,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.9975474099748385,
+      "ITD_abs_error_us": 28.98114553541035
+    },
+    {
+      "id": "148",
+      "angle": 25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4096531364688099,
+      "ITD_abs_error_us": 87.76836467321255
+    },
+    {
+      "id": "148",
+      "angle": 30,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.844842857548259,
+      "ITD_abs_error_us": 20.911856379889173
+    },
+    {
+      "id": "148",
+      "angle": 30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1455418681485858,
+      "ITD_abs_error_us": 33.50011487659569
+    },
+    {
+      "id": "148",
+      "angle": 35,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.808290130940612,
+      "ITD_abs_error_us": 41.46124299896775
+    },
+    {
+      "id": "148",
+      "angle": 35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.487178891669715,
+      "ITD_abs_error_us": 80.79464811141548
+    },
+    {
+      "id": "148",
+      "angle": 40,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.898794895269443,
+      "ITD_abs_error_us": 29.191295450308814
+    },
+    {
+      "id": "148",
+      "angle": 40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.304733896982241,
+      "ITD_abs_error_us": 6.579240763425446
+    },
+    {
+      "id": "148",
+      "angle": 45,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.301043681694512,
+      "ITD_abs_error_us": 37.13384169976638
+    },
+    {
+      "id": "148",
+      "angle": 45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4473922871074523,
+      "ITD_abs_error_us": 15.231537462802578
+    },
+    {
+      "id": "148",
+      "angle": 55,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.753177584691865,
+      "ITD_abs_error_us": 51.82866636257154
+    },
+    {
+      "id": "148",
+      "angle": 55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4891112084443652,
+      "ITD_abs_error_us": 40.32800808100353
+    },
+    {
+      "id": "148",
+      "angle": 65,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.138573728408545,
+      "ITD_abs_error_us": 41.11740767536605
+    },
+    {
+      "id": "148",
+      "angle": 65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.211450022048947,
+      "ITD_abs_error_us": 11.809388412789417
+    },
+    {
+      "id": "148",
+      "angle": 80,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.5878745311438855,
+      "ITD_abs_error_us": 30.032929336551206
+    },
+    {
+      "id": "148",
+      "angle": 80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2642261433805642,
+      "ITD_abs_error_us": 31.800651516676908
+    },
+    {
+      "id": "153",
+      "angle": -80,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.550349114979456,
+      "ITD_abs_error_us": 27.52099212273049
+    },
+    {
+      "id": "153",
+      "angle": -80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2069938739804862,
+      "ITD_abs_error_us": 29.288714302856192
+    },
+    {
+      "id": "153",
+      "angle": -65,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.9785172881844,
+      "ITD_abs_error_us": 94.84609164425478
+    },
+    {
+      "id": "153",
+      "angle": -65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.486996803717746,
+      "ITD_abs_error_us": 41.919295556099314
+    },
+    {
+      "id": "153",
+      "angle": -55,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.322170349328545,
+      "ITD_abs_error_us": 166.2339525407334
+    },
+    {
+      "id": "153",
+      "angle": -55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6557366310618185,
+      "ITD_abs_error_us": 154.7332942591654
+    },
+    {
+      "id": "153",
+      "angle": -45,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.927383934659108,
+      "ITD_abs_error_us": 84.39913455025959
+    },
+    {
+      "id": "153",
+      "angle": -45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2492068680595845,
+      "ITD_abs_error_us": 106.30143878722339
+    },
+    {
+      "id": "153",
+      "angle": -40,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.205334247349272,
+      "ITD_abs_error_us": 97.06170337907463
+    },
+    {
+      "id": "153",
+      "angle": -40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0074211474873356,
+      "ITD_abs_error_us": 119.673758065958
+    },
+    {
+      "id": "153",
+      "angle": -35,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.5544631256086925,
+      "ITD_abs_error_us": 40.54103828248145
+    },
+    {
+      "id": "153",
+      "angle": -35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.503538067330114,
+      "ITD_abs_error_us": 79.87444339492919
+    },
+    {
+      "id": "153",
+      "angle": -30,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.619934487315732,
+      "ITD_abs_error_us": 56.53993026390782
+    },
+    {
+      "id": "153",
+      "angle": -30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.8241208338784058,
+      "ITD_abs_error_us": 110.95190152039268
+    },
+    {
+      "id": "153",
+      "angle": -25,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.019869215636008,
+      "ITD_abs_error_us": 84.92853901566349
+    },
+    {
+      "id": "153",
+      "angle": -25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.8377352745455353,
+      "ITD_abs_error_us": 143.71575815346569
+    },
+    {
+      "id": "153",
+      "angle": -20,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.2523173067248443,
+      "ITD_abs_error_us": 9.640893728398538
+    },
+    {
+      "id": "153",
+      "angle": -20,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8785529454272821,
+      "ITD_abs_error_us": 76.48454037976532
+    },
+    {
+      "id": "153",
+      "angle": -15,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.516392031418668,
+      "ITD_abs_error_us": 9.958750886727017
+    },
+    {
+      "id": "153",
+      "angle": -15,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8995547228269234,
+      "ITD_abs_error_us": 36.98121472647519
+    },
+    {
+      "id": "153",
+      "angle": -10,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.425897384606399,
+      "ITD_abs_error_us": 62.43674181395585
+    },
+    {
+      "id": "153",
+      "angle": -10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5652648431271041,
+      "ITD_abs_error_us": 87.16065350031447
+    },
+    {
+      "id": "153",
+      "angle": -5,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.399302509226116,
+      "ITD_abs_error_us": 96.49622521486481
+    },
+    {
+      "id": "153",
+      "angle": -5,
+      "model": "measured",
+      "ILD_MAE_dB": 1.9929188640153654,
+      "ITD_abs_error_us": 118.46540007772154
+    },
+    {
+      "id": "153",
+      "angle": 5,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.9490708980069414,
+      "ITD_abs_error_us": 129.25707057666506
+    },
+    {
+      "id": "153",
+      "angle": 5,
+      "model": "measured",
+      "ILD_MAE_dB": 0.7928783760880345,
+      "ITD_abs_error_us": 107.28789571380831
+    },
+    {
+      "id": "153",
+      "angle": 10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.3076299090330912,
+      "ITD_abs_error_us": 180.06078424694692
+    },
+    {
+      "id": "153",
+      "angle": 10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2851291274421313,
+      "ITD_abs_error_us": 155.3368725605883
+    },
+    {
+      "id": "153",
+      "angle": 15,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.7411579546859666,
+      "ITD_abs_error_us": 173.50551942044007
+    },
+    {
+      "id": "153",
+      "angle": 15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.9039471301018207,
+      "ITD_abs_error_us": 146.48305558069188
+    },
+    {
+      "id": "153",
+      "angle": 20,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.5465494506942241,
+      "ITD_abs_error_us": 245.03555849168112
+    },
+    {
+      "id": "153",
+      "angle": 20,
+      "model": "measured",
+      "ILD_MAE_dB": 2.225203512126053,
+      "ITD_abs_error_us": 178.19191184031433
+    },
+    {
+      "id": "153",
+      "angle": 25,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.8974537307401822,
+      "ITD_abs_error_us": 253.47982339506095
+    },
+    {
+      "id": "153",
+      "angle": 25,
+      "model": "measured",
+      "ILD_MAE_dB": 2.049310849620964,
+      "ITD_abs_error_us": 194.69260425725875
+    },
+    {
+      "id": "153",
+      "angle": 30,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.769118414385397,
+      "ITD_abs_error_us": 190.30955102519366
+    },
+    {
+      "id": "153",
+      "angle": 30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0975516185823277,
+      "ITD_abs_error_us": 135.8975797687088
+    },
+    {
+      "id": "153",
+      "angle": 35,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.8838685987951767,
+      "ITD_abs_error_us": 180.43171369962727
+    },
+    {
+      "id": "153",
+      "angle": 35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3031646540307005,
+      "ITD_abs_error_us": 141.09830858717953
+    },
+    {
+      "id": "153",
+      "angle": 40,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.018334419110649,
+      "ITD_abs_error_us": 182.5314224694874
+    },
+    {
+      "id": "153",
+      "angle": 40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6087718962624413,
+      "ITD_abs_error_us": 159.91936778260404
+    },
+    {
+      "id": "153",
+      "angle": 45,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.097545751539968,
+      "ITD_abs_error_us": 142.3389687079627
+    },
+    {
+      "id": "153",
+      "angle": 45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.7275514506138103,
+      "ITD_abs_error_us": 120.43666447099889
+    },
+    {
+      "id": "153",
+      "angle": 55,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.0970979183578855,
+      "ITD_abs_error_us": 14.467672301777043
+    },
+    {
+      "id": "153",
+      "angle": 55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.7516517595252228,
+      "ITD_abs_error_us": 25.96833058334505
+    },
+    {
+      "id": "153",
+      "angle": 65,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.197577641076311,
+      "ITD_abs_error_us": 45.78499343713452
+    },
+    {
+      "id": "153",
+      "angle": 65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0004268034342298,
+      "ITD_abs_error_us": 7.141802651020953
+    },
+    {
+      "id": "153",
+      "angle": 80,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.892528135126805,
+      "ITD_abs_error_us": 8.287510937965521
+    },
+    {
+      "id": "153",
+      "angle": 80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1869414862237209,
+      "ITD_abs_error_us": 10.055233118091223
+    },
+    {
+      "id": "015",
+      "angle": -80,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.738665505753246,
+      "ITD_abs_error_us": 50.558701659813096
+    },
+    {
+      "id": "015",
+      "angle": -80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2604299627562499,
+      "ITD_abs_error_us": 52.3264238399388
+    },
+    {
+      "id": "015",
+      "angle": -65,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.3726450798207095,
+      "ITD_abs_error_us": 116.550460319727
+    },
+    {
+      "id": "015",
+      "angle": -65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.405584960325516,
+      "ITD_abs_error_us": 63.623664231571524
+    },
+    {
+      "id": "015",
+      "angle": -55,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.2882191223703705,
+      "ITD_abs_error_us": 107.40497213542415
+    },
+    {
+      "id": "015",
+      "angle": -55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.8255901961796783,
+      "ITD_abs_error_us": 95.90431385385614
+    },
+    {
+      "id": "015",
+      "angle": -45,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.322421753538624,
+      "ITD_abs_error_us": 61.53650594993297
+    },
+    {
+      "id": "015",
+      "angle": -45,
+      "model": "measured",
+      "ILD_MAE_dB": 2.041310211013106,
+      "ITD_abs_error_us": 83.43881018689677
+    },
+    {
+      "id": "015",
+      "angle": -40,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.9581305383917424,
+      "ITD_abs_error_us": 5.295896737784233
+    },
+    {
+      "id": "015",
+      "angle": -40,
+      "model": "measured",
+      "ILD_MAE_dB": 2.244574552108587,
+      "ITD_abs_error_us": 27.9079514246676
+    },
+    {
+      "id": "015",
+      "angle": -35,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.3114332448864685,
+      "ITD_abs_error_us": 56.215886182433564
+    },
+    {
+      "id": "015",
+      "angle": -35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.8364389239148968,
+      "ITD_abs_error_us": 95.5492912948813
+    },
+    {
+      "id": "015",
+      "angle": -30,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.031189038893318,
+      "ITD_abs_error_us": 154.9472697580395
+    },
+    {
+      "id": "015",
+      "angle": -30,
+      "model": "measured",
+      "ILD_MAE_dB": 2.263370089889592,
+      "ITD_abs_error_us": 209.35924101452437
+    },
+    {
+      "id": "015",
+      "angle": -25,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.751978200519249,
+      "ITD_abs_error_us": 75.81058141571049
+    },
+    {
+      "id": "015",
+      "angle": -25,
+      "model": "measured",
+      "ILD_MAE_dB": 2.1418879137728233,
+      "ITD_abs_error_us": 134.59780055351268
+    },
+    {
+      "id": "015",
+      "angle": -20,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.7610423913009203,
+      "ITD_abs_error_us": 73.49261614942364
+    },
+    {
+      "id": "015",
+      "angle": -20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.464904473423877,
+      "ITD_abs_error_us": 140.33626280079042
+    },
+    {
+      "id": "015",
+      "angle": -15,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.123968701979435,
+      "ITD_abs_error_us": 33.2767070220288
+    },
+    {
+      "id": "015",
+      "angle": -15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3690698379799748,
+      "ITD_abs_error_us": 60.29917086177697
+    },
+    {
+      "id": "015",
+      "angle": -10,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.220825216505384,
+      "ITD_abs_error_us": 36.57551415370153
+    },
+    {
+      "id": "015",
+      "angle": -10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.201235280337602,
+      "ITD_abs_error_us": 61.29942584006015
+    },
+    {
+      "id": "015",
+      "angle": -5,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.9137089225717503,
+      "ITD_abs_error_us": 65.52127999769642
+    },
+    {
+      "id": "015",
+      "angle": -5,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5178070174143938,
+      "ITD_abs_error_us": 87.49045486055316
+    },
+    {
+      "id": "015",
+      "angle": 5,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.7895723380652254,
+      "ITD_abs_error_us": 37.99035477612895
+    },
+    {
+      "id": "015",
+      "angle": 5,
+      "model": "measured",
+      "ILD_MAE_dB": 1.148607306513403,
+      "ITD_abs_error_us": 16.021179913272213
+    },
+    {
+      "id": "015",
+      "angle": 10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.089762644562888,
+      "ITD_abs_error_us": 70.62149822985145
+    },
+    {
+      "id": "015",
+      "angle": 10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5797226981257386,
+      "ITD_abs_error_us": 45.897586543492835
+    },
+    {
+      "id": "015",
+      "angle": 15,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.2868156260165493,
+      "ITD_abs_error_us": 44.680597495086275
+    },
+    {
+      "id": "015",
+      "angle": 15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1747109571209076,
+      "ITD_abs_error_us": 17.658133655338105
+    },
+    {
+      "id": "015",
+      "angle": 20,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.4530839545341723,
+      "ITD_abs_error_us": 57.01410981943138
+    },
+    {
+      "id": "015",
+      "angle": 20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.7838492234116758,
+      "ITD_abs_error_us": 9.8295368319354
+    },
+    {
+      "id": "015",
+      "angle": 25,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.6580663853096524,
+      "ITD_abs_error_us": 43.25368197238578
+    },
+    {
+      "id": "015",
+      "angle": 25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.8697521322521042,
+      "ITD_abs_error_us": 15.53353716541642
+    },
+    {
+      "id": "015",
+      "angle": 30,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.128292670298186,
+      "ITD_abs_error_us": 36.40395526368127
+    },
+    {
+      "id": "015",
+      "angle": 30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0797889365188384,
+      "ITD_abs_error_us": 18.008015992803593
+    },
+    {
+      "id": "015",
+      "angle": 35,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.6581512995125944,
+      "ITD_abs_error_us": 58.01241074352669
+    },
+    {
+      "id": "015",
+      "angle": 35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2605804221725756,
+      "ITD_abs_error_us": 18.67900563107895
+    },
+    {
+      "id": "015",
+      "angle": 40,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.500386550113317,
+      "ITD_abs_error_us": 58.44010254794841
+    },
+    {
+      "id": "015",
+      "angle": 40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1472324214068264,
+      "ITD_abs_error_us": 35.828047861065045
+    },
+    {
+      "id": "015",
+      "angle": 45,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.447878558962718,
+      "ITD_abs_error_us": 71.92099609377266
+    },
+    {
+      "id": "015",
+      "angle": 45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3618892190293275,
+      "ITD_abs_error_us": 50.01869185680886
+    },
+    {
+      "id": "015",
+      "angle": 55,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.189733930465869,
+      "ITD_abs_error_us": 26.244154684310786
+    },
+    {
+      "id": "015",
+      "angle": 55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4657057774856233,
+      "ITD_abs_error_us": 37.74481296587879
+    },
+    {
+      "id": "015",
+      "angle": 65,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.339128844089806,
+      "ITD_abs_error_us": 36.326170064277335
+    },
+    {
+      "id": "015",
+      "angle": 65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1876097421327703,
+      "ITD_abs_error_us": 16.600626023878135
+    },
+    {
+      "id": "015",
+      "angle": 80,
+      "model": "analytic",
+      "ILD_MAE_dB": 8.221437180198713,
+      "ITD_abs_error_us": 28.486196196074957
+    },
+    {
+      "id": "015",
+      "angle": 80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6820318293683119,
+      "ITD_abs_error_us": 30.25391837620066
+    },
+    {
+      "id": "137",
+      "angle": -80,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.79344920939197,
+      "ITD_abs_error_us": 38.751675995721484
+    },
+    {
+      "id": "137",
+      "angle": -80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3187857989978928,
+      "ITD_abs_error_us": 36.98395381559578
+    },
+    {
+      "id": "137",
+      "angle": -65,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.307833754340139,
+      "ITD_abs_error_us": 15.260700650769877
+    },
+    {
+      "id": "137",
+      "angle": -65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6003953526897685,
+      "ITD_abs_error_us": 37.66609543738559
+    },
+    {
+      "id": "137",
+      "angle": -55,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.036644963330772,
+      "ITD_abs_error_us": 50.72458520074599
+    },
+    {
+      "id": "137",
+      "angle": -55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1781630556452878,
+      "ITD_abs_error_us": 39.223926919177984
+    },
+    {
+      "id": "137",
+      "angle": -45,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.247996423823249,
+      "ITD_abs_error_us": 21.014231135308307
+    },
+    {
+      "id": "137",
+      "angle": -45,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9848640835541317,
+      "ITD_abs_error_us": 0.8880731016554932
+    },
+    {
+      "id": "137",
+      "angle": -40,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.223897566022008,
+      "ITD_abs_error_us": 15.750558130982483
+    },
+    {
+      "id": "137",
+      "angle": -40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.129576298577497,
+      "ITD_abs_error_us": 6.861496555900885
+    },
+    {
+      "id": "137",
+      "angle": -35,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.8414301870055727,
+      "ITD_abs_error_us": 178.13806387637013
+    },
+    {
+      "id": "137",
+      "angle": -35,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8725721304021927,
+      "ITD_abs_error_us": 138.8046587639224
+    },
+    {
+      "id": "137",
+      "angle": -30,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.7869427984316633,
+      "ITD_abs_error_us": 177.1826339313208
+    },
+    {
+      "id": "137",
+      "angle": -30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1884103489275168,
+      "ITD_abs_error_us": 122.77066267483593
+    },
+    {
+      "id": "137",
+      "angle": -25,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.322709468726533,
+      "ITD_abs_error_us": 157.01743680266688
+    },
+    {
+      "id": "137",
+      "angle": -25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2744706607298804,
+      "ITD_abs_error_us": 98.23021766486468
+    },
+    {
+      "id": "137",
+      "angle": -20,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.638511365633823,
+      "ITD_abs_error_us": 115.97198094410508
+    },
+    {
+      "id": "137",
+      "angle": -20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0453750794214973,
+      "ITD_abs_error_us": 49.1283342927383
+    },
+    {
+      "id": "137",
+      "angle": -15,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.4070702804592505,
+      "ITD_abs_error_us": 74.77472226711416
+    },
+    {
+      "id": "137",
+      "angle": -15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1223806999162962,
+      "ITD_abs_error_us": 47.75225842736599
+    },
+    {
+      "id": "137",
+      "angle": -10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.0567271028243912,
+      "ITD_abs_error_us": 84.44406128129192
+    },
+    {
+      "id": "137",
+      "angle": -10,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9854760250855255,
+      "ITD_abs_error_us": 59.720149594933304
+    },
+    {
+      "id": "137",
+      "angle": -5,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.9069565276597249,
+      "ITD_abs_error_us": 33.29143628418787
+    },
+    {
+      "id": "137",
+      "angle": -5,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2953807337822607,
+      "ITD_abs_error_us": 11.322261421331135
+    },
+    {
+      "id": "137",
+      "angle": 5,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.0853027955551575,
+      "ITD_abs_error_us": 12.174037755627772
+    },
+    {
+      "id": "137",
+      "angle": 5,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8667805900189693,
+      "ITD_abs_error_us": 34.14321261848451
+    },
+    {
+      "id": "137",
+      "angle": 10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.2809001762055008,
+      "ITD_abs_error_us": 64.54428109212162
+    },
+    {
+      "id": "137",
+      "angle": 10,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9309319525025,
+      "ITD_abs_error_us": 39.82036940576301
+    },
+    {
+      "id": "137",
+      "angle": 15,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.985487437308404,
+      "ITD_abs_error_us": 32.20550605654688
+    },
+    {
+      "id": "137",
+      "angle": 15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1770377468455375,
+      "ITD_abs_error_us": 5.183042216798711
+    },
+    {
+      "id": "137",
+      "angle": 20,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.8411209368940655,
+      "ITD_abs_error_us": 86.99742669219837
+    },
+    {
+      "id": "137",
+      "angle": 20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4539336674024022,
+      "ITD_abs_error_us": 20.15378004083159
+    },
+    {
+      "id": "137",
+      "angle": 25,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.2514671600316354,
+      "ITD_abs_error_us": 106.44013739728263
+    },
+    {
+      "id": "137",
+      "angle": 25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1177338352271293,
+      "ITD_abs_error_us": 47.65291825948043
+    },
+    {
+      "id": "137",
+      "angle": 30,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.810446070390587,
+      "ITD_abs_error_us": 147.91237171014672
+    },
+    {
+      "id": "137",
+      "angle": 30,
+      "model": "measured",
+      "ILD_MAE_dB": 0.848013549611959,
+      "ITD_abs_error_us": 93.50040045366185
+    },
+    {
+      "id": "137",
+      "angle": 35,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.8784618339330397,
+      "ITD_abs_error_us": 177.70312894056872
+    },
+    {
+      "id": "137",
+      "angle": 35,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9209398229684802,
+      "ITD_abs_error_us": 138.36972382812098
+    },
+    {
+      "id": "137",
+      "angle": 40,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.915418799222179,
+      "ITD_abs_error_us": 77.0572521874463
+    },
+    {
+      "id": "137",
+      "angle": 40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2413124205704116,
+      "ITD_abs_error_us": 54.44519750056293
+    },
+    {
+      "id": "137",
+      "angle": 45,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.6808378637195585,
+      "ITD_abs_error_us": 3.751399360040182
+    },
+    {
+      "id": "137",
+      "angle": 45,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9021671278796725,
+      "ITD_abs_error_us": 25.653703597003982
+    },
+    {
+      "id": "137",
+      "angle": 55,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.19217485972014,
+      "ITD_abs_error_us": 97.86605982339836
+    },
+    {
+      "id": "137",
+      "angle": 55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2325380565134623,
+      "ITD_abs_error_us": 86.36540154183035
+    },
+    {
+      "id": "137",
+      "angle": 65,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.214170708246974,
+      "ITD_abs_error_us": 59.169639496064065
+    },
+    {
+      "id": "137",
+      "angle": 65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3649120405357733,
+      "ITD_abs_error_us": 6.242843407908595
+    },
+    {
+      "id": "137",
+      "angle": 80,
+      "model": "analytic",
+      "ILD_MAE_dB": 8.397372192711922,
+      "ITD_abs_error_us": 22.61868525711145
+    },
+    {
+      "id": "137",
+      "angle": 80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6655881107566268,
+      "ITD_abs_error_us": 20.85096307698575
+    },
+    {
+      "id": "003",
+      "angle": -80,
+      "model": "analytic",
+      "ILD_MAE_dB": 8.313086611699829,
+      "ITD_abs_error_us": 78.43882327444771
+    },
+    {
+      "id": "003",
+      "angle": -80,
+      "model": "measured",
+      "ILD_MAE_dB": 2.255539835655208,
+      "ITD_abs_error_us": 80.20654545457342
+    },
+    {
+      "id": "003",
+      "angle": -65,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.841588973139998,
+      "ITD_abs_error_us": 104.39830849812711
+    },
+    {
+      "id": "003",
+      "angle": -65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.784746112292188,
+      "ITD_abs_error_us": 51.47151240997164
+    },
+    {
+      "id": "003",
+      "angle": -55,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.721332943819288,
+      "ITD_abs_error_us": 79.64257740679113
+    },
+    {
+      "id": "003",
+      "angle": -55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5459613017079374,
+      "ITD_abs_error_us": 68.14191912522313
+    },
+    {
+      "id": "003",
+      "angle": -45,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.778821488808311,
+      "ITD_abs_error_us": 54.259215453216825
+    },
+    {
+      "id": "003",
+      "angle": -45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5217687613862954,
+      "ITD_abs_error_us": 76.16151969018063
+    },
+    {
+      "id": "003",
+      "angle": -40,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.117370953611658,
+      "ITD_abs_error_us": 44.26365992131525
+    },
+    {
+      "id": "003",
+      "angle": -40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5820455592970895,
+      "ITD_abs_error_us": 66.87571460819862
+    },
+    {
+      "id": "003",
+      "angle": -35,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.771861687909091,
+      "ITD_abs_error_us": 25.878415734259534
+    },
+    {
+      "id": "003",
+      "angle": -35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3880010228312287,
+      "ITD_abs_error_us": 65.21182084670727
+    },
+    {
+      "id": "003",
+      "angle": -30,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.513276251458519,
+      "ITD_abs_error_us": 1.0673994004864653
+    },
+    {
+      "id": "003",
+      "angle": -30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.333038633977909,
+      "ITD_abs_error_us": 55.47937065697133
+    },
+    {
+      "id": "003",
+      "angle": -25,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.614814638285399,
+      "ITD_abs_error_us": 41.07323791163137
+    },
+    {
+      "id": "003",
+      "angle": -25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0615661629166437,
+      "ITD_abs_error_us": 17.71398122617083
+    },
+    {
+      "id": "003",
+      "angle": -20,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.2267194619261708,
+      "ITD_abs_error_us": 10.670290256799035
+    },
+    {
+      "id": "003",
+      "angle": -20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2358303238935495,
+      "ITD_abs_error_us": 56.17335639456775
+    },
+    {
+      "id": "003",
+      "angle": -15,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.3602366672754083,
+      "ITD_abs_error_us": 28.388994727689322
+    },
+    {
+      "id": "003",
+      "angle": -15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0749847611495627,
+      "ITD_abs_error_us": 1.3665308879411526
+    },
+    {
+      "id": "003",
+      "angle": -10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.7617367839808753,
+      "ITD_abs_error_us": 19.483674686797613
+    },
+    {
+      "id": "003",
+      "angle": -10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0548036270236623,
+      "ITD_abs_error_us": 5.240236999561006
+    },
+    {
+      "id": "003",
+      "angle": -5,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.5098433701313658,
+      "ITD_abs_error_us": 4.359172503402803
+    },
+    {
+      "id": "003",
+      "angle": -5,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3011390716653752,
+      "ITD_abs_error_us": 26.32834736625954
+    },
+    {
+      "id": "003",
+      "angle": 5,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.9035716707310542,
+      "ITD_abs_error_us": 35.87348088173113
+    },
+    {
+      "id": "003",
+      "angle": 5,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9877854366899991,
+      "ITD_abs_error_us": 13.904306018874395
+    },
+    {
+      "id": "003",
+      "angle": 10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.247932696341824,
+      "ITD_abs_error_us": 40.01358448237986
+    },
+    {
+      "id": "003",
+      "angle": 10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0338493295032816,
+      "ITD_abs_error_us": 15.289672796021243
+    },
+    {
+      "id": "003",
+      "angle": 15,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.7742316537952585,
+      "ITD_abs_error_us": 53.998956615385055
+    },
+    {
+      "id": "003",
+      "angle": 15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1894484505683096,
+      "ITD_abs_error_us": 26.976492775636885
+    },
+    {
+      "id": "003",
+      "angle": 20,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.272884549895845,
+      "ITD_abs_error_us": 78.99105073391948
+    },
+    {
+      "id": "003",
+      "angle": 20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3505565222756886,
+      "ITD_abs_error_us": 12.147404082552697
+    },
+    {
+      "id": "003",
+      "angle": 25,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.170423800742741,
+      "ITD_abs_error_us": 49.742366858721596
+    },
+    {
+      "id": "003",
+      "angle": 25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2085135643825555,
+      "ITD_abs_error_us": 9.044852279080601
+    },
+    {
+      "id": "003",
+      "angle": 30,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.4638549493615867,
+      "ITD_abs_error_us": 55.70292408455484
+    },
+    {
+      "id": "003",
+      "angle": 30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.45122258662567,
+      "ITD_abs_error_us": 1.290952828069976
+    },
+    {
+      "id": "003",
+      "angle": 35,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.137274973703227,
+      "ITD_abs_error_us": 14.404439238202144
+    },
+    {
+      "id": "003",
+      "angle": 35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4572271634001366,
+      "ITD_abs_error_us": 24.92896587424559
+    },
+    {
+      "id": "003",
+      "angle": 40,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.590748417746585,
+      "ITD_abs_error_us": 21.486685735426192
+    },
+    {
+      "id": "003",
+      "angle": 40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.691718013270242,
+      "ITD_abs_error_us": 44.09874042230956
+    },
+    {
+      "id": "003",
+      "angle": 45,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.413847313222415,
+      "ITD_abs_error_us": 45.976404998099895
+    },
+    {
+      "id": "003",
+      "angle": 45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.7304910832157725,
+      "ITD_abs_error_us": 67.8787092350637
+    },
+    {
+      "id": "003",
+      "angle": 55,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.73863823064293,
+      "ITD_abs_error_us": 93.83830779830566
+    },
+    {
+      "id": "003",
+      "angle": 55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5912573752997468,
+      "ITD_abs_error_us": 82.33764951673766
+    },
+    {
+      "id": "003",
+      "angle": 65,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.670642412569539,
+      "ITD_abs_error_us": 109.3596741678665
+    },
+    {
+      "id": "003",
+      "angle": 65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.551065019379795,
+      "ITD_abs_error_us": 56.43287807971103
+    },
+    {
+      "id": "003",
+      "angle": 80,
+      "model": "analytic",
+      "ILD_MAE_dB": 8.537016066800355,
+      "ITD_abs_error_us": 104.11727541796301
+    },
+    {
+      "id": "003",
+      "angle": 80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.7872086805072247,
+      "ITD_abs_error_us": 105.88499759808872
+    },
+    {
+      "id": "020",
+      "angle": -80,
+      "model": "analytic",
+      "ILD_MAE_dB": 8.956422723847892,
+      "ITD_abs_error_us": 31.476020511134948
+    },
+    {
+      "id": "020",
+      "angle": -80,
+      "model": "measured",
+      "ILD_MAE_dB": 2.1516638986119947,
+      "ITD_abs_error_us": 33.24374269126065
+    },
+    {
+      "id": "020",
+      "angle": -65,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.521255266613888,
+      "ITD_abs_error_us": 54.74766074369518
+    },
+    {
+      "id": "020",
+      "angle": -65,
+      "model": "measured",
+      "ILD_MAE_dB": 2.0797643942346196,
+      "ITD_abs_error_us": 1.820864655539708
+    },
+    {
+      "id": "020",
+      "angle": -55,
+      "model": "analytic",
+      "ILD_MAE_dB": 8.167741073298508,
+      "ITD_abs_error_us": 165.4605455307842
+    },
+    {
+      "id": "020",
+      "angle": -55,
+      "model": "measured",
+      "ILD_MAE_dB": 2.108026056876858,
+      "ITD_abs_error_us": 153.9598872492162
+    },
+    {
+      "id": "020",
+      "angle": -45,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.305846916244857,
+      "ITD_abs_error_us": 122.91175656308906
+    },
+    {
+      "id": "020",
+      "angle": -45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2571447405751566,
+      "ITD_abs_error_us": 101.00945232612526
+    },
+    {
+      "id": "020",
+      "angle": -40,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.939029961413626,
+      "ITD_abs_error_us": 107.77346258709457
+    },
+    {
+      "id": "020",
+      "angle": -40,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9765355832781546,
+      "ITD_abs_error_us": 85.1614079002112
+    },
+    {
+      "id": "020",
+      "angle": -35,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.457572003852459,
+      "ITD_abs_error_us": 132.81612417521083
+    },
+    {
+      "id": "020",
+      "angle": -35,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8364118856134518,
+      "ITD_abs_error_us": 93.4827190627631
+    },
+    {
+      "id": "020",
+      "angle": -30,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.09403711305333,
+      "ITD_abs_error_us": 185.39310788115318
+    },
+    {
+      "id": "020",
+      "angle": -30,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9139651239996395,
+      "ITD_abs_error_us": 130.9811366246683
+    },
+    {
+      "id": "020",
+      "angle": -25,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.668513569876136,
+      "ITD_abs_error_us": 17.557430366291072
+    },
+    {
+      "id": "020",
+      "angle": -25,
+      "model": "measured",
+      "ILD_MAE_dB": 2.4715464606661754,
+      "ITD_abs_error_us": 41.229788771511124
+    },
+    {
+      "id": "020",
+      "angle": -20,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.6642326373326792,
+      "ITD_abs_error_us": 167.28190573900685
+    },
+    {
+      "id": "020",
+      "angle": -20,
+      "model": "measured",
+      "ILD_MAE_dB": 0.6220881114345886,
+      "ITD_abs_error_us": 100.43825908764006
+    },
+    {
+      "id": "020",
+      "angle": -15,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.312457045174379,
+      "ITD_abs_error_us": 100.8161470789141
+    },
+    {
+      "id": "020",
+      "angle": -15,
+      "model": "measured",
+      "ILD_MAE_dB": 0.660776905663571,
+      "ITD_abs_error_us": 73.79368323916593
+    },
+    {
+      "id": "020",
+      "angle": -10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.065870059229586,
+      "ITD_abs_error_us": 118.73210852970823
+    },
+    {
+      "id": "020",
+      "angle": -10,
+      "model": "measured",
+      "ILD_MAE_dB": 0.7871508300769232,
+      "ITD_abs_error_us": 94.00819684334961
+    },
+    {
+      "id": "020",
+      "angle": -5,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.1048089470731095,
+      "ITD_abs_error_us": 153.94349189024283
+    },
+    {
+      "id": "020",
+      "angle": -5,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9563813236876538,
+      "ITD_abs_error_us": 131.9743170273861
+    },
+    {
+      "id": "020",
+      "angle": 5,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.1152716228101933,
+      "ITD_abs_error_us": 123.04682541435292
+    },
+    {
+      "id": "020",
+      "angle": 5,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9665061759343127,
+      "ITD_abs_error_us": 145.01600027720966
+    },
+    {
+      "id": "020",
+      "angle": 10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.0006322323473884,
+      "ITD_abs_error_us": 55.65055576224833
+    },
+    {
+      "id": "020",
+      "angle": 10,
+      "model": "measured",
+      "ILD_MAE_dB": 0.7677401421648701,
+      "ITD_abs_error_us": 80.37446744860695
+    },
+    {
+      "id": "020",
+      "angle": 15,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.7544067434290858,
+      "ITD_abs_error_us": 24.31585635418699
+    },
+    {
+      "id": "020",
+      "angle": 15,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9027205496041777,
+      "ITD_abs_error_us": 51.33832019393516
+    },
+    {
+      "id": "020",
+      "angle": 20,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.256450087654966,
+      "ITD_abs_error_us": 67.2550481302006
+    },
+    {
+      "id": "020",
+      "angle": 20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1155648561156088,
+      "ITD_abs_error_us": 134.0986947815674
+    },
+    {
+      "id": "020",
+      "angle": 25,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.2164954296467876,
+      "ITD_abs_error_us": 107.4180228124323
+    },
+    {
+      "id": "020",
+      "angle": 25,
+      "model": "measured",
+      "ILD_MAE_dB": 2.757219440180433,
+      "ITD_abs_error_us": 48.6308036746301
+    },
+    {
+      "id": "020",
+      "angle": 30,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.407241455004261,
+      "ITD_abs_error_us": 26.880715670340976
+    },
+    {
+      "id": "020",
+      "angle": 30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0818357999556218,
+      "ITD_abs_error_us": 81.29268692682584
+    },
+    {
+      "id": "020",
+      "angle": 35,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.0635736651727856,
+      "ITD_abs_error_us": 28.381171911846764
+    },
+    {
+      "id": "020",
+      "angle": 35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2442260015672144,
+      "ITD_abs_error_us": 10.952233200600972
+    },
+    {
+      "id": "020",
+      "angle": 40,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.835659098661809,
+      "ITD_abs_error_us": 4.900374440589076
+    },
+    {
+      "id": "020",
+      "angle": 40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1525406253150177,
+      "ITD_abs_error_us": 27.512429127472444
+    },
+    {
+      "id": "020",
+      "angle": 45,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.213072084699117,
+      "ITD_abs_error_us": 68.04698900975643
+    },
+    {
+      "id": "020",
+      "angle": 45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4901528950120526,
+      "ITD_abs_error_us": 89.94929324672023
+    },
+    {
+      "id": "020",
+      "angle": 55,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.488328844924705,
+      "ITD_abs_error_us": 4.646023144171863
+    },
+    {
+      "id": "020",
+      "angle": 55,
+      "model": "measured",
+      "ILD_MAE_dB": 3.2723726591611872,
+      "ITD_abs_error_us": 6.854635137396144
+    },
+    {
+      "id": "020",
+      "angle": 65,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.461117207691455,
+      "ITD_abs_error_us": 159.26757885760037
+    },
+    {
+      "id": "020",
+      "angle": 65,
+      "model": "measured",
+      "ILD_MAE_dB": 2.2403895603601764,
+      "ITD_abs_error_us": 106.3407827694449
+    },
+    {
+      "id": "020",
+      "angle": 80,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.976086671696031,
+      "ITD_abs_error_us": 77.08801919469852
+    },
+    {
+      "id": "020",
+      "angle": 80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.5736203107174895,
+      "ITD_abs_error_us": 78.85574137482422
+    }
+  ],
+  "mannequin": [
+    {
+      "id": "021",
+      "angle": -80,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.191311552262206,
+      "ITD_abs_error_us": 23.06420250642509
+    },
+    {
+      "id": "021",
+      "angle": -80,
+      "model": "measured",
+      "ILD_MAE_dB": 2.051338564593558,
+      "ITD_abs_error_us": 21.29648032629939
+    },
+    {
+      "id": "021",
+      "angle": -65,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.713436883817703,
+      "ITD_abs_error_us": 30.91653556406925
+    },
+    {
+      "id": "021",
+      "angle": -65,
+      "model": "measured",
+      "ILD_MAE_dB": 2.2372639572373494,
+      "ITD_abs_error_us": 22.01026052408622
+    },
+    {
+      "id": "021",
+      "angle": -55,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.763214191334459,
+      "ITD_abs_error_us": 46.29722369727415
+    },
+    {
+      "id": "021",
+      "angle": -55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6127857071012195,
+      "ITD_abs_error_us": 34.79656541570614
+    },
+    {
+      "id": "021",
+      "angle": -45,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.804996443328767,
+      "ITD_abs_error_us": 32.3703891612181
+    },
+    {
+      "id": "021",
+      "angle": -45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2913533925632343,
+      "ITD_abs_error_us": 54.2726933981819
+    },
+    {
+      "id": "021",
+      "angle": -40,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.331622289857396,
+      "ITD_abs_error_us": 3.931370133337964
+    },
+    {
+      "id": "021",
+      "angle": -40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.194076698432936,
+      "ITD_abs_error_us": 26.543424820221333
+    },
+    {
+      "id": "021",
+      "angle": -35,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.904322172010704,
+      "ITD_abs_error_us": 15.84886753972063
+    },
+    {
+      "id": "021",
+      "angle": -35,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9759228620312886,
+      "ITD_abs_error_us": 23.484537572727106
+    },
+    {
+      "id": "021",
+      "angle": -30,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.60294487222429,
+      "ITD_abs_error_us": 41.164242716769735
+    },
+    {
+      "id": "021",
+      "angle": -30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.007312589755878,
+      "ITD_abs_error_us": 13.247728539715126
+    },
+    {
+      "id": "021",
+      "angle": -25,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.982762021740984,
+      "ITD_abs_error_us": 52.00051922203852
+    },
+    {
+      "id": "021",
+      "angle": -25,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9693004329207007,
+      "ITD_abs_error_us": 6.786699915763677
+    },
+    {
+      "id": "021",
+      "angle": -20,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.260569608582207,
+      "ITD_abs_error_us": 57.847248608769746
+    },
+    {
+      "id": "021",
+      "angle": -20,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9215604795267178,
+      "ITD_abs_error_us": 8.996398042597036
+    },
+    {
+      "id": "021",
+      "angle": -15,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.426676107346686,
+      "ITD_abs_error_us": 44.34270855722383
+    },
+    {
+      "id": "021",
+      "angle": -15,
+      "model": "measured",
+      "ILD_MAE_dB": 0.7013072538033592,
+      "ITD_abs_error_us": 17.32024471747566
+    },
+    {
+      "id": "021",
+      "angle": -10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.490705876824032,
+      "ITD_abs_error_us": 33.774502699626254
+    },
+    {
+      "id": "021",
+      "angle": -10,
+      "model": "measured",
+      "ILD_MAE_dB": 0.6180523007249777,
+      "ITD_abs_error_us": 9.050591013267635
+    },
+    {
+      "id": "021",
+      "angle": -5,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.911402323644287,
+      "ITD_abs_error_us": 14.37019027246587
+    },
+    {
+      "id": "021",
+      "angle": -5,
+      "model": "measured",
+      "ILD_MAE_dB": 0.5776267454147764,
+      "ITD_abs_error_us": 7.598984590390867
+    },
+    {
+      "id": "021",
+      "angle": 5,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.8448205303919625,
+      "ITD_abs_error_us": 32.992410881166926
+    },
+    {
+      "id": "021",
+      "angle": 5,
+      "model": "measured",
+      "ILD_MAE_dB": 0.5811634650022964,
+      "ITD_abs_error_us": 11.02323601831019
+    },
+    {
+      "id": "021",
+      "angle": 10,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.4464983706323993,
+      "ITD_abs_error_us": 55.57181921782459
+    },
+    {
+      "id": "021",
+      "angle": 10,
+      "model": "measured",
+      "ILD_MAE_dB": 0.6723099297812234,
+      "ITD_abs_error_us": 30.84790753146597
+    },
+    {
+      "id": "021",
+      "angle": 15,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.0136581427276483,
+      "ITD_abs_error_us": 62.126089345237716
+    },
+    {
+      "id": "021",
+      "angle": 15,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8849286310626956,
+      "ITD_abs_error_us": 35.103625505489546
+    },
+    {
+      "id": "021",
+      "angle": 20,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.629844715227951,
+      "ITD_abs_error_us": 92.08539458991677
+    },
+    {
+      "id": "021",
+      "angle": 20,
+      "model": "measured",
+      "ILD_MAE_dB": 0.8300435094347944,
+      "ITD_abs_error_us": 25.24174793854999
+    },
+    {
+      "id": "021",
+      "angle": 25,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.492897853124605,
+      "ITD_abs_error_us": 88.7511255716052
+    },
+    {
+      "id": "021",
+      "angle": 25,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9283683962923869,
+      "ITD_abs_error_us": 29.963906433803004
+    },
+    {
+      "id": "021",
+      "angle": 30,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.871852023154377,
+      "ITD_abs_error_us": 91.40981061379128
+    },
+    {
+      "id": "021",
+      "angle": 30,
+      "model": "measured",
+      "ILD_MAE_dB": 0.9882176287837119,
+      "ITD_abs_error_us": 36.99783935730642
+    },
+    {
+      "id": "021",
+      "angle": 35,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.272728426223695,
+      "ITD_abs_error_us": 77.22266861569415
+    },
+    {
+      "id": "021",
+      "angle": 35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.0517734942988843,
+      "ITD_abs_error_us": 37.88926350324641
+    },
+    {
+      "id": "021",
+      "angle": 40,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.568263888279755,
+      "ITD_abs_error_us": 55.82381208707318
+    },
+    {
+      "id": "021",
+      "angle": 40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.1659796668510698,
+      "ITD_abs_error_us": 33.21175740018981
+    },
+    {
+      "id": "021",
+      "angle": 45,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.122358527418444,
+      "ITD_abs_error_us": 29.548675281458202
+    },
+    {
+      "id": "021",
+      "angle": 45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.2873599245580134,
+      "ITD_abs_error_us": 7.646371044494401
+    },
+    {
+      "id": "021",
+      "angle": 55,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.6243429591694145,
+      "ITD_abs_error_us": 6.011196005489637
+    },
+    {
+      "id": "021",
+      "angle": 55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4982348819122153,
+      "ITD_abs_error_us": 5.4894622760783705
+    },
+    {
+      "id": "021",
+      "angle": 65,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.90447368829359,
+      "ITD_abs_error_us": 9.7895871578188
+    },
+    {
+      "id": "021",
+      "angle": 65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.654083040877187,
+      "ITD_abs_error_us": 43.13720893033667
+    },
+    {
+      "id": "021",
+      "angle": 80,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.7301076981122385,
+      "ITD_abs_error_us": 18.89838307857883
+    },
+    {
+      "id": "021",
+      "angle": 80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4229540881304144,
+      "ITD_abs_error_us": 17.13066089845313
+    },
+    {
+      "id": "165",
+      "angle": -80,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.421334672793611,
+      "ITD_abs_error_us": 22.136590015296633
+    },
+    {
+      "id": "165",
+      "angle": -80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.9274888645552428,
+      "ITD_abs_error_us": 20.36886783517093
+    },
+    {
+      "id": "165",
+      "angle": -65,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.449623013619064,
+      "ITD_abs_error_us": 34.08854164636966
+    },
+    {
+      "id": "165",
+      "angle": -65,
+      "model": "measured",
+      "ILD_MAE_dB": 2.021888047493801,
+      "ITD_abs_error_us": 18.838254441785807
+    },
+    {
+      "id": "165",
+      "angle": -55,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.896172369283564,
+      "ITD_abs_error_us": 18.253225789340263
+    },
+    {
+      "id": "165",
+      "angle": -55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.713884742563276,
+      "ITD_abs_error_us": 6.752567507772255
+    },
+    {
+      "id": "165",
+      "angle": -45,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.019142367799777,
+      "ITD_abs_error_us": 2.942390094437826
+    },
+    {
+      "id": "165",
+      "angle": -45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.3561642127169269,
+      "ITD_abs_error_us": 18.959914142525975
+    },
+    {
+      "id": "165",
+      "angle": -40,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.268119354005342,
+      "ITD_abs_error_us": 31.785079744858592
+    },
+    {
+      "id": "165",
+      "angle": -40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6511098243826416,
+      "ITD_abs_error_us": 9.173025057975224
+    },
+    {
+      "id": "165",
+      "angle": -35,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.922183857570434,
+      "ITD_abs_error_us": 35.61007882463406
+    },
+    {
+      "id": "165",
+      "angle": -35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.4559197003562463,
+      "ITD_abs_error_us": 3.723326287813677
+    },
+    {
+      "id": "165",
+      "angle": -30,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.4399952324671186,
+      "ITD_abs_error_us": 74.9195832453731
+    },
+    {
+      "id": "165",
+      "angle": -30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6074447632892777,
+      "ITD_abs_error_us": 20.507611988888243
+    },
+    {
+      "id": "165",
+      "angle": -25,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.6980115580458326,
+      "ITD_abs_error_us": 77.29438766054537
+    },
+    {
+      "id": "165",
+      "angle": -25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6869483947340227,
+      "ITD_abs_error_us": 18.50716852274317
+    },
+    {
+      "id": "165",
+      "angle": -20,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.1424295307605887,
+      "ITD_abs_error_us": 56.52179648451701
+    },
+    {
+      "id": "165",
+      "angle": -20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.7108960405224414,
+      "ITD_abs_error_us": 10.32185016684977
+    },
+    {
+      "id": "165",
+      "angle": -15,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.646676888902381,
+      "ITD_abs_error_us": 48.807644869462806
+    },
+    {
+      "id": "165",
+      "angle": -15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.983743773245556,
+      "ITD_abs_error_us": 21.785181029714636
+    },
+    {
+      "id": "165",
+      "angle": -10,
+      "model": "analytic",
+      "ILD_MAE_dB": 0.7103781303589021,
+      "ITD_abs_error_us": 46.44117512604597
+    },
+    {
+      "id": "165",
+      "angle": -10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.8591222005197166,
+      "ITD_abs_error_us": 21.71726343968735
+    },
+    {
+      "id": "165",
+      "angle": -5,
+      "model": "analytic",
+      "ILD_MAE_dB": 1.3544694863710611,
+      "ITD_abs_error_us": 23.696254247304367
+    },
+    {
+      "id": "165",
+      "angle": -5,
+      "model": "measured",
+      "ILD_MAE_dB": 1.8685137521512454,
+      "ITD_abs_error_us": 1.7270793844476309
+    },
+    {
+      "id": "165",
+      "angle": 5,
+      "model": "analytic",
+      "ILD_MAE_dB": 2.5725342079772893,
+      "ITD_abs_error_us": 23.68762979129024
+    },
+    {
+      "id": "165",
+      "angle": 5,
+      "model": "measured",
+      "ILD_MAE_dB": 2.058489942197105,
+      "ITD_abs_error_us": 1.7184549284335056
+    },
+    {
+      "id": "165",
+      "angle": 10,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.127667966381062,
+      "ITD_abs_error_us": 41.66523023888167
+    },
+    {
+      "id": "165",
+      "angle": 10,
+      "model": "measured",
+      "ILD_MAE_dB": 1.9199548644940212,
+      "ITD_abs_error_us": 16.94131855252305
+    },
+    {
+      "id": "165",
+      "angle": 15,
+      "model": "analytic",
+      "ILD_MAE_dB": 3.8284032301348785,
+      "ITD_abs_error_us": 46.52555233033833
+    },
+    {
+      "id": "165",
+      "angle": 15,
+      "model": "measured",
+      "ILD_MAE_dB": 1.8880135568058165,
+      "ITD_abs_error_us": 19.50308849059016
+    },
+    {
+      "id": "165",
+      "angle": 20,
+      "model": "analytic",
+      "ILD_MAE_dB": 4.440508607050514,
+      "ITD_abs_error_us": 52.61507246301642
+    },
+    {
+      "id": "165",
+      "angle": 20,
+      "model": "measured",
+      "ILD_MAE_dB": 1.9203863008360758,
+      "ITD_abs_error_us": 14.228574188350365
+    },
+    {
+      "id": "165",
+      "angle": 25,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.041458349330141,
+      "ITD_abs_error_us": 65.82301823113772
+    },
+    {
+      "id": "165",
+      "angle": 25,
+      "model": "measured",
+      "ILD_MAE_dB": 1.8444912401201807,
+      "ITD_abs_error_us": 7.035799093335527
+    },
+    {
+      "id": "165",
+      "angle": 30,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.61423602793637,
+      "ITD_abs_error_us": 68.06901287974006
+    },
+    {
+      "id": "165",
+      "angle": 30,
+      "model": "measured",
+      "ILD_MAE_dB": 1.7602087703250155,
+      "ITD_abs_error_us": 13.657041623255196
+    },
+    {
+      "id": "165",
+      "angle": 35,
+      "model": "analytic",
+      "ILD_MAE_dB": 5.857834980088343,
+      "ITD_abs_error_us": 40.24071726101556
+    },
+    {
+      "id": "165",
+      "angle": 35,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6798188769444213,
+      "ITD_abs_error_us": 0.9073121485678257
+    },
+    {
+      "id": "165",
+      "angle": 40,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.074069748961289,
+      "ITD_abs_error_us": 36.17036841986078
+    },
+    {
+      "id": "165",
+      "angle": 40,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6179581968863617,
+      "ITD_abs_error_us": 13.55831373297741
+    },
+    {
+      "id": "165",
+      "angle": 45,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.496974422830689,
+      "ITD_abs_error_us": 19.13106791188494
+    },
+    {
+      "id": "165",
+      "angle": 45,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6273911070554625,
+      "ITD_abs_error_us": 2.77123632507886
+    },
+    {
+      "id": "165",
+      "angle": 55,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.010034322953005,
+      "ITD_abs_error_us": 17.760639763718245
+    },
+    {
+      "id": "165",
+      "angle": 55,
+      "model": "measured",
+      "ILD_MAE_dB": 1.6932315349432292,
+      "ITD_abs_error_us": 6.259981482150238
+    },
+    {
+      "id": "165",
+      "angle": 65,
+      "model": "analytic",
+      "ILD_MAE_dB": 7.47509640134788,
+      "ITD_abs_error_us": 11.467767774162098
+    },
+    {
+      "id": "165",
+      "angle": 65,
+      "model": "measured",
+      "ILD_MAE_dB": 1.27582587468586,
+      "ITD_abs_error_us": 41.45902831399337
+    },
+    {
+      "id": "165",
+      "angle": 80,
+      "model": "analytic",
+      "ILD_MAE_dB": 6.664945414130454,
+      "ITD_abs_error_us": 33.68535932441898
+    },
+    {
+      "id": "165",
+      "angle": 80,
+      "model": "measured",
+      "ILD_MAE_dB": 1.149359017333123,
+      "ITD_abs_error_us": 31.91763714429328
+    }
+  ]
+}

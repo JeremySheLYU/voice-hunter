@@ -1,0 +1,46 @@
+{
+  "name": "transfer",
+  "predictor": "round3.transfer.candidate:Predictor",
+  "final_training_count": 625,
+  "selection": {
+    "prior_weight": 0.75,
+    "threshold": 0.3,
+    "metrics": {
+      "persistent": {
+        "tp": 40,
+        "fp": 11,
+        "fn": 15,
+        "tn": 44,
+        "useful": 40,
+        "positive": 55,
+        "negative": 55,
+        "f1": 0.7547169811320755,
+        "accuracy": 0.7636363636363637,
+        "useful_fraction": 0.7272727272727273
+      },
+      "intermittent": {
+        "tp": 39,
+        "fp": 10,
+        "fn": 16,
+        "tn": 45,
+        "useful": 39,
+        "positive": 55,
+        "negative": 55,
+        "f1": 0.75,
+        "accuracy": 0.7636363636363637,
+        "useful_fraction": 0.7090909090909091
+      }
+    }
+  },
+  "hashes": {
+    "round3/transfer/candidate.py": "e9b5be770a691f505e9b42d00b91391015cc441ec517686c6b1d10ffe38ec742",
+    "round3/transfer/train.py": "0e03407ad5287f49f32dcfb95f868c1451236c8a6ca95c8e966e07ebde176d52",
+    "round3/transfer/head.npz": "ab4aa44c9e0f522e904d91a4ee7856b242329e7911ade34b72a52e4ef7ac40f6",
+    "round3/transfer/yamnet.onnx": "d3835ffbbd4a1bb3e777f0ca217b5007907f5171dd5d17c4236b95b2af8f908e",
+    "round3/transfer/yamnet_class_map.csv": "cdf24d193e196d9e95912a2667051ae203e92a2ba09449218ccb40ef787c6df2",
+    "round3/transfer/validation.json": "7ea4e0534b35c7e92fb497ad4d02a2dd3e88b6be1d327f4303cbec4a81fd83a7",
+    "round3/transfer/train_sources.json": "f75fe606a3be569c7bcd25e75dfee8927d930ef8a7f9bee3879221abc5eeed4e",
+    "round2/semantic/semantic_candidate.py": "8838e9d25a9c99596d4ce41e6511d35e582a125a8222b49fb1b37a27328620de",
+    "voicehunter/spatial.py": "2df7eb291bc08364710f7026c2d1baad2eb4b01a8a2b06e7d1de566c8e8e3b57"
+  }
+}

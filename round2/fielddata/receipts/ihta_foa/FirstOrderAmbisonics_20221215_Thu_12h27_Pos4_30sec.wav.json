@@ -1,0 +1,21 @@
+{
+  "id": "ihta_foa/FirstOrderAmbisonics_20221215_Thu_12h27_Pos4_30sec.wav",
+  "dataset": "ihta_foa",
+  "record": "11184517",
+  "member": "FirstOrderAmbisonics/20221215_Thu_12h27_Pos4_30sec.wav",
+  "source_offset_s": 0,
+  "duration_s": 4.0,
+  "rate": 44100,
+  "channels": 4,
+  "bytes": 1253961,
+  "sha256": "cae85a2f917cacde2cd76ad5824f4a7e634ba177e6cf4f1835d0dad87bcd3dea",
+  "pcm_s32le_sha256": "7caf6311be6dc57d9035b513d75be0e0a6ed2ed356bab25c36492a2b5ed253c8",
+  "archive_crc32": "0x79fb0f7f",
+  "archive_range": [
+    2103398827,
+    2106344362
+  ],
+  "range_sha256": "2cecda1644635f0b8d1ad442c732dd7bd02b5174687448daab95a70689553ec8",
+  "path": "round2_data/field/ihta_foa/FirstOrderAmbisonics_20221215_Thu_12h27_Pos4_30sec.wav.flac",
+  "license": "CC-BY-4.0"
+}

@@ -1,0 +1,357 @@
+{
+  "source_repository": "https://github.com/ebu/ear-production-suite",
+  "commit": "ed42d4ede70172d80cd4402c1674062350377f68",
+  "license": "GPL-3.0-or-later; independently licensed technical fixtures from upstream, preserved with original WAV/XML and license for standalone conformance use only; excluded from training and listening masters.",
+  "copyright": "2019–2026 British Broadcasting Corporation, 2020–2021 European Broadcasting Union, 2019–2021 Institut für Rundfunktechnik GmbH.",
+  "category": "authored ADM object automation / 440 Hz technical test, no Dolby claim",
+  "usage": "format conformance probe only, excluded from training and held-out quality scores",
+  "files": [
+    {
+      "path": "round2_data/objects/COPYRIGHT.TXT",
+      "original": "https://raw.githubusercontent.com/ebu/ear-production-suite/ed42d4ede70172d80cd4402c1674062350377f68/COPYRIGHT.TXT",
+      "sha256": "67fd590cecae0cc0031668ebe9fb0b67a28cc8a0350330a76b3ef876f0d653ec",
+      "git_blob": "a2ff60ea805c31cedaa3d680b6b50f7ddd9ec6f0",
+      "bytes": 835
+    },
+    {
+      "path": "round2_data/objects/LICENSE.TXT",
+      "original": "https://raw.githubusercontent.com/ebu/ear-production-suite/ed42d4ede70172d80cd4402c1674062350377f68/LICENSE.TXT",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "git_blob": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "bytes": 35149
+    },
+    {
+      "path": "round2_data/objects/README-jump_position_test_files.txt",
+      "original": "https://raw.githubusercontent.com/ebu/ear-production-suite/ed42d4ede70172d80cd4402c1674062350377f68/reaper-adm-extension/test/reaper_adm/data/README-jump_position_test_files.txt",
+      "sha256": "a5e185866bb87221ec88861e117094140ba61834a48647049e4ad43a2af817dc",
+      "git_blob": "b22feffb37b421b35bf9b2eac3523ed8084d841b",
+      "bytes": 154
+    },
+    {
+      "path": "round2_data/objects/jp_1_no_jump_position.xml",
+      "original": "https://raw.githubusercontent.com/ebu/ear-production-suite/ed42d4ede70172d80cd4402c1674062350377f68/reaper-adm-extension/test/reaper_adm/data/jp_1_no_jump_position.xml",
+      "sha256": "8ff02033f01e30c07cbe27bcab3bb09198d16bef188a5a6da014745efcf317d0",
+      "git_blob": "991df0ff146222e5cd17b7470d4d28ade38b7122",
+      "bytes": 3070
+    },
+    {
+      "path": "round2_data/objects/jp_1_no_jump_position.wav",
+      "original": "https://raw.githubusercontent.com/ebu/ear-production-suite/ed42d4ede70172d80cd4402c1674062350377f68/reaper-adm-extension/test/reaper_adm/data/jp_1_no_jump_position.wav",
+      "sha256": "8f5e2ea5ab2c50adf568723cae1b43583b564f7c4294283e59abea339ec1ab63",
+      "git_blob": "4746d473f290535447ec58d1576d118c9bc1fcc6",
+      "bytes": 291210,
+      "audio": {
+        "container": "RIFF WAVE with axml and chna",
+        "channels": 1,
+        "rate": 48000,
+        "seconds": 3.0,
+        "pcm_sha256": "7f8a8e9ea2cf4ca1d117cabaf4acc132f657dfe7ac218c40c76572cae5e908e5",
+        "pcm_rms": 0.3535281276621516,
+        "dominant_hz": 440.0,
+        "chna_uid": "ATU_00000001",
+        "objects": [
+          "AO_1001"
+        ],
+        "position_blocks": [
+          {
+            "id": "AB_00031001_00000001",
+            "start": "00:00:00.000000000",
+            "duration": "00:00:01.000000000",
+            "coordinates": {
+              "azimuth": 0.0,
+              "elevation": 0.0,
+              "distance": 20.0
+            },
+            "jump": {
+              "value": "0",
+              "interpolationLength": null
+            }
+          },
+          {
+            "id": "AB_00031001_00000002",
+            "start": "00:00:01.000000000",
+            "duration": "00:00:01.000000000",
+            "coordinates": {
+              "azimuth": 0.0,
+              "elevation": 0.0,
+              "distance": 55.0
+            },
+            "jump": {
+              "value": "0",
+              "interpolationLength": null
+            }
+          },
+          {
+            "id": "AB_00031001_00000003",
+            "start": "00:00:02.000000000",
+            "duration": "00:00:01.000000000",
+            "coordinates": {
+              "azimuth": 0.0,
+              "elevation": 0.0,
+              "distance": 40.0
+            },
+            "jump": {
+              "value": "0",
+              "interpolationLength": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "path": "round2_data/objects/jp_2_jump_position_no_interpolate.xml",
+      "original": "https://raw.githubusercontent.com/ebu/ear-production-suite/ed42d4ede70172d80cd4402c1674062350377f68/reaper-adm-extension/test/reaper_adm/data/jp_2_jump_position_no_interpolate.xml",
+      "sha256": "57e187a7b289c96f45a49f5bb6999988d927aca8ee9393cd34f902e3f2e73c5a",
+      "git_blob": "a69d609582eea62328a59c308c3c9ad96d0d174e",
+      "bytes": 3070
+    },
+    {
+      "path": "round2_data/objects/jp_2_jump_position_no_interpolate.wav",
+      "original": "https://raw.githubusercontent.com/ebu/ear-production-suite/ed42d4ede70172d80cd4402c1674062350377f68/reaper-adm-extension/test/reaper_adm/data/jp_2_jump_position_no_interpolate.wav",
+      "sha256": "d290db8c68b32af7d89e600686a15662b3ac273c16563d3995042362e4503de0",
+      "git_blob": "07232fa706e950dd32261b82f9ba7794d4489330",
+      "bytes": 291210,
+      "audio": {
+        "container": "RIFF WAVE with axml and chna",
+        "channels": 1,
+        "rate": 48000,
+        "seconds": 3.0,
+        "pcm_sha256": "7f8a8e9ea2cf4ca1d117cabaf4acc132f657dfe7ac218c40c76572cae5e908e5",
+        "pcm_rms": 0.3535281276621516,
+        "dominant_hz": 440.0,
+        "chna_uid": "ATU_00000001",
+        "objects": [
+          "AO_1001"
+        ],
+        "position_blocks": [
+          {
+            "id": "AB_00031001_00000001",
+            "start": "00:00:00.000000000",
+            "duration": "00:00:01.000000000",
+            "coordinates": {
+              "azimuth": 0.0,
+              "elevation": 0.0,
+              "distance": 20.0
+            },
+            "jump": {
+              "value": "1",
+              "interpolationLength": null
+            }
+          },
+          {
+            "id": "AB_00031001_00000002",
+            "start": "00:00:01.000000000",
+            "duration": "00:00:01.000000000",
+            "coordinates": {
+              "azimuth": 0.0,
+              "elevation": 0.0,
+              "distance": 55.0
+            },
+            "jump": {
+              "value": "1",
+              "interpolationLength": null
+            }
+          },
+          {
+            "id": "AB_00031001_00000003",
+            "start": "00:00:02.000000000",
+            "duration": "00:00:01.000000000",
+            "coordinates": {
+              "azimuth": 0.0,
+              "elevation": 0.0,
+              "distance": 40.0
+            },
+            "jump": {
+              "value": "1",
+              "interpolationLength": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "path": "round2_data/objects/jp_3_jump_position_interpolate.xml",
+      "original": "https://raw.githubusercontent.com/ebu/ear-production-suite/ed42d4ede70172d80cd4402c1674062350377f68/reaper-adm-extension/test/reaper_adm/data/jp_3_jump_position_interpolate.xml",
+      "sha256": "70668f9d41fa9f9b77b79c054eecae01a11c90dd6cce10f1c033f1f10babc5a2",
+      "git_blob": "f5f74c8cab0d4c987458aa86c01c9c6dc93f1d78",
+      "bytes": 3146
+    },
+    {
+      "path": "round2_data/objects/jp_3_jump_position_interpolate.wav",
+      "original": "https://raw.githubusercontent.com/ebu/ear-production-suite/ed42d4ede70172d80cd4402c1674062350377f68/reaper-adm-extension/test/reaper_adm/data/jp_3_jump_position_interpolate.wav",
+      "sha256": "963650c629394e4739bad6b31ab3ed5c26f7c9bf23fd3a8c3d445fa1f8a71d49",
+      "git_blob": "892ba5dfa4660f098d0b3a85b58bd13f69ba3b21",
+      "bytes": 291286,
+      "audio": {
+        "container": "RIFF WAVE with axml and chna",
+        "channels": 1,
+        "rate": 48000,
+        "seconds": 3.0,
+        "pcm_sha256": "7f8a8e9ea2cf4ca1d117cabaf4acc132f657dfe7ac218c40c76572cae5e908e5",
+        "pcm_rms": 0.3535281276621516,
+        "dominant_hz": 440.0,
+        "chna_uid": "ATU_00000001",
+        "objects": [
+          "AO_1001"
+        ],
+        "position_blocks": [
+          {
+            "id": "AB_00031001_00000001",
+            "start": "00:00:00.000000000",
+            "duration": "00:00:01.000000000",
+            "coordinates": {
+              "azimuth": 0.0,
+              "elevation": 0.0,
+              "distance": 20.0
+            },
+            "jump": {
+              "value": "1",
+              "interpolationLength": "0.30000"
+            }
+          },
+          {
+            "id": "AB_00031001_00000002",
+            "start": "00:00:01.000000000",
+            "duration": "00:00:01.000000000",
+            "coordinates": {
+              "azimuth": 0.0,
+              "elevation": 0.0,
+              "distance": 55.0
+            },
+            "jump": {
+              "value": "1",
+              "interpolationLength": "0.30000"
+            }
+          },
+          {
+            "id": "AB_00031001_00000003",
+            "start": "00:00:02.000000000",
+            "duration": "00:00:01.000000000",
+            "coordinates": {
+              "azimuth": 0.0,
+              "elevation": 0.0,
+              "distance": 40.0
+            },
+            "jump": {
+              "value": "1",
+              "interpolationLength": "0.30000"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "path": "round2_data/objects/jp_4_zero_length.xml",
+      "original": "https://raw.githubusercontent.com/ebu/ear-production-suite/ed42d4ede70172d80cd4402c1674062350377f68/reaper-adm-extension/test/reaper_adm/data/jp_4_zero_length.xml",
+      "sha256": "ab6b45cf59702121cfd5c6543b7aae6f37a145a8c16deff050101c591c83f60f",
+      "git_blob": "d73939c71fb70965585afc02689263d05400a009",
+      "bytes": 4129
+    },
+    {
+      "path": "round2_data/objects/jp_4_zero_length.wav",
+      "original": "https://raw.githubusercontent.com/ebu/ear-production-suite/ed42d4ede70172d80cd4402c1674062350377f68/reaper-adm-extension/test/reaper_adm/data/jp_4_zero_length.wav",
+      "sha256": "acfe72441a5a5fa1ca9bf73bcc6885c1ac8ae3631d7e89044bb5c5c6951452fd",
+      "git_blob": "0d829b4d9a4e9e6d8c3a72dc4888a4a9372bcc16",
+      "bytes": 292270,
+      "audio": {
+        "container": "RIFF WAVE with axml and chna",
+        "channels": 1,
+        "rate": 48000,
+        "seconds": 3.0,
+        "pcm_sha256": "7f8a8e9ea2cf4ca1d117cabaf4acc132f657dfe7ac218c40c76572cae5e908e5",
+        "pcm_rms": 0.3535281276621516,
+        "dominant_hz": 440.0,
+        "chna_uid": "ATU_00000001",
+        "objects": [
+          "AO_1001"
+        ],
+        "position_blocks": [
+          {
+            "id": "AB_00031001_00000001",
+            "start": "00:00:00.000000000",
+            "duration": "00:00:00.000000000",
+            "coordinates": {
+              "azimuth": 0.0,
+              "elevation": 0.0,
+              "distance": 60.0
+            },
+            "jump": {
+              "value": "1",
+              "interpolationLength": null
+            }
+          },
+          {
+            "id": "AB_00031001_00000002",
+            "start": "00:00:00.000000000",
+            "duration": "00:00:01.000000000",
+            "coordinates": {
+              "azimuth": 0.0,
+              "elevation": 0.0,
+              "distance": 20.0
+            },
+            "jump": {
+              "value": "0",
+              "interpolationLength": null
+            }
+          },
+          {
+            "id": "AB_00031001_00000003",
+            "start": "00:00:01.000000000",
+            "duration": "00:00:00.000000000",
+            "coordinates": {
+              "azimuth": 0.0,
+              "elevation": 0.0,
+              "distance": 55.0
+            },
+            "jump": {
+              "value": "1",
+              "interpolationLength": null
+            }
+          },
+          {
+            "id": "AB_00031001_00000004",
+            "start": "00:00:01.000000000",
+            "duration": "00:00:01.000000000",
+            "coordinates": {
+              "azimuth": 0.0,
+              "elevation": 0.0,
+              "distance": 20.0
+            },
+            "jump": {
+              "value": "0",
+              "interpolationLength": null
+            }
+          },
+          {
+            "id": "AB_00031001_00000005",
+            "start": "00:00:02.000000000",
+            "duration": "00:00:00.000000000",
+            "coordinates": {
+              "azimuth": 0.0,
+              "elevation": 0.0,
+              "distance": 60.0
+            },
+            "jump": {
+              "value": "1",
+              "interpolationLength": null
+            }
+          },
+          {
+            "id": "AB_00031001_00000006",
+            "start": "00:00:02.000000000",
+            "duration": "00:00:01.000000000",
+            "coordinates": {
+              "azimuth": 0.0,
+              "elevation": 0.0,
+              "distance": 20.0
+            },
+            "jump": {
+              "value": "0",
+              "interpolationLength": null
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

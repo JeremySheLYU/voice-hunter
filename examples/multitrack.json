@@ -1,0 +1,7 @@
+{
+  "tracks": [
+    {"id": "bells", "mode": "example", "span": [0.05, 2.05], "background": [2.35, 4.30], "pan": 0.2},
+    {"id": "strings", "mode": "example", "span": [2.35, 4.30], "background": [0.05, 2.05], "pan": -0.2}
+  ],
+  "background_width": 1.15
+}

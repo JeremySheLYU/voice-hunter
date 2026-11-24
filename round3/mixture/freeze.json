@@ -1,0 +1,44 @@
+{
+  "name": "mixture",
+  "predictor": "round3.mixture.gateway:Predictor",
+  "module": "round3.mixture.model:predict_scene",
+  "deployment": "Research candidate; geometry gate is part of all reported results",
+  "training_sources": 625,
+  "training_mix_examples": 1600,
+  "validation": {
+    "persistent": {
+      "n": 55,
+      "tp": 46,
+      "fp": 13,
+      "accuracy": 0.8,
+      "f1": 0.8070175438596491,
+      "useful": 46,
+      "harmful": 0
+    },
+    "intermittent": {
+      "n": 55,
+      "tp": 47,
+      "fp": 13,
+      "accuracy": 0.8090909090909091,
+      "f1": 0.8173913043478261,
+      "useful": 46,
+      "harmful": 1
+    }
+  },
+  "files": {
+    "round3/mixture/model.py": "a32aa1ae895cb0955c3bc2b091d1cb6e87031ba6dbb0616d35a224dbdd0e4200",
+    "round3/mixture/gateway.py": "aa4be523187abda3849546e281c0497c81712ff48b4fc8c38d0330288b407029",
+    "round3/mixture/jointdiag.py": "f533a96d113c960ce4975c919e687ca9c584255790502890e06c6fcb448386ce",
+    "round3/mixture/mix_model.py": "6f2b3b0f83acb81b4f106011736be0186a4cc0549b1dbcae98a9d8deb6b67e4f",
+    "round3/mixture/masker.py": "c6f137f2d1fa439dcd14fa8e2c9c745f1bc6f233a7e05e99afcfc204a9c94b88",
+    "round3/mixture/gateway_params.json": "6fb70fdac28a653bed2a6166af209ef287705865eb778c65135f2a0fc0960d5b",
+    "round3/mixture/mix_head.npz": "9f84de321945799cd170ca2be631b9278e8ba256d4f9c292d9f381811f87979e",
+    "round3/mixture/train_mix.py": "387792a30779b6ee7109c9edf82e4498c294bff2be6a108c7c87f4748a394ee9",
+    "round3/mixture/calibrate_gateway.py": "a2a25a32b050b81c98bc9c8b15bac10528ad4b85cd1f638ce21e9aad43135211",
+    "round3/transfer/candidate.py": "e9b5be770a691f505e9b42d00b91391015cc441ec517686c6b1d10ffe38ec742",
+    "round3/transfer/head.npz": "ab4aa44c9e0f522e904d91a4ee7856b242329e7911ade34b72a52e4ef7ac40f6",
+    "round3/transfer/yamnet.onnx": "d3835ffbbd4a1bb3e777f0ca217b5007907f5171dd5d17c4236b95b2af8f908e",
+    "round2/semantic/cohort.json": "4f6b94457b000e927c509fdbcdb08358a8e49797faf08497cfffddcd187d9cfb",
+    "round3/data/train.json": "e574af231f307ca2c7c0b3c00331e40ee6dffbf5c5d7799573419b16019a9391"
+  }
+}

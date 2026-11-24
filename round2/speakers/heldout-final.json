@@ -1,0 +1,2936 @@
+{
+  "partition": "test-clean",
+  "files_catalogued": 2620,
+  "reader_count": 40,
+  "speaker_overlap_with_train": 0,
+  "input_type": "real mono speech with synthetic two-microphone paths",
+  "groups": {
+    "fixed": {
+      "v01": {
+        "n": 40,
+        "returned": 40,
+        "passed": 40,
+        "harmful": 0,
+        "median_min_gain": 27.577713795919884,
+        "worst_min_gain": 23.09618806025729,
+        "peak_reconstruction_fs": 5.960464477539063e-08
+      },
+      "candidate": {
+        "n": 40,
+        "returned": 40,
+        "passed": 38,
+        "harmful": 1,
+        "median_min_gain": 27.436705631492053,
+        "worst_min_gain": -2.390132051820845,
+        "peak_reconstruction_fs": 5.960464477539063e-08
+      }
+    },
+    "crossing": {
+      "v01": {
+        "n": 40,
+        "returned": 40,
+        "passed": 0,
+        "harmful": 40,
+        "median_min_gain": -3.503308726638307,
+        "worst_min_gain": -5.017637171536041,
+        "peak_reconstruction_fs": 5.960464477539063e-08
+      },
+      "candidate": {
+        "n": 40,
+        "returned": 40,
+        "passed": 35,
+        "harmful": 3,
+        "median_min_gain": 25.812034331894445,
+        "worst_min_gain": -3.583518304632827,
+        "peak_reconstruction_fs": 5.960464477539063e-08
+      }
+    }
+  },
+  "scenes": [
+    {
+      "pair": [
+        "908",
+        "7021"
+      ],
+      "utterances": [
+        "908-157963-0000",
+        "908-31957-0025",
+        "7021-79730-0001",
+        "7021-85628-0027"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          28.405274419406997,
+          27.730765196781554
+        ],
+        "minimum_db": 27.730765196781554,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          28.405274419406997,
+          27.730765196781554
+        ],
+        "minimum_db": 27.730765196781554,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "908",
+        "7021"
+      ],
+      "utterances": [
+        "908-157963-0000",
+        "908-31957-0025",
+        "7021-79730-0001",
+        "7021-85628-0027"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.515509247709201,
+          -3.201189452743976
+        ],
+        "minimum_db": -3.201189452743976,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          1.654672825741698,
+          0.9689926206274179
+        ],
+        "minimum_db": 0.9689926206274179,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 2.19
+      }
+    },
+    {
+      "pair": [
+        "908",
+        "7021"
+      ],
+      "utterances": [
+        "908-157963-0004",
+        "908-31957-0024",
+        "7021-79730-0003",
+        "7021-85628-0023"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          27.387447264943226,
+          26.280133517342865
+        ],
+        "minimum_db": 26.280133517342865,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          27.387447264943226,
+          26.280133517342865
+        ],
+        "minimum_db": 26.280133517342865,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "908",
+        "7021"
+      ],
+      "utterances": [
+        "908-157963-0004",
+        "908-31957-0024",
+        "7021-79730-0003",
+        "7021-85628-0023"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.3401902811046202,
+          -3.443270370468129
+        ],
+        "minimum_db": -3.443270370468129,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          26.04023894630179,
+          24.937158793741396
+        ],
+        "minimum_db": 24.937158793741396,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.09
+      }
+    },
+    {
+      "pair": [
+        "4446",
+        "1089"
+      ],
+      "utterances": [
+        "4446-2271-0001",
+        "4446-2275-0043",
+        "1089-134686-0000",
+        "1089-134691-0025"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          26.145282426996157,
+          29.151054784940392
+        ],
+        "minimum_db": 26.145282426996157,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          26.145282426996157,
+          29.151054784940392
+        ],
+        "minimum_db": 26.145282426996157,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "4446",
+        "1089"
+      ],
+      "utterances": [
+        "4446-2271-0001",
+        "4446-2275-0043",
+        "1089-134686-0000",
+        "1089-134691-0025"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -4.411435759184203,
+          -1.6546889316161062
+        ],
+        "minimum_db": -4.411435759184203,
+        "pass": false,
+        "sample_sum_error": 5.960464477539063e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          26.167579969205327,
+          28.924326740013427
+        ],
+        "minimum_db": 26.167579969205327,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.27
+      }
+    },
+    {
+      "pair": [
+        "4446",
+        "1089"
+      ],
+      "utterances": [
+        "4446-2271-0004",
+        "4446-2275-0042",
+        "1089-134686-0002",
+        "1089-134691-0023"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          23.09618806025729,
+          23.94923235646476
+        ],
+        "minimum_db": 23.09618806025729,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          23.09618806025729,
+          23.94923235646476
+        ],
+        "minimum_db": 23.09618806025729,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "4446",
+        "1089"
+      ],
+      "utterances": [
+        "4446-2271-0004",
+        "4446-2275-0042",
+        "1089-134686-0002",
+        "1089-134691-0023"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -3.231304105627172,
+          -2.444966671884428
+        ],
+        "minimum_db": -3.231304105627172,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          25.94936199823953,
+          26.73569953841814
+        ],
+        "minimum_db": 25.94936199823953,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.27
+      }
+    },
+    {
+      "pair": [
+        "8455",
+        "260"
+      ],
+      "utterances": [
+        "8455-210777-0000",
+        "8455-210777-0070",
+        "260-123286-0000",
+        "260-123440-0020"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          28.583064384959588,
+          29.181170096460892
+        ],
+        "minimum_db": 28.583064384959588,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          0.9658214297141444,
+          1.5639270522212274
+        ],
+        "minimum_db": 0.9658214297141444,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 1.29
+      }
+    },
+    {
+      "pair": [
+        "8455",
+        "260"
+      ],
+      "utterances": [
+        "8455-210777-0000",
+        "8455-210777-0070",
+        "260-123286-0000",
+        "260-123440-0020"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -3.1798989466992804,
+          -2.521175439069256
+        ],
+        "minimum_db": -3.1798989466992804,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          1.0108279622598833,
+          1.6695514690273412
+        ],
+        "minimum_db": 1.0108279622598833,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.24
+      }
+    },
+    {
+      "pair": [
+        "8455",
+        "260"
+      ],
+      "utterances": [
+        "8455-210777-0001",
+        "8455-210777-0069",
+        "260-123286-0002",
+        "260-123440-0019"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          27.43199792911919,
+          25.953894505216862
+        ],
+        "minimum_db": 25.953894505216862,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          27.43199792911919,
+          25.953894505216862
+        ],
+        "minimum_db": 25.953894505216862,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "8455",
+        "260"
+      ],
+      "utterances": [
+        "8455-210777-0001",
+        "8455-210777-0069",
+        "260-123286-0002",
+        "260-123440-0019"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.0800449047607312,
+          -3.583518304632827
+        ],
+        "minimum_db": -3.583518304632827,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          -2.0800449047607312,
+          -3.583518304632827
+        ],
+        "minimum_db": -3.583518304632827,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "237",
+        "6930"
+      ],
+      "utterances": [
+        "237-126133-0000",
+        "237-134500-0041",
+        "6930-75918-0001",
+        "6930-81414-0024"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          29.572232857683268,
+          30.60783912207549
+        ],
+        "minimum_db": 29.572232857683268,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          29.572232857683268,
+          30.60783912207549
+        ],
+        "minimum_db": 29.572232857683268,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "237",
+        "6930"
+      ],
+      "utterances": [
+        "237-126133-0000",
+        "237-134500-0041",
+        "6930-75918-0001",
+        "6930-81414-0024"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -3.349719831740701,
+          -2.361729418644485
+        ],
+        "minimum_db": -3.349719831740701,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          27.169283291452068,
+          28.157273599505437
+        ],
+        "minimum_db": 27.169283291452068,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.45
+      }
+    },
+    {
+      "pair": [
+        "237",
+        "6930"
+      ],
+      "utterances": [
+        "237-126133-0001",
+        "237-134500-0039",
+        "6930-75918-0002",
+        "6930-81414-0023"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          26.800319846628227,
+          27.272054468017842
+        ],
+        "minimum_db": 26.800319846628227,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          26.800319846628227,
+          27.272054468017842
+        ],
+        "minimum_db": 26.800319846628227,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "237",
+        "6930"
+      ],
+      "utterances": [
+        "237-126133-0001",
+        "237-134500-0039",
+        "6930-75918-0002",
+        "6930-81414-0023"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -3.058976368452705,
+          -2.562975645776127
+        ],
+        "minimum_db": -3.058976368452705,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          27.85637461640901,
+          28.352375363396888
+        ],
+        "minimum_db": 27.85637461640901,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.09
+      }
+    },
+    {
+      "pair": [
+        "6829",
+        "2094"
+      ],
+      "utterances": [
+        "6829-68769-0000",
+        "6829-68771-0036",
+        "2094-142345-0000",
+        "2094-142345-0059"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          28.912845327570885,
+          28.582834088794716
+        ],
+        "minimum_db": 28.582834088794716,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          28.912845327570885,
+          28.582834088794716
+        ],
+        "minimum_db": 28.582834088794716,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "6829",
+        "2094"
+      ],
+      "utterances": [
+        "6829-68769-0000",
+        "6829-68771-0036",
+        "2094-142345-0000",
+        "2094-142345-0059"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.626593138708347,
+          -2.9749237950982184
+        ],
+        "minimum_db": -2.9749237950982184,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          26.14985644309149,
+          25.80152575331388
+        ],
+        "minimum_db": 25.80152575331388,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.09
+      }
+    },
+    {
+      "pair": [
+        "6829",
+        "2094"
+      ],
+      "utterances": [
+        "6829-68769-0001",
+        "6829-68771-0033",
+        "2094-142345-0001",
+        "2094-142345-0058"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          25.861682692784306,
+          29.628115587087915
+        ],
+        "minimum_db": 25.861682692784306,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          25.861682692784306,
+          29.628115587087915
+        ],
+        "minimum_db": 25.861682692784306,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "6829",
+        "2094"
+      ],
+      "utterances": [
+        "6829-68769-0001",
+        "6829-68771-0033",
+        "2094-142345-0001",
+        "2094-142345-0058"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -4.979853526218723,
+          -1.419439681744164
+        ],
+        "minimum_db": -4.979853526218723,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          -1.9171671388535485,
+          1.643246707615058
+        ],
+        "minimum_db": -1.9171671388535485,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 1.65
+      }
+    },
+    {
+      "pair": [
+        "1995",
+        "4970"
+      ],
+      "utterances": [
+        "1995-1826-0000",
+        "1995-1837-0029",
+        "4970-29093-0001",
+        "4970-29095-0038"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          24.70245591137232,
+          27.28600345059718
+        ],
+        "minimum_db": 24.70245591137232,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          24.70245591137232,
+          27.28600345059718
+        ],
+        "minimum_db": 24.70245591137232,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "1995",
+        "4970"
+      ],
+      "utterances": [
+        "1995-1826-0000",
+        "1995-1837-0029",
+        "4970-29093-0001",
+        "4970-29095-0038"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -4.258358647574601,
+          -1.5404433635970096
+        ],
+        "minimum_db": -4.258358647574601,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          20.757017949906814,
+          23.474933179059082
+        ],
+        "minimum_db": 20.757017949906814,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 2.73
+      }
+    },
+    {
+      "pair": [
+        "1995",
+        "4970"
+      ],
+      "utterances": [
+        "1995-1826-0001",
+        "1995-1837-0027",
+        "4970-29093-0002",
+        "4970-29095-0037"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          28.557433260094584,
+          29.054376600085586
+        ],
+        "minimum_db": 28.557433260094584,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          28.557433260094584,
+          29.054376600085586
+        ],
+        "minimum_db": 28.557433260094584,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "1995",
+        "4970"
+      ],
+      "utterances": [
+        "1995-1826-0001",
+        "1995-1837-0027",
+        "4970-29093-0002",
+        "4970-29095-0037"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.9871078443534143,
+          -2.510808138745669
+        ],
+        "minimum_db": -2.9871078443534143,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          26.44209735193048,
+          26.918397013948102
+        ],
+        "minimum_db": 26.44209735193048,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.27
+      }
+    },
+    {
+      "pair": [
+        "1188",
+        "1320"
+      ],
+      "utterances": [
+        "1188-133604-0000",
+        "1188-133604-0044",
+        "1320-122612-0000",
+        "1320-122617-0040"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          26.843010034460118,
+          29.999630622068842
+        ],
+        "minimum_db": 26.843010034460118,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          26.843010034460118,
+          29.999630622068842
+        ],
+        "minimum_db": 26.843010034460118,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "1188",
+        "1320"
+      ],
+      "utterances": [
+        "1188-133604-0000",
+        "1188-133604-0044",
+        "1320-122612-0000",
+        "1320-122617-0040"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -4.768934265926269,
+          -1.621540895220508
+        ],
+        "minimum_db": -4.768934265926269,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          27.518801774356024,
+          30.666195179412288
+        ],
+        "minimum_db": 27.518801774356024,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 2.37
+      }
+    },
+    {
+      "pair": [
+        "1188",
+        "1320"
+      ],
+      "utterances": [
+        "1188-133604-0001",
+        "1188-133604-0043",
+        "1320-122612-0001",
+        "1320-122617-0039"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          28.67911316310079,
+          28.38404910219943
+        ],
+        "minimum_db": 28.38404910219943,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          28.67911316310079,
+          28.38404910219943
+        ],
+        "minimum_db": 28.38404910219943,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "1188",
+        "1320"
+      ],
+      "utterances": [
+        "1188-133604-0001",
+        "1188-133604-0043",
+        "1320-122612-0001",
+        "1320-122617-0039"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.8165212790887653,
+          -3.0208999043209106
+        ],
+        "minimum_db": -3.0208999043209106,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          27.816673112809994,
+          27.612294428774156
+        ],
+        "minimum_db": 27.612294428774156,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.27
+      }
+    },
+    {
+      "pair": [
+        "1221",
+        "7176"
+      ],
+      "utterances": [
+        "1221-135766-0000",
+        "1221-135767-0024",
+        "7176-88083-0000",
+        "7176-92135-0045"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          28.760548021697737,
+          26.955543542172546
+        ],
+        "minimum_db": 26.955543542172546,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          28.760548021697737,
+          26.955543542172546
+        ],
+        "minimum_db": 26.955543542172546,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "1221",
+        "7176"
+      ],
+      "utterances": [
+        "1221-135766-0000",
+        "1221-135767-0024",
+        "7176-88083-0000",
+        "7176-92135-0045"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -1.9979645780161401,
+          -3.882476749027885
+        ],
+        "minimum_db": -3.882476749027885,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          27.769394235761517,
+          25.884882070854584
+        ],
+        "minimum_db": 25.884882070854584,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.27
+      }
+    },
+    {
+      "pair": [
+        "1221",
+        "7176"
+      ],
+      "utterances": [
+        "1221-135766-0001",
+        "1221-135767-0023",
+        "7176-88083-0001",
+        "7176-92135-0044"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          29.613421223692207,
+          29.437350989873533
+        ],
+        "minimum_db": 29.437350989873533,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          29.613421223692207,
+          29.437350989873533
+        ],
+        "minimum_db": 29.437350989873533,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "1221",
+        "7176"
+      ],
+      "utterances": [
+        "1221-135766-0001",
+        "1221-135767-0023",
+        "7176-88083-0001",
+        "7176-92135-0044"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.656315846650395,
+          -2.8531828975924043
+        ],
+        "minimum_db": -2.8531828975924043,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          26.195883698803243,
+          25.999016641780134
+        ],
+        "minimum_db": 25.999016641780134,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.27
+      }
+    },
+    {
+      "pair": [
+        "4077",
+        "4507"
+      ],
+      "utterances": [
+        "4077-13751-0000",
+        "4077-13754-0016",
+        "4507-16021-0001",
+        "4507-16021-0059"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          28.673244114154564,
+          25.060912101764465
+        ],
+        "minimum_db": 25.060912101764465,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          28.673244114154564,
+          25.060912101764465
+        ],
+        "minimum_db": 25.060912101764465,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "4077",
+        "4507"
+      ],
+      "utterances": [
+        "4077-13751-0000",
+        "4077-13754-0016",
+        "4507-16021-0001",
+        "4507-16021-0059"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -1.4038036187045577,
+          -5.017637171536041
+        ],
+        "minimum_db": -5.017637171536041,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          26.404517369754004,
+          22.790683838370594
+        ],
+        "minimum_db": 22.790683838370594,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.27
+      }
+    },
+    {
+      "pair": [
+        "4077",
+        "4507"
+      ],
+      "utterances": [
+        "4077-13751-0001",
+        "4077-13754-0015",
+        "4507-16021-0003",
+        "4507-16021-0057"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          29.415076859259774,
+          26.00566019542633
+        ],
+        "minimum_db": 26.00566019542633,
+        "pass": true,
+        "sample_sum_error": 5.960464477539063e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          29.415076859259774,
+          26.00566019542633
+        ],
+        "minimum_db": 26.00566019542633,
+        "pass": true,
+        "sample_sum_error": 5.960464477539063e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "4077",
+        "4507"
+      ],
+      "utterances": [
+        "4077-13751-0001",
+        "4077-13754-0015",
+        "4507-16021-0003",
+        "4507-16021-0057"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -1.4076979815696924,
+          -4.968962833461496
+        ],
+        "minimum_db": -4.968962833461496,
+        "pass": false,
+        "sample_sum_error": 5.960464477539063e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          23.70382393800863,
+          20.142559061053312
+        ],
+        "minimum_db": 20.142559061053312,
+        "pass": true,
+        "sample_sum_error": 5.960464477539063e-08,
+        "reassigned_seconds": 3.09
+      }
+    },
+    {
+      "pair": [
+        "672",
+        "3570"
+      ],
+      "utterances": [
+        "672-122797-0001",
+        "672-122797-0074",
+        "3570-5694-0000",
+        "3570-5696-0010"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          30.15564650773927,
+          27.59633487470043
+        ],
+        "minimum_db": 27.59633487470043,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          30.15564650773927,
+          27.59633487470043
+        ],
+        "minimum_db": 27.59633487470043,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "672",
+        "3570"
+      ],
+      "utterances": [
+        "672-122797-0001",
+        "672-122797-0074",
+        "3570-5694-0000",
+        "3570-5696-0010"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -1.677316359977989,
+          -4.3095002117342585
+        ],
+        "minimum_db": -4.3095002117342585,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          26.15477742359135,
+          23.52259359440872
+        ],
+        "minimum_db": 23.52259359440872,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.27
+      }
+    },
+    {
+      "pair": [
+        "672",
+        "3570"
+      ],
+      "utterances": [
+        "672-122797-0002",
+        "672-122797-0073",
+        "3570-5694-0001",
+        "3570-5696-0009"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          30.180073485334862,
+          29.81482994488499
+        ],
+        "minimum_db": 29.81482994488499,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          30.180073485334862,
+          29.81482994488499
+        ],
+        "minimum_db": 29.81482994488499,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "672",
+        "3570"
+      ],
+      "utterances": [
+        "672-122797-0002",
+        "672-122797-0073",
+        "3570-5694-0001",
+        "3570-5696-0009"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.561946437707349,
+          -3.06377583561108
+        ],
+        "minimum_db": -3.06377583561108,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          26.681215943583847,
+          26.179386508966772
+        ],
+        "minimum_db": 26.179386508966772,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.09
+      }
+    },
+    {
+      "pair": [
+        "5142",
+        "8463"
+      ],
+      "utterances": [
+        "5142-33396-0001",
+        "5142-36600-0001",
+        "8463-287645-0000",
+        "8463-294828-0038"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          27.52670376232152,
+          28.53023528957836
+        ],
+        "minimum_db": 27.52670376232152,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          -2.390132051820845,
+          -1.3866006408679816
+        ],
+        "minimum_db": -2.390132051820845,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 2.55
+      }
+    },
+    {
+      "pair": [
+        "5142",
+        "8463"
+      ],
+      "utterances": [
+        "5142-33396-0001",
+        "5142-36600-0001",
+        "8463-287645-0000",
+        "8463-294828-0038"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -3.467067481961611,
+          -2.4634183500419393
+        ],
+        "minimum_db": -3.467067481961611,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          -3.467067481961611,
+          -2.4634183500419393
+        ],
+        "minimum_db": -3.467067481961611,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "5142",
+        "8463"
+      ],
+      "utterances": [
+        "5142-33396-0006",
+        "5142-36586-0003",
+        "8463-287645-0002",
+        "8463-294828-0037"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          28.501990132083716,
+          27.97009851424983
+        ],
+        "minimum_db": 27.97009851424983,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          28.501990132083716,
+          27.97009851424983
+        ],
+        "minimum_db": 27.97009851424983,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "5142",
+        "8463"
+      ],
+      "utterances": [
+        "5142-33396-0006",
+        "5142-36586-0003",
+        "8463-287645-0002",
+        "8463-294828-0037"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.5950278496142043,
+          -3.1445380836763355
+        ],
+        "minimum_db": -3.1445380836763355,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          28.10749093788157,
+          27.557980765256804
+        ],
+        "minimum_db": 27.557980765256804,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 2.91
+      }
+    },
+    {
+      "pair": [
+        "3575",
+        "8230"
+      ],
+      "utterances": [
+        "3575-170457-0000",
+        "3575-170457-0055",
+        "8230-279154-0000",
+        "8230-279154-0043"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          29.840962019820463,
+          28.663360738795312
+        ],
+        "minimum_db": 28.663360738795312,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          29.840962019820463,
+          28.663360738795312
+        ],
+        "minimum_db": 28.663360738795312,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "3575",
+        "8230"
+      ],
+      "utterances": [
+        "3575-170457-0000",
+        "3575-170457-0055",
+        "8230-279154-0000",
+        "8230-279154-0043"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.2465570405538546,
+          -3.548901702230321
+        ],
+        "minimum_db": -3.548901702230321,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          28.080005942833186,
+          26.77766128528342
+        ],
+        "minimum_db": 26.77766128528342,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.27
+      }
+    },
+    {
+      "pair": [
+        "3575",
+        "8230"
+      ],
+      "utterances": [
+        "3575-170457-0003",
+        "3575-170457-0054",
+        "8230-279154-0001",
+        "8230-279154-0042"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          25.381068949302126,
+          27.435414086354236
+        ],
+        "minimum_db": 25.381068949302126,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          25.381068949302126,
+          27.435414086354236
+        ],
+        "minimum_db": 25.381068949302126,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "3575",
+        "8230"
+      ],
+      "utterances": [
+        "3575-170457-0003",
+        "3575-170457-0054",
+        "8230-279154-0001",
+        "8230-279154-0042"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -3.832522067121392,
+          -1.973543288148209
+        ],
+        "minimum_db": -3.832522067121392,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          22.744267940149314,
+          24.6032467725221
+        ],
+        "minimum_db": 22.744267940149314,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.09
+      }
+    },
+    {
+      "pair": [
+        "8224",
+        "1284"
+      ],
+      "utterances": [
+        "8224-274381-0000",
+        "8224-274384-0013",
+        "1284-1180-0000",
+        "1284-134647-0007"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          25.700497692968618,
+          27.107522190840385
+        ],
+        "minimum_db": 25.700497692968618,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          25.700497692968618,
+          27.107522190840385
+        ],
+        "minimum_db": 25.700497692968618,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "8224",
+        "1284"
+      ],
+      "utterances": [
+        "8224-274381-0000",
+        "8224-274384-0013",
+        "1284-1180-0000",
+        "1284-134647-0007"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -3.4315488657917523,
+          -2.1193139806407064
+        ],
+        "minimum_db": -3.4315488657917523,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          25.362534071634563,
+          26.674768984579817
+        ],
+        "minimum_db": 25.362534071634563,
+        "pass": true,
+        "sample_sum_error": 1.4901161193847656e-08,
+        "reassigned_seconds": 3.27
+      }
+    },
+    {
+      "pair": [
+        "8224",
+        "1284"
+      ],
+      "utterances": [
+        "8224-274381-0001",
+        "8224-274384-0012",
+        "1284-1180-0001",
+        "1284-134647-0006"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          26.562670175235166,
+          27.465221832625403
+        ],
+        "minimum_db": 26.562670175235166,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          26.562670175235166,
+          27.465221832625403
+        ],
+        "minimum_db": 26.562670175235166,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "8224",
+        "1284"
+      ],
+      "utterances": [
+        "8224-274381-0001",
+        "8224-274384-0012",
+        "1284-1180-0001",
+        "1284-134647-0006"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -3.3767943448289848,
+          -2.3311526588131115
+        ],
+        "minimum_db": -3.3767943448289848,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          27.695626424504177,
+          28.74126819463607
+        ],
+        "minimum_db": 27.695626424504177,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.09
+      }
+    },
+    {
+      "pair": [
+        "2300",
+        "5105"
+      ],
+      "utterances": [
+        "2300-131720-0000",
+        "2300-131720-0040",
+        "5105-28233-0002",
+        "5105-28241-0019"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          27.779850829667634,
+          30.206995324468913
+        ],
+        "minimum_db": 27.779850829667634,
+        "pass": true,
+        "sample_sum_error": 5.960464477539063e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          27.779850829667634,
+          30.206995324468913
+        ],
+        "minimum_db": 27.779850829667634,
+        "pass": true,
+        "sample_sum_error": 5.960464477539063e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "2300",
+        "5105"
+      ],
+      "utterances": [
+        "2300-131720-0000",
+        "2300-131720-0040",
+        "5105-28233-0002",
+        "5105-28241-0019"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -4.197668294152452,
+          -1.799106877773009
+        ],
+        "minimum_db": -4.197668294152452,
+        "pass": false,
+        "sample_sum_error": 5.960464477539063e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          26.007404490852736,
+          28.405965807590615
+        ],
+        "minimum_db": 26.007404490852736,
+        "pass": true,
+        "sample_sum_error": 5.960464477539063e-08,
+        "reassigned_seconds": 3.27
+      }
+    },
+    {
+      "pair": [
+        "2300",
+        "5105"
+      ],
+      "utterances": [
+        "2300-131720-0001",
+        "2300-131720-0038",
+        "5105-28233-0003",
+        "5105-28241-0018"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          30.668519790300643,
+          28.442887265102343
+        ],
+        "minimum_db": 28.442887265102343,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          30.668519790300643,
+          28.442887265102343
+        ],
+        "minimum_db": 28.442887265102343,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "2300",
+        "5105"
+      ],
+      "utterances": [
+        "2300-131720-0001",
+        "2300-131720-0038",
+        "5105-28233-0003",
+        "5105-28241-0018"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -1.7827009757323973,
+          -4.195626758881065
+        ],
+        "minimum_db": -4.195626758881065,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          28.235468864472807,
+          25.822542910475015
+        ],
+        "minimum_db": 25.822542910475015,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.09
+      }
+    },
+    {
+      "pair": [
+        "2961",
+        "61"
+      ],
+      "utterances": [
+        "2961-960-0000",
+        "2961-961-0022",
+        "61-70968-0000",
+        "61-70970-0039"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          27.998781782389003,
+          31.20032482430872
+        ],
+        "minimum_db": 27.998781782389003,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          27.998781782389003,
+          31.20032482430872
+        ],
+        "minimum_db": 27.998781782389003,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "2961",
+        "61"
+      ],
+      "utterances": [
+        "2961-960-0000",
+        "2961-961-0022",
+        "61-70968-0000",
+        "61-70970-0039"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -4.406393447105124,
+          -1.368621091272447
+        ],
+        "minimum_db": -4.406393447105124,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          16.519427092608115,
+          19.557199492009595
+        ],
+        "minimum_db": 16.519427092608115,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.09
+      }
+    },
+    {
+      "pair": [
+        "2961",
+        "61"
+      ],
+      "utterances": [
+        "2961-960-0001",
+        "2961-961-0021",
+        "61-70968-0005",
+        "61-70970-0038"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          27.30795433850482,
+          27.797582146160206
+        ],
+        "minimum_db": 27.30795433850482,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          27.30795433850482,
+          27.797582146160206
+        ],
+        "minimum_db": 27.30795433850482,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "2961",
+        "61"
+      ],
+      "utterances": [
+        "2961-960-0001",
+        "2961-961-0021",
+        "61-70968-0005",
+        "61-70970-0038"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -3.1558057101874706,
+          -2.6245940556583047
+        ],
+        "minimum_db": -3.1558057101874706,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          26.16302125898997,
+          26.694233017682528
+        ],
+        "minimum_db": 26.16302125898997,
+        "pass": true,
+        "sample_sum_error": 1.4901161193847656e-08,
+        "reassigned_seconds": 3.27
+      }
+    },
+    {
+      "pair": [
+        "2830",
+        "121"
+      ],
+      "utterances": [
+        "2830-3979-0000",
+        "2830-3980-0076",
+        "121-121726-0000",
+        "121-127105-0035"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          30.580663609799537,
+          28.087231027997458
+        ],
+        "minimum_db": 28.087231027997458,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          30.580663609799537,
+          28.087231027997458
+        ],
+        "minimum_db": 28.087231027997458,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "2830",
+        "121"
+      ],
+      "utterances": [
+        "2830-3979-0000",
+        "2830-3980-0076",
+        "121-121726-0000",
+        "121-127105-0035"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -1.7653444798871871,
+          -4.305495239817023
+        ],
+        "minimum_db": -4.305495239817023,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          27.91311866678501,
+          25.37296789263593
+        ],
+        "minimum_db": 25.37296789263593,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.27
+      }
+    },
+    {
+      "pair": [
+        "2830",
+        "121"
+      ],
+      "utterances": [
+        "2830-3979-0001",
+        "2830-3980-0075",
+        "121-121726-0001",
+        "121-127105-0034"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          29.486749976476464,
+          29.542501710786077
+        ],
+        "minimum_db": 29.486749976476464,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          29.486749976476464,
+          29.542501710786077
+        ],
+        "minimum_db": 29.486749976476464,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "2830",
+        "121"
+      ],
+      "utterances": [
+        "2830-3979-0001",
+        "2830-3980-0075",
+        "121-121726-0001",
+        "121-127105-0034"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.8851920741942623,
+          -2.770771901898647
+        ],
+        "minimum_db": -2.8851920741942623,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          25.903762331804067,
+          26.018182485700628
+        ],
+        "minimum_db": 25.903762331804067,
+        "pass": true,
+        "sample_sum_error": 1.4901161193847656e-08,
+        "reassigned_seconds": 3.45
+      }
+    },
+    {
+      "pair": [
+        "7729",
+        "3729"
+      ],
+      "utterances": [
+        "7729-102255-0002",
+        "7729-102255-0046",
+        "3729-6852-0000",
+        "3729-6852-0046"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          29.686038893104307,
+          27.559092717139343
+        ],
+        "minimum_db": 27.559092717139343,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          29.686038893104307,
+          27.559092717139343
+        ],
+        "minimum_db": 27.559092717139343,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "7729",
+        "3729"
+      ],
+      "utterances": [
+        "7729-102255-0002",
+        "7729-102255-0046",
+        "3729-6852-0000",
+        "3729-6852-0046"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -1.8713385642134401,
+          -3.970692016871409
+        ],
+        "minimum_db": -3.970692016871409,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          27.13776528856723,
+          25.03841182928327
+        ],
+        "minimum_db": 25.03841182928327,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.09
+      }
+    },
+    {
+      "pair": [
+        "7729",
+        "3729"
+      ],
+      "utterances": [
+        "7729-102255-0003",
+        "7729-102255-0045",
+        "3729-6852-0001",
+        "3729-6852-0045"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          27.80088551516301,
+          27.31431854584476
+        ],
+        "minimum_db": 27.31431854584476,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          27.80088551516301,
+          27.31431854584476
+        ],
+        "minimum_db": 27.31431854584476,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "7729",
+        "3729"
+      ],
+      "utterances": [
+        "7729-102255-0003",
+        "7729-102255-0045",
+        "3729-6852-0001",
+        "3729-6852-0045"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.591202907084809,
+          -3.0851789125808007
+        ],
+        "minimum_db": -3.0851789125808007,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          25.50448942092504,
+          25.01051339880529
+        ],
+        "minimum_db": 25.01051339880529,
+        "pass": true,
+        "sample_sum_error": 1.4901161193847656e-08,
+        "reassigned_seconds": 3.09
+      }
+    },
+    {
+      "pair": [
+        "7127",
+        "5683"
+      ],
+      "utterances": [
+        "7127-75946-0000",
+        "7127-75947-0040",
+        "5683-32865-0004",
+        "5683-32879-0023"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          29.78007391153446,
+          28.587494522356327
+        ],
+        "minimum_db": 28.587494522356327,
+        "pass": true,
+        "sample_sum_error": 5.960464477539063e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          29.78007391153446,
+          28.587494522356327
+        ],
+        "minimum_db": 28.587494522356327,
+        "pass": true,
+        "sample_sum_error": 5.960464477539063e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "7127",
+        "5683"
+      ],
+      "utterances": [
+        "7127-75946-0000",
+        "7127-75947-0040",
+        "5683-32865-0004",
+        "5683-32879-0023"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.2360235750461808,
+          -3.5395499713150027
+        ],
+        "minimum_db": -3.5395499713150027,
+        "pass": false,
+        "sample_sum_error": 5.960464477539063e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          28.2058981105954,
+          26.902371429518283
+        ],
+        "minimum_db": 26.902371429518283,
+        "pass": true,
+        "sample_sum_error": 5.960464477539063e-08,
+        "reassigned_seconds": 3.27
+      }
+    },
+    {
+      "pair": [
+        "7127",
+        "5683"
+      ],
+      "utterances": [
+        "7127-75946-0002",
+        "7127-75947-0039",
+        "5683-32865-0005",
+        "5683-32879-0020"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          29.699592179751622,
+          27.010630004835342
+        ],
+        "minimum_db": 27.010630004835342,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          29.699592179751622,
+          27.010630004835342
+        ],
+        "minimum_db": 27.010630004835342,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "7127",
+        "5683"
+      ],
+      "utterances": [
+        "7127-75946-0002",
+        "7127-75947-0039",
+        "5683-32865-0005",
+        "5683-32879-0020"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -1.720853726536269,
+          -4.473509498811839
+        ],
+        "minimum_db": -4.473509498811839,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          30.052916797028622,
+          27.30026102071065
+        ],
+        "minimum_db": 27.30026102071065,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 2.91
+      }
+    },
+    {
+      "pair": [
+        "4992",
+        "5639"
+      ],
+      "utterances": [
+        "4992-23283-0000",
+        "4992-41806-0017",
+        "5639-40744-0000",
+        "5639-40744-0041"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          27.93784989210837,
+          28.777451729774615
+        ],
+        "minimum_db": 27.93784989210837,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          27.93784989210837,
+          28.777451729774615
+        ],
+        "minimum_db": 27.93784989210837,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "4992",
+        "5639"
+      ],
+      "utterances": [
+        "4992-23283-0000",
+        "4992-41806-0017",
+        "5639-40744-0000",
+        "5639-40744-0041"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -3.191073113848782,
+          -2.4600743576876507
+        ],
+        "minimum_db": -3.191073113848782,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          9.401769685697884,
+          10.132768437125485
+        ],
+        "minimum_db": 9.401769685697884,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 2.55
+      }
+    },
+    {
+      "pair": [
+        "4992",
+        "5639"
+      ],
+      "utterances": [
+        "4992-23283-0003",
+        "4992-41806-0016",
+        "5639-40744-0001",
+        "5639-40744-0040"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          27.661079617634062,
+          29.64780639521108
+        ],
+        "minimum_db": 27.661079617634062,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          27.661079617634062,
+          29.64780639521108
+        ],
+        "minimum_db": 27.661079617634062,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "4992",
+        "5639"
+      ],
+      "utterances": [
+        "4992-23283-0003",
+        "4992-41806-0016",
+        "5639-40744-0001",
+        "5639-40744-0040"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -3.869775129410639,
+          -2.0325587451412828
+        ],
+        "minimum_db": -3.869775129410639,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          26.174575383250843,
+          28.0117916408296
+        ],
+        "minimum_db": 26.174575383250843,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.09
+      }
+    },
+    {
+      "pair": [
+        "1580",
+        "8555"
+      ],
+      "utterances": [
+        "1580-141083-0000",
+        "1580-141084-0049",
+        "8555-284447-0000",
+        "8555-292519-0012"
+      ],
+      "replicate": 0,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          28.081534466207728,
+          28.548579908197244
+        ],
+        "minimum_db": 28.081534466207728,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          28.081534466207728,
+          28.548579908197244
+        ],
+        "minimum_db": 28.081534466207728,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "1580",
+        "8555"
+      ],
+      "utterances": [
+        "1580-141083-0000",
+        "1580-141084-0049",
+        "8555-284447-0000",
+        "8555-292519-0012"
+      ],
+      "replicate": 0,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -2.993626538239886,
+          -2.4982470123441693
+        ],
+        "minimum_db": -2.993626538239886,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          21.775747397739377,
+          22.27112692683426
+        ],
+        "minimum_db": 21.775747397739377,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 2.91
+      }
+    },
+    {
+      "pair": [
+        "1580",
+        "8555"
+      ],
+      "utterances": [
+        "1580-141083-0001",
+        "1580-141084-0048",
+        "8555-284447-0001",
+        "8555-292519-0010"
+      ],
+      "replicate": 1,
+      "cross": false,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          24.598389259475944,
+          26.56134132349258
+        ],
+        "minimum_db": 24.598389259475944,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          24.598389259475944,
+          26.56134132349258
+        ],
+        "minimum_db": 24.598389259475944,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      }
+    },
+    {
+      "pair": [
+        "1580",
+        "8555"
+      ],
+      "utterances": [
+        "1580-141083-0001",
+        "1580-141084-0048",
+        "8555-284447-0001",
+        "8555-292519-0010"
+      ],
+      "replicate": 1,
+      "cross": true,
+      "v01": {
+        "status": "returned",
+        "gain_db": [
+          -3.8940736106985705,
+          -1.9484462245966396
+        ],
+        "minimum_db": -3.8940736106985705,
+        "pass": false,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 0.0
+      },
+      "candidate": {
+        "status": "returned",
+        "gain_db": [
+          20.97743248735589,
+          22.923059888995763
+        ],
+        "minimum_db": 20.97743248735589,
+        "pass": true,
+        "sample_sum_error": 2.9802322387695312e-08,
+        "reassigned_seconds": 3.09
+      }
+    }
+  ],
+  "hashes": {
+    "speech.py": "167ea007d167e4e1fc6c1887138829c0e2441c8b7132425aac34a1ec7e887c9b",
+    "speaker_identity.py": "500d104ebd89a0f41d68ac0ff87ba5e867b0b4f1c51c2d6a708a9fde00a0dbfb",
+    "models/speaker-distance.json": "b6b09af6aca2a885945fc21fc1c96a9ba687cabf5d9637243828925bf4ab2d97"
+  }
+}

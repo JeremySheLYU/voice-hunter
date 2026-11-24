@@ -1,0 +1,130 @@
+{
+  "apple": {
+    "detection_gate_met": false,
+    "useful_90_met": false,
+    "by_condition": {
+      "intermittent": {
+        "accuracy": false,
+        "f1": false,
+        "useful_fraction": false
+      },
+      "persistent": {
+        "accuracy": false,
+        "f1": false,
+        "useful_fraction": false
+      }
+    }
+  },
+  "apple_features": {
+    "detection_gate_met": false,
+    "useful_90_met": false,
+    "by_condition": {
+      "intermittent": {
+        "accuracy": false,
+        "f1": false,
+        "useful_fraction": false
+      },
+      "persistent": {
+        "accuracy": false,
+        "f1": false,
+        "useful_fraction": false
+      }
+    }
+  },
+  "classifier": {
+    "detection_gate_met": false,
+    "useful_90_met": false,
+    "by_condition": {
+      "intermittent": {
+        "accuracy": false,
+        "f1": false,
+        "useful_fraction": false
+      },
+      "persistent": {
+        "accuracy": false,
+        "f1": false,
+        "useful_fraction": false
+      }
+    }
+  },
+  "fusion": {
+    "detection_gate_met": false,
+    "useful_90_met": false,
+    "by_condition": {
+      "intermittent": {
+        "accuracy": false,
+        "f1": false,
+        "useful_fraction": false
+      },
+      "persistent": {
+        "accuracy": false,
+        "f1": false,
+        "useful_fraction": false
+      }
+    }
+  },
+  "mixture": {
+    "detection_gate_met": false,
+    "useful_90_met": false,
+    "by_condition": {
+      "intermittent": {
+        "accuracy": false,
+        "f1": false,
+        "useful_fraction": false
+      },
+      "persistent": {
+        "accuracy": false,
+        "f1": false,
+        "useful_fraction": false
+      }
+    }
+  },
+  "round3.transformer.model": {
+    "detection_gate_met": false,
+    "useful_90_met": false,
+    "by_condition": {
+      "intermittent": {
+        "accuracy": false,
+        "f1": false,
+        "useful_fraction": false
+      },
+      "persistent": {
+        "accuracy": false,
+        "f1": false,
+        "useful_fraction": false
+      }
+    }
+  },
+  "transfer": {
+    "detection_gate_met": false,
+    "useful_90_met": false,
+    "by_condition": {
+      "intermittent": {
+        "accuracy": false,
+        "f1": false,
+        "useful_fraction": false
+      },
+      "persistent": {
+        "accuracy": false,
+        "f1": false,
+        "useful_fraction": false
+      }
+    }
+  },
+  "v02": {
+    "detection_gate_met": false,
+    "useful_90_met": false,
+    "by_condition": {
+      "intermittent": {
+        "accuracy": false,
+        "f1": false,
+        "useful_fraction": false
+      },
+      "persistent": {
+        "accuracy": false,
+        "f1": false,
+        "useful_fraction": false
+      }
+    }
+  }
+}

@@ -1,0 +1,1893 @@
+{
+  "validation_classes": {
+    "persistent": {
+      "guitar": {
+        "positive": 11,
+        "negative": 11,
+        "tp": 10,
+        "fp": 0,
+        "useful": 10
+      },
+      "piano": {
+        "positive": 11,
+        "negative": 11,
+        "tp": 11,
+        "fp": 1,
+        "useful": 11
+      },
+      "speech": {
+        "positive": 11,
+        "negative": 11,
+        "tp": 9,
+        "fp": 0,
+        "useful": 9
+      },
+      "train": {
+        "positive": 11,
+        "negative": 11,
+        "tp": 11,
+        "fp": 4,
+        "useful": 11
+      },
+      "wind": {
+        "positive": 11,
+        "negative": 11,
+        "tp": 8,
+        "fp": 2,
+        "useful": 8
+      }
+    },
+    "intermittent": {
+      "guitar": {
+        "positive": 11,
+        "negative": 11,
+        "tp": 9,
+        "fp": 1,
+        "useful": 9
+      },
+      "piano": {
+        "positive": 11,
+        "negative": 11,
+        "tp": 11,
+        "fp": 2,
+        "useful": 11
+      },
+      "speech": {
+        "positive": 11,
+        "negative": 11,
+        "tp": 9,
+        "fp": 0,
+        "useful": 9
+      },
+      "train": {
+        "positive": 11,
+        "negative": 11,
+        "tp": 11,
+        "fp": 4,
+        "useful": 11
+      },
+      "wind": {
+        "positive": 11,
+        "negative": 11,
+        "tp": 8,
+        "fp": 2,
+        "useful": 8
+      }
+    }
+  },
+  "full_waveform_checked": [
+    {
+      "kind": "persistent",
+      "source": "37794",
+      "route": "basic"
+    },
+    {
+      "kind": "persistent",
+      "source": "42373",
+      "route": "basic"
+    },
+    {
+      "kind": "persistent",
+      "source": "334100",
+      "route": "fallback"
+    },
+    {
+      "kind": "persistent",
+      "source": "342983",
+      "route": "fallback"
+    },
+    {
+      "kind": "intermittent",
+      "source": "37794",
+      "route": "basic"
+    },
+    {
+      "kind": "intermittent",
+      "source": "42373",
+      "route": "basic"
+    },
+    {
+      "kind": "intermittent",
+      "source": "334100",
+      "route": "fallback"
+    },
+    {
+      "kind": "intermittent",
+      "source": "342983",
+      "route": "fallback"
+    }
+  ],
+  "warm_and_first_inference_seconds": [
+    2.9578179999953136,
+    2.8684486659476534,
+    2.116424207924865,
+    2.3053588330512866,
+    3.8869912090012804,
+    1.676708500017412,
+    1.8857944160699844,
+    2.258742291945964
+  ],
+  "median_seconds": 2.2820505624986254,
+  "rows": [
+    {
+      "kind": "persistent",
+      "source": "37794",
+      "request": "guitar",
+      "present": true,
+      "returned": true,
+      "gain": 55.49338118393862
+    },
+    {
+      "kind": "persistent",
+      "source": "37794",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "42373",
+      "request": "guitar",
+      "present": true,
+      "returned": true,
+      "gain": 50.540911351755284
+    },
+    {
+      "kind": "persistent",
+      "source": "42373",
+      "request": "train",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "171353",
+      "request": "guitar",
+      "present": true,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "171353",
+      "request": "wind",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "260204",
+      "request": "guitar",
+      "present": true,
+      "returned": true,
+      "gain": 29.529848629297305
+    },
+    {
+      "kind": "persistent",
+      "source": "260204",
+      "request": "piano",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "265986",
+      "request": "guitar",
+      "present": true,
+      "returned": true,
+      "gain": 48.58447654314524
+    },
+    {
+      "kind": "persistent",
+      "source": "265986",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "276576",
+      "request": "guitar",
+      "present": true,
+      "returned": true,
+      "gain": 52.18448735929441
+    },
+    {
+      "kind": "persistent",
+      "source": "276576",
+      "request": "piano",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "316995",
+      "request": "guitar",
+      "present": true,
+      "returned": true,
+      "gain": 53.46828380814318
+    },
+    {
+      "kind": "persistent",
+      "source": "316995",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "329838",
+      "request": "guitar",
+      "present": true,
+      "returned": true,
+      "gain": 50.55258300884173
+    },
+    {
+      "kind": "persistent",
+      "source": "329838",
+      "request": "train",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "333632",
+      "request": "guitar",
+      "present": true,
+      "returned": true,
+      "gain": 56.55216222191864
+    },
+    {
+      "kind": "persistent",
+      "source": "333632",
+      "request": "wind",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "334100",
+      "request": "guitar",
+      "present": true,
+      "returned": true,
+      "gain": 62.3379031070665
+    },
+    {
+      "kind": "persistent",
+      "source": "334100",
+      "request": "piano",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "365795",
+      "request": "guitar",
+      "present": true,
+      "returned": true,
+      "gain": 55.25518873553133
+    },
+    {
+      "kind": "persistent",
+      "source": "365795",
+      "request": "piano",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "43743",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 64.4537630394523
+    },
+    {
+      "kind": "persistent",
+      "source": "43743",
+      "request": "train",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "89764",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 51.02623686068293
+    },
+    {
+      "kind": "persistent",
+      "source": "89764",
+      "request": "wind",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "159118",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 27.15124039761928
+    },
+    {
+      "kind": "persistent",
+      "source": "159118",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "176492",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 47.81693428154695
+    },
+    {
+      "kind": "persistent",
+      "source": "176492",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "256684",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 63.15694639062342
+    },
+    {
+      "kind": "persistent",
+      "source": "256684",
+      "request": "train",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "277086",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 50.7594808254506
+    },
+    {
+      "kind": "persistent",
+      "source": "277086",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "343418",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 36.6018053549971
+    },
+    {
+      "kind": "persistent",
+      "source": "343418",
+      "request": "train",
+      "present": false,
+      "returned": true,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "361924",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 52.083978125541066
+    },
+    {
+      "kind": "persistent",
+      "source": "361924",
+      "request": "wind",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "382495",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 55.30879554608977
+    },
+    {
+      "kind": "persistent",
+      "source": "382495",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "405566",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 35.751791082008104
+    },
+    {
+      "kind": "persistent",
+      "source": "405566",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "419667",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 57.30991746208148
+    },
+    {
+      "kind": "persistent",
+      "source": "419667",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "59512",
+      "request": "speech",
+      "present": true,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "59512",
+      "request": "wind",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "79598",
+      "request": "speech",
+      "present": true,
+      "returned": true,
+      "gain": 49.40992325329877
+    },
+    {
+      "kind": "persistent",
+      "source": "79598",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "86938",
+      "request": "speech",
+      "present": true,
+      "returned": true,
+      "gain": 51.99805501265831
+    },
+    {
+      "kind": "persistent",
+      "source": "86938",
+      "request": "piano",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "90422",
+      "request": "speech",
+      "present": true,
+      "returned": true,
+      "gain": 32.56749987438124
+    },
+    {
+      "kind": "persistent",
+      "source": "90422",
+      "request": "train",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "152418",
+      "request": "speech",
+      "present": true,
+      "returned": true,
+      "gain": 36.244359549468406
+    },
+    {
+      "kind": "persistent",
+      "source": "152418",
+      "request": "wind",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "209661",
+      "request": "speech",
+      "present": true,
+      "returned": true,
+      "gain": 49.85851226938376
+    },
+    {
+      "kind": "persistent",
+      "source": "209661",
+      "request": "train",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "215990",
+      "request": "speech",
+      "present": true,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "215990",
+      "request": "wind",
+      "present": false,
+      "returned": true,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "220458",
+      "request": "speech",
+      "present": true,
+      "returned": true,
+      "gain": 44.62380112267385
+    },
+    {
+      "kind": "persistent",
+      "source": "220458",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "332047",
+      "request": "speech",
+      "present": true,
+      "returned": true,
+      "gain": 59.65185806330852
+    },
+    {
+      "kind": "persistent",
+      "source": "332047",
+      "request": "piano",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "342983",
+      "request": "speech",
+      "present": true,
+      "returned": true,
+      "gain": 45.71847045095551
+    },
+    {
+      "kind": "persistent",
+      "source": "342983",
+      "request": "train",
+      "present": false,
+      "returned": true,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "389993",
+      "request": "speech",
+      "present": true,
+      "returned": true,
+      "gain": 51.30609066226037
+    },
+    {
+      "kind": "persistent",
+      "source": "389993",
+      "request": "train",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "17851",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 47.047416089803974
+    },
+    {
+      "kind": "persistent",
+      "source": "17851",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "25888",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 50.804668701674224
+    },
+    {
+      "kind": "persistent",
+      "source": "25888",
+      "request": "piano",
+      "present": false,
+      "returned": true,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "57787",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 52.53100952228455
+    },
+    {
+      "kind": "persistent",
+      "source": "57787",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "127826",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 39.123795431849445
+    },
+    {
+      "kind": "persistent",
+      "source": "127826",
+      "request": "wind",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "174882",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 49.524949975468736
+    },
+    {
+      "kind": "persistent",
+      "source": "174882",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "185124",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 47.2244704058341
+    },
+    {
+      "kind": "persistent",
+      "source": "185124",
+      "request": "wind",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "277368",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 52.88527685022575
+    },
+    {
+      "kind": "persistent",
+      "source": "277368",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "336877",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 33.67710173581448
+    },
+    {
+      "kind": "persistent",
+      "source": "336877",
+      "request": "piano",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "339874",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 18.20228964237945
+    },
+    {
+      "kind": "persistent",
+      "source": "339874",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "380680",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 55.43735897691184
+    },
+    {
+      "kind": "persistent",
+      "source": "380680",
+      "request": "wind",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "389761",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 44.32870117384547
+    },
+    {
+      "kind": "persistent",
+      "source": "389761",
+      "request": "wind",
+      "present": false,
+      "returned": true,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "76404",
+      "request": "wind",
+      "present": true,
+      "returned": true,
+      "gain": 46.42922194039562
+    },
+    {
+      "kind": "persistent",
+      "source": "76404",
+      "request": "piano",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "152980",
+      "request": "wind",
+      "present": true,
+      "returned": true,
+      "gain": 58.07711355319386
+    },
+    {
+      "kind": "persistent",
+      "source": "152980",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "162417",
+      "request": "wind",
+      "present": true,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "162417",
+      "request": "train",
+      "present": false,
+      "returned": true,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "207481",
+      "request": "wind",
+      "present": true,
+      "returned": true,
+      "gain": 51.284572356841366
+    },
+    {
+      "kind": "persistent",
+      "source": "207481",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "320693",
+      "request": "wind",
+      "present": true,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "320693",
+      "request": "piano",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "333900",
+      "request": "wind",
+      "present": true,
+      "returned": true,
+      "gain": 24.529113241285973
+    },
+    {
+      "kind": "persistent",
+      "source": "333900",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "367328",
+      "request": "wind",
+      "present": true,
+      "returned": true,
+      "gain": 55.31131630851847
+    },
+    {
+      "kind": "persistent",
+      "source": "367328",
+      "request": "piano",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "380941",
+      "request": "wind",
+      "present": true,
+      "returned": true,
+      "gain": 48.574780346944706
+    },
+    {
+      "kind": "persistent",
+      "source": "380941",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "393004",
+      "request": "wind",
+      "present": true,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "393004",
+      "request": "train",
+      "present": false,
+      "returned": true,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "402801",
+      "request": "wind",
+      "present": true,
+      "returned": true,
+      "gain": 31.76563924936307
+    },
+    {
+      "kind": "persistent",
+      "source": "402801",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "persistent",
+      "source": "422866",
+      "request": "wind",
+      "present": true,
+      "returned": true,
+      "gain": 54.767314956534804
+    },
+    {
+      "kind": "persistent",
+      "source": "422866",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "37794",
+      "request": "guitar",
+      "present": true,
+      "returned": true,
+      "gain": 62.78751048711116
+    },
+    {
+      "kind": "intermittent",
+      "source": "37794",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "42373",
+      "request": "guitar",
+      "present": true,
+      "returned": true,
+      "gain": 53.540301265314326
+    },
+    {
+      "kind": "intermittent",
+      "source": "42373",
+      "request": "train",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "171353",
+      "request": "guitar",
+      "present": true,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "171353",
+      "request": "wind",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "260204",
+      "request": "guitar",
+      "present": true,
+      "returned": true,
+      "gain": 51.40028909603751
+    },
+    {
+      "kind": "intermittent",
+      "source": "260204",
+      "request": "piano",
+      "present": false,
+      "returned": true,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "265986",
+      "request": "guitar",
+      "present": true,
+      "returned": true,
+      "gain": 52.20591049192015
+    },
+    {
+      "kind": "intermittent",
+      "source": "265986",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "276576",
+      "request": "guitar",
+      "present": true,
+      "returned": true,
+      "gain": 60.08916532193469
+    },
+    {
+      "kind": "intermittent",
+      "source": "276576",
+      "request": "piano",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "316995",
+      "request": "guitar",
+      "present": true,
+      "returned": true,
+      "gain": 55.797989011706804
+    },
+    {
+      "kind": "intermittent",
+      "source": "316995",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "329838",
+      "request": "guitar",
+      "present": true,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "329838",
+      "request": "train",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "333632",
+      "request": "guitar",
+      "present": true,
+      "returned": true,
+      "gain": 52.28147280095512
+    },
+    {
+      "kind": "intermittent",
+      "source": "333632",
+      "request": "wind",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "334100",
+      "request": "guitar",
+      "present": true,
+      "returned": true,
+      "gain": 66.76520027766203
+    },
+    {
+      "kind": "intermittent",
+      "source": "334100",
+      "request": "piano",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "365795",
+      "request": "guitar",
+      "present": true,
+      "returned": true,
+      "gain": 59.305652920215415
+    },
+    {
+      "kind": "intermittent",
+      "source": "365795",
+      "request": "piano",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "43743",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 72.79531771149605
+    },
+    {
+      "kind": "intermittent",
+      "source": "43743",
+      "request": "train",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "89764",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 59.309395553052234
+    },
+    {
+      "kind": "intermittent",
+      "source": "89764",
+      "request": "wind",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "159118",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 50.16309883275825
+    },
+    {
+      "kind": "intermittent",
+      "source": "159118",
+      "request": "guitar",
+      "present": false,
+      "returned": true,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "176492",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 52.69257126957581
+    },
+    {
+      "kind": "intermittent",
+      "source": "176492",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "256684",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 64.05229403097128
+    },
+    {
+      "kind": "intermittent",
+      "source": "256684",
+      "request": "train",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "277086",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 55.40462118611003
+    },
+    {
+      "kind": "intermittent",
+      "source": "277086",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "343418",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 59.902351402755244
+    },
+    {
+      "kind": "intermittent",
+      "source": "343418",
+      "request": "train",
+      "present": false,
+      "returned": true,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "361924",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 53.77289383513474
+    },
+    {
+      "kind": "intermittent",
+      "source": "361924",
+      "request": "wind",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "382495",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 61.405782565626225
+    },
+    {
+      "kind": "intermittent",
+      "source": "382495",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "405566",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 57.369800413388056
+    },
+    {
+      "kind": "intermittent",
+      "source": "405566",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "419667",
+      "request": "piano",
+      "present": true,
+      "returned": true,
+      "gain": 68.48477313212726
+    },
+    {
+      "kind": "intermittent",
+      "source": "419667",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "59512",
+      "request": "speech",
+      "present": true,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "59512",
+      "request": "wind",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "79598",
+      "request": "speech",
+      "present": true,
+      "returned": true,
+      "gain": 55.31938165494155
+    },
+    {
+      "kind": "intermittent",
+      "source": "79598",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "86938",
+      "request": "speech",
+      "present": true,
+      "returned": true,
+      "gain": 56.05258662006066
+    },
+    {
+      "kind": "intermittent",
+      "source": "86938",
+      "request": "piano",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "90422",
+      "request": "speech",
+      "present": true,
+      "returned": true,
+      "gain": 52.25238045910816
+    },
+    {
+      "kind": "intermittent",
+      "source": "90422",
+      "request": "train",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "152418",
+      "request": "speech",
+      "present": true,
+      "returned": true,
+      "gain": 57.295377650396645
+    },
+    {
+      "kind": "intermittent",
+      "source": "152418",
+      "request": "wind",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "209661",
+      "request": "speech",
+      "present": true,
+      "returned": true,
+      "gain": 53.72334555895506
+    },
+    {
+      "kind": "intermittent",
+      "source": "209661",
+      "request": "train",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "215990",
+      "request": "speech",
+      "present": true,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "215990",
+      "request": "wind",
+      "present": false,
+      "returned": true,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "220458",
+      "request": "speech",
+      "present": true,
+      "returned": true,
+      "gain": 53.31488760617432
+    },
+    {
+      "kind": "intermittent",
+      "source": "220458",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "332047",
+      "request": "speech",
+      "present": true,
+      "returned": true,
+      "gain": 63.77807763855205
+    },
+    {
+      "kind": "intermittent",
+      "source": "332047",
+      "request": "piano",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "342983",
+      "request": "speech",
+      "present": true,
+      "returned": true,
+      "gain": 49.52003466324948
+    },
+    {
+      "kind": "intermittent",
+      "source": "342983",
+      "request": "train",
+      "present": false,
+      "returned": true,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "389993",
+      "request": "speech",
+      "present": true,
+      "returned": true,
+      "gain": 62.407622441326886
+    },
+    {
+      "kind": "intermittent",
+      "source": "389993",
+      "request": "train",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "17851",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 53.011731217545474
+    },
+    {
+      "kind": "intermittent",
+      "source": "17851",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "25888",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 51.866129388491636
+    },
+    {
+      "kind": "intermittent",
+      "source": "25888",
+      "request": "piano",
+      "present": false,
+      "returned": true,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "57787",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 45.79449265359584
+    },
+    {
+      "kind": "intermittent",
+      "source": "57787",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "127826",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 42.4805089603613
+    },
+    {
+      "kind": "intermittent",
+      "source": "127826",
+      "request": "wind",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "174882",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 52.13972634215294
+    },
+    {
+      "kind": "intermittent",
+      "source": "174882",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "185124",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 51.330281441999425
+    },
+    {
+      "kind": "intermittent",
+      "source": "185124",
+      "request": "wind",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "277368",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 54.04522290925061
+    },
+    {
+      "kind": "intermittent",
+      "source": "277368",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "336877",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 56.50698498051955
+    },
+    {
+      "kind": "intermittent",
+      "source": "336877",
+      "request": "piano",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "339874",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 57.189131212074244
+    },
+    {
+      "kind": "intermittent",
+      "source": "339874",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "380680",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 58.55927250477521
+    },
+    {
+      "kind": "intermittent",
+      "source": "380680",
+      "request": "wind",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "389761",
+      "request": "train",
+      "present": true,
+      "returned": true,
+      "gain": 46.97435483344819
+    },
+    {
+      "kind": "intermittent",
+      "source": "389761",
+      "request": "wind",
+      "present": false,
+      "returned": true,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "76404",
+      "request": "wind",
+      "present": true,
+      "returned": true,
+      "gain": 56.83717311511862
+    },
+    {
+      "kind": "intermittent",
+      "source": "76404",
+      "request": "piano",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "152980",
+      "request": "wind",
+      "present": true,
+      "returned": true,
+      "gain": 59.4238833062799
+    },
+    {
+      "kind": "intermittent",
+      "source": "152980",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "162417",
+      "request": "wind",
+      "present": true,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "162417",
+      "request": "train",
+      "present": false,
+      "returned": true,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "207481",
+      "request": "wind",
+      "present": true,
+      "returned": true,
+      "gain": 62.25713980895337
+    },
+    {
+      "kind": "intermittent",
+      "source": "207481",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "320693",
+      "request": "wind",
+      "present": true,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "320693",
+      "request": "piano",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "333900",
+      "request": "wind",
+      "present": true,
+      "returned": true,
+      "gain": 58.05195544677074
+    },
+    {
+      "kind": "intermittent",
+      "source": "333900",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "367328",
+      "request": "wind",
+      "present": true,
+      "returned": true,
+      "gain": 59.88315208182866
+    },
+    {
+      "kind": "intermittent",
+      "source": "367328",
+      "request": "piano",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "380941",
+      "request": "wind",
+      "present": true,
+      "returned": true,
+      "gain": 52.0038142007077
+    },
+    {
+      "kind": "intermittent",
+      "source": "380941",
+      "request": "speech",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "393004",
+      "request": "wind",
+      "present": true,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "393004",
+      "request": "train",
+      "present": false,
+      "returned": true,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "402801",
+      "request": "wind",
+      "present": true,
+      "returned": true,
+      "gain": 52.588915209025295
+    },
+    {
+      "kind": "intermittent",
+      "source": "402801",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    },
+    {
+      "kind": "intermittent",
+      "source": "422866",
+      "request": "wind",
+      "present": true,
+      "returned": true,
+      "gain": 60.49714124459494
+    },
+    {
+      "kind": "intermittent",
+      "source": "422866",
+      "request": "guitar",
+      "present": false,
+      "returned": false,
+      "gain": null
+    }
+  ]
+}

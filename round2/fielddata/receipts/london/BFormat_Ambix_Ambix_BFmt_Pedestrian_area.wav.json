@@ -1,0 +1,21 @@
+{
+  "id": "london/BFormat_Ambix_Ambix_BFmt_Pedestrian_area.wav",
+  "dataset": "london",
+  "record": "10687363",
+  "member": "BFormat_Ambix/Ambix_BFmt_Pedestrian_area.wav",
+  "source_offset_s": 0,
+  "duration_s": 8.0,
+  "rate": 48000,
+  "channels": 4,
+  "bytes": 3591043,
+  "sha256": "f77d58d6d7d489596042e5af657998737076a31dd3ccf5b103ab99c8bc249ed7",
+  "pcm_s32le_sha256": "39dd21f65fa399188b26f7faddc2bd8b7dc25f251cf630df5b70ebcff2e54445",
+  "archive_crc32": "0x46ceea9e",
+  "archive_range": [
+    129539097,
+    134788632
+  ],
+  "range_sha256": "9b42ae5f5251d380c61c13d92c4388aea87fdfbebd55425981f40add1c205e99",
+  "path": "round2_data/field/london/BFormat_Ambix_Ambix_BFmt_Pedestrian_area.wav.flac",
+  "license": "CC-BY-4.0"
+}

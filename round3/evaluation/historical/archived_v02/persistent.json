@@ -1,0 +1,91 @@
+{
+  "source": "round2/semantic/test_results.json",
+  "archive_sha256": "452b3cf342a6eb9ace311982b272a9020b1ad7ee3b40c61f799d1f0ce43e0a4c",
+  "summary": {
+    "TP": 28,
+    "FP": 1,
+    "TN": 54,
+    "FN": 27,
+    "accuracy": 0.7454545454545455,
+    "f1": 0.6666666666666666,
+    "precision": 0.9655172413793104,
+    "recall": 0.509090909090909,
+    "useful": 28,
+    "useful_fraction": 0.509090909090909,
+    "harmful": 0,
+    "undefined_truth": 0,
+    "macro_f1": 0.6613880288957689
+  },
+  "requested_class": {
+    "guitar": {
+      "TP": 7,
+      "FP": 1,
+      "TN": 10,
+      "FN": 4,
+      "accuracy": 0.7727272727272727,
+      "f1": 0.7368421052631579,
+      "precision": 0.875,
+      "recall": 0.6363636363636364,
+      "useful": 7,
+      "useful_fraction": 0.6363636363636364,
+      "harmful": 0,
+      "undefined_truth": 0
+    },
+    "piano": {
+      "TP": 4,
+      "FP": 0,
+      "TN": 11,
+      "FN": 7,
+      "accuracy": 0.6818181818181818,
+      "f1": 0.5333333333333333,
+      "precision": 1.0,
+      "recall": 0.36363636363636365,
+      "useful": 4,
+      "useful_fraction": 0.36363636363636365,
+      "harmful": 0,
+      "undefined_truth": 0
+    },
+    "speech": {
+      "TP": 5,
+      "FP": 0,
+      "TN": 11,
+      "FN": 6,
+      "accuracy": 0.7272727272727273,
+      "f1": 0.625,
+      "precision": 1.0,
+      "recall": 0.45454545454545453,
+      "useful": 5,
+      "useful_fraction": 0.45454545454545453,
+      "harmful": 0,
+      "undefined_truth": 0
+    },
+    "train": {
+      "TP": 6,
+      "FP": 0,
+      "TN": 11,
+      "FN": 5,
+      "accuracy": 0.7727272727272727,
+      "f1": 0.7058823529411765,
+      "precision": 1.0,
+      "recall": 0.5454545454545454,
+      "useful": 6,
+      "useful_fraction": 0.5454545454545454,
+      "harmful": 0,
+      "undefined_truth": 0
+    },
+    "wind": {
+      "TP": 6,
+      "FP": 0,
+      "TN": 11,
+      "FN": 5,
+      "accuracy": 0.7727272727272727,
+      "f1": 0.7058823529411765,
+      "precision": 1.0,
+      "recall": 0.5454545454545454,
+      "useful": 6,
+      "useful_fraction": 0.5454545454545454,
+      "harmful": 0,
+      "undefined_truth": 0
+    }
+  }
+}

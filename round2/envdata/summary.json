@@ -1,0 +1,80 @@
+{
+  "sources": 330,
+  "unique_freesound_ids": 330,
+  "authors": 286,
+  "authorgroups_per_split": {
+    "train": 176,
+    "validation": 52,
+    "test": 58
+  },
+  "seconds": 3896.8,
+  "bytes": 387559873,
+  "split": {
+    "test": 63,
+    "train": 206,
+    "validation": 61
+  },
+  "license": {
+    "http://creativecommons.org/publicdomain/zero/1.0/": 173,
+    "http://creativecommons.org/licenses/by/3.0/": 157
+  },
+  "representation": {
+    "stereo_preview": 83,
+    "standardized": 247
+  },
+  "signal_layout": {
+    "two-channel with measured differences": 65,
+    "mono": 247,
+    "near-dual-mono": 18
+  },
+  "category": {
+    "guitar": 67,
+    "piano": 71,
+    "speech": 62,
+    "train": 66,
+    "wind": 64
+  },
+  "stereo_by_category": {
+    "guitar": 10,
+    "piano": 18,
+    "speech": 3,
+    "train": 16,
+    "wind": 18
+  },
+  "category_splits": {
+    "guitar": {
+      "test": 12,
+      "train": 44,
+      "validation": 11
+    },
+    "piano": {
+      "test": 13,
+      "train": 45,
+      "validation": 13
+    },
+    "speech": {
+      "test": 13,
+      "train": 36,
+      "validation": 13
+    },
+    "train": {
+      "test": 14,
+      "train": 40,
+      "validation": 12
+    },
+    "wind": {
+      "test": 11,
+      "train": 41,
+      "validation": 12
+    }
+  },
+  "duplicate_ids_removed": 38,
+  "exclusions": [],
+  "metadata_sha256": {
+    "FSD50K.doc.zip": "a5c314ad2bf93d01b5921aa4270c70c90e28ac9a283ba9f08167490e728deb85",
+    "FSD50K.ground_truth.zip": "db2396260a7b1fb06feb6ccac71685794fc89917d71c3a8d64a1de85c2cc0ebf",
+    "FSD50K.metadata.zip": "9a738e032546f9a2c6e3d04566928d04a65fb79b422cc9d78bb781723537bd19",
+    "esc50.csv": "ca660da60191a97de289983a05821c9382d852a38a2ba8428980816b68cf6246"
+  },
+  "attribution": "attribution.csv"
+}

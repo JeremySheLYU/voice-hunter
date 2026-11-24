@@ -1,0 +1,21 @@
+{
+  "id": "eigenscape/Park.1.flac",
+  "dataset": "eigenscape",
+  "record": "2628463",
+  "member": "Park.1.flac",
+  "source_offset_s": 0,
+  "duration_s": 8.0,
+  "rate": 48000,
+  "channels": 4,
+  "bytes": 2602089,
+  "sha256": "3255dcb6abf92c265e65abb016675cde4381b1ce3d1d87254273c1a3dee3ff66",
+  "pcm_s32le_sha256": "a015ec5e46de0d95a0299126d5705eef06a515d3890ba83ac7a28b6133880a99",
+  "archive_crc32": "0x1fcb10d4",
+  "archive_range": [
+    3276509267,
+    3281758802
+  ],
+  "range_sha256": "0a68bfe86c0f69e4c3b5e464d095a8f01f7dec15791f403b9ec7384256e8f691",
+  "path": "round2_data/field/eigenscape/Park.1.flac.flac",
+  "license": "CC-BY-4.0"
+}

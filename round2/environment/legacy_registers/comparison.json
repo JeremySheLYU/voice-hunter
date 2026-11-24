@@ -1,0 +1,190 @@
+{
+  "baseline": {
+    "groups": {
+      "distinct": [
+        [
+          28.512,
+          33.753,
+          54.13
+        ],
+        [
+          20.01,
+          19.403,
+          21.806
+        ],
+        [
+          29.484,
+          32.97,
+          24.976
+        ]
+      ],
+      "similar": [
+        [
+          0.333,
+          -2.171,
+          2.657
+        ],
+        [
+          1.861,
+          -3.162,
+          2.039
+        ],
+        [
+          2.665,
+          -1.315,
+          1.033
+        ]
+      ],
+      "changed": [
+        [
+          -38.892,
+          -94.359,
+          -90.625
+        ],
+        [
+          -44.211,
+          -73.982,
+          -93.093
+        ],
+        [
+          -45.014,
+          -79.141,
+          -79.015
+        ]
+      ]
+    },
+    "order": {
+      "max_diff": 2.9802322387695312e-08,
+      "passed": true
+    },
+    "bounds": [
+      {
+        "track_count": 1,
+        "duration": 4,
+        "exit": 0,
+        "stderr": "",
+        "seconds": 0.237,
+        "peak_cli_rss_MiB": 83.1,
+        "valid": true,
+        "frames": 192000,
+        "sum_error": 3.725290298461914e-09,
+        "shape_ok": true,
+        "finite": true
+      },
+      {
+        "track_count": 8,
+        "duration": 60,
+        "exit": 0,
+        "stderr": "",
+        "seconds": 4.281,
+        "peak_cli_rss_MiB": 642.8,
+        "valid": true,
+        "frames": 2880000,
+        "sum_error": 7.450580596923828e-09,
+        "shape_ok": true,
+        "finite": true
+      }
+    ],
+    "bad": {
+      "exit": 1,
+      "stderr": "Duplicate or reserved track id: remaining\n",
+      "seconds": 0.152,
+      "peak_cli_rss_MiB": 38.8,
+      "passed": true
+    }
+  },
+  "candidate": {
+    "groups": {
+      "distinct": [
+        [
+          29.725,
+          29.18,
+          42.593
+        ],
+        [
+          29.332,
+          28.752,
+          41.826
+        ],
+        [
+          29.62,
+          29.161,
+          42.747
+        ]
+      ],
+      "similar": [
+        [
+          0.333,
+          -2.171,
+          2.657
+        ],
+        [
+          1.861,
+          -3.162,
+          2.039
+        ],
+        [
+          2.665,
+          -1.315,
+          1.033
+        ]
+      ],
+      "changed": [
+        [
+          29.09,
+          21.88,
+          17.118
+        ],
+        [
+          27.39,
+          20.497,
+          17.595
+        ],
+        [
+          28.575,
+          20.732,
+          17.082
+        ]
+      ]
+    },
+    "order": {
+      "max_diff": 1.4156103134155273e-07,
+      "passed": true
+    },
+    "bounds": [
+      {
+        "track_count": 1,
+        "duration": 4,
+        "exit": 0,
+        "stderr": "",
+        "seconds": 0.277,
+        "peak_cli_rss_MiB": 83.1,
+        "valid": true,
+        "frames": 192000,
+        "sum_error": 3.725290298461914e-09,
+        "shape_ok": true,
+        "finite": true
+      },
+      {
+        "track_count": 8,
+        "duration": 60,
+        "exit": 0,
+        "stderr": "",
+        "seconds": 4.328,
+        "peak_cli_rss_MiB": 571.3,
+        "valid": true,
+        "frames": 2880000,
+        "sum_error": 7.450580596923828e-09,
+        "shape_ok": true,
+        "finite": true
+      }
+    ],
+    "bad": {
+      "exit": 1,
+      "stderr": "Duplicate or reserved track id: remaining\n",
+      "seconds": 0.186,
+      "peak_cli_rss_MiB": 39.1,
+      "passed": true
+    }
+  }
+}

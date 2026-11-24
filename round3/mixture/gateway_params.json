@@ -1,0 +1,25 @@
+{
+  "stem_weight": 0.75,
+  "mixture_weight": 0.3,
+  "threshold": 0.2,
+  "validation": {
+    "persistent": {
+      "n": 55,
+      "tp": 46,
+      "fp": 13,
+      "accuracy": 0.8,
+      "f1": 0.8070175438596491,
+      "useful": 46,
+      "harmful": 0
+    },
+    "intermittent": {
+      "n": 55,
+      "tp": 47,
+      "fp": 13,
+      "accuracy": 0.8090909090909091,
+      "f1": 0.8173913043478261,
+      "useful": 46,
+      "harmful": 1
+    }
+  }
+}

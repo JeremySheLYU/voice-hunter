@@ -1,0 +1,30 @@
+{
+  "id": "eigenscape_hoa/Beach.1",
+  "dataset": "eigenscape_hoa",
+  "record": "2628463",
+  "member": "Beach.1.wav",
+  "archive": "Beach.zip",
+  "archive_checksum": "md5:3dd3920c3a5e56f534760fa2dac86359",
+  "url": "https://zenodo.org/api/records/2628463/files/Beach.zip/content",
+  "archive_range": [
+    0,
+    8199999
+  ],
+  "range_sha256": "6d9a0c7c020cd9153295a4d99be6e075bc785f60a002132b00624b9cfef7b9b9",
+  "source_offset_s": 0,
+  "duration_s": 2,
+  "rate": 48000,
+  "channels": 25,
+  "format": "ACN/SN3D order 4",
+  "bytes": 7200102,
+  "sha256": "f2d5f66e0ee6c6c59c559155488eb73a4f5e63df52a41df5fffb61a09ff93f9b",
+  "pcm_s32le_sha256": "fa00fbfdecd5cf1a84ec4181f558c1774c9dd7b04ff04ad8fa7ec6d600dfe23e",
+  "first_four_vs_lite_correlation": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "path": "round2_data/field/eigenscape_hoa/Beach-01.wav",
+  "license": "CC-BY-4.0"
+}

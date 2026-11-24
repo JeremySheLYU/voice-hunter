@@ -1,0 +1,4377 @@
+[
+ {
+  "category": "guitar",
+  "id": "15753",
+  "author": "eriatarka",
+  "path": "round2_data/environment/guitar/15753.wav",
+  "sha256": "22800d52344007f30a8302613be0746a94e2c57663a7f5011a3f47a5bb9f8aef"
+ },
+ {
+  "category": "guitar",
+  "id": "36237",
+  "author": "marvman",
+  "path": "round2_data/environment/guitar/36237.wav",
+  "sha256": "da65a1318698f40e3d67118cb008023c8b48a16aaf9e065657a6740a1e5b8bf5"
+ },
+ {
+  "category": "guitar",
+  "id": "41678",
+  "author": "digifishmusic",
+  "path": "round2_data/environment/guitar/41678.wav",
+  "sha256": "f9b68eb5f213190e77685a984771907aedc47bcaa6cb9a52728689ddd87d869b"
+ },
+ {
+  "category": "guitar",
+  "id": "45584",
+  "author": "walkerbelm",
+  "path": "round2_data/environment/guitar/45584.wav",
+  "sha256": "264a27e32e63e933bbc29db4074b53c8868a8f56a2b02baafd38482f4175d9a6"
+ },
+ {
+  "category": "guitar",
+  "id": "58492",
+  "author": "juskiddink",
+  "path": "round2_data/environment/guitar/58492.wav",
+  "sha256": "fc1d691ef15188ec1649baabea419040e2c63873cecb047db0ffd6c516154369"
+ },
+ {
+  "category": "guitar",
+  "id": "62012",
+  "author": "metamorphmuses",
+  "path": "round2_data/environment/guitar/62012.wav",
+  "sha256": "4edc64b60b99afd0ed12eea5a8ede07c652461765afabb5ff6cce055157340a2"
+ },
+ {
+  "category": "guitar",
+  "id": "74870",
+  "author": "oymaldonado",
+  "path": "round2_data/environment/guitar/74870.wav",
+  "sha256": "2a2f1a0f432174ae31bbd50c3fbb430d7ee3611e2e7ad0f16a3cbd44c0c48a50"
+ },
+ {
+  "category": "guitar",
+  "id": "97769",
+  "author": "timcam",
+  "path": "round2_data/environment/guitar/97769.wav",
+  "sha256": "b8eae012ef3d7b295bd2ecd672aa10a194e5b3e0005ab35dcbd43722ba59591f"
+ },
+ {
+  "category": "guitar",
+  "id": "127336",
+  "author": "arightwizard",
+  "path": "round2_data/environment/guitar/127336.wav",
+  "sha256": "53664830e7e37342d5a97dd7263f8ac38b1df290ebf0942764eb6f7b49973f4d"
+ },
+ {
+  "category": "guitar",
+  "id": "131928",
+  "author": "Upright",
+  "path": "round2_data/environment/guitar/131928.wav",
+  "sha256": "0f7c9be819938a9281e09278678c2dee8b2f971da247801d6021bee1ebc58b29"
+ },
+ {
+  "category": "guitar",
+  "id": "134011",
+  "author": "davidkyoku",
+  "path": "round2_data/environment/guitar/134011.wav",
+  "sha256": "90bd60c025ed179a4a0acc2db6181d339872e581b7f01147655d4ca447eb6024"
+ },
+ {
+  "category": "guitar",
+  "id": "134790",
+  "author": "gerardcatala",
+  "path": "round2_data/environment/guitar/134790.wav",
+  "sha256": "1c30800b02cdbb64f60de0525ba1cf9fce9b6e3886bc506370cdc53e17681a65"
+ },
+ {
+  "category": "guitar",
+  "id": "151178",
+  "author": "afleetingspeck",
+  "path": "round2_data/environment/guitar/151178.wav",
+  "sha256": "06118ec55fc6ad4d3535d493a6e4eff75807e7012c77ab6a5ba9c9c795eaf175"
+ },
+ {
+  "category": "guitar",
+  "id": "160826",
+  "author": "Snapper4298",
+  "path": "round2_data/environment/guitar/160826.wav",
+  "sha256": "e717d12a4864611f59150cec88f8af0e4c15d1dc83c035f5892d90b29590dcac"
+ },
+ {
+  "category": "guitar",
+  "id": "170309",
+  "author": "christoffer2",
+  "path": "round2_data/environment/guitar/170309.wav",
+  "sha256": "c08dc09ae824f3f39350efcd06ec2868a93378ed95faec431203082592cc8e6c"
+ },
+ {
+  "category": "guitar",
+  "id": "175154",
+  "author": "MinigunFiend",
+  "path": "round2_data/environment/guitar/175154.wav",
+  "sha256": "8c2b51576e6017e17e3c019b37848a4a934163f32397b7fa2aaa383aaf35ca49"
+ },
+ {
+  "category": "guitar",
+  "id": "192200",
+  "author": "BiblicalBricksProductions",
+  "path": "round2_data/environment/guitar/192200.wav",
+  "sha256": "0075c0916c4dd8ce032840d7f76cd484f1da1a8b8055a8dfbdba0721da281ac0"
+ },
+ {
+  "category": "guitar",
+  "id": "202331",
+  "author": "luckylittleraven",
+  "path": "round2_data/environment/guitar/202331.wav",
+  "sha256": "2da4de6bfec5cfa5beb48fdcd561f516a82e5510c5504835c0e66078186894e3"
+ },
+ {
+  "category": "guitar",
+  "id": "234739",
+  "author": "FenrirFangs",
+  "path": "round2_data/environment/guitar/234739.wav",
+  "sha256": "8a67b71aec433369eddfb96e3a24f449d1db12d21f94a1812e38886beec24c65"
+ },
+ {
+  "category": "guitar",
+  "id": "235538",
+  "author": "simosco",
+  "path": "round2_data/environment/guitar/235538.wav",
+  "sha256": "3ab2ea0aa4a0a233cfb4bb9ac7436ade4221703748a4fe1c2e579c558e4d78c6"
+ },
+ {
+  "category": "guitar",
+  "id": "255811",
+  "author": "Care13",
+  "path": "round2_data/environment/guitar/255811.wav",
+  "sha256": "0defd73e6651cb840653111c8f6be919ac295af83d53154a0bb0050de935ae8a"
+ },
+ {
+  "category": "guitar",
+  "id": "258009",
+  "author": "eltenjohn",
+  "path": "round2_data/environment/guitar/258009.wav",
+  "sha256": "aa8839775aa47dfcd2616f5bb358a8f8a7918f580fdb13f4210e81c27eabb53a"
+ },
+ {
+  "category": "guitar",
+  "id": "270603",
+  "author": "Hoerspielwerkstatt_HEF",
+  "path": "round2_data/environment/guitar/270603.wav",
+  "sha256": "3d8949305d680dc664c8b8486f2a9bb43f4246b9021bebc7ca1816b6c24dcbee"
+ },
+ {
+  "category": "guitar",
+  "id": "324059",
+  "author": "Corsica_S",
+  "path": "round2_data/environment/guitar/324059.wav",
+  "sha256": "c611caa35a275b9a8296fb944dcc42b4b61619ae72aab76421f1e1278737bdcc"
+ },
+ {
+  "category": "guitar",
+  "id": "329705",
+  "author": "sincoon",
+  "path": "round2_data/environment/guitar/329705.wav",
+  "sha256": "6b06b23e9232ccb869a6cd668b9a6e9ccee69e75630d7ec8c4acb66d1b9cde70"
+ },
+ {
+  "category": "guitar",
+  "id": "336245",
+  "author": "Digital_DJ_Tools",
+  "path": "round2_data/environment/guitar/336245.wav",
+  "sha256": "e4bc44d738d59f26842277a94042e0f14987049fed2e2dd8534d0b8a65afe6b7"
+ },
+ {
+  "category": "guitar",
+  "id": "337128",
+  "author": "Garuda1982",
+  "path": "round2_data/environment/guitar/337128.wav",
+  "sha256": "21d4f9dbb1a3867c02bc5c529e9fce804cc96ce84d68a606fce84e315ba7724e"
+ },
+ {
+  "category": "guitar",
+  "id": "338385",
+  "author": "placeboing",
+  "path": "round2_data/environment/guitar/338385.wav",
+  "sha256": "6f3c6c42a23643fd4d3f69cb32e365c869b4ae310edda31098b9472c1d9ecc0c"
+ },
+ {
+  "category": "guitar",
+  "id": "345111",
+  "author": "toiletrolltube",
+  "path": "round2_data/environment/guitar/345111.wav",
+  "sha256": "c78d87245e44a35f2c791589820750fe2404c60759ce0f1fb084743af45b1849"
+ },
+ {
+  "category": "guitar",
+  "id": "369228",
+  "author": "Mrthenoronha",
+  "path": "round2_data/environment/guitar/369228.wav",
+  "sha256": "00b0079c8cae78b8b50eeb6c45672081c72cf2b2ad8873939348f9cb73b45125"
+ },
+ {
+  "category": "guitar",
+  "id": "369676",
+  "author": "ko_bx",
+  "path": "round2_data/environment/guitar/369676.wav",
+  "sha256": "9417b9f868a48a2cd001ed35100acbbc8c4328e2aae81172a4d34bf0b0ec6122"
+ },
+ {
+  "category": "guitar",
+  "id": "378012",
+  "author": "redafs",
+  "path": "round2_data/environment/guitar/378012.wav",
+  "sha256": "ece8f29418262661f760d5655b296c53087c9d6da658f36af9540a8fe98dec39"
+ },
+ {
+  "category": "guitar",
+  "id": "378144",
+  "author": "GioMilko",
+  "path": "round2_data/environment/guitar/378144.wav",
+  "sha256": "f0c4611a087c9e39812bf6120333c7f52a431821ffe1dd5641cc60523b015437"
+ },
+ {
+  "category": "guitar",
+  "id": "381394",
+  "author": "uEffects",
+  "path": "round2_data/environment/guitar/381394.wav",
+  "sha256": "748d5ce864f303b014b7ffdd3e7543ebae6140ae7910ba86c00f4fbe73fbd0a0"
+ },
+ {
+  "category": "guitar",
+  "id": "381658",
+  "author": "13FPanska_Prochazkova_Lucie",
+  "path": "round2_data/environment/guitar/381658.wav",
+  "sha256": "d1e5a8e80abe163100622005524aa2598d1a47a34d14aa8220aa972c28a02a39"
+ },
+ {
+  "category": "piano",
+  "id": "29707",
+  "author": "HerbertBoland",
+  "path": "round2_data/environment/piano/29707.wav",
+  "sha256": "9e0dc74426138221bd9c61477f1d73d61d884f740c564fb60a8e4096cfed1d65"
+ },
+ {
+  "category": "piano",
+  "id": "32158",
+  "author": "-zin-",
+  "path": "round2_data/environment/piano/32158.wav",
+  "sha256": "840f57e1ba7411d337217b03199081e302edcbf290691114f0b1cc80508a67d7"
+ },
+ {
+  "category": "piano",
+  "id": "83125",
+  "author": "Meg",
+  "path": "round2_data/environment/piano/83125.wav",
+  "sha256": "cc31e27db58afd6ca8754471480403ad9cdeacede4ec2a8b1bd5fb7cbca02531"
+ },
+ {
+  "category": "piano",
+  "id": "94812",
+  "author": "digifishmusic",
+  "path": "round2_data/environment/piano/94812.wav",
+  "sha256": "aa05ff514efa5e581ceba63f92a8dad439cb57753aa0a7173839bb899ef7ac3e"
+ },
+ {
+  "category": "piano",
+  "id": "105406",
+  "author": "Eddy3605",
+  "path": "round2_data/environment/piano/105406.wav",
+  "sha256": "b00431156b2ac24f887c86b2f1aa5b5741d8adee0ae758cac890f6b5f4e763ff"
+ },
+ {
+  "category": "piano",
+  "id": "106877",
+  "author": "Corsica_S",
+  "path": "round2_data/environment/piano/106877.wav",
+  "sha256": "128cba643e7563f9a8039b90d5e8059890c806ad7f984f94a212da832e5e8616"
+ },
+ {
+  "category": "piano",
+  "id": "121078",
+  "author": "Thirsk",
+  "path": "round2_data/environment/piano/121078.wav",
+  "sha256": "1b70a31996ccb56ffc9edad3699cf437f69ba9b48d44be7368497604423ea2a7"
+ },
+ {
+  "category": "piano",
+  "id": "131423",
+  "author": "arightwizard",
+  "path": "round2_data/environment/piano/131423.wav",
+  "sha256": "e8445cf2760b23795e0395ff07fa20034eb3981861e2455658dab4603cabe57a"
+ },
+ {
+  "category": "piano",
+  "id": "132053",
+  "author": "keplar",
+  "path": "round2_data/environment/piano/132053.wav",
+  "sha256": "12f2fe5b029acd817ed1d9a0bc587a0fb707f1b1b66e20751e185ad7020bb7bd"
+ },
+ {
+  "category": "piano",
+  "id": "138442",
+  "author": "schluppipuppie",
+  "path": "round2_data/environment/piano/138442.wav",
+  "sha256": "6c6c106a521d1aa2feb369029da149420bd26fb9a7755713969cc58c330d14d6"
+ },
+ {
+  "category": "piano",
+  "id": "159526",
+  "author": "cheeseymofodude",
+  "path": "round2_data/environment/piano/159526.wav",
+  "sha256": "cef0955d0dc83949a48d37727c612444bc8f86e39ce09fe57776cf9b5c469b29"
+ },
+ {
+  "category": "piano",
+  "id": "169086",
+  "author": "NenadSimic",
+  "path": "round2_data/environment/piano/169086.wav",
+  "sha256": "4b387163d41abebfdedfc8d2c7229fd08487f31410f82d5c378deac29b26d341"
+ },
+ {
+  "category": "piano",
+  "id": "173693",
+  "author": "mojomills",
+  "path": "round2_data/environment/piano/173693.wav",
+  "sha256": "1b1140778dea8ad052266d8e6b6384af7d86a7aed434d6ea15c6abd994e42fa7"
+ },
+ {
+  "category": "piano",
+  "id": "191960",
+  "author": "jordkol",
+  "path": "round2_data/environment/piano/191960.wav",
+  "sha256": "a0bc20f6e4efd0268f6ea243c7a46709cc562e755e381fa0d0405e159041bb24"
+ },
+ {
+  "category": "piano",
+  "id": "193894",
+  "author": "dcolvin",
+  "path": "round2_data/environment/piano/193894.wav",
+  "sha256": "81d7a96110f38dfd2e4c76c2954a33bbcf1aae056bb7bfc2819b2fcec1b661d1"
+ },
+ {
+  "category": "piano",
+  "id": "202243",
+  "author": "luckylittleraven",
+  "path": "round2_data/environment/piano/202243.wav",
+  "sha256": "693adb980b2b8439b5b762cceb491dc602875830d33032f9621abf038f870aee"
+ },
+ {
+  "category": "piano",
+  "id": "209644",
+  "author": "Jonesbrt",
+  "path": "round2_data/environment/piano/209644.wav",
+  "sha256": "2db6973dc7f200f700e4ffdad3f27c720d5e9fddc6d0c9a787f868c9c724b80b"
+ },
+ {
+  "category": "piano",
+  "id": "210835",
+  "author": "arseniiv",
+  "path": "round2_data/environment/piano/210835.wav",
+  "sha256": "2b939bca0aa9d284f9cc9b789979a71d019b168a6593fb1532ca5a812c34e337"
+ },
+ {
+  "category": "piano",
+  "id": "216911",
+  "author": "Taira Komori",
+  "path": "round2_data/environment/piano/216911.wav",
+  "sha256": "e5a2aed477bfb9b2dae8e9be9e1885c962b8c9a41d414727feb1b943aff1a804"
+ },
+ {
+  "category": "piano",
+  "id": "260565",
+  "author": "PatrickLieberkind",
+  "path": "round2_data/environment/piano/260565.wav",
+  "sha256": "8a86b74a9ca10760cb07ec20625c0c9d8c0b2d71812b32722d51424fba0f52b2"
+ },
+ {
+  "category": "piano",
+  "id": "262439",
+  "author": "Xinematix",
+  "path": "round2_data/environment/piano/262439.wav",
+  "sha256": "4645443f84b014e9a214fec2a2fc08b85ecebe7f5a994d99ded48dd9fe29326a"
+ },
+ {
+  "category": "piano",
+  "id": "269550",
+  "author": "shitefromaheight",
+  "path": "round2_data/environment/piano/269550.wav",
+  "sha256": "85820d83f1e1e36cef248cbfdb96b06a17195fb91221c77a2e3d426e1902a0e5"
+ },
+ {
+  "category": "piano",
+  "id": "270807",
+  "author": "bcnlab",
+  "path": "round2_data/environment/piano/270807.wav",
+  "sha256": "025a369726860063b942c64ea0d5ee9d25e6931489d8e25365538b7006fb0e4d"
+ },
+ {
+  "category": "piano",
+  "id": "316029",
+  "author": "feelander",
+  "path": "round2_data/environment/piano/316029.wav",
+  "sha256": "17a3e4516c4d53cb690d3229cda39985ec034ddf21020f611bd85ac47284eef2"
+ },
+ {
+  "category": "piano",
+  "id": "327762",
+  "author": "Daylon91",
+  "path": "round2_data/environment/piano/327762.wav",
+  "sha256": "6f6c65f099f92b7021d4a88aef4445244a78aaffd1bbf3cc96d2bec2105d2a0a"
+ },
+ {
+  "category": "piano",
+  "id": "336021",
+  "author": "agayswan",
+  "path": "round2_data/environment/piano/336021.wav",
+  "sha256": "986662c8dea8bab8f08902850db3cda3ab66cebb5763be8dfaedbc8bc95bab76"
+ },
+ {
+  "category": "piano",
+  "id": "368594",
+  "author": "JungleBean",
+  "path": "round2_data/environment/piano/368594.wav",
+  "sha256": "34b90ee4c3e8826088a804f6740555080db30f9a62936eb7f0d11ea7d5658c6d"
+ },
+ {
+  "category": "piano",
+  "id": "369930",
+  "author": "Nerkamitilia",
+  "path": "round2_data/environment/piano/369930.wav",
+  "sha256": "8c50ca0c0c19ccbf68235001c93c601d31233c1cf73c7a77adff54907472cf8b"
+ },
+ {
+  "category": "piano",
+  "id": "380630",
+  "author": "jmases1",
+  "path": "round2_data/environment/piano/380630.wav",
+  "sha256": "a57798dca0666c3057a4a39b639aca6712223373efa5d2c28c9d0f426127bf06"
+ },
+ {
+  "category": "piano",
+  "id": "388849",
+  "author": "envirOmaniac2",
+  "path": "round2_data/environment/piano/388849.wav",
+  "sha256": "4eb38af266bdc198e9bbec6c17810bfc9c23edf2e6779cb965fcda76d61e1c0f"
+ },
+ {
+  "category": "piano",
+  "id": "403555",
+  "author": "TheFlakesMaster",
+  "path": "round2_data/environment/piano/403555.wav",
+  "sha256": "20369b9f5554eff2c281d867ae20119fcb2b25d552074f3cad5ced1c87707b9f"
+ },
+ {
+  "category": "piano",
+  "id": "412332",
+  "author": "clemza",
+  "path": "round2_data/environment/piano/412332.wav",
+  "sha256": "c83c229ea513288d2973bd83c0128b0ad71b8ca6bef1259bcbd3c57f738c3ac8"
+ },
+ {
+  "category": "piano",
+  "id": "420629",
+  "author": "derekSoUNDZ",
+  "path": "round2_data/environment/piano/420629.wav",
+  "sha256": "a96b9f1cd246634b5aa18b415c8f72f982d188ad983d74680a56e6cdba43ac6f"
+ },
+ {
+  "category": "piano",
+  "id": "428150",
+  "author": "vdublin",
+  "path": "round2_data/environment/piano/428150.wav",
+  "sha256": "9038c022aae1470be20b1def68e4f66af3d92980a5968ed3d23339ec050d5ec3"
+ },
+ {
+  "category": "piano",
+  "id": "428237",
+  "author": "vmstrlocalhost",
+  "path": "round2_data/environment/piano/428237.wav",
+  "sha256": "afc08ff285fff5571b798e17a3b1284f22ceb565e22856c04f9002270fda36e2"
+ },
+ {
+  "category": "speech",
+  "id": "25822",
+  "author": "Heigh-hoo",
+  "path": "round2_data/environment/speech/25822.wav",
+  "sha256": "af2336ae3d3903b820a489ee1f474d9738ed7fa4cdbf271bc752e3b37ff19989"
+ },
+ {
+  "category": "speech",
+  "id": "26456",
+  "author": "roscoetoon",
+  "path": "round2_data/environment/speech/26456.wav",
+  "sha256": "2ec82363444d354797d5392cade5d169fd0c2a0de8f1dc7697d00c6e6364820d"
+ },
+ {
+  "category": "speech",
+  "id": "45115",
+  "author": "rfhache",
+  "path": "round2_data/environment/speech/45115.wav",
+  "sha256": "5a55a7437e0fa9c2ded3067be3973016a0868c93ba00c86f080e3764f4ad951d"
+ },
+ {
+  "category": "speech",
+  "id": "58996",
+  "author": "morgantj",
+  "path": "round2_data/environment/speech/58996.wav",
+  "sha256": "168378317e155e6635d6ebde0a20b995661445522545948f0b41f84517518a90"
+ },
+ {
+  "category": "speech",
+  "id": "65687",
+  "author": "NoiseCollector",
+  "path": "round2_data/environment/speech/65687.wav",
+  "sha256": "384f96ac60024d57115b60d57f225a2875774088b3e36bc054d1f3f94c7efa74"
+ },
+ {
+  "category": "speech",
+  "id": "78520",
+  "author": "arytopia",
+  "path": "round2_data/environment/speech/78520.wav",
+  "sha256": "9c4a1cab7e6eac0c0fedfd85b2bff9d57ad945c4a65f93f80f25042c38e06800"
+ },
+ {
+  "category": "speech",
+  "id": "81853",
+  "author": "shawshank73",
+  "path": "round2_data/environment/speech/81853.wav",
+  "sha256": "7d903fbd4552f0acaa966bcb77aa858c2c581ad975a1852abb05f881f63c8efd"
+ },
+ {
+  "category": "speech",
+  "id": "82322",
+  "author": "IEDlabs",
+  "path": "round2_data/environment/speech/82322.wav",
+  "sha256": "9a10a0c7e3546de7b19381628d1ba010a6901252a9db0ef655727402f30e250e"
+ },
+ {
+  "category": "speech",
+  "id": "107331",
+  "author": "Improviz",
+  "path": "round2_data/environment/speech/107331.wav",
+  "sha256": "17c4b98d79be24e9437d01297d714b7b711a4401d267c9ddef710e198016c482"
+ },
+ {
+  "category": "speech",
+  "id": "112632",
+  "author": "jppi_Stu",
+  "path": "round2_data/environment/speech/112632.wav",
+  "sha256": "686652285cff2b6286920f79f3dd93424e5b7391b4ff02bfa999721ca02d6d8e"
+ },
+ {
+  "category": "speech",
+  "id": "128896",
+  "author": "joshenanigans",
+  "path": "round2_data/environment/speech/128896.wav",
+  "sha256": "f0ce6031bf8a50d6b231f4f1023761fc2947d2f30eed9a456a8d876e9dcbd572"
+ },
+ {
+  "category": "speech",
+  "id": "141191",
+  "author": "tarrei",
+  "path": "round2_data/environment/speech/141191.wav",
+  "sha256": "b63aff4dfe007e6c93bbb942e90efe6d72212121d8fa8dba87155bbea2377946"
+ },
+ {
+  "category": "speech",
+  "id": "153108",
+  "author": "Albaaa3",
+  "path": "round2_data/environment/speech/153108.wav",
+  "sha256": "bb360102ddd610793c724dd6d21d97b2878258761d0019369a2a456fdb759e23"
+ },
+ {
+  "category": "speech",
+  "id": "161267",
+  "author": "Banes",
+  "path": "round2_data/environment/speech/161267.wav",
+  "sha256": "8963b23688a06f0009fa06291d0bcb067abae24bcfd2a21443042a93becf0596"
+ },
+ {
+  "category": "speech",
+  "id": "181316",
+  "author": "toiletrolltube",
+  "path": "round2_data/environment/speech/181316.wav",
+  "sha256": "85d60a40acf8738d910a517f8e5660e7f61046c1810d8d7628f0a87a015919f7"
+ },
+ {
+  "category": "speech",
+  "id": "187291",
+  "author": "HazMattt",
+  "path": "round2_data/environment/speech/187291.wav",
+  "sha256": "dc87f02d9571527441a57f1ad49bcf6f1f0daea6a25443ad57957c842c301811"
+ },
+ {
+  "category": "speech",
+  "id": "198889",
+  "author": "bone666138",
+  "path": "round2_data/environment/speech/198889.wav",
+  "sha256": "63c120e7a078220872b2c84cc976e81542804aebf72b27ed32ef7b422f5bbf32"
+ },
+ {
+  "category": "speech",
+  "id": "201914",
+  "author": "Moonlight Dancer",
+  "path": "round2_data/environment/speech/201914.wav",
+  "sha256": "81d25c75f759f5523881529125521ba7de4683bc0d5841bac8ddbf1d9067d9b2"
+ },
+ {
+  "category": "speech",
+  "id": "222597",
+  "author": "aarongbuk",
+  "path": "round2_data/environment/speech/222597.wav",
+  "sha256": "0c60828f74f5455776b6fb352cfddf755ae67d5fc95467c9eef3b67d554d3fe1"
+ },
+ {
+  "category": "speech",
+  "id": "234034",
+  "author": "11linda",
+  "path": "round2_data/environment/speech/234034.wav",
+  "sha256": "c1d006f9728aec7e99175bd6254d2d2b81a5cd4f889031e4a2c303da39985ddf"
+ },
+ {
+  "category": "speech",
+  "id": "258367",
+  "author": "wjoojoo",
+  "path": "round2_data/environment/speech/258367.wav",
+  "sha256": "cfd54188769035a118f952275b7b40a168e0d0ee11962a188b42235d82b176e5"
+ },
+ {
+  "category": "speech",
+  "id": "260688",
+  "author": "AlienXXX",
+  "path": "round2_data/environment/speech/260688.wav",
+  "sha256": "13021d5209f4f8d19810883eff11be4f71d7e53b0ff0cb3646d9cc0c91c59224"
+ },
+ {
+  "category": "speech",
+  "id": "271630",
+  "author": "carmsie",
+  "path": "round2_data/environment/speech/271630.wav",
+  "sha256": "a7546872dd6963de4aa424ecdff6464404069d1817f2f47612732f2204874e53"
+ },
+ {
+  "category": "speech",
+  "id": "271947",
+  "author": "montblanccandies",
+  "path": "round2_data/environment/speech/271947.wav",
+  "sha256": "4fa982cbb4f44a9dacea1e5eb53c72366647f00feecdc82c71498fed61573d64"
+ },
+ {
+  "category": "speech",
+  "id": "328046",
+  "author": "btherad2000",
+  "path": "round2_data/environment/speech/328046.wav",
+  "sha256": "631d1199c18638f561e5444d3c8c23e51a5b9f545e5b4071b0b66a095d2e49f4"
+ },
+ {
+  "category": "speech",
+  "id": "346875",
+  "author": "athenspublic",
+  "path": "round2_data/environment/speech/346875.wav",
+  "sha256": "bb3a8726845d73d349bfde5c0b5c4d231a93f17594ee0a5abe97116bcfeb6830"
+ },
+ {
+  "category": "speech",
+  "id": "346960",
+  "author": "andrebola",
+  "path": "round2_data/environment/speech/346960.wav",
+  "sha256": "d1fe1110a38ab0dfc0561ffd2e97eea4c6e12aa271379d32305225305877a0d0"
+ },
+ {
+  "category": "speech",
+  "id": "360462",
+  "author": "Topschool",
+  "path": "round2_data/environment/speech/360462.wav",
+  "sha256": "277d535fa59b78d05b374021b438772579a9d4cb72925889763235d4832201f1"
+ },
+ {
+  "category": "speech",
+  "id": "368174",
+  "author": "Stewartcolbourn",
+  "path": "round2_data/environment/speech/368174.wav",
+  "sha256": "d2be1fc9da2cb3dcbb44ae67abd924aa5662e4c15aaae759ba7a554394bcb26c"
+ },
+ {
+  "category": "speech",
+  "id": "371224",
+  "author": "honest_cactus",
+  "path": "round2_data/environment/speech/371224.wav",
+  "sha256": "faf59f33957e4bf324e31a384c4aea4112030b7fb13f40bbd99a71989911bf81"
+ },
+ {
+  "category": "speech",
+  "id": "380803",
+  "author": "Vesperia94",
+  "path": "round2_data/environment/speech/380803.wav",
+  "sha256": "2a30bdb99074d671aac0176688f9bdf0cab7bb1f17e948492f6e73f5873db9ee"
+ },
+ {
+  "category": "speech",
+  "id": "412557",
+  "author": "HialeyTrimnal",
+  "path": "round2_data/environment/speech/412557.wav",
+  "sha256": "144f7453ffd11ae6df7cd735829114c090045a502d23cc51fcf28a6f3176715f"
+ },
+ {
+  "category": "speech",
+  "id": "414063",
+  "author": "Kinoton",
+  "path": "round2_data/environment/speech/414063.wav",
+  "sha256": "ad002af525f31eed705ba0499088a8efec336f1e2a1241eba7dbe4de6d7bcf8a"
+ },
+ {
+  "category": "speech",
+  "id": "418281",
+  "author": "nursedespise",
+  "path": "round2_data/environment/speech/418281.wav",
+  "sha256": "e8acd03d93abed7e3082fcfebb26a6ae2b22ea7f411c9aec72eb0d786e70ab49"
+ },
+ {
+  "category": "speech",
+  "id": "422146",
+  "author": "14G_Panska_Niklova_Michaela",
+  "path": "round2_data/environment/speech/422146.wav",
+  "sha256": "995d832136e0621a7a026605b5fd4869ce7ba7221736a72b22541ab2ec140883"
+ },
+ {
+  "category": "train",
+  "id": "12501",
+  "author": "Koops",
+  "path": "round2_data/environment/train/12501.wav",
+  "sha256": "27d879730c3d25e024134a8dbce10bbd72228d9a228b406299b5398563fb4f01"
+ },
+ {
+  "category": "train",
+  "id": "23641",
+  "author": "Anton",
+  "path": "round2_data/environment/train/23641.wav",
+  "sha256": "55cced0fd144110a998d3e5c3ba7d1a57e977425686f892d0280d1d5783187aa"
+ },
+ {
+  "category": "train",
+  "id": "36899",
+  "author": "icmusic",
+  "path": "round2_data/environment/train/36899.wav",
+  "sha256": "f29bb1dfc54997dd062c59290a5ebe7d2d5f09099f35ce5efb1eba5f6f2f3aea"
+ },
+ {
+  "category": "train",
+  "id": "39413",
+  "author": "gadzooks",
+  "path": "round2_data/environment/train/39413.wav",
+  "sha256": "f5464977753ee7e0146f7d476ed7d1f9d99292ba88708659e05db76feee0989c"
+ },
+ {
+  "category": "train",
+  "id": "55380",
+  "author": "ERH",
+  "path": "round2_data/environment/train/55380.wav",
+  "sha256": "4509faf1c2b079ca458e337b4684ccfefaec3760a63341af863f7317657e00e1"
+ },
+ {
+  "category": "train",
+  "id": "72531",
+  "author": "IFartInUrGeneralDirection",
+  "path": "round2_data/environment/train/72531.wav",
+  "sha256": "d25a68264a83ef510b368bfb897adf7db699f85f3c29e7a75a17965baf2f0a70"
+ },
+ {
+  "category": "train",
+  "id": "94633",
+  "author": "dobroide",
+  "path": "round2_data/environment/train/94633.wav",
+  "sha256": "9ca38d91576cf12ce49500b36ebc01f741f1ba4c6c1c87986eb6e89945b8aa07"
+ },
+ {
+  "category": "train",
+  "id": "98685",
+  "author": "miastodzwiekow",
+  "path": "round2_data/environment/train/98685.wav",
+  "sha256": "50f17ba1a4981e8c7b54e9ced705ff7fa002ea05aec8dd8b5e03f5dd9670c462"
+ },
+ {
+  "category": "train",
+  "id": "98853",
+  "author": "the_toilet_guy",
+  "path": "round2_data/environment/train/98853.wav",
+  "sha256": "069fe19ee78a8fcf4cb3cf09693e91c97a262bc0e0d629fc3a05267c206a9194"
+ },
+ {
+  "category": "train",
+  "id": "101202",
+  "author": "Raffa Jaffa",
+  "path": "round2_data/environment/train/101202.wav",
+  "sha256": "dbccf9bba0a345f915e519779a6cde928dba85f5c4b37398f322cb7786a4e394"
+ },
+ {
+  "category": "train",
+  "id": "106210",
+  "author": "karthics4",
+  "path": "round2_data/environment/train/106210.wav",
+  "sha256": "1ea6987d5b3d52d5f5c4af35441153a308c5a28c1b075a3dfaff81362dc9348d"
+ },
+ {
+  "category": "train",
+  "id": "122819",
+  "author": "geodylabs",
+  "path": "round2_data/environment/train/122819.wav",
+  "sha256": "b5176c0baad2911d6a851fba5be71fd432d65de757d5a1379cc87ba5f99068fb"
+ },
+ {
+  "category": "train",
+  "id": "130434",
+  "author": "mmiron",
+  "path": "round2_data/environment/train/130434.wav",
+  "sha256": "4782d4a6e42984df5b559484c275e9ac6d9d3dfd968b1db87b27b4a5453a3da9"
+ },
+ {
+  "category": "train",
+  "id": "141272",
+  "author": "OroborosNZ",
+  "path": "round2_data/environment/train/141272.wav",
+  "sha256": "a598867f4b0816c9c7a8e05d3deda658fbed2dd01e3fdf6e6a4fdfbd8a6b4e8c"
+ },
+ {
+  "category": "train",
+  "id": "184226",
+  "author": "gurdonark",
+  "path": "round2_data/environment/train/184226.wav",
+  "sha256": "76bcbdde22ad4507bb4dc7ccd64cd4546c56957f473482ca6ae6234a52fc78ef"
+ },
+ {
+  "category": "train",
+  "id": "184291",
+  "author": "funkologic",
+  "path": "round2_data/environment/train/184291.wav",
+  "sha256": "5674aff0720e82d86860a47dbb6b0c408ad0f82c3fd1ae0e1c8c6e524c146b42"
+ },
+ {
+  "category": "train",
+  "id": "195982",
+  "author": "schafferdavid",
+  "path": "round2_data/environment/train/195982.wav",
+  "sha256": "4b7022504a3ffeabe0c94c6bb94f1112f9248094a28eb54268aba5213eba4c67"
+ },
+ {
+  "category": "train",
+  "id": "220220",
+  "author": "exuberate",
+  "path": "round2_data/environment/train/220220.wav",
+  "sha256": "83754c96ed121e461653fd8b2dea48f950111dfcceb28a0a9f686553f69b4ff4"
+ },
+ {
+  "category": "train",
+  "id": "232164",
+  "author": "inkhorn",
+  "path": "round2_data/environment/train/232164.wav",
+  "sha256": "8d38c6be2711459d579b21874a699067dc334a2a38c2c61b72af5e2bc6efc89e"
+ },
+ {
+  "category": "train",
+  "id": "232443",
+  "author": "Sandermotions",
+  "path": "round2_data/environment/train/232443.wav",
+  "sha256": "9bb86009b709553c616ea1698e2ec669d34da987af300b4ebeef5d74be29e276"
+ },
+ {
+  "category": "train",
+  "id": "259870",
+  "author": "jppi_Stu",
+  "path": "round2_data/environment/train/259870.wav",
+  "sha256": "90b98ef51066c789693408fdc6eca2c631668d916f93d5645b6aa721c6d1206a"
+ },
+ {
+  "category": "train",
+  "id": "269260",
+  "author": "blukotek",
+  "path": "round2_data/environment/train/269260.wav",
+  "sha256": "2db09de29fdce1282aeced3b98c90f37e34390cb7f9d43e2c158a6768a1c3915"
+ },
+ {
+  "category": "train",
+  "id": "277754",
+  "author": "alex@vsi.tv",
+  "path": "round2_data/environment/train/277754.wav",
+  "sha256": "92f314389c86873ecf01488bf4ea0ef3c443fed951f651da635a587d6b9eed5f"
+ },
+ {
+  "category": "train",
+  "id": "316750",
+  "author": "Rapoix",
+  "path": "round2_data/environment/train/316750.wav",
+  "sha256": "14f42aa950915c5e09dc48d12fb475ea90b95f7e697d1783e7882a3e9beea7ac"
+ },
+ {
+  "category": "train",
+  "id": "323059",
+  "author": "freesoundjon01",
+  "path": "round2_data/environment/train/323059.wav",
+  "sha256": "ead7e23d1ce3198e5f900dcc6e8acca09591c7108fa9b21a6be304f6ffc3ffc0"
+ },
+ {
+  "category": "train",
+  "id": "328113",
+  "author": "InspectorJ",
+  "path": "round2_data/environment/train/328113.wav",
+  "sha256": "02ba134664978d2951747afc20df9c22115b9db9bb1e70209050c4248d97c07f"
+ },
+ {
+  "category": "train",
+  "id": "333006",
+  "author": "michael_kur95",
+  "path": "round2_data/environment/train/333006.wav",
+  "sha256": "32219977688afecaf261e4adf6516cfb7b9f30a302107f5a1140d9aa41bf523c"
+ },
+ {
+  "category": "train",
+  "id": "340466",
+  "author": "rollingmill",
+  "path": "round2_data/environment/train/340466.wav",
+  "sha256": "48c3d59d5ef238031b6a6d652bf115ac4f6aecb3ff28ae4224a88169ddcfad5d"
+ },
+ {
+  "category": "train",
+  "id": "341905",
+  "author": "ondrosik",
+  "path": "round2_data/environment/train/341905.wav",
+  "sha256": "b4848eae3d014e140847b3e57b938647ed5a1bc8a76f89babda376db488494ad"
+ },
+ {
+  "category": "train",
+  "id": "379994",
+  "author": "DeltaTaf",
+  "path": "round2_data/environment/train/379994.wav",
+  "sha256": "c33218509069bf1db4573f21891df74a0fd3240bb28b683b6d814e591f70e7e6"
+ },
+ {
+  "category": "train",
+  "id": "393780",
+  "author": "_CAZAPROD_",
+  "path": "round2_data/environment/train/393780.wav",
+  "sha256": "e5d8e70e9f61ca696c43458a3e81123be90dc65655e28dab9ef4a332d4e36300"
+ },
+ {
+  "category": "train",
+  "id": "402074",
+  "author": "RensvdMeijs",
+  "path": "round2_data/environment/train/402074.wav",
+  "sha256": "20eee21f75fd8af908ed10eadab3b61067f2264a0320c03a9e0cd99e40df3317"
+ },
+ {
+  "category": "train",
+  "id": "419932",
+  "author": "14FPanskaSilovsky_Petr",
+  "path": "round2_data/environment/train/419932.wav",
+  "sha256": "864c91c7d68e5d2f6ecc34f3a417a65508b469bb88072cbf920b1f206b760bca"
+ },
+ {
+  "category": "train",
+  "id": "432372",
+  "author": "Fedor_Ogon",
+  "path": "round2_data/environment/train/432372.wav",
+  "sha256": "34c3d83c908976cd398a2dd2818da4fe208687771b361268c75b960ec0b25e88"
+ },
+ {
+  "category": "train",
+  "id": "434714",
+  "author": "goinon",
+  "path": "round2_data/environment/train/434714.wav",
+  "sha256": "39ac912f0b7d66f50ef4719206d79e8c2f7058cbbf17a8a1a8ca2d02fbc56464"
+ },
+ {
+  "category": "wind",
+  "id": "5997",
+  "author": "dobroide",
+  "path": "round2_data/environment/wind/5997.wav",
+  "sha256": "30568ad2b8a5a492bd2c0247297bfec13531f89eb409ab35b10a3d19fb1e9317"
+ },
+ {
+  "category": "wind",
+  "id": "23769",
+  "author": "Corsica_S",
+  "path": "round2_data/environment/wind/23769.wav",
+  "sha256": "70c038bbb65daee59e236f6de89d1a2f6b5a1bb46bdf94b6e57c67b11dfceffc"
+ },
+ {
+  "category": "wind",
+  "id": "29530",
+  "author": "eliasheuninck",
+  "path": "round2_data/environment/wind/29530.wav",
+  "sha256": "e612a3b4d5c5d96e78f529f6f18745b38b1f2a2b5780755bde9d45316e7c870f"
+ },
+ {
+  "category": "wind",
+  "id": "45642",
+  "author": "stomachache",
+  "path": "round2_data/environment/wind/45642.wav",
+  "sha256": "d89590fe19a498f47d75898921694f9ad222f4066544e41db7c732d768da730e"
+ },
+ {
+  "category": "wind",
+  "id": "53991",
+  "author": "wisslgisse",
+  "path": "round2_data/environment/wind/53991.wav",
+  "sha256": "4010eff9d675faf705f503f3c8e97c4bdd3092b1837f12dffa07ae43abb0cdd7"
+ },
+ {
+  "category": "wind",
+  "id": "68749",
+  "author": "mikaelfernstrom",
+  "path": "round2_data/environment/wind/68749.wav",
+  "sha256": "9867b1ae6c5deeffb32ae792dbb7703cbcd5dd57748ee31e455d7616bde45527"
+ },
+ {
+  "category": "wind",
+  "id": "78430",
+  "author": "Benboncan",
+  "path": "round2_data/environment/wind/78430.wav",
+  "sha256": "43f36d3b0a8e016128ba4c328cba9e53ecbaa68ff061720991989671b7f271d7"
+ },
+ {
+  "category": "wind",
+  "id": "79253",
+  "author": "RoofDog",
+  "path": "round2_data/environment/wind/79253.wav",
+  "sha256": "729327caecca2acfca12c3a1f06b92df8400349c9970a96eab00227f0ff878ef"
+ },
+ {
+  "category": "wind",
+  "id": "113173",
+  "author": "Fasolt",
+  "path": "round2_data/environment/wind/113173.wav",
+  "sha256": "e357b5e3e784ef753f72b5c354386d80b2b7e1a5160fa41f9388a16f00503adc"
+ },
+ {
+  "category": "wind",
+  "id": "135034",
+  "author": "MrLindstrom",
+  "path": "round2_data/environment/wind/135034.wav",
+  "sha256": "683e11e6a68cd2b9795cc1fccee5e671efc3415679feca84794a2218abd9ee06"
+ },
+ {
+  "category": "wind",
+  "id": "136251",
+  "author": "JaimeLopes",
+  "path": "round2_data/environment/wind/136251.wav",
+  "sha256": "ca9dc8f366d1d214c147cb463a7ee6e088568ac9758a5a34fd4cbf43d789c99d"
+ },
+ {
+  "category": "wind",
+  "id": "151853",
+  "author": "carroll27",
+  "path": "round2_data/environment/wind/151853.wav",
+  "sha256": "bb7891b53c6389764b5257b85ee413b8191fc759a4ce0ca83842f8126cfe2b63"
+ },
+ {
+  "category": "wind",
+  "id": "162392",
+  "author": "zandernoriega",
+  "path": "round2_data/environment/wind/162392.wav",
+  "sha256": "397a66ad59160863b690f8cf9a68add0dab8d14bda868da0dd287f1d501fefcf"
+ },
+ {
+  "category": "wind",
+  "id": "165345",
+  "author": "TaySwiftie13",
+  "path": "round2_data/environment/wind/165345.wav",
+  "sha256": "0c28566e2e1662b28d34aca8d1e13efed9f8e10165482605f328a0156c6a0016"
+ },
+ {
+  "category": "wind",
+  "id": "182920",
+  "author": "toiletrolltube",
+  "path": "round2_data/environment/wind/182920.wav",
+  "sha256": "76360b0e79c37195e4ff8b490e5cd3e400655ec66aa1fa51d2c3f01b63ac27af"
+ },
+ {
+  "category": "wind",
+  "id": "208849",
+  "author": "Insestanyricarda",
+  "path": "round2_data/environment/wind/208849.wav",
+  "sha256": "3408bfa3e727da99585b64f3cf14e355d870f7428708c33d2faa7905e173bcda"
+ },
+ {
+  "category": "wind",
+  "id": "213036",
+  "author": "Taira Komori",
+  "path": "round2_data/environment/wind/213036.wav",
+  "sha256": "50ade49b9a76af8f8b3513af7d0184f6afafe7ea063c638bbfac1b82656fe99e"
+ },
+ {
+  "category": "wind",
+  "id": "238039",
+  "author": "raremess",
+  "path": "round2_data/environment/wind/238039.wav",
+  "sha256": "06cef7845cc67e16540b0769b1d0c5f9c7dbf306e6439ea9453edc0741d5d264"
+ },
+ {
+  "category": "wind",
+  "id": "250653",
+  "author": "pieltain",
+  "path": "round2_data/environment/wind/250653.wav",
+  "sha256": "62c3baeb5786d284dac9dec5c4af1973fe2396b6a7f3f0d7b9f32a3f995e5f8e"
+ },
+ {
+  "category": "wind",
+  "id": "256862",
+  "author": "Kodack",
+  "path": "round2_data/environment/wind/256862.wav",
+  "sha256": "3b4515cfa06a5e0ef6fac76ceeadd6afa2bc02e0c354a9ccd12705848b0485ec"
+ },
+ {
+  "category": "wind",
+  "id": "267464",
+  "author": "TeamTheBest",
+  "path": "round2_data/environment/wind/267464.wav",
+  "sha256": "2117190c09565fa8c9b1d10cbb7853abeed20e62020705abc9c995f3049c1048"
+ },
+ {
+  "category": "wind",
+  "id": "319700",
+  "author": "Peacewaves",
+  "path": "round2_data/environment/wind/319700.wav",
+  "sha256": "9cb2d871ca127f63f2495f56f8ad8dd0262664e1bc264d94e79e6f903a6aa989"
+ },
+ {
+  "category": "wind",
+  "id": "329116",
+  "author": "ivolipa",
+  "path": "round2_data/environment/wind/329116.wav",
+  "sha256": "f93970b552afd5a9c0e347506727c5df628847fb33d72b207104b15b4c4b53d2"
+ },
+ {
+  "category": "wind",
+  "id": "361120",
+  "author": "martin12ha",
+  "path": "round2_data/environment/wind/361120.wav",
+  "sha256": "699413ed0c7047376fcfbe31ac2d3cbb15536443a03723a9e1cb789a6cd58f73"
+ },
+ {
+  "category": "wind",
+  "id": "378173",
+  "author": "ghettovan",
+  "path": "round2_data/environment/wind/378173.wav",
+  "sha256": "158e381a7e60e05d612bee2df9901d9dd7101ad07723b2d6e9c9347e9e08f0ce"
+ },
+ {
+  "category": "wind",
+  "id": "386033",
+  "author": "TaraMG",
+  "path": "round2_data/environment/wind/386033.wav",
+  "sha256": "964a96dbf85a5b4c0d3ef41911e41db070fad96e46bd4b82ae9f56b87a32b859"
+ },
+ {
+  "category": "wind",
+  "id": "386574",
+  "author": "ShaneF91",
+  "path": "round2_data/environment/wind/386574.wav",
+  "sha256": "56ffd8e3c6df7421028bdcfbf204da01e1baff414418374ef2b4bda0c1bbf435"
+ },
+ {
+  "category": "wind",
+  "id": "392497",
+  "author": "SaraBerrio",
+  "path": "round2_data/environment/wind/392497.wav",
+  "sha256": "3b43444bca2d9f234ae2c4aa53a475e26c7fed0af843bcd5dd4ecaeda3562b29"
+ },
+ {
+  "category": "wind",
+  "id": "400992",
+  "author": "UrsaDaBear",
+  "path": "round2_data/environment/wind/400992.wav",
+  "sha256": "5160478108d278b5c2787b330df7cd21e0a83ae31bbec1ef5424004c84dff33f"
+ },
+ {
+  "category": "wind",
+  "id": "407013",
+  "author": "erothebest",
+  "path": "round2_data/environment/wind/407013.wav",
+  "sha256": "8f4d335b59cc2514b4d5f080ec00705817487a160d2369ab4ca47ea83ccacd78"
+ },
+ {
+  "category": "wind",
+  "id": "410369",
+  "author": "BenjaminNelan",
+  "path": "round2_data/environment/wind/410369.wav",
+  "sha256": "959627e2e4613e296f1887a942e306ed73dfa57adbb89a8e27003f5ccd93bf72"
+ },
+ {
+  "category": "wind",
+  "id": "411846",
+  "author": "SamuelGremaud",
+  "path": "round2_data/environment/wind/411846.wav",
+  "sha256": "e575efb73d9d82de47774bc6a82412a1c864427d33f01dab022f817faf9d863d"
+ },
+ {
+  "category": "wind",
+  "id": "422974",
+  "author": "dkiller2204",
+  "path": "round2_data/environment/wind/422974.wav",
+  "sha256": "663e2392acadff5583bad819b20c14272b9306dbe38856c7e48e2805febfced1"
+ },
+ {
+  "category": "wind",
+  "id": "425044",
+  "author": "ritacataludo",
+  "path": "round2_data/environment/wind/425044.wav",
+  "sha256": "dcf8d0dc132748c1477367b78adcd961630ca196177e29ad8b7b6dc4972e5b4b"
+ },
+ {
+  "category": "wind",
+  "id": "432686",
+  "author": "Vortichez",
+  "path": "round2_data/environment/wind/432686.wav",
+  "sha256": "6aa1ba4f86de3026193e54d0c2f76c2a8fc9716703c4fd0d92946d4882df1ee6"
+ },
+ {
+  "category": "guitar",
+  "id": "40423",
+  "author": "hubertmichel",
+  "path": "round3_data/environment/guitar/40423.wav",
+  "sha256": "e080676bbc012b24b0e032d1cde564d1a32f6b5eabc403d7c8cd2cb17f7e91ca"
+ },
+ {
+  "category": "guitar",
+  "id": "128844",
+  "author": "mtcband",
+  "path": "round3_data/environment/guitar/128844.wav",
+  "sha256": "d59f02f470c18cda2bf980c444c479c03406eba661a756561f384692e7cca411"
+ },
+ {
+  "category": "guitar",
+  "id": "421667",
+  "author": "jeff82mk",
+  "path": "round3_data/environment/guitar/421667.wav",
+  "sha256": "d78eca88506b1bfcf47cc13696d2b41e1e9aade918a159439bc9810b879c44e0"
+ },
+ {
+  "category": "guitar",
+  "id": "30149",
+  "author": "UncleSigmund",
+  "path": "round3_data/environment/guitar/30149.wav",
+  "sha256": "359fe14b039433c751b027a341cfae7843fdd2ad14d2c4a51429ce4d396ade7b"
+ },
+ {
+  "category": "guitar",
+  "id": "321265",
+  "author": "Rgoldkind",
+  "path": "round3_data/environment/guitar/321265.wav",
+  "sha256": "6e6a8cdbd43eebad2bd3b831bdde704aed548e433d00003583ae61b6b9a4dfb2"
+ },
+ {
+  "category": "guitar",
+  "id": "74199",
+  "author": "justinrobert",
+  "path": "round3_data/environment/guitar/74199.wav",
+  "sha256": "84b49ece70594acdadc7088bbcc41bf72ac3018d367f49814b15ef3c1c6bbcc4"
+ },
+ {
+  "category": "guitar",
+  "id": "254883",
+  "author": "bsteinberg",
+  "path": "round3_data/environment/guitar/254883.wav",
+  "sha256": "f6023e02cbf5e8352ddd3caff3b14d28513b4abf06865d647e95bf7cc17930a9"
+ },
+ {
+  "category": "guitar",
+  "id": "202402",
+  "author": "Jack_Master",
+  "path": "round3_data/environment/guitar/202402.wav",
+  "sha256": "ef87f4421d998eb277b7c14147c1e10e0fdd45f0a6fff5ac197c15b6a958c543"
+ },
+ {
+  "category": "guitar",
+  "id": "368144",
+  "author": "yruama_lairba",
+  "path": "round3_data/environment/guitar/368144.wav",
+  "sha256": "5eafa123c51f5b97a270dd9d5d5c30559f05fd83e9ac0b6c1abb97dfc86c12f7"
+ },
+ {
+  "category": "guitar",
+  "id": "368313",
+  "author": "buenchaval",
+  "path": "round3_data/environment/guitar/368313.wav",
+  "sha256": "0f3c6b91aed755672106a9c7e53c02365aac71b43bd171ca5e1de5c147bb9e69"
+ },
+ {
+  "category": "guitar",
+  "id": "321709",
+  "author": "kroshe",
+  "path": "round3_data/environment/guitar/321709.wav",
+  "sha256": "b1604cc785a09505d4b2089ebdabe1ecece158ac7b3600ed2dc7512768822890"
+ },
+ {
+  "category": "guitar",
+  "id": "130468",
+  "author": "be-steele",
+  "path": "round3_data/environment/guitar/130468.wav",
+  "sha256": "0b3230ffeb08d7e80a13b75fa09b7f71c07b18e82cb0a594423814af599ef52e"
+ },
+ {
+  "category": "piano",
+  "id": "326279",
+  "author": "Spennnyyy",
+  "path": "round3_data/environment/piano/326279.wav",
+  "sha256": "84cec0fe6df95e82fc99589fd67f350c237e29502aa9761675235e6caff30ac2"
+ },
+ {
+  "category": "piano",
+  "id": "1911",
+  "author": "nicStage",
+  "path": "round3_data/environment/piano/1911.wav",
+  "sha256": "8c0421a004f455d03e98d3e6bdb7b1a66de821fee931d2ad8d72b4eeb6d2b488"
+ },
+ {
+  "category": "piano",
+  "id": "363689",
+  "author": "Noedell",
+  "path": "round3_data/environment/piano/363689.wav",
+  "sha256": "f1205520e1833135ff183575292ac45feee9d44d65177f6e60c6e71a0a403cd5"
+ },
+ {
+  "category": "piano",
+  "id": "126110",
+  "author": "CorrodedMaster",
+  "path": "round3_data/environment/piano/126110.wav",
+  "sha256": "b3f78a4e03128a5403204c5fdf0b96799d315a9c50e103127dd8ae6f5a1867fe"
+ },
+ {
+  "category": "piano",
+  "id": "187809",
+  "author": "sonsdebarcelona",
+  "path": "round3_data/environment/piano/187809.wav",
+  "sha256": "f646df99811b6fa9f84cc726a09651dc3fd3832b481fb908df35a85ee3fef9fd"
+ },
+ {
+  "category": "piano",
+  "id": "196103",
+  "author": "Aiwha",
+  "path": "round3_data/environment/piano/196103.wav",
+  "sha256": "4f54442b80a0316c1ee8ee4855901cfc3a4eb1f2ceda96e53a113aa5b36f6fe1"
+ },
+ {
+  "category": "piano",
+  "id": "98992",
+  "author": "gunnbladez",
+  "path": "round3_data/environment/piano/98992.wav",
+  "sha256": "339028b3206f16a48439eb5ccbccd4ceb07951affbbc82e2c157aa4675872065"
+ },
+ {
+  "category": "piano",
+  "id": "35816",
+  "author": "anysounds",
+  "path": "round3_data/environment/piano/35816.wav",
+  "sha256": "eac4aa1e2fc410b522d260416a4a7fc54efd78cce1c4858a8f3c98ccf45c1e57"
+ },
+ {
+  "category": "piano",
+  "id": "258173",
+  "author": "Ioddo",
+  "path": "round3_data/environment/piano/258173.wav",
+  "sha256": "1fc768d616a2e1b165b1806a7c924e12c3f188094ec9372352350373c53c7de4"
+ },
+ {
+  "category": "piano",
+  "id": "155846",
+  "author": "day_tripper13",
+  "path": "round3_data/environment/piano/155846.wav",
+  "sha256": "58202873a629e146e2a708f4a35e658059fb71a14090a8532f70088da8a4dcd2"
+ },
+ {
+  "category": "piano",
+  "id": "367533",
+  "author": "leewarner",
+  "path": "round3_data/environment/piano/367533.wav",
+  "sha256": "21c568d2e7cd377fcb84841735e050fbda68f468e1fcff6c445af4b584fe585d"
+ },
+ {
+  "category": "speech",
+  "id": "382762",
+  "author": "miradeshazer",
+  "path": "round3_data/environment/speech/382762.wav",
+  "sha256": "5770892793f30698bd1f0f9fdf150956511ebfd8e207ef269ac31fbf22a8c109"
+ },
+ {
+  "category": "speech",
+  "id": "258102",
+  "author": "mauress",
+  "path": "round3_data/environment/speech/258102.wav",
+  "sha256": "a1c47d5f8c412a545eb613914087284ef2f9b2fe1f121227d073e444ba4fcbcc"
+ },
+ {
+  "category": "speech",
+  "id": "376999",
+  "author": "anjds",
+  "path": "round3_data/environment/speech/376999.wav",
+  "sha256": "da60c340f77a16655c3653292fe7525c8d4b6439579ec1c1114477d2f19399b7"
+ },
+ {
+  "category": "speech",
+  "id": "329649",
+  "author": "MedicationTime",
+  "path": "round3_data/environment/speech/329649.wav",
+  "sha256": "d1181517f1229ca48b49c5bb952acaada6f106062f3a77815a072c205aabcd54"
+ },
+ {
+  "category": "speech",
+  "id": "136427",
+  "author": "OTBTechno",
+  "path": "round3_data/environment/speech/136427.wav",
+  "sha256": "b4b4f8d00575167adb5785a8c8bc7cbce19e8ba60f199c3ceb0dfec06aaeffc6"
+ },
+ {
+  "category": "speech",
+  "id": "189740",
+  "author": "wordswar",
+  "path": "round3_data/environment/speech/189740.wav",
+  "sha256": "2ce36429b3e8b9c4befbe020711eb876647feca704dc41bee617778958938cc0"
+ },
+ {
+  "category": "speech",
+  "id": "401341",
+  "author": "ckvoiceover",
+  "path": "round3_data/environment/speech/401341.wav",
+  "sha256": "33779bd0de683ec381ad9ada188118b50581b18a341b95fc71447c02d6fbd2b4"
+ },
+ {
+  "category": "speech",
+  "id": "398979",
+  "author": "SamsterBirdies",
+  "path": "round3_data/environment/speech/398979.wav",
+  "sha256": "734f54234d246241cdcb54d63e85f6795b3f709393181d68f6edbeeb6866f887"
+ },
+ {
+  "category": "train",
+  "id": "334618",
+  "author": "alukahn",
+  "path": "round3_data/environment/train/334618.wav",
+  "sha256": "881c6cb321c6dcd7a16732a9981cc1528b9759ae41846aff95a5081e00880a1e"
+ },
+ {
+  "category": "train",
+  "id": "339141",
+  "author": "yurkobb",
+  "path": "round3_data/environment/train/339141.wav",
+  "sha256": "30c0429675c457e6a7cffc520665bc14e5f685ad656a4f8faf783c0e045b656f"
+ },
+ {
+  "category": "train",
+  "id": "146205",
+  "author": "Ferdinger",
+  "path": "round3_data/environment/train/146205.wav",
+  "sha256": "4255bcf2a54af327c092da3e06d74c27febf3c1ca5e4f7791aa7a9d1a971d67e"
+ },
+ {
+  "category": "train",
+  "id": "262640",
+  "author": "magedu",
+  "path": "round3_data/environment/train/262640.wav",
+  "sha256": "049d5981fde653ca4adda77901f26e1587485fb4e8fac5d34bd8bb44ae37f478"
+ },
+ {
+  "category": "train",
+  "id": "390119",
+  "author": "XPLOman",
+  "path": "round3_data/environment/train/390119.wav",
+  "sha256": "be7a84499d4d0b7f1332ad753447a69e37df7c35743eb46d3f5edccda55c69af"
+ },
+ {
+  "category": "train",
+  "id": "278176",
+  "author": "kangaroovindaloo",
+  "path": "round3_data/environment/train/278176.wav",
+  "sha256": "453bdc3e3b5743a2a1f013213c65d3ac6c7b1afdb5c20b8c53283b75205cde55"
+ },
+ {
+  "category": "train",
+  "id": "33806",
+  "author": "LG",
+  "path": "round3_data/environment/train/33806.wav",
+  "sha256": "d6c88161f0505d241a0a413dfde6cc5fea69e304b08576c38fcd6509d31af1ce"
+ },
+ {
+  "category": "train",
+  "id": "195466",
+  "author": "jmr_online",
+  "path": "round3_data/environment/train/195466.wav",
+  "sha256": "13504e37c3e0fbd8b2515230a4147abbaf8679c5b5cdf569c262bbd78dc39bb7"
+ },
+ {
+  "category": "train",
+  "id": "400093",
+  "author": "Radio_fragola_gorizia",
+  "path": "round3_data/environment/train/400093.wav",
+  "sha256": "f6b7e5af829ea2bafcec54829cadf054d41d8334347095273fa04212b1781fd9"
+ },
+ {
+  "category": "train",
+  "id": "341203",
+  "author": "Yoyodaman234",
+  "path": "round3_data/environment/train/341203.wav",
+  "sha256": "cd4e7642c88611551e4ce2c533de9e1dfe272df8e5737825c4416d51a2ca7887"
+ },
+ {
+  "category": "train",
+  "id": "162802",
+  "author": "timgormly",
+  "path": "round3_data/environment/train/162802.wav",
+  "sha256": "9cb05d13f2dcd416058f06107cc025b1cf42d59398217fb6cf0706622b363807"
+ },
+ {
+  "category": "train",
+  "id": "24968",
+  "author": "mich3d",
+  "path": "round3_data/environment/train/24968.wav",
+  "sha256": "ca20b9a48667d7725ba2c69c6eac78a558dfaade9a844b7118c51d5967aa2dcf"
+ },
+ {
+  "category": "train",
+  "id": "423906",
+  "author": "doug914",
+  "path": "round3_data/environment/train/423906.wav",
+  "sha256": "5ceea46623dee717bcc92e55809b364d5e1166e2ac4e3e176c69262b883cc5ca"
+ },
+ {
+  "category": "train",
+  "id": "150978",
+  "author": "soundingoffagain",
+  "path": "round3_data/environment/train/150978.wav",
+  "sha256": "5b12831cc68eb4ed8dad72b3d492168c55b3d1a6fada7f0e01721babeac0f55d"
+ },
+ {
+  "category": "train",
+  "id": "26211",
+  "author": "Walter_Odington",
+  "path": "round3_data/environment/train/26211.wav",
+  "sha256": "5c1caab67f1459a75d8ff7e47798041994a1312481f1264186074af9a4a82c3a"
+ },
+ {
+  "category": "train",
+  "id": "379093",
+  "author": "13FPanska_Krug_Antonin",
+  "path": "round3_data/environment/train/379093.wav",
+  "sha256": "2782e4dc33b79e56263fcf24ac3eb85af81c9758b63db42cdfcc018a8bf090ae"
+ },
+ {
+  "category": "train",
+  "id": "346957",
+  "author": "gundamu",
+  "path": "round3_data/environment/train/346957.wav",
+  "sha256": "6f18ad871e1a8fbe83346fe894842d7bedacb7ce3945ad4774ad03de74a1d9d9"
+ },
+ {
+  "category": "wind",
+  "id": "100643",
+  "author": "edbles",
+  "path": "round3_data/environment/wind/100643.wav",
+  "sha256": "6e474958c9ae858d8696fb823b1b7162ed1820e4b5851d29821c2e90d4cbb07c"
+ },
+ {
+  "category": "wind",
+  "id": "381853",
+  "author": "sqeeeek",
+  "path": "round3_data/environment/wind/381853.wav",
+  "sha256": "2d41268d46bb9fad53953790baedbcbd155b90e9a018b26334772a95e204741d"
+ },
+ {
+  "category": "wind",
+  "id": "361222",
+  "author": "xXx_JPMC_xXx",
+  "path": "round3_data/environment/wind/361222.wav",
+  "sha256": "8ecfb4bbcdb3554bd50948606edd0dff89a24eed501e83d590bcdcb71361b7c8"
+ },
+ {
+  "category": "wind",
+  "id": "210033",
+  "author": "SamKolber",
+  "path": "round3_data/environment/wind/210033.wav",
+  "sha256": "628740d2d518414c5350672032c0840e75739a39138a5be9386e35de9412a2c1"
+ },
+ {
+  "category": "wind",
+  "id": "140054",
+  "author": "Autistic Lucario",
+  "path": "round3_data/environment/wind/140054.wav",
+  "sha256": "fd8fde2d4f5072b73f682d8e446914f950fd037ddd5764e1c59bf30dbf75381b"
+ },
+ {
+  "category": "wind",
+  "id": "104078",
+  "author": "RutgerMuller",
+  "path": "round3_data/environment/wind/104078.wav",
+  "sha256": "335da3cf818415e4f58b73d685794ed8944a318c1bb94d50850bb816677b13c3"
+ },
+ {
+  "category": "wind",
+  "id": "379468",
+  "author": "vandale",
+  "path": "round3_data/environment/wind/379468.wav",
+  "sha256": "40c44069d114312c21e82111bed5255c786d859b5253f715e591359fc4fc198f"
+ },
+ {
+  "category": "wind",
+  "id": "187816",
+  "author": "sonsdebarcelona",
+  "path": "round3_data/environment/wind/187816.wav",
+  "sha256": "f75caf04ef45057a41d3e72757fa3e707b41d8970edb0063f9a34a3268c95c2a"
+ },
+ {
+  "category": "wind",
+  "id": "350578",
+  "author": "Equality_X12",
+  "path": "round3_data/environment/wind/350578.wav",
+  "sha256": "d4c1e1054c516ae57b50cae9a800533e870c4e87740edd2dcdae2d11a82eac7a"
+ },
+ {
+  "category": "wind",
+  "id": "337692",
+  "author": "Aeonemi",
+  "path": "round3_data/environment/wind/337692.wav",
+  "sha256": "9e43eb00dcbcf4787186f1c9a9f7432abeebbaea5cbde77f4d0765902aff69a3"
+ },
+ {
+  "category": "wind",
+  "id": "344887",
+  "author": "thearxx08",
+  "path": "round3_data/environment/wind/344887.wav",
+  "sha256": "caeeb421f0fe39e97b591fb8d113918522b01acbc28a3825cf3d9c5f203c9921"
+ },
+ {
+  "category": "wind",
+  "id": "135780",
+  "author": "echobones",
+  "path": "round3_data/environment/wind/135780.wav",
+  "sha256": "afa2b12b1205e9d73d53f7ef387ff8e0a07778207bca529e71b067c9fd3add11"
+ },
+ {
+  "category": "wind",
+  "id": "336652",
+  "author": "chrillz3r",
+  "path": "round3_data/environment/wind/336652.wav",
+  "sha256": "3c5eda7923424f8a165ae5001b2b55d6c82ea6befdf1acdb30942ef56dd80687"
+ },
+ {
+  "category": "wind",
+  "id": "386537",
+  "author": "GlennM",
+  "path": "round3_data/environment/wind/386537.wav",
+  "sha256": "c6164528b5ae82b9f27314f97e7bb119b0a31cab6b93a484c56116d14ec91d22"
+ },
+ {
+  "category": "guitar",
+  "id": "256506",
+  "author": "smart61",
+  "path": "round3_data/environment/guitar/256506.wav",
+  "sha256": "2bbb46f1ac194b059fc71faf582b82a7491816197aee72104e931ef7b63ded1c"
+ },
+ {
+  "category": "guitar",
+  "id": "362352",
+  "author": "Zoro_ezo",
+  "path": "round3_data/environment/guitar/362352.wav",
+  "sha256": "98a4e2cbef341e27d9999f8210241af866df89749d2faf2866720aed2b4bcfe5"
+ },
+ {
+  "category": "guitar",
+  "id": "171501",
+  "author": "wkinton",
+  "path": "round3_data/environment/guitar/171501.wav",
+  "sha256": "5f0bd62bbaab87f5bc32611d68d6d751c8e9575baf2067bf777b098369901a0f"
+ },
+ {
+  "category": "guitar",
+  "id": "52347",
+  "author": "shaktiman",
+  "path": "round3_data/environment/guitar/52347.wav",
+  "sha256": "85b82da5699e90ade2c10dd206a6dc4d17a6cdf4f15f7613040898441b1010d1"
+ },
+ {
+  "category": "guitar",
+  "id": "71134",
+  "author": "HolyGhostParty",
+  "path": "round3_data/environment/guitar/71134.wav",
+  "sha256": "64cfa0977da5341194854dce9cd944bc3f998b89c70de103841c904162b6712e"
+ },
+ {
+  "category": "guitar",
+  "id": "60698",
+  "author": "alextundra",
+  "path": "round3_data/environment/guitar/60698.wav",
+  "sha256": "6eccdf9686499d568ca9311a52c74dae8e747c3b917cdfdf5407ba2c9e1f8406"
+ },
+ {
+  "category": "guitar",
+  "id": "188037",
+  "author": "AntumDeluge",
+  "path": "round3_data/environment/guitar/188037.wav",
+  "sha256": "eff7e263ec27d6fe6b775fc9ced7b18e713e2a09bd31bcc8cbc830a134783903"
+ },
+ {
+  "category": "guitar",
+  "id": "386755",
+  "author": "ken788",
+  "path": "round3_data/environment/guitar/386755.wav",
+  "sha256": "5f863cb6c4d59176807bfd4ce8f6603fb50fc46dfa8bb9635d62e00ad715d07b"
+ },
+ {
+  "category": "guitar",
+  "id": "371088",
+  "author": "actsofpaint",
+  "path": "round3_data/environment/guitar/371088.wav",
+  "sha256": "b781e0286f97b35faaed01965095bbce0ba1a193d5150c51b90c4a9fc61333bb"
+ },
+ {
+  "category": "guitar",
+  "id": "183783",
+  "author": "quartertone",
+  "path": "round3_data/environment/guitar/183783.wav",
+  "sha256": "b2d1b64e919183cc4a5088722be5a382eb8af79964be821d6a7fca7b7d5dbbee"
+ },
+ {
+  "category": "guitar",
+  "id": "251102",
+  "author": "Project16",
+  "path": "round3_data/environment/guitar/251102.wav",
+  "sha256": "69efd474e3557eb5d7ec66502f654bbacc60142ecebdecc53a9863abed96bab7"
+ },
+ {
+  "category": "guitar",
+  "id": "331035",
+  "author": "jensen1",
+  "path": "round3_data/environment/guitar/331035.wav",
+  "sha256": "9fec0268d020d3c503dd355119d7b61a886e1b35464d2fc060970a7c4e90b625"
+ },
+ {
+  "category": "guitar",
+  "id": "330749",
+  "author": "Satrianizado",
+  "path": "round3_data/environment/guitar/330749.wav",
+  "sha256": "44bbba864c9deedd750e8effeb4bb51e034682696a8dcc2b64f7241e68b71d9f"
+ },
+ {
+  "category": "guitar",
+  "id": "86100",
+  "author": "jobro",
+  "path": "round3_data/environment/guitar/86100.wav",
+  "sha256": "a57253603b886446fcfbbf2eb6dc8ea9e1ab1ea03e880943db155ce81b5ca25a"
+ },
+ {
+  "category": "guitar",
+  "id": "256423",
+  "author": "desperationmixtape",
+  "path": "round3_data/environment/guitar/256423.wav",
+  "sha256": "1d3d23154e4d79beda6c31255c2f97149293122aecdc0ca88d705bcfdef111cf"
+ },
+ {
+  "category": "guitar",
+  "id": "54684",
+  "author": "Sean_K",
+  "path": "round3_data/environment/guitar/54684.wav",
+  "sha256": "666e851c3ae6172e921baf82ca2a46340ba1f5c6430a9609b905d863bccb642f"
+ },
+ {
+  "category": "piano",
+  "id": "389671",
+  "author": "TylerAM",
+  "path": "round3_data/environment/piano/389671.wav",
+  "sha256": "fdad0e303eac8a658d6408976ab13aca426a5a4af207e02a96c36e58a5d4d4cf"
+ },
+ {
+  "category": "piano",
+  "id": "104023",
+  "author": "RutgerMuller",
+  "path": "round3_data/environment/piano/104023.wav",
+  "sha256": "45a43236a34ed67f88ea20fc9a293fe27b75e9ef13088cdaadd14294d802de2f"
+ },
+ {
+  "category": "piano",
+  "id": "28617",
+  "author": "thanvannispen",
+  "path": "round3_data/environment/piano/28617.wav",
+  "sha256": "4afbbc869b53550a6f60c04bc4ecb212bdb3568d7ab79cacaeb6b5b5f3ea4f54"
+ },
+ {
+  "category": "piano",
+  "id": "392398",
+  "author": "TheMineWay",
+  "path": "round3_data/environment/piano/392398.wav",
+  "sha256": "1fa112b6e8b52ad2fbbb21a31d9a89d1988f26966ac7aa61baf32788ca2b217b"
+ },
+ {
+  "category": "piano",
+  "id": "214416",
+  "author": "keinzweiter",
+  "path": "round3_data/environment/piano/214416.wav",
+  "sha256": "006db8d9b750b472d00b9fa78e73578ff2d18dc6ddaf0ca8611738bc9c6c3cff"
+ },
+ {
+  "category": "piano",
+  "id": "25487",
+  "author": "Raggaman",
+  "path": "round3_data/environment/piano/25487.wav",
+  "sha256": "62ed155dbf544efeaffe1743293d272d6e110b1155ee45387df59908d0e54cd7"
+ },
+ {
+  "category": "piano",
+  "id": "433855",
+  "author": "Kardithron",
+  "path": "round3_data/environment/piano/433855.wav",
+  "sha256": "08722dc9d5658b581fc44c139e1fea0da41a1e0130e1bd0be786847940b9ec9b"
+ },
+ {
+  "category": "piano",
+  "id": "85321",
+  "author": "RandyMcMillan",
+  "path": "round3_data/environment/piano/85321.wav",
+  "sha256": "169f77a258227071009704b9f958dba46898c9d8170725a88d8b482d6392238f"
+ },
+ {
+  "category": "piano",
+  "id": "319588",
+  "author": "visual",
+  "path": "round3_data/environment/piano/319588.wav",
+  "sha256": "56bb9fb39f31fd8a89b390897e9418b1beede0e3879ff094e14737fdd6eb7cc4"
+ },
+ {
+  "category": "piano",
+  "id": "99143",
+  "author": "b.one",
+  "path": "round3_data/environment/piano/99143.wav",
+  "sha256": "7718afb227a54a0399b8808c685daadc42e5a128b66731c0db01d5c65a05e5ad"
+ },
+ {
+  "category": "piano",
+  "id": "351328",
+  "author": "Zodoz",
+  "path": "round3_data/environment/piano/351328.wav",
+  "sha256": "c5bd75218ac1279d866cbd065527be698d5b200851048419f029f29171c28211"
+ },
+ {
+  "category": "piano",
+  "id": "234849",
+  "author": "quijack",
+  "path": "round3_data/environment/piano/234849.wav",
+  "sha256": "539a96b80feee4087840eb22216382c8183fc7bbf57d670e1f72ca5f22a1a3a0"
+ },
+ {
+  "category": "piano",
+  "id": "96489",
+  "author": "usedtobe",
+  "path": "round3_data/environment/piano/96489.wav",
+  "sha256": "3bac089f984a0aca8d25e3fc4999f5195227c187feb65f39d78e5ce1e0743f0d"
+ },
+ {
+  "category": "speech",
+  "id": "339159",
+  "author": "girlhurl",
+  "path": "round3_data/environment/speech/339159.wav",
+  "sha256": "beca2f248b7c89a43b82cea6592e1c74779919a295e9bff08325107bf55c7bc9"
+ },
+ {
+  "category": "speech",
+  "id": "41296",
+  "author": "mkoenig",
+  "path": "round3_data/environment/speech/41296.wav",
+  "sha256": "f823ea7c7deaa2869eeeea69e5e3c5262adc73afc19e83e71892369d9ab6630f"
+ },
+ {
+  "category": "speech",
+  "id": "50152",
+  "author": "freesound",
+  "path": "round3_data/environment/speech/50152.wav",
+  "sha256": "e1941d071408d4c997ec0f0c01e671b4442c7c152e0db3fef24f8e931e3f1ee7"
+ },
+ {
+  "category": "speech",
+  "id": "401794",
+  "author": "Sean-TE0",
+  "path": "round3_data/environment/speech/401794.wav",
+  "sha256": "4ddd1eba6622e23333036d06a3e6f98eb499fdda0c1ecae60cdd12a8c782aa10"
+ },
+ {
+  "category": "speech",
+  "id": "330564",
+  "author": "AndreOnate",
+  "path": "round3_data/environment/speech/330564.wav",
+  "sha256": "b8276e84a9191fb67c6ef1d8e24fb28421d77e2fa9423c3d33a76b28bb501e85"
+ },
+ {
+  "category": "speech",
+  "id": "263534",
+  "author": "jazbavac",
+  "path": "round3_data/environment/speech/263534.wav",
+  "sha256": "512477aa35ed5ae5e8295fc41852d478b6eaa5136e4874c235d6065b274903fd"
+ },
+ {
+  "category": "speech",
+  "id": "331467",
+  "author": "maurolupo",
+  "path": "round3_data/environment/speech/331467.wav",
+  "sha256": "e07636b888113d2fcd18f867410923fa304278daa8e99fdccda6f3d1f914691b"
+ },
+ {
+  "category": "train",
+  "id": "131173",
+  "author": "bretbernhoft",
+  "path": "round3_data/environment/train/131173.wav",
+  "sha256": "903df98f5ad14e302df48fc15728bec1d70403a25663da929868f83877fa72f1"
+ },
+ {
+  "category": "train",
+  "id": "54404",
+  "author": "KorgMS2000B",
+  "path": "round3_data/environment/train/54404.wav",
+  "sha256": "69a3b0485b5b2d5542c97f47c942d3f45b9241e68d2df792a87d0798e34c98f4"
+ },
+ {
+  "category": "train",
+  "id": "331885",
+  "author": "be_a_hero_not_a_patriot",
+  "path": "round3_data/environment/train/331885.wav",
+  "sha256": "4a8354532746341974af0087346d9157bb36d8c1d7d43726b98bb4d430c5dcc5"
+ },
+ {
+  "category": "train",
+  "id": "154856",
+  "author": "pawsound",
+  "path": "round3_data/environment/train/154856.wav",
+  "sha256": "bff6892e7fac50f63334905d19b9a8daae19c5e3c051c0abeb4fb0d40ccf578f"
+ },
+ {
+  "category": "train",
+  "id": "398461",
+  "author": "KAMARIN",
+  "path": "round3_data/environment/train/398461.wav",
+  "sha256": "3829196db007439856197cef7a06d4459bede6196e0793881aa5de8f73abc846"
+ },
+ {
+  "category": "train",
+  "id": "420655",
+  "author": "LamaMakesMusic",
+  "path": "round3_data/environment/train/420655.wav",
+  "sha256": "95d7f47841dc79b13553e8930a8597f7e18eb12be9315cbcf95b04e01544ce15"
+ },
+ {
+  "category": "train",
+  "id": "400075",
+  "author": "harrietniamh",
+  "path": "round3_data/environment/train/400075.wav",
+  "sha256": "719a8446b6ef66a4c0d089e55d02601f790eeb4871fb3f4bd49c8766d8b99c4c"
+ },
+ {
+  "category": "train",
+  "id": "132894",
+  "author": "northern87",
+  "path": "round3_data/environment/train/132894.wav",
+  "sha256": "271aa65b99fda6ace6f0ab03d501f3dd8c2ff094fce402062ce4ae01af32a017"
+ },
+ {
+  "category": "train",
+  "id": "71121",
+  "author": "AP.",
+  "path": "round3_data/environment/train/71121.wav",
+  "sha256": "478aefd756896143f2099f8497afedf7a6f976648d9c7d5879e9afd339067a04"
+ },
+ {
+  "category": "train",
+  "id": "364863",
+  "author": "RutgerMuller",
+  "path": "round3_data/environment/train/364863.wav",
+  "sha256": "1f9258cfec398f8c74bfe34a1a13e58e66e29875398a150549c35a2d6ad8f7bb"
+ },
+ {
+  "category": "train",
+  "id": "174023",
+  "author": "HolophonicAudioLab",
+  "path": "round3_data/environment/train/174023.wav",
+  "sha256": "d9ccc61ba7f933751d21b00602d0a1a2e139e0746a99114d4e8f967ade2b0c59"
+ },
+ {
+  "category": "train",
+  "id": "146921",
+  "author": "StaryTlustyKocour",
+  "path": "round3_data/environment/train/146921.wav",
+  "sha256": "930aa8314cffffe6e7956854e3cff2aa8bcd61b18091a02cbac334c9dea181c8"
+ },
+ {
+  "category": "train",
+  "id": "176871",
+  "author": "mickmon",
+  "path": "round3_data/environment/train/176871.wav",
+  "sha256": "e962e24834e981a414a0d70dec5e17b55d360a2a21e5973fbd604042a2ff09ea"
+ },
+ {
+  "category": "train",
+  "id": "329986",
+  "author": "alexbird",
+  "path": "round3_data/environment/train/329986.wav",
+  "sha256": "2a117d435e0ede24e2fa0db49ecc124b945633b781845bd588ec01f20f49d021"
+ },
+ {
+  "category": "train",
+  "id": "372002",
+  "author": "hkmtrhah",
+  "path": "round3_data/environment/train/372002.wav",
+  "sha256": "6dbc897b535af9e9703d88c2607948cbadadbd57be07ec7d7c5e5238f3a0fb53"
+ },
+ {
+  "category": "train",
+  "id": "390302",
+  "author": "pflanigan",
+  "path": "round3_data/environment/train/390302.wav",
+  "sha256": "366711974c892e706fff2c44ab44abfad46919b738a2aca3112d8121335a4a50"
+ },
+ {
+  "category": "train",
+  "id": "110734",
+  "author": "doubletrigger",
+  "path": "round3_data/environment/train/110734.wav",
+  "sha256": "37803890d5bd61a690f4c40aabc5d199a55421b8047f6ab6cb678004b5eb382e"
+ },
+ {
+  "category": "train",
+  "id": "135585",
+  "author": "univ_lyon3",
+  "path": "round3_data/environment/train/135585.wav",
+  "sha256": "65a51af08ca9d99080800c1f588ebd3b78ee9cc1fb05229b16db5ce896cac6d4"
+ },
+ {
+  "category": "wind",
+  "id": "380810",
+  "author": "Giannisk3",
+  "path": "round3_data/environment/wind/380810.wav",
+  "sha256": "7c465bd5e82df07b4d08cf972d1393ec859bc54ce83ec6953a0b865796edc706"
+ },
+ {
+  "category": "wind",
+  "id": "133846",
+  "author": "aroth4",
+  "path": "round3_data/environment/wind/133846.wav",
+  "sha256": "3ece463fdaa33e0693805e8fe30580567c1363ff26172caaaffad6e5f689d23c"
+ },
+ {
+  "category": "wind",
+  "id": "190664",
+  "author": "davidferoli",
+  "path": "round3_data/environment/wind/190664.wav",
+  "sha256": "2c03211ca0431c2e593c765e2330a90042bf75de17d04f52a24de6787148221c"
+ },
+ {
+  "category": "wind",
+  "id": "238803",
+  "author": "OneSoundToRuleThemAll",
+  "path": "round3_data/environment/wind/238803.wav",
+  "sha256": "ee6cffe8775e9eda28f1cc164a67505e235793ebb08b4dfbd44651aa55dd3700"
+ },
+ {
+  "category": "wind",
+  "id": "250725",
+  "author": "univ_lyon3",
+  "path": "round3_data/environment/wind/250725.wav",
+  "sha256": "fc5f8064da1f3eca9a2fb7631e18a2aef4479576614971cf026563b0b1cbf4ea"
+ },
+ {
+  "category": "wind",
+  "id": "175428",
+  "author": "ajkerekes",
+  "path": "round3_data/environment/wind/175428.wav",
+  "sha256": "5e6f58f55d8e6a3889b3d9303ebd7b7f107c41d0fde53b40a714fc471ee027f9"
+ },
+ {
+  "category": "wind",
+  "id": "336732",
+  "author": "newagesoup",
+  "path": "round3_data/environment/wind/336732.wav",
+  "sha256": "036a0c36f3241c1241c00d1df539f61a941a0e173b9af68708b0920c268fa7e4"
+ },
+ {
+  "category": "wind",
+  "id": "396576",
+  "author": "Mattix",
+  "path": "round3_data/environment/wind/396576.wav",
+  "sha256": "7669fa9d11e99abc24b3c9b9a2eeb5f45c96d3eda188ad401cc2e5354df437ed"
+ },
+ {
+  "category": "wind",
+  "id": "362253",
+  "author": "DSOADigital",
+  "path": "round3_data/environment/wind/362253.wav",
+  "sha256": "d30f4639196a722bd4d8d065a3e050390bbd92bc80f53723449c52a26ba75c1a"
+ },
+ {
+  "category": "wind",
+  "id": "129427",
+  "author": "le_abbaye_Noirlac",
+  "path": "round3_data/environment/wind/129427.wav",
+  "sha256": "e40077f9ad74a892d8532264da00ebfd9f63a97b056900ca4cf9e471f5ee4cdf"
+ },
+ {
+  "category": "wind",
+  "id": "188572",
+  "author": "Joeladam",
+  "path": "round3_data/environment/wind/188572.wav",
+  "sha256": "35ebbeb06108e17e689f8c37551c028f3e4e5e4f62437133d9b8260bfa30b9ae"
+ },
+ {
+  "category": "wind",
+  "id": "415286",
+  "author": "TheScarlettWitch89",
+  "path": "round3_data/environment/wind/415286.wav",
+  "sha256": "183c84406bca775791f4b94797de0ac06feffc07e8ce2f5017d13ccf9e57e464"
+ },
+ {
+  "category": "wind",
+  "id": "431390",
+  "author": "epicdude959",
+  "path": "round3_data/environment/wind/431390.wav",
+  "sha256": "e8abd112791b257ceb538aef4e4fcc8a9275edccd6cabe29d756130150fdb6e8"
+ },
+ {
+  "category": "wind",
+  "id": "340218",
+  "author": "kingof_thelab",
+  "path": "round3_data/environment/wind/340218.wav",
+  "sha256": "7fa723d344dfa2d46549021a6107ec3ced5b0fb0f65476fd82145e9b6433499e"
+ },
+ {
+  "category": "wind",
+  "id": "386667",
+  "author": "laurenmg95",
+  "path": "round3_data/environment/wind/386667.wav",
+  "sha256": "b4588dcd3a04daf451394fed6d61cfad2c78a4d9c2decfd3ecc182cde85dde9f"
+ },
+ {
+  "category": "wind",
+  "id": "169540",
+  "author": "jorickhoofd",
+  "path": "round3_data/environment/wind/169540.wav",
+  "sha256": "3bb6e893447745de42100975e5e294c559914471af38e0f8aa34dc7d697ef3d1"
+ },
+ {
+  "category": "wind",
+  "id": "368453",
+  "author": "SierraHWills",
+  "path": "round3_data/environment/wind/368453.wav",
+  "sha256": "3f3b42a77b3f8513128fd3b5a6475040a0b7f16053cfa3fd759b3a4b4e75ce24"
+ },
+ {
+  "category": "guitar",
+  "id": "324205",
+  "author": "brterry",
+  "path": "round3_data/environment/guitar/324205.wav",
+  "sha256": "8c0f9a2a098084a738d63459c0f31c523d65073cf7366ac72c24eef184dc2fa2"
+ },
+ {
+  "category": "guitar",
+  "id": "351177",
+  "author": "wmquincy101",
+  "path": "round3_data/environment/guitar/351177.wav",
+  "sha256": "7923b2b8ebcdb445b20dc851c09c2eb0b2c6dc167eae86386109b64b25192138"
+ },
+ {
+  "category": "guitar",
+  "id": "13710",
+  "author": "harri",
+  "path": "round3_data/environment/guitar/13710.wav",
+  "sha256": "79564120e34fcfae557326807c408eb00cb9e6c535bf15aeec747007e7d7f81c"
+ },
+ {
+  "category": "guitar",
+  "id": "333247",
+  "author": "alexnekita",
+  "path": "round3_data/environment/guitar/333247.wav",
+  "sha256": "fa14b4f8c466d170dadbcb51477013fa971be111b914c2d71aa08f0254e47f81"
+ },
+ {
+  "category": "guitar",
+  "id": "415380",
+  "author": "Smukey9",
+  "path": "round3_data/environment/guitar/415380.wav",
+  "sha256": "6f5de41771fe20d01fde8ffdb6c0ff1406ce28793c97adefda899ae95a45a0a9"
+ },
+ {
+  "category": "guitar",
+  "id": "255817",
+  "author": "dspadaro",
+  "path": "round3_data/environment/guitar/255817.wav",
+  "sha256": "9d35224f48cdc7e93aee0e99d6188695c859394c5fd802b1a9d77acb06ce0b63"
+ },
+ {
+  "category": "guitar",
+  "id": "8589",
+  "author": "SpeedY",
+  "path": "round3_data/environment/guitar/8589.wav",
+  "sha256": "aa7a3a2797437232e0312613b6a078043d63521941e4853a24091f42a7c7ad19"
+ },
+ {
+  "category": "guitar",
+  "id": "66008",
+  "author": "himyunkle",
+  "path": "round3_data/environment/guitar/66008.wav",
+  "sha256": "4061eea6ba0375f042ab1f3c4725efe9b15777fca747fc6dc3f1248b4eed2a8f"
+ },
+ {
+  "category": "guitar",
+  "id": "41516",
+  "author": "jivo1975",
+  "path": "round3_data/environment/guitar/41516.wav",
+  "sha256": "c0b020c436572de8562330dfa65a847bc1db125924e89679eafd5cc065f258fd"
+ },
+ {
+  "category": "guitar",
+  "id": "75242",
+  "author": "Roger",
+  "path": "round3_data/environment/guitar/75242.wav",
+  "sha256": "b59f03fcf2d402b62dc8933a7bf56ff7a9e81c7fc5ccf4c223ec1a867e580818"
+ },
+ {
+  "category": "guitar",
+  "id": "161316",
+  "author": "husky70",
+  "path": "round3_data/environment/guitar/161316.wav",
+  "sha256": "515f09a674ba866cd7994a8defecbd444e6312650728d005cbbfcc73b89a7395"
+ },
+ {
+  "category": "guitar",
+  "id": "58969",
+  "author": "lucasgonze",
+  "path": "round3_data/environment/guitar/58969.wav",
+  "sha256": "89378bbd5c70c21301a6ef82b2ad8bddccbedcbffa6a5b4f8af8dface7306fe9"
+ },
+ {
+  "category": "guitar",
+  "id": "1283",
+  "author": "plagasul",
+  "path": "round3_data/environment/guitar/1283.wav",
+  "sha256": "3d3641183cfe2bed8abdc03646efa1095be8399542ce3cf8b8fd928a9034213b"
+ },
+ {
+  "category": "guitar",
+  "id": "63890",
+  "author": "DjCHAOS",
+  "path": "round3_data/environment/guitar/63890.wav",
+  "sha256": "3b6f2046c868326ec2d3ba85c545ee290f6d4269ed392fecf8ca4d7e8a5e74a0"
+ },
+ {
+  "category": "guitar",
+  "id": "50743",
+  "author": "RutgerMuller",
+  "path": "round3_data/environment/guitar/50743.wav",
+  "sha256": "33bb52f36ddbfa369be6ddbb69a5a6011f38996f76267db3eded4144404ceb96"
+ },
+ {
+  "category": "guitar",
+  "id": "211963",
+  "author": "maurolupo",
+  "path": "round3_data/environment/guitar/211963.wav",
+  "sha256": "463aa3ff946fafb6cd15da664a53f7140a050a6afd508bdf673f7ee0a15b308d"
+ },
+ {
+  "category": "piano",
+  "id": "428294",
+  "author": "Djeuphoria",
+  "path": "round3_data/environment/piano/428294.wav",
+  "sha256": "999cd1b9d48ea0bcd8b3b9a81868d588ed9259bb1c230ff9953f4a555b221674"
+ },
+ {
+  "category": "piano",
+  "id": "176929",
+  "author": "Spol",
+  "path": "round3_data/environment/piano/176929.wav",
+  "sha256": "4b2c833640c6ccaf318f92bb8b89e49b4f4865250f5c4f274c2f9a1d7947a4dd"
+ },
+ {
+  "category": "piano",
+  "id": "414203",
+  "author": "Victorhaaning",
+  "path": "round3_data/environment/piano/414203.wav",
+  "sha256": "48f30ad3ab38ca76179ee91135da2c81bc3dd12dfe75fe0daf4566da34c7f958"
+ },
+ {
+  "category": "piano",
+  "id": "253250",
+  "author": "poissonmort",
+  "path": "round3_data/environment/piano/253250.wav",
+  "sha256": "075eed98d8cf187696b5ee482fc29af6e8c092276b6d910a653da4b50508d105"
+ },
+ {
+  "category": "piano",
+  "id": "365839",
+  "author": "univ_lyon3",
+  "path": "round3_data/environment/piano/365839.wav",
+  "sha256": "adf4f67dd0beca177f34fa310654bffce7c35e899b56d4e1c88d679dadb12651"
+ },
+ {
+  "category": "piano",
+  "id": "316634",
+  "author": "benjaminharveydesign",
+  "path": "round3_data/environment/piano/316634.wav",
+  "sha256": "51713d539964d87384b5f7a0c1f85f9d22346afc434776d041738709cf6216ff"
+ },
+ {
+  "category": "piano",
+  "id": "44914",
+  "author": "Dolfeus",
+  "path": "round3_data/environment/piano/44914.wav",
+  "sha256": "4e81d5f77ed1bef91419b39b76aeb0c32edde1f1c467392044708de9d15d739d"
+ },
+ {
+  "category": "piano",
+  "id": "399085",
+  "author": "newagesoup",
+  "path": "round3_data/environment/piano/399085.wav",
+  "sha256": "7082e171b820f3943496bbbd6069df5f4e04e44b46a4ab7a9fc047bde74642c0"
+ },
+ {
+  "category": "piano",
+  "id": "37750",
+  "author": "Quilt",
+  "path": "round3_data/environment/piano/37750.wav",
+  "sha256": "5d517fdd4eb17e96821889109a16fc994bfba2e22632ef78b235606ef9dc7885"
+ },
+ {
+  "category": "piano",
+  "id": "95332",
+  "author": "ramas26",
+  "path": "round3_data/environment/piano/95332.wav",
+  "sha256": "7c5ca01c5778f86cef53653e08bddba22e44c1a7df4f5386d1260b4e6979f446"
+ },
+ {
+  "category": "piano",
+  "id": "19648",
+  "author": "Freed",
+  "path": "round3_data/environment/piano/19648.wav",
+  "sha256": "df27187f48c6a8824ea00877a2b275606884fa6c12ea097e03d14a63abb93583"
+ },
+ {
+  "category": "piano",
+  "id": "127909",
+  "author": "-Hero_of_the_Winds-",
+  "path": "round3_data/environment/piano/127909.wav",
+  "sha256": "4cfc9404a5966eae33270c333d7ee88d4a4bbc5eacca460f8d48d57b85d88568"
+ },
+ {
+  "category": "piano",
+  "id": "126512",
+  "author": "Cabeeno Rossley",
+  "path": "round3_data/environment/piano/126512.wav",
+  "sha256": "7a957c637b82965d99e38a1aad3a6cf8fa9d6dd4675970794f7d61d3791c2de2"
+ },
+ {
+  "category": "piano",
+  "id": "25770",
+  "author": "jim68000",
+  "path": "round3_data/environment/piano/25770.wav",
+  "sha256": "3e60deb7ee1e7ed420d96f1d9bfebbb467d99992ac9ef0a88f2c652f51df68bf"
+ },
+ {
+  "category": "piano",
+  "id": "410304",
+  "author": "Greek555",
+  "path": "round3_data/environment/piano/410304.wav",
+  "sha256": "3dc82a6b8813bc53d00364344fb9d59bfca9f7638bdd490eda23c667def30105"
+ },
+ {
+  "category": "piano",
+  "id": "364707",
+  "author": "alegemaate",
+  "path": "round3_data/environment/piano/364707.wav",
+  "sha256": "ea6ab0815b6c23a77d52bf12e24a9ecace4913043512bcb7df17d2351a7e71f2"
+ },
+ {
+  "category": "piano",
+  "id": "383133",
+  "author": "bigmanjoe",
+  "path": "round3_data/environment/piano/383133.wav",
+  "sha256": "6debba7768eea44148f78bca40df58ae413c32ed0c29edb678c15ce8c378bc54"
+ },
+ {
+  "category": "piano",
+  "id": "136458",
+  "author": "milton.",
+  "path": "round3_data/environment/piano/136458.wav",
+  "sha256": "7fb0ee39b07c0ca6ac88ac1d8d1880eb180d9d0ca955e6aca85b83db9fedf3f2"
+ },
+ {
+  "category": "speech",
+  "id": "30152",
+  "author": "UncleSigmund",
+  "path": "round3_data/environment/speech/30152.wav",
+  "sha256": "ce5761d4e9e3583070d471efd16d131e341b9475fa13fa00581956e80fb3b71b"
+ },
+ {
+  "category": "speech",
+  "id": "329016",
+  "author": "Codeine",
+  "path": "round3_data/environment/speech/329016.wav",
+  "sha256": "211619ce9805da653e71c7db0b5014de08a379b81b094c2d6e1546d8ec10a9ed"
+ },
+ {
+  "category": "speech",
+  "id": "184490",
+  "author": "AudioRichter",
+  "path": "round3_data/environment/speech/184490.wav",
+  "sha256": "bff357b28ae432396f7eb38a542f0d1f6582960fa62405c8c9af2ae4dac06169"
+ },
+ {
+  "category": "speech",
+  "id": "172080",
+  "author": "blue2107",
+  "path": "round3_data/environment/speech/172080.wav",
+  "sha256": "de88ffdef7c4629c687e4b4534e4f85f924df1c2cb77cdb3754edebd8dcd4583"
+ },
+ {
+  "category": "speech",
+  "id": "349657",
+  "author": "insanity54",
+  "path": "round3_data/environment/speech/349657.wav",
+  "sha256": "2de819cc78e45359b19436754e46d2aefe7099fe2cb71956774692cbf839704a"
+ },
+ {
+  "category": "speech",
+  "id": "196382",
+  "author": "Jaturo",
+  "path": "round3_data/environment/speech/196382.wav",
+  "sha256": "d4e4ba58e0f982260b0ba25f1f6e9b88d779e87924416aa27d5f9f8305ef8754"
+ },
+ {
+  "category": "speech",
+  "id": "386733",
+  "author": "ken788",
+  "path": "round3_data/environment/speech/386733.wav",
+  "sha256": "b8a16c9e0f4c7cea66ac812c2c46f0c68cb52cce08b44b53d25111b03c3bb340"
+ },
+ {
+  "category": "speech",
+  "id": "263042",
+  "author": "13anicholson",
+  "path": "round3_data/environment/speech/263042.wav",
+  "sha256": "90b39a5b31b87d42479d464943d9366e05acd83a3939dc0ec99cb26fb0b8c598"
+ },
+ {
+  "category": "speech",
+  "id": "128648",
+  "author": "cityrocker",
+  "path": "round3_data/environment/speech/128648.wav",
+  "sha256": "3a1aa466ed6769f00218a195a770f9e6cdf6652d97c2f2881f5f6b146db98322"
+ },
+ {
+  "category": "speech",
+  "id": "164805",
+  "author": "exterminat",
+  "path": "round3_data/environment/speech/164805.wav",
+  "sha256": "14690ca35e4d399f4780c61ede3bedfb3e1e9a9b987a2a36adf2617b3e58193a"
+ },
+ {
+  "category": "speech",
+  "id": "49932",
+  "author": "Zajo",
+  "path": "round3_data/environment/speech/49932.wav",
+  "sha256": "a4d2f886d63a91ec910e64376e34ee67b0f4d5891faedfaf1e2389502a1bf8c4"
+ },
+ {
+  "category": "train",
+  "id": "92887",
+  "author": "alpert",
+  "path": "round3_data/environment/train/92887.wav",
+  "sha256": "e0e2c2c31d80a48ba4a522203b190fbc91f36e34c166b695808a8121598eea66"
+ },
+ {
+  "category": "train",
+  "id": "203175",
+  "author": "BenNevis",
+  "path": "round3_data/environment/train/203175.wav",
+  "sha256": "8a6da02f0b4d445c3acdf2e16b70c1925347b7ac761cc8641e8e7f8a903c474b"
+ },
+ {
+  "category": "train",
+  "id": "332184",
+  "author": "Travesia_Sonora",
+  "path": "round3_data/environment/train/332184.wav",
+  "sha256": "f881e46a6ac2e2ce33f9e03522533631ad697ae519ad8be08e57faa61d31f1ad"
+ },
+ {
+  "category": "train",
+  "id": "352418",
+  "author": "joseph.larralde",
+  "path": "round3_data/environment/train/352418.wav",
+  "sha256": "0410cec406436b804bb77cd93c1cb5a55c9a12d4564b58a37bb578e872df0aa6"
+ },
+ {
+  "category": "train",
+  "id": "71778",
+  "author": "Bidone",
+  "path": "round3_data/environment/train/71778.wav",
+  "sha256": "505acea36ac2d64c287447d371865d8e370a21006e553840e61d13099dbda2a2"
+ },
+ {
+  "category": "train",
+  "id": "351483",
+  "author": "oloyolol",
+  "path": "round3_data/environment/train/351483.wav",
+  "sha256": "4cfca00504baec60b785def064fbb280f11af36126fac44f8fea2947f035194f"
+ },
+ {
+  "category": "train",
+  "id": "131368",
+  "author": "osiris151",
+  "path": "round3_data/environment/train/131368.wav",
+  "sha256": "d50c70483858c5a99f4a133623330c1a6ba499e20e66087ed17a3f609e4e10a7"
+ },
+ {
+  "category": "train",
+  "id": "434634",
+  "author": "joewrightmusic",
+  "path": "round3_data/environment/train/434634.wav",
+  "sha256": "5f6a0a05a412cf530076f20500d6601f5082b951f89df679e4d443706a3d386a"
+ },
+ {
+  "category": "train",
+  "id": "236291",
+  "author": "mffm",
+  "path": "round3_data/environment/train/236291.wav",
+  "sha256": "22b45b606c084ae7f793e57887fc2c6b85fdecc341860815d9f38e36526a6382"
+ },
+ {
+  "category": "train",
+  "id": "398683",
+  "author": "Dominik_W",
+  "path": "round3_data/environment/train/398683.wav",
+  "sha256": "684bf77f05210b6a1ce14ae68940d7f7501a1673d8d2ee63450bf7e2d2545176"
+ },
+ {
+  "category": "train",
+  "id": "62476",
+  "author": "bsumusictech",
+  "path": "round3_data/environment/train/62476.wav",
+  "sha256": "c79d6f0a5a95042eb556e67ffa054e1f7a263d54e843ef77e0ce3635fae67b0b"
+ },
+ {
+  "category": "train",
+  "id": "148266",
+  "author": "TheJRB",
+  "path": "round3_data/environment/train/148266.wav",
+  "sha256": "f25c3f1751b7b7a4bc3054588f0f43b844356e9015dbbc4decfc3737901c4246"
+ },
+ {
+  "category": "train",
+  "id": "360727",
+  "author": "postworkflow",
+  "path": "round3_data/environment/train/360727.wav",
+  "sha256": "326ccc91458ef2496bb1eea90f2c6b40427805936b53b0c43348484ee39ceab7"
+ },
+ {
+  "category": "train",
+  "id": "100265",
+  "author": "2hear",
+  "path": "round3_data/environment/train/100265.wav",
+  "sha256": "3d0b79564dd9ce0b7b8d4132d388151942d0a8565747eb7e9279205a4a401569"
+ },
+ {
+  "category": "train",
+  "id": "22591",
+  "author": "LG",
+  "path": "round3_data/environment/train/22591.wav",
+  "sha256": "5c9b643434eb84e163542222807e0163b409d4ef5488a346d711571fa9c06cb4"
+ },
+ {
+  "category": "train",
+  "id": "349136",
+  "author": "Yoyodaman234",
+  "path": "round3_data/environment/train/349136.wav",
+  "sha256": "bef5efbe929cea91bd466c43ec6ab891c03c72654c9aa8ca36901bb7e0d70f05"
+ },
+ {
+  "category": "train",
+  "id": "162817",
+  "author": "timgormly",
+  "path": "round3_data/environment/train/162817.wav",
+  "sha256": "973c6777614b4e21525871d15501f285ed0010db8dd4db3b73952d4f04917174"
+ },
+ {
+  "category": "train",
+  "id": "110735",
+  "author": "doubletrigger",
+  "path": "round3_data/environment/train/110735.wav",
+  "sha256": "def90203e37ccaf1b0c1213ece15f7e8dc23d23bcdd6125f9a0f7c6d4aa5c74e"
+ },
+ {
+  "category": "wind",
+  "id": "363935",
+  "author": "lordpoque25",
+  "path": "round3_data/environment/wind/363935.wav",
+  "sha256": "aa3378d0a499d253dbe7e9034c598f76bb01d9817b28c5f812fc07fb7ee88c1b"
+ },
+ {
+  "category": "wind",
+  "id": "27738",
+  "author": "Konamiuss",
+  "path": "round3_data/environment/wind/27738.wav",
+  "sha256": "1e2d16841692ae8cd9c6cc28b8b617839994de1c0f5de3fe7b2020ff4d3e1415"
+ },
+ {
+  "category": "wind",
+  "id": "379017",
+  "author": "adellpetrova97",
+  "path": "round3_data/environment/wind/379017.wav",
+  "sha256": "cc100124bc0570aa34d3f3a42676b91aed521d443065b41120dce9e26d8ba219"
+ },
+ {
+  "category": "wind",
+  "id": "381192",
+  "author": "bfederi1",
+  "path": "round3_data/environment/wind/381192.wav",
+  "sha256": "218fc078651080f6cd4cd958168d132d19ca3dd01b819ba3bea2a4bf383bc310"
+ },
+ {
+  "category": "wind",
+  "id": "109291",
+  "author": "vinjatovix",
+  "path": "round3_data/environment/wind/109291.wav",
+  "sha256": "0d891ab0e6239cb263a80f4a4965c263fd9b71c780456301fa17c9ad8b2816b8"
+ },
+ {
+  "category": "wind",
+  "id": "166171",
+  "author": "Drillfire414",
+  "path": "round3_data/environment/wind/166171.wav",
+  "sha256": "db939ed78481919ff3aef37906370a967e0ec7bd65fc69d838d29f4aa9b9fff9"
+ },
+ {
+  "category": "wind",
+  "id": "392663",
+  "author": "corkob",
+  "path": "round3_data/environment/wind/392663.wav",
+  "sha256": "48126e9f4ad9fc7b741ac71418804e79607e95b2733f600cb606b7cb1d1208e7"
+ },
+ {
+  "category": "wind",
+  "id": "280205",
+  "author": "memuse",
+  "path": "round3_data/environment/wind/280205.wav",
+  "sha256": "bbab3d0cd90a80775b369da6f8357c9d5ea2b231141d637c41813c2c5a345d4b"
+ },
+ {
+  "category": "wind",
+  "id": "85570",
+  "author": "nmscher",
+  "path": "round3_data/environment/wind/85570.wav",
+  "sha256": "6c4d546c28c021ec8e3508c002556e7e40462e08dfcc659d28fbcae1e38b9963"
+ },
+ {
+  "category": "wind",
+  "id": "337541",
+  "author": "eardeer",
+  "path": "round3_data/environment/wind/337541.wav",
+  "sha256": "079c10b7c057b6e74245c9b7ef1e919551adbe38ceec7cbd0cbccce3cbb2a3c8"
+ },
+ {
+  "category": "wind",
+  "id": "352421",
+  "author": "joseph.larralde",
+  "path": "round3_data/environment/wind/352421.wav",
+  "sha256": "85ef0f6a2abfab48a789e1e65e59cc908414d13ae37608f3851b5352921f6211"
+ },
+ {
+  "category": "wind",
+  "id": "185457",
+  "author": "mshahen",
+  "path": "round3_data/environment/wind/185457.wav",
+  "sha256": "68455a1ea74ca28fdd15f1d7d724d5fc142d935cee0db5d51890ca2039550368"
+ },
+ {
+  "category": "wind",
+  "id": "386751",
+  "author": "ken788",
+  "path": "round3_data/environment/wind/386751.wav",
+  "sha256": "92bbf8b60f87b72b9587a1a069ee66c6ce178f9e14ce95992968c0c2790813dd"
+ },
+ {
+  "category": "wind",
+  "id": "135447",
+  "author": "ciccarelli",
+  "path": "round3_data/environment/wind/135447.wav",
+  "sha256": "18e7daf284554892b348c002396c29d849202a2ed6ddf43c004ef723c92750e3"
+ },
+ {
+  "category": "wind",
+  "id": "130586",
+  "author": "casemundy",
+  "path": "round3_data/environment/wind/130586.wav",
+  "sha256": "7d3de4ab90b2749851335513f485e2c7cd13b8d2ce37246221d83639f628ded5"
+ },
+ {
+  "category": "guitar",
+  "id": "135703",
+  "author": "univ_lyon3",
+  "path": "round3_data/environment/guitar/135703.wav",
+  "sha256": "44b0d3e5a6f7bb946388d9b79ca95793f590f6828c547c99e8ad19d0a2c80dda"
+ },
+ {
+  "category": "guitar",
+  "id": "24344",
+  "author": "meowtek",
+  "path": "round3_data/environment/guitar/24344.wav",
+  "sha256": "81340d2356c778d8a161a63b02ebf99b9f2f7f92c705d64c480a993eedd96384"
+ },
+ {
+  "category": "guitar",
+  "id": "141186",
+  "author": "splurgo",
+  "path": "round3_data/environment/guitar/141186.wav",
+  "sha256": "fa381ef7ffbd8e0b7124150cf32d189648efd7ba94844c0d8510d9b704f03eb7"
+ },
+ {
+  "category": "guitar",
+  "id": "368089",
+  "author": "nsauzede",
+  "path": "round3_data/environment/guitar/368089.wav",
+  "sha256": "61c712c3321403826c4da21c3ada9af8b6f2555b27dceda94959eca6890dc62e"
+ },
+ {
+  "category": "guitar",
+  "id": "37248",
+  "author": "beatloaf",
+  "path": "round3_data/environment/guitar/37248.wav",
+  "sha256": "5c83189d9e48b6a624e658af7cad2be510bd5f998764f892da0e905fe3d8826f"
+ },
+ {
+  "category": "guitar",
+  "id": "328105",
+  "author": "JackEastwood",
+  "path": "round3_data/environment/guitar/328105.wav",
+  "sha256": "d9a100a062a773aa6775456e0f2f4f42bd7a5cbec79bf2840ef1d9d705452fd6"
+ },
+ {
+  "category": "guitar",
+  "id": "266476",
+  "author": "kubriel",
+  "path": "round3_data/environment/guitar/266476.wav",
+  "sha256": "290e9d9db249e9b976d087a354e83a1a096c877ae766bfc4b1e841d2e231c403"
+ },
+ {
+  "category": "guitar",
+  "id": "50382",
+  "author": "ingsey101",
+  "path": "round3_data/environment/guitar/50382.wav",
+  "sha256": "617233f892befb4f62f2bf963b403b98d95a388c3b7361bcea9654f9a5233dcd"
+ },
+ {
+  "category": "guitar",
+  "id": "315656",
+  "author": "JarAxe",
+  "path": "round3_data/environment/guitar/315656.wav",
+  "sha256": "809111d749f7068ed8afdce50e6aa794d041fb2f3a56ac84a0b652fd8d6e2179"
+ },
+ {
+  "category": "guitar",
+  "id": "274451",
+  "author": "ArrowThunder",
+  "path": "round3_data/environment/guitar/274451.wav",
+  "sha256": "09ce6e3309f4baaaef96985f9e584bd59ef6ca9a572e8ba984d263c60dc43d58"
+ },
+ {
+  "category": "guitar",
+  "id": "418423",
+  "author": "Mynk-01",
+  "path": "round3_data/environment/guitar/418423.wav",
+  "sha256": "c91e216ee2750e168929d58e4166da4b21aa074d5405729ddc19036abbe3caf7"
+ },
+ {
+  "category": "guitar",
+  "id": "109080",
+  "author": "Dodgy C",
+  "path": "round3_data/environment/guitar/109080.wav",
+  "sha256": "ebdb0a2bd66f524c7b04803e3e163e8806b15244d9110e199181e98833e22cea"
+ },
+ {
+  "category": "guitar",
+  "id": "390297",
+  "author": "pflanigan",
+  "path": "round3_data/environment/guitar/390297.wav",
+  "sha256": "fe1c10b7a2d6639509967a12420e7a4e821b853479172aa300bb5d6efe976b4f"
+ },
+ {
+  "category": "piano",
+  "id": "322275",
+  "author": "rhodesmas",
+  "path": "round3_data/environment/piano/322275.wav",
+  "sha256": "7d32c440e59a79955ebc4d14855c36c4718765bfa7eb112e5cfa61fb05d87148"
+ },
+ {
+  "category": "piano",
+  "id": "324423",
+  "author": "Thoribass",
+  "path": "round3_data/environment/piano/324423.wav",
+  "sha256": "67ddaf47231813125447854afa14828f4c2e91cb79ca3b7231f73fe63278521e"
+ },
+ {
+  "category": "piano",
+  "id": "364124",
+  "author": "ADnova",
+  "path": "round3_data/environment/piano/364124.wav",
+  "sha256": "e2d41ecda9154adb8d47d42b76e4310d69da6496a3c9158f69f699b94941401c"
+ },
+ {
+  "category": "piano",
+  "id": "1907",
+  "author": "nicStage",
+  "path": "round3_data/environment/piano/1907.wav",
+  "sha256": "a0fed257bd2554f5492f5acf42ac812cf0a4419d2fcf4c5f7d23f2cfb2294f4a"
+ },
+ {
+  "category": "piano",
+  "id": "363691",
+  "author": "Noedell",
+  "path": "round3_data/environment/piano/363691.wav",
+  "sha256": "f23a83e901a613979e92373d83783eefd74d1a637ff574556a4afaa8b70fddab"
+ },
+ {
+  "category": "piano",
+  "id": "98994",
+  "author": "gunnbladez",
+  "path": "round3_data/environment/piano/98994.wav",
+  "sha256": "d9546dc2f59cc295a74d7c7df377711f38212ed3327eb44c5c6ce06fc6892b8a"
+ },
+ {
+  "category": "piano",
+  "id": "155848",
+  "author": "day_tripper13",
+  "path": "round3_data/environment/piano/155848.wav",
+  "sha256": "fdf4639757b23c2c6d5831bac82c5a3b52f12b103f32760ed08ccd81bb9c8684"
+ },
+ {
+  "category": "piano",
+  "id": "12754",
+  "author": "Jovica",
+  "path": "round3_data/environment/piano/12754.wav",
+  "sha256": "d0b81b6c46655c3717b741f08f4b89d59444615f4ad507010868828a8fb5f9e3"
+ },
+ {
+  "category": "piano",
+  "id": "433845",
+  "author": "Kardithron",
+  "path": "round3_data/environment/piano/433845.wav",
+  "sha256": "c5724d96f687dbc1d85a1ea8f408c8bec89f38e094291bc2d047ee926fa12db3"
+ },
+ {
+  "category": "piano",
+  "id": "28630",
+  "author": "thanvannispen",
+  "path": "round3_data/environment/piano/28630.wav",
+  "sha256": "0a22c8d88c46c962a4cb0b214f5e7c24500f4c449264e950a5b9320dbe6e912e"
+ },
+ {
+  "category": "piano",
+  "id": "85333",
+  "author": "RandyMcMillan",
+  "path": "round3_data/environment/piano/85333.wav",
+  "sha256": "35ea171ac1916416f0032d252fe76f5995bd53f9fb6dda23c572a74187f1f893"
+ },
+ {
+  "category": "piano",
+  "id": "392402",
+  "author": "TheMineWay",
+  "path": "round3_data/environment/piano/392402.wav",
+  "sha256": "b5a771d95931fd2ca84ae2d31da9b2494894abf2064505a1328f4eebaa33e11c"
+ },
+ {
+  "category": "piano",
+  "id": "25486",
+  "author": "Raggaman",
+  "path": "round3_data/environment/piano/25486.wav",
+  "sha256": "3501959e09a96e22dcf2d690325a6ffec12cc26b7d5d9f2f206e76bdb9be40a8"
+ },
+ {
+  "category": "speech",
+  "id": "43858",
+  "author": "SomeAudioGuy",
+  "path": "round3_data/environment/speech/43858.wav",
+  "sha256": "f57695018baa2cd0ea9e11a5f22c5877175e01a38a81324672fb518966d7d799"
+ },
+ {
+  "category": "speech",
+  "id": "238207",
+  "author": "IESPAUCLARIS",
+  "path": "round3_data/environment/speech/238207.wav",
+  "sha256": "6009365863990898cc0ef88d3fde33cf939d778e4aac4c3a89e49026ebe75a51"
+ },
+ {
+  "category": "speech",
+  "id": "198463",
+  "author": "ejgvibes",
+  "path": "round3_data/environment/speech/198463.wav",
+  "sha256": "4aa56c6fb8b9855b7897e7c32daf2b79434c95a40f734461d0e275d72544faa1"
+ },
+ {
+  "category": "speech",
+  "id": "272492",
+  "author": "Ferguido",
+  "path": "round3_data/environment/speech/272492.wav",
+  "sha256": "c5224da9959a0550b83a1cb277cc9e9f85bea7e44b809cb0c5bb8640d49c49f0"
+ },
+ {
+  "category": "speech",
+  "id": "146926",
+  "author": "mushroomjesus",
+  "path": "round3_data/environment/speech/146926.wav",
+  "sha256": "699964716a68cd51a1511e95f5c090fd5a02aa662cdf10aa05ee207adcf2718b"
+ },
+ {
+  "category": "speech",
+  "id": "277382",
+  "author": "vee18551",
+  "path": "round3_data/environment/speech/277382.wav",
+  "sha256": "bf4fb4a7f8e8e697dafd20fd1139fbf277948574918a35ebad1ea6bff8bb71e8"
+ },
+ {
+  "category": "speech",
+  "id": "346869",
+  "author": "capturedlv",
+  "path": "round3_data/environment/speech/346869.wav",
+  "sha256": "912acd7b4df330dadff787cc050421afb388a3fa5f05fd440643b3ccbf81b35c"
+ },
+ {
+  "category": "speech",
+  "id": "249158",
+  "author": "MHockett",
+  "path": "round3_data/environment/speech/249158.wav",
+  "sha256": "cad59660e1241b3dd7b9413cca828df5d3be4e1d4543a719f84fe99c3eddaba1"
+ },
+ {
+  "category": "speech",
+  "id": "166438",
+  "author": "ultradust",
+  "path": "round3_data/environment/speech/166438.wav",
+  "sha256": "465feb6df85853ae86515e7c6f2c19f54317c4377a10f0a550bb1ea302516611"
+ },
+ {
+  "category": "speech",
+  "id": "246318",
+  "author": "Borys_Kozielski",
+  "path": "round3_data/environment/speech/246318.wav",
+  "sha256": "2a4d8efed09d44e654120ecb3f8c78918680f58602dd54791da1324d7213aab3"
+ },
+ {
+  "category": "speech",
+  "id": "404802",
+  "author": "fstagi",
+  "path": "round3_data/environment/speech/404802.wav",
+  "sha256": "22842afee2feb85b5167611e4d21fcadb41a9e88ec91749c01d8daed902e146c"
+ },
+ {
+  "category": "speech",
+  "id": "192646",
+  "author": "Engelique",
+  "path": "round3_data/environment/speech/192646.wav",
+  "sha256": "52d6bc4910debefd398f0b90aefcf77538b65e370feade7c0e18fa512f3c7fc6"
+ },
+ {
+  "category": "speech",
+  "id": "388857",
+  "author": "djfroyd",
+  "path": "round3_data/environment/speech/388857.wav",
+  "sha256": "09197cc982b05bf47a3ae8f84b9743d665455733b341081cd5b4d6f37446ba46"
+ },
+ {
+  "category": "speech",
+  "id": "13594",
+  "author": "plagasul",
+  "path": "round3_data/environment/speech/13594.wav",
+  "sha256": "09731aa8c10a9c77743a9c0cc5f587ee34fa139bd201a171ac48d2b2b1b5e025"
+ },
+ {
+  "category": "speech",
+  "id": "90738",
+  "author": "Teron",
+  "path": "round3_data/environment/speech/90738.wav",
+  "sha256": "b3d0ec43e8b0e272a1da3f994bcacb0a432e33078d458e717256eaf19520d5d9"
+ },
+ {
+  "category": "speech",
+  "id": "269584",
+  "author": "Loffy",
+  "path": "round3_data/environment/speech/269584.wav",
+  "sha256": "0976c5a2405542cc6ffe663c9af3e14882c60d285fa3d24ee7c926fd41a47ca5"
+ },
+ {
+  "category": "speech",
+  "id": "268870",
+  "author": "BianCakes92",
+  "path": "round3_data/environment/speech/268870.wav",
+  "sha256": "fcc62c2f6301a91c9e687a70166c4dd4975bfb5371abb875b571b00c4ed142ff"
+ },
+ {
+  "category": "train",
+  "id": "71242",
+  "author": "hkmtrhah",
+  "path": "round3_data/environment/train/71242.wav",
+  "sha256": "2280d3e9da79bc9e2326aeeff02d2cbeb985e9510fa8b216d3a9199cf7c70239"
+ },
+ {
+  "category": "train",
+  "id": "146207",
+  "author": "Ferdinger",
+  "path": "round3_data/environment/train/146207.wav",
+  "sha256": "7736764a4899a64dc9618ac7f8fbe57f91109e1ed09b9b74ab1b41978f4de437"
+ },
+ {
+  "category": "train",
+  "id": "62468",
+  "author": "bsumusictech",
+  "path": "round3_data/environment/train/62468.wav",
+  "sha256": "ebc910b3cae40b5927c8ecfd0fa9a285159dff22ba159a059930984cd1055054"
+ },
+ {
+  "category": "train",
+  "id": "344723",
+  "author": "Dominik_W",
+  "path": "round3_data/environment/train/344723.wav",
+  "sha256": "b84277cb300a0a2060a47d9aab23328141f08733fd97e9379970f979f7bbba86"
+ },
+ {
+  "category": "train",
+  "id": "19806",
+  "author": "LG",
+  "path": "round3_data/environment/train/19806.wav",
+  "sha256": "14b60e0d5022907326a2bb81e82658fbfd957f4b7fcbda9c131a4be861e993ce"
+ },
+ {
+  "category": "train",
+  "id": "162803",
+  "author": "timgormly",
+  "path": "round3_data/environment/train/162803.wav",
+  "sha256": "90e07933257490e2a13fb6f3999e24dc27a6419495182ba5397e3669036ec260"
+ },
+ {
+  "category": "train",
+  "id": "349139",
+  "author": "Yoyodaman234",
+  "path": "round3_data/environment/train/349139.wav",
+  "sha256": "0f54507b858e4ab2f87c77df623188ba9e5ed76302b0b4e4ab016f58ade6b411"
+ },
+ {
+  "category": "train",
+  "id": "146206",
+  "author": "Ferdinger",
+  "path": "round3_data/environment/train/146206.wav",
+  "sha256": "ee9cc1008985ab9c00fdc83abc1ae375768a1e4837f752d549a979e56d5c2915"
+ },
+ {
+  "category": "train",
+  "id": "62475",
+  "author": "bsumusictech",
+  "path": "round3_data/environment/train/62475.wav",
+  "sha256": "e68bf8699d92d26de2ed6c994a81916396583c5d753b1132add9900b4e90d457"
+ },
+ {
+  "category": "train",
+  "id": "18994",
+  "author": "LG",
+  "path": "round3_data/environment/train/18994.wav",
+  "sha256": "5a29a52cd3f427ba35f6455afcfcce01392a6fabca36e40c42e025363004a290"
+ },
+ {
+  "category": "train",
+  "id": "162816",
+  "author": "timgormly",
+  "path": "round3_data/environment/train/162816.wav",
+  "sha256": "15bb69a63f1ad1344aca0406ae622084e9959cf1e942fe286244f43e9c2c45f8"
+ },
+ {
+  "category": "train",
+  "id": "349137",
+  "author": "Yoyodaman234",
+  "path": "round3_data/environment/train/349137.wav",
+  "sha256": "800dcdb80e651a2f569424cf949cb5dd179b18aedd7a3221eeedf84cd0266218"
+ },
+ {
+  "category": "train",
+  "id": "146204",
+  "author": "Ferdinger",
+  "path": "round3_data/environment/train/146204.wav",
+  "sha256": "33b8019fddcd57fd87e426ba0f948ff69f209769d5a7cc44484fc441c22d9c0c"
+ },
+ {
+  "category": "train",
+  "id": "62477",
+  "author": "bsumusictech",
+  "path": "round3_data/environment/train/62477.wav",
+  "sha256": "1a752650e0c477ef7f295772127bfed99032747aee0bcbc52d8f40492699b719"
+ },
+ {
+  "category": "train",
+  "id": "19805",
+  "author": "LG",
+  "path": "round3_data/environment/train/19805.wav",
+  "sha256": "63811b990e8d53894981c3e2b33be258700577e0beeddd7a0bdd656789d64f57"
+ },
+ {
+  "category": "train",
+  "id": "341198",
+  "author": "Yoyodaman234",
+  "path": "round3_data/environment/train/341198.wav",
+  "sha256": "0127db4dbde60cbf2f72d8f65fe3871dda8b75a3ece1f848fdca0ff0e39c0aec"
+ },
+ {
+  "category": "train",
+  "id": "146209",
+  "author": "Ferdinger",
+  "path": "round3_data/environment/train/146209.wav",
+  "sha256": "375ab11e548cfca21c054e5cd4837446a9da086ea49f35b476cda9563ec477ca"
+ },
+ {
+  "category": "train",
+  "id": "62446",
+  "author": "bsumusictech",
+  "path": "round3_data/environment/train/62446.wav",
+  "sha256": "61745693c15248521203ada037ec0e779321b26262a9c87c72e0e3633a162b6c"
+ },
+ {
+  "category": "wind",
+  "id": "217804",
+  "author": "eaglechopper",
+  "path": "round3_data/environment/wind/217804.wav",
+  "sha256": "6e00dec52ba44451bd8ab68ae9e9d6f6c7acc13ccfee7df754a5f68961efbc6c"
+ },
+ {
+  "category": "wind",
+  "id": "62591",
+  "author": "bsumusictech",
+  "path": "round3_data/environment/wind/62591.wav",
+  "sha256": "668542fbeee6e56a296f0b373def7825d56b028630777f245baf83ccdfe7feee"
+ },
+ {
+  "category": "wind",
+  "id": "146932",
+  "author": "crashoverride61088",
+  "path": "round3_data/environment/wind/146932.wav",
+  "sha256": "6877e46cc3514e66a33ba2caf3f22bcc6b9c315465f3c08dc591b762ddd884f9"
+ },
+ {
+  "category": "wind",
+  "id": "244296",
+  "author": "sherandu",
+  "path": "round3_data/environment/wind/244296.wav",
+  "sha256": "33e502bde5b991c0526030d71648790cb5d9712d3eae05fc710e976ba0d53d9e"
+ },
+ {
+  "category": "wind",
+  "id": "119086",
+  "author": "domrodrig",
+  "path": "round3_data/environment/wind/119086.wav",
+  "sha256": "8afc4b8818136bc3c85e31c6d64bde24429749c47462e3150c5729035a7f56fb"
+ },
+ {
+  "category": "wind",
+  "id": "26189",
+  "author": "Walter_Odington",
+  "path": "round3_data/environment/wind/26189.wav",
+  "sha256": "5a0904e3bb7cf203e97c956375f43705bde88a7a225f56024b827106c97cc5ba"
+ },
+ {
+  "category": "wind",
+  "id": "135429",
+  "author": "OTBTechno",
+  "path": "round3_data/environment/wind/135429.wav",
+  "sha256": "2c92b23ce4970dd012c055ade133d46e6b39a4a2a46d5ed1159cb891c3890c49"
+ },
+ {
+  "category": "wind",
+  "id": "240120",
+  "author": "pedrotasio",
+  "path": "round3_data/environment/wind/240120.wav",
+  "sha256": "70586ede4a528b996394ee9adadad650c773211553d48e2715cce43a0be70cb4"
+ },
+ {
+  "category": "wind",
+  "id": "188038",
+  "author": "AntumDeluge",
+  "path": "round3_data/environment/wind/188038.wav",
+  "sha256": "73ef9ee8b09d4db3537a1fe46e47663aeb216af2ee5924e1acd2231b2c901aa4"
+ },
+ {
+  "category": "wind",
+  "id": "393442",
+  "author": "moscaproducao",
+  "path": "round3_data/environment/wind/393442.wav",
+  "sha256": "3f6058ee3fb4b08a1b5ecb9dcef4fc44ed7e12d3746306b34a18ba858c92e874"
+ },
+ {
+  "category": "wind",
+  "id": "207125",
+  "author": "ahill86",
+  "path": "round3_data/environment/wind/207125.wav",
+  "sha256": "50c4a4a8b216973edb0ae5f926cb18806838cd298075f8e1c3397193a42ce0ce"
+ },
+ {
+  "category": "wind",
+  "id": "127127",
+  "author": "westernsynthetics",
+  "path": "round3_data/environment/wind/127127.wav",
+  "sha256": "c120bfb79c8f1c46a8d29f69abbc404a5fd4551671a131fcb55a2700d0022ead"
+ },
+ {
+  "category": "wind",
+  "id": "24952",
+  "author": "Erdie",
+  "path": "round3_data/environment/wind/24952.wav",
+  "sha256": "4a3156dd08d17932b6a7a80b2b1768d9478162822249f51a0491894ae813433a"
+ },
+ {
+  "category": "wind",
+  "id": "199953",
+  "author": "Marth8880",
+  "path": "round3_data/environment/wind/199953.wav",
+  "sha256": "3cc33698ddbafe4c55984ca2e75e69532e8e443f57651218836c602aaadabac2"
+ },
+ {
+  "category": "wind",
+  "id": "71602",
+  "author": "ghostcake",
+  "path": "round3_data/environment/wind/71602.wav",
+  "sha256": "f4efc7f74da1508faa4edc19c5057c41e1841aa78610c1fe692770b74d307567"
+ },
+ {
+  "category": "wind",
+  "id": "175231",
+  "author": "kenders2000",
+  "path": "round3_data/environment/wind/175231.wav",
+  "sha256": "d9ba52b00107fb32dfa6b9dcdb4e93a0f4d22e0049639b6261cbbe9f9014a57c"
+ },
+ {
+  "category": "wind",
+  "id": "152803",
+  "author": "mireia_af",
+  "path": "round3_data/environment/wind/152803.wav",
+  "sha256": "725fb0f1378af3f407bec9d85d09ac1eb919260f63ed5118d686a69b40ba867b"
+ },
+ {
+  "category": "wind",
+  "id": "55059",
+  "author": "suonidigenova",
+  "path": "round3_data/environment/wind/55059.wav",
+  "sha256": "f90374a15a0e6d9713c37f9f0152dbc7aa6934dfcd05c3974adabbc05083473b"
+ },
+ {
+  "category": "guitar",
+  "id": "203649",
+  "author": "Jack_Master",
+  "path": "round3_data/environment/guitar/203649.wav",
+  "sha256": "b98f9205ad1c0aacdedab8a0c662deb356b927c4e82b1e7fb0232706f0dfc383"
+ },
+ {
+  "category": "guitar",
+  "id": "34374",
+  "author": "UncleSigmund",
+  "path": "round3_data/environment/guitar/34374.wav",
+  "sha256": "0c2b17f8270832788910de8dcda9f2b84d92b82d1509b149cb6ed1281fd9f798"
+ },
+ {
+  "category": "guitar",
+  "id": "74198",
+  "author": "justinrobert",
+  "path": "round3_data/environment/guitar/74198.wav",
+  "sha256": "7ebfe8699d1f6f341725eb4cd2828eaaccd07e047e6b0e0433860939c31af279"
+ },
+ {
+  "category": "guitar",
+  "id": "321708",
+  "author": "kroshe",
+  "path": "round3_data/environment/guitar/321708.wav",
+  "sha256": "094e2e38396fcd4ec63500d352891cb7342e25650bb4563b61f88738441c6aa7"
+ },
+ {
+  "category": "guitar",
+  "id": "201110",
+  "author": "18hiltc",
+  "path": "round3_data/environment/guitar/201110.wav",
+  "sha256": "8ab4f2210fd072cf17e14aa5d08385eaf9a1963786c7b1f0cc28e2d13286c0df"
+ },
+ {
+  "category": "guitar",
+  "id": "364119",
+  "author": "Zoro_ezo",
+  "path": "round3_data/environment/guitar/364119.wav",
+  "sha256": "552a55ec4d71bfbcacf27e6a53d7153fb17d2c9b93eb886319df422330f50f7f"
+ },
+ {
+  "category": "guitar",
+  "id": "44364",
+  "author": "debudding",
+  "path": "round3_data/environment/guitar/44364.wav",
+  "sha256": "3a010931593edc0d45b531a9732ec3ccfc02e8887b5c3b6d692b16dffd8c9ad9"
+ },
+ {
+  "category": "guitar",
+  "id": "60139",
+  "author": "uzerx",
+  "path": "round3_data/environment/guitar/60139.wav",
+  "sha256": "af3bdd56ceb2a348282674cb553a9b914428a571319c90ea538ddbeae2b9261f"
+ },
+ {
+  "category": "guitar",
+  "id": "60695",
+  "author": "alextundra",
+  "path": "round3_data/environment/guitar/60695.wav",
+  "sha256": "3dfe3f666ab386951e3879420abfae27547a968a61029536245187ada257066d"
+ },
+ {
+  "category": "guitar",
+  "id": "315706",
+  "author": "spitefuloctopus",
+  "path": "round3_data/environment/guitar/315706.wav",
+  "sha256": "826edec21d2bfe6d5259629945587cf10f1e579b30ffd66294e55ade039c1c42"
+ },
+ {
+  "category": "guitar",
+  "id": "371087",
+  "author": "actsofpaint",
+  "path": "round3_data/environment/guitar/371087.wav",
+  "sha256": "f6fba1873d773556696da9847a2549d0d475ae81a10fbf10c508790cfef09b0d"
+ },
+ {
+  "category": "guitar",
+  "id": "182963",
+  "author": "quartertone",
+  "path": "round3_data/environment/guitar/182963.wav",
+  "sha256": "e54d23a04a1a14687982a6fc25c5ffa3fdcbf93d38229f8a60fbb9563f6bc63e"
+ },
+ {
+  "category": "guitar",
+  "id": "251109",
+  "author": "Project16",
+  "path": "round3_data/environment/guitar/251109.wav",
+  "sha256": "6000c94cf1c98f77637811b87b6c2763e374e739e8ea2cc164bf6ff62046c29c"
+ },
+ {
+  "category": "guitar",
+  "id": "321268",
+  "author": "Rgoldkind",
+  "path": "round3_data/environment/guitar/321268.wav",
+  "sha256": "d806f186b881cb427053c13cd05bebbfa210c5f8336ccdbf0df108e56b0b6426"
+ },
+ {
+  "category": "guitar",
+  "id": "324204",
+  "author": "brterry",
+  "path": "round3_data/environment/guitar/324204.wav",
+  "sha256": "a998d0f9468b6bf1bcb4400acb0f2ef9b8d388a0fd867c1eb077aea5df687a9a"
+ },
+ {
+  "category": "guitar",
+  "id": "13699",
+  "author": "harri",
+  "path": "round3_data/environment/guitar/13699.wav",
+  "sha256": "1113d47aa0374ece5239fa43a0f7b78ad109311f3c3d93dad4d987f92bbe22f5"
+ },
+ {
+  "category": "guitar",
+  "id": "331397",
+  "author": "Satrianizado",
+  "path": "round3_data/environment/guitar/331397.wav",
+  "sha256": "2635083eb30ab0c5f3d26282eacf171e5bbdb9d2b24018556288bf628f650014"
+ },
+ {
+  "category": "guitar",
+  "id": "48081",
+  "author": "moca",
+  "path": "round3_data/environment/guitar/48081.wav",
+  "sha256": "1e7f7a030540e052ddc3f3e6672488512e49349d2bcba9d06a083c2196aefb8f"
+ },
+ {
+  "category": "piano",
+  "id": "351324",
+  "author": "Zodoz",
+  "path": "round3_data/environment/piano/351324.wav",
+  "sha256": "7d030d77eb336f77f52a60e7de78333f9bb386e6bbcdbbe149d568f10827d6be"
+ },
+ {
+  "category": "piano",
+  "id": "428249",
+  "author": "Djeuphoria",
+  "path": "round3_data/environment/piano/428249.wav",
+  "sha256": "4174eab774fd5ee4f129d3c2383b9d4aa599654770346d7b09c7eb61fe0a61d1"
+ },
+ {
+  "category": "piano",
+  "id": "381293",
+  "author": "visual",
+  "path": "round3_data/environment/piano/381293.wav",
+  "sha256": "44acb0aa8dcb14ed4e76533781a33c2e97c23d5fa749be4c1edab2d74aca346d"
+ },
+ {
+  "category": "piano",
+  "id": "316631",
+  "author": "benjaminharveydesign",
+  "path": "round3_data/environment/piano/316631.wav",
+  "sha256": "5abe44eb124078bb175451230cb019b3f244e50069965e6040fd65282779e941"
+ },
+ {
+  "category": "piano",
+  "id": "253253",
+  "author": "poissonmort",
+  "path": "round3_data/environment/piano/253253.wav",
+  "sha256": "59c39088e0abe0b6c6d33bed50c7e2af9455e4fcf94466563ad23c50e49b8eb0"
+ },
+ {
+  "category": "piano",
+  "id": "104024",
+  "author": "RutgerMuller",
+  "path": "round3_data/environment/piano/104024.wav",
+  "sha256": "ffb703d17e351352eba0750b336a3a2fab9c59a047b5bbc6f415050119946446"
+ },
+ {
+  "category": "piano",
+  "id": "176925",
+  "author": "Spol",
+  "path": "round3_data/environment/piano/176925.wav",
+  "sha256": "8b47761fda4652dc1fd9bcd9a374ad2de5cd533fe4f299092cc189898965fc39"
+ },
+ {
+  "category": "piano",
+  "id": "95331",
+  "author": "ramas26",
+  "path": "round3_data/environment/piano/95331.wav",
+  "sha256": "faa96223aba92b0b08f7076a49c6dd67b12cea373c4ba16a9e423abb23f8373d"
+ },
+ {
+  "category": "piano",
+  "id": "1909",
+  "author": "nicStage",
+  "path": "round3_data/environment/piano/1909.wav",
+  "sha256": "5019acdd946e95a579ce8be6a9b8c486a2c4f6fafb643c174ae005667b6ca56a"
+ },
+ {
+  "category": "piano",
+  "id": "363692",
+  "author": "Noedell",
+  "path": "round3_data/environment/piano/363692.wav",
+  "sha256": "02841dea042d7d20a9b8f391e0d53933ba547845556bea87464eb705ac3ed7f2"
+ },
+ {
+  "category": "piano",
+  "id": "12774",
+  "author": "Jovica",
+  "path": "round3_data/environment/piano/12774.wav",
+  "sha256": "f43f9efdd000129f2e81367bc2f56c92cb4344981b7b9e9871f510392f88739d"
+ },
+ {
+  "category": "piano",
+  "id": "433850",
+  "author": "Kardithron",
+  "path": "round3_data/environment/piano/433850.wav",
+  "sha256": "af0eaaab972c919b7e389363638a01b155043f8b84266ce3e9943b7ae9549c33"
+ },
+ {
+  "category": "piano",
+  "id": "28626",
+  "author": "thanvannispen",
+  "path": "round3_data/environment/piano/28626.wav",
+  "sha256": "06314d94e956a5e59fc765992a20fc61cf559e1a8100e42e4f4326fb6e04fd97"
+ },
+ {
+  "category": "speech",
+  "id": "87379",
+  "author": "ogrivo",
+  "path": "round3_data/environment/speech/87379.wav",
+  "sha256": "2ba572d926c82a7122ed7d84d3342a02169294693806c7e940286ce71fdc0673"
+ },
+ {
+  "category": "speech",
+  "id": "411018",
+  "author": "nekomimi07",
+  "path": "round3_data/environment/speech/411018.wav",
+  "sha256": "d16c4f32e4ddf6df5537545b4e1fd0fb22151adf8adedfe827d2b2ca412e4425"
+ },
+ {
+  "category": "speech",
+  "id": "271557",
+  "author": "sonsbcnintercultural",
+  "path": "round3_data/environment/speech/271557.wav",
+  "sha256": "b35a379f12335ff2d26b8f438d31556c19e88aa01d5fcf0b9b37f8693abaea2f"
+ },
+ {
+  "category": "speech",
+  "id": "81121",
+  "author": "Josh Herman",
+  "path": "round3_data/environment/speech/81121.wav",
+  "sha256": "17fba21f55b61f551afe47c2732b9a0935d1da4a56dd650ed0a5bd4bca223d2d"
+ },
+ {
+  "category": "speech",
+  "id": "377547",
+  "author": "celiaigartua",
+  "path": "round3_data/environment/speech/377547.wav",
+  "sha256": "bf74d2e3bcbbb8c7eb78f4eeeba416b8b4a5fe28f8e8aff3554837ea84e4cf1a"
+ },
+ {
+  "category": "speech",
+  "id": "189762",
+  "author": "jiserte",
+  "path": "round3_data/environment/speech/189762.wav",
+  "sha256": "6b5e4227a55d9cff86e40e7361c001c47e2c1d33a4e05f54719b601e1a9163ca"
+ },
+ {
+  "category": "speech",
+  "id": "390313",
+  "author": "pflanigan",
+  "path": "round3_data/environment/speech/390313.wav",
+  "sha256": "abf0a71b9805fedddcfadac524ce521329ff486b50d7b904233adc9789a227cc"
+ },
+ {
+  "category": "speech",
+  "id": "400092",
+  "author": "Radio_fragola_gorizia",
+  "path": "round3_data/environment/speech/400092.wav",
+  "sha256": "af62aa3667d4becd5235c651146ba639d9324920760cedd8b8a3aeccaae95732"
+ },
+ {
+  "category": "speech",
+  "id": "67307",
+  "author": "nicStage",
+  "path": "round3_data/environment/speech/67307.wav",
+  "sha256": "b5156445d116bcbb75ee2b8651ef4817d3208389448c4664c588795dfee95a13"
+ },
+ {
+  "category": "speech",
+  "id": "101797",
+  "author": "helenacm",
+  "path": "round3_data/environment/speech/101797.wav",
+  "sha256": "8ca00cedf962b9c243b76bcddf3d1d58188eb19e332fb6ce7e71a03cd015faa2"
+ },
+ {
+  "category": "speech",
+  "id": "89446",
+  "author": "btowles",
+  "path": "round3_data/environment/speech/89446.wav",
+  "sha256": "6a72d07b8f29d7de1cb9742b7f38c0b309404c199b4075ce5f60991de0351445"
+ },
+ {
+  "category": "speech",
+  "id": "71104",
+  "author": "parabolix",
+  "path": "round3_data/environment/speech/71104.wav",
+  "sha256": "cf1871b16c0f7fd2224bc9bb7f41f7d7c07b683956accd6d75851e92d49568a4"
+ },
+ {
+  "category": "speech",
+  "id": "120833",
+  "author": "odilonmarcenaro",
+  "path": "round3_data/environment/speech/120833.wav",
+  "sha256": "789b69c2183be75daf3ed8c1086961e3a78ad068380350f0c0ad8bdae25cf7f7"
+ },
+ {
+  "category": "speech",
+  "id": "391290",
+  "author": "slimclic",
+  "path": "round3_data/environment/speech/391290.wav",
+  "sha256": "2a503ae371c30f5484a37e9d2562e174f235ed666df6c330ca489eecac18d739"
+ },
+ {
+  "category": "speech",
+  "id": "49772",
+  "author": "BoilingSand",
+  "path": "round3_data/environment/speech/49772.wav",
+  "sha256": "5bbe4c8c4881625e212e64531cfaea52863624ff734e1792d7aee016207ce5df"
+ },
+ {
+  "category": "train",
+  "id": "26971",
+  "author": "LG",
+  "path": "round3_data/environment/train/26971.wav",
+  "sha256": "082d79e14a4db958fc47ce5440a2cb525333ed39607c89922bcb5590cf1f4113"
+ },
+ {
+  "category": "train",
+  "id": "349141",
+  "author": "Yoyodaman234",
+  "path": "round3_data/environment/train/349141.wav",
+  "sha256": "07c2602c90fae567190d628f896a8b3e5f158b9d507f88cd7bf6d2e9eb701bc3"
+ },
+ {
+  "category": "train",
+  "id": "19807",
+  "author": "LG",
+  "path": "round3_data/environment/train/19807.wav",
+  "sha256": "c292daf22f2203d50c16eb0c174b8886ad608fdd5b1a46f6b04e6724800f99bb"
+ },
+ {
+  "category": "train",
+  "id": "341329",
+  "author": "Yoyodaman234",
+  "path": "round3_data/environment/train/341329.wav",
+  "sha256": "bb7bd3bc0c77b39c3cda7dd6d399e5b7dff4ccafa953bae7b246bcef9477d50f"
+ },
+ {
+  "category": "train",
+  "id": "26840",
+  "author": "LG",
+  "path": "round3_data/environment/train/26840.wav",
+  "sha256": "78feff83564a1b3803933c9de58ca107e9577793bb1615ef681e8afd995aa237"
+ },
+ {
+  "category": "train",
+  "id": "341197",
+  "author": "Yoyodaman234",
+  "path": "round3_data/environment/train/341197.wav",
+  "sha256": "521c40cd0ee8e806c08b6dbc4e659a50984fd0ab093ac933d4a034089ba69db2"
+ },
+ {
+  "category": "train",
+  "id": "26841",
+  "author": "LG",
+  "path": "round3_data/environment/train/26841.wav",
+  "sha256": "73c6c0b688ced67d378a03ed1844793e11b2e5354e325af45e6692f7985aa0de"
+ },
+ {
+  "category": "train",
+  "id": "349138",
+  "author": "Yoyodaman234",
+  "path": "round3_data/environment/train/349138.wav",
+  "sha256": "60c78eaec0017bfe6dd29ed05ca4cbd8913b091f6dfa8b649c8f6427dc3c77e3"
+ },
+ {
+  "category": "train",
+  "id": "18999",
+  "author": "LG",
+  "path": "round3_data/environment/train/18999.wav",
+  "sha256": "7620f2b9563e0d98e361a3e39582e095a2d03c5bce87efe8f9a7e0e7eb788faf"
+ },
+ {
+  "category": "train",
+  "id": "341328",
+  "author": "Yoyodaman234",
+  "path": "round3_data/environment/train/341328.wav",
+  "sha256": "bccf152aa4d299a286cb9dc5ee005528287649dec9c1ae8d89ec602f90820ed8"
+ },
+ {
+  "category": "train",
+  "id": "19000",
+  "author": "LG",
+  "path": "round3_data/environment/train/19000.wav",
+  "sha256": "de91db346c48e60a4e0549ca47958a8fcf673936d71d5fe9112dd53076eaea63"
+ },
+ {
+  "category": "train",
+  "id": "349140",
+  "author": "Yoyodaman234",
+  "path": "round3_data/environment/train/349140.wav",
+  "sha256": "f6ff4e55b60ea9a79607a7e2dbca32ff1c51dd33b0ae22acac1941e5232a5689"
+ },
+ {
+  "category": "train",
+  "id": "18997",
+  "author": "LG",
+  "path": "round3_data/environment/train/18997.wav",
+  "sha256": "fa1a5c25961a43d4de0af19948b2bd4309d346a0040195f3807dbe205c97b921"
+ },
+ {
+  "category": "train",
+  "id": "26842",
+  "author": "LG",
+  "path": "round3_data/environment/train/26842.wav",
+  "sha256": "c8b2f23bda2f7599e47b5a74d5d44210be585af98f27af6e8c04d74953cbbf98"
+ },
+ {
+  "category": "train",
+  "id": "26839",
+  "author": "LG",
+  "path": "round3_data/environment/train/26839.wav",
+  "sha256": "3ea6366aeff9681cadca7204a7f3280d9734449e896613819226376a8b86caff"
+ },
+ {
+  "category": "train",
+  "id": "19003",
+  "author": "LG",
+  "path": "round3_data/environment/train/19003.wav",
+  "sha256": "c0c34d508a9235c90c6bb1dfcdb9dba860d0c18a2ac7b8cb279917b51cf0516c"
+ },
+ {
+  "category": "train",
+  "id": "18998",
+  "author": "LG",
+  "path": "round3_data/environment/train/18998.wav",
+  "sha256": "c656ca1c06064cf0e4d28a08c615d4bd6d553b5406f826cdbf136e66efc2cb68"
+ },
+ {
+  "category": "train",
+  "id": "19002",
+  "author": "LG",
+  "path": "round3_data/environment/train/19002.wav",
+  "sha256": "b4a22b59768793e462a9fa9fd39869ab3e50c442b60312d05143efee09a2616a"
+ },
+ {
+  "category": "wind",
+  "id": "252789",
+  "author": "DisasterServices",
+  "path": "round3_data/environment/wind/252789.wav",
+  "sha256": "4de8c7b6f358b65411cc39ebdffc11fded4e758291213dc074a06874f6943ef2"
+ },
+ {
+  "category": "wind",
+  "id": "354025",
+  "author": "stondi",
+  "path": "round3_data/environment/wind/354025.wav",
+  "sha256": "853d18a69457ca4b3ec08c648fb561656c6140e2d2ab8d66e748490046bf17e2"
+ },
+ {
+  "category": "wind",
+  "id": "37774",
+  "author": "swuing",
+  "path": "round3_data/environment/wind/37774.wav",
+  "sha256": "66ad553b4c28137529c9ee433c99cde40da08b0932b9a2bbaef63134c5b744ee"
+ },
+ {
+  "category": "wind",
+  "id": "329760",
+  "author": "maksinkster",
+  "path": "round3_data/environment/wind/329760.wav",
+  "sha256": "29db592acec7444b1f90c1b6b89699895f47829149336729cef17d64c08fc1bb"
+ },
+ {
+  "category": "wind",
+  "id": "118996",
+  "author": "JoneagleX",
+  "path": "round3_data/environment/wind/118996.wav",
+  "sha256": "2a8892ef100ee413d4317a1cbda0dbb9330f82cec0c4b9899ccd44396b52fb1a"
+ },
+ {
+  "category": "wind",
+  "id": "353954",
+  "author": "Moo_Wonders",
+  "path": "round3_data/environment/wind/353954.wav",
+  "sha256": "f18ba99be72a9af85918fddde6ada4b6a94457a5623154434f7c6984cc408824"
+ },
+ {
+  "category": "wind",
+  "id": "15547",
+  "author": "LG",
+  "path": "round3_data/environment/wind/15547.wav",
+  "sha256": "edc1aa7d64abd10208ff7672878f6b135560cca1437c7f3f5eb60bad0cff986b"
+ },
+ {
+  "category": "wind",
+  "id": "245674",
+  "author": "TicAshfield",
+  "path": "round3_data/environment/wind/245674.wav",
+  "sha256": "2443b1218b5136c16c0a94910f081366d441c3ef185ca65e9ff70e29dbc2eb42"
+ },
+ {
+  "category": "wind",
+  "id": "405140",
+  "author": "Mjeno",
+  "path": "round3_data/environment/wind/405140.wav",
+  "sha256": "d5d0bdef3ddacd05810fe19a9ae3094e4d58aa33ffe99314291e9a5cca35fbb9"
+ },
+ {
+  "category": "wind",
+  "id": "146422",
+  "author": "Andrew5DMII",
+  "path": "round3_data/environment/wind/146422.wav",
+  "sha256": "7844d2656bc93f7356dfefc8b16a2fd4fa25dc23521bffe5f2e078a08bea3c1d"
+ },
+ {
+  "category": "wind",
+  "id": "423009",
+  "author": "OGsoundFX",
+  "path": "round3_data/environment/wind/423009.wav",
+  "sha256": "b438c167cab3d02b43320c192c2235d990bd012b5bb0975615a75a8f67b5bf6f"
+ },
+ {
+  "category": "wind",
+  "id": "155920",
+  "author": "Shadowedhunter",
+  "path": "round3_data/environment/wind/155920.wav",
+  "sha256": "314543806b221a5efeee82044e6ee6b854a71f1c57a031a83c7d26d87d97415f"
+ },
+ {
+  "category": "wind",
+  "id": "2531",
+  "author": "RHumphries",
+  "path": "round3_data/environment/wind/2531.wav",
+  "sha256": "22eb079b40eb71740064ad7b263d910a5f1e1c25cf9c263bdec36188bc393d02"
+ },
+ {
+  "category": "wind",
+  "id": "424740",
+  "author": "Joaofmms",
+  "path": "round3_data/environment/wind/424740.wav",
+  "sha256": "67abaf7f29a4baeacfd9413953e04b2f68f181ecb5134c3f85e7ec188ef5ee56"
+ },
+ {
+  "category": "wind",
+  "id": "275640",
+  "author": "Sevin7",
+  "path": "round3_data/environment/wind/275640.wav",
+  "sha256": "681951d3105337b37a2f7278b48202d7ed94d0165aa9019e1abef022a7ab59c1"
+ },
+ {
+  "category": "wind",
+  "id": "217800",
+  "author": "minian89",
+  "path": "round3_data/environment/wind/217800.wav",
+  "sha256": "f5c7fb12f01e39213c5869c0fbd4d982fed06c207ac1a48131d7fa522e1f95b6"
+ },
+ {
+  "category": "wind",
+  "id": "238360",
+  "author": "aleixcm",
+  "path": "round3_data/environment/wind/238360.wav",
+  "sha256": "311a11fd27ca54056763f1c2c98b6eac89af36fecdd43a633eed888a31cedbb0"
+ },
+ {
+  "category": "wind",
+  "id": "401719",
+  "author": "samarobryn",
+  "path": "round3_data/environment/wind/401719.wav",
+  "sha256": "e30b7f4218ba6ec7a6d06d72918ff96f3f7d4856115805335f319f52766e199f"
+ },
+ {
+  "category": "guitar",
+  "id": "8381",
+  "author": "SpeedY",
+  "path": "round3_data/environment/guitar/8381.wav",
+  "sha256": "5201c80f09c8b5bcc17f82935bb295c2efe23c1e6114ce79cdb07a5a591ddf75"
+ },
+ {
+  "category": "guitar",
+  "id": "333246",
+  "author": "alexnekita",
+  "path": "round3_data/environment/guitar/333246.wav",
+  "sha256": "6c832d97403b65583e9d51c984e5505f4ae76f86b7384ce4ac571b4130f9ded1"
+ },
+ {
+  "category": "guitar",
+  "id": "415379",
+  "author": "Smukey9",
+  "path": "round3_data/environment/guitar/415379.wav",
+  "sha256": "43b75d4a02e1d13edb8e77a1b4207dad181d3cf6d830f559b39598940f259284"
+ },
+ {
+  "category": "guitar",
+  "id": "63892",
+  "author": "DjCHAOS",
+  "path": "round3_data/environment/guitar/63892.wav",
+  "sha256": "3001a070d53a0c32d54d15575caa800ef62243055b1a208a67101d6574c77952"
+ },
+ {
+  "category": "guitar",
+  "id": "50744",
+  "author": "RutgerMuller",
+  "path": "round3_data/environment/guitar/50744.wav",
+  "sha256": "39edea2916bd81f968249b3a696abc5f95c6921ff03ffa289042d09a707cf0bf"
+ },
+ {
+  "category": "guitar",
+  "id": "41515",
+  "author": "jivo1975",
+  "path": "round3_data/environment/guitar/41515.wav",
+  "sha256": "7805116dc25f478f3d08d717ae78fe5767241eb9989d5ec07da69b7696aa7bed"
+ },
+ {
+  "category": "guitar",
+  "id": "1277",
+  "author": "plagasul",
+  "path": "round3_data/environment/guitar/1277.wav",
+  "sha256": "cbe7920570ee3165080a2a7f04ae21d65f20d1810648ea4f69e61a8adec29aa9"
+ },
+ {
+  "category": "guitar",
+  "id": "256422",
+  "author": "desperationmixtape",
+  "path": "round3_data/environment/guitar/256422.wav",
+  "sha256": "b07fe506da16b00c5f78a844f30a9b3429ba5a1a848e505d8cafb750842c0acc"
+ },
+ {
+  "category": "guitar",
+  "id": "351175",
+  "author": "wmquincy101",
+  "path": "round3_data/environment/guitar/351175.wav",
+  "sha256": "f225b56e0b6f3ffc838d05ec166a256700e1bbdb8a5001a14fb9f39d9faebfcb"
+ },
+ {
+  "category": "guitar",
+  "id": "54694",
+  "author": "Sean_K",
+  "path": "round3_data/environment/guitar/54694.wav",
+  "sha256": "77431e9dee3e9f6aa32249bef48c97a340021375cdb78559ba3e01f954908275"
+ },
+ {
+  "category": "guitar",
+  "id": "74201",
+  "author": "justinrobert",
+  "path": "round3_data/environment/guitar/74201.wav",
+  "sha256": "33c6a52a1ec6ea9c61efe2467ebfbe4abfa2c72e086a62682233b1a002a32bdd"
+ },
+ {
+  "category": "piano",
+  "id": "26978",
+  "author": "Raggaman",
+  "path": "round3_data/environment/piano/26978.wav",
+  "sha256": "3c8e89e9d65c88bf75cb8c438e7ef19eda0562f77ba2bf36f477e7bd43c97ebe"
+ },
+ {
+  "category": "piano",
+  "id": "85324",
+  "author": "RandyMcMillan",
+  "path": "round3_data/environment/piano/85324.wav",
+  "sha256": "70703b093a882006f45e059d49972e1611e5772f881b40eda1c3ac91233a8869"
+ },
+ {
+  "category": "piano",
+  "id": "392403",
+  "author": "TheMineWay",
+  "path": "round3_data/environment/piano/392403.wav",
+  "sha256": "e1a78d54266a30b1100deba1e3aadb3672346aac3f87296aba51abd5f282d67d"
+ },
+ {
+  "category": "piano",
+  "id": "351318",
+  "author": "Zodoz",
+  "path": "round3_data/environment/piano/351318.wav",
+  "sha256": "2efe657c8919b5cae358d1c022f201a10987d52c762f81a3856c64419f1a6856"
+ },
+ {
+  "category": "piano",
+  "id": "155842",
+  "author": "day_tripper13",
+  "path": "round3_data/environment/piano/155842.wav",
+  "sha256": "c99bf45883f97d8f80164423188ab9a248e74ae2dd240a7599949ea31a2b25e8"
+ },
+ {
+  "category": "piano",
+  "id": "319585",
+  "author": "visual",
+  "path": "round3_data/environment/piano/319585.wav",
+  "sha256": "de1698f7f119b3054245bbaebcaba2d83d578223768e304ba0bb8719b93e6bed"
+ },
+ {
+  "category": "piano",
+  "id": "428299",
+  "author": "Djeuphoria",
+  "path": "round3_data/environment/piano/428299.wav",
+  "sha256": "1dfbe3d2b9ffe734a9db19489636ea606de11de7fbafbd834b92b6ef6bb0a61f"
+ },
+ {
+  "category": "piano",
+  "id": "253228",
+  "author": "poissonmort",
+  "path": "round3_data/environment/piano/253228.wav",
+  "sha256": "28a67e64f1fc3de306515f96137d0b63347ff2bc75bb8c5293d0c23d0e646016"
+ },
+ {
+  "category": "piano",
+  "id": "51245",
+  "author": "RutgerMuller",
+  "path": "round3_data/environment/piano/51245.wav",
+  "sha256": "eeb73755dea0278d4c68a78646e075a795427cb5e82574a4ab2ff41a520acb91"
+ },
+ {
+  "category": "piano",
+  "id": "363684",
+  "author": "Noedell",
+  "path": "round3_data/environment/piano/363684.wav",
+  "sha256": "9ff106469385907cddd8b9f41ade27ff99a4de9ca2cffa6a8ed7c781c638fe18"
+ },
+ {
+  "category": "piano",
+  "id": "12790",
+  "author": "Jovica",
+  "path": "round3_data/environment/piano/12790.wav",
+  "sha256": "df6d0b411a8966715fedddffb91ce46af1dc973ef0506a770a0be5b85ebd91da"
+ },
+ {
+  "category": "piano",
+  "id": "28628",
+  "author": "thanvannispen",
+  "path": "round3_data/environment/piano/28628.wav",
+  "sha256": "7a892badf010c6581653af75685c8cdffdd5f599447635c905989ef85ee400c0"
+ },
+ {
+  "category": "piano",
+  "id": "155841",
+  "author": "day_tripper13",
+  "path": "round3_data/environment/piano/155841.wav",
+  "sha256": "0bfe08113d6009b1899d07b255edba3ce709eac490313f93f3cb7b9e362554d2"
+ },
+ {
+  "category": "speech",
+  "id": "223527",
+  "author": "JarAxe",
+  "path": "round3_data/environment/speech/223527.wav",
+  "sha256": "757ae3757cd9b2669648c5a190c090cefc8d416214deb10d09e09aabc5bda61c"
+ },
+ {
+  "category": "speech",
+  "id": "367823",
+  "author": "shutup_outcast",
+  "path": "round3_data/environment/speech/367823.wav",
+  "sha256": "9f05e064180a64e384b289c2706539fca4d1cb1d3a7dea28a927acefcfa0fbef"
+ },
+ {
+  "category": "speech",
+  "id": "393469",
+  "author": "beatrizabade",
+  "path": "round3_data/environment/speech/393469.wav",
+  "sha256": "96fc8ec4b451de2cee5fea0f640c5b3f01ce4d69db3ce5b5017123c1f340b30d"
+ },
+ {
+  "category": "speech",
+  "id": "172550",
+  "author": "Yoram",
+  "path": "round3_data/environment/speech/172550.wav",
+  "sha256": "59743162380369907316450ca572734862de27394beea921071edd1dc5a06971"
+ },
+ {
+  "category": "speech",
+  "id": "205732",
+  "author": "SamKolber",
+  "path": "round3_data/environment/speech/205732.wav",
+  "sha256": "35f80b1fdc92ced2bb6a9232cb8328f32c9dff0686e46856b0658aaafe88dd76"
+ },
+ {
+  "category": "speech",
+  "id": "412041",
+  "author": "1477491",
+  "path": "round3_data/environment/speech/412041.wav",
+  "sha256": "55ececf888a258fd1e84114c5ec188a68372feb712beada195e79f52176dfc9a"
+ },
+ {
+  "category": "speech",
+  "id": "407454",
+  "author": "fkunze",
+  "path": "round3_data/environment/speech/407454.wav",
+  "sha256": "48a6957e49e00fffd03337a3eb0d51a26f20cacb6cd89baa3bc1c8e5266770c9"
+ },
+ {
+  "category": "speech",
+  "id": "116390",
+  "author": "FunnyMan374",
+  "path": "round3_data/environment/speech/116390.wav",
+  "sha256": "ea521d689d5262b83b15750c27be9d9e280998898550c03c2285daa1e86758db"
+ },
+ {
+  "category": "speech",
+  "id": "137394",
+  "author": "dansotak",
+  "path": "round3_data/environment/speech/137394.wav",
+  "sha256": "fa6e598244514b4c31ecd1b88dec44ee9ee8a8410d0ada8eceb8ebea2e3ad6fc"
+ },
+ {
+  "category": "speech",
+  "id": "17643",
+  "author": "TwistedLemon",
+  "path": "round3_data/environment/speech/17643.wav",
+  "sha256": "2746b49a3c97eb6b28d39a20f1ad507c120ae05248caa8f329c308679b67a95f"
+ },
+ {
+  "category": "speech",
+  "id": "367081",
+  "author": "edzie777",
+  "path": "round3_data/environment/speech/367081.wav",
+  "sha256": "78802c30dd46420fe01562f571b1c3b1b9edc96a30d22f393d0d091ecf7ec832"
+ },
+ {
+  "category": "speech",
+  "id": "191392",
+  "author": "fabiopapa",
+  "path": "round3_data/environment/speech/191392.wav",
+  "sha256": "31069c9aaea16473474203809defb706d3fcbcc2e8829294b03bd04cec5b4de3"
+ },
+ {
+  "category": "speech",
+  "id": "152991",
+  "author": "victoriarey91",
+  "path": "round3_data/environment/speech/152991.wav",
+  "sha256": "d69d36a3b4a592ec3bc37214a8dd3e22d79cd5936014d34f52de267fad2782e5"
+ },
+ {
+  "category": "speech",
+  "id": "355063",
+  "author": "ImLaxolotl",
+  "path": "round3_data/environment/speech/355063.wav",
+  "sha256": "e357370fc20d180bf7e0500591cc7af48feb8e507d6832818aa26d1ca980be5f"
+ },
+ {
+  "category": "speech",
+  "id": "240324",
+  "author": "squashy555",
+  "path": "round3_data/environment/speech/240324.wav",
+  "sha256": "b5bc19cbf7787bfa9da7a5219cc12ed3975cfa85836e024e061ee8d6ab25c5df"
+ },
+ {
+  "category": "speech",
+  "id": "31571",
+  "author": "Walter_Odington",
+  "path": "round3_data/environment/speech/31571.wav",
+  "sha256": "79ff05a0ad3e9ab3658d0664dd5c3c6fcb73d1f153f971416d7bd1b24c27e402"
+ },
+ {
+  "category": "speech",
+  "id": "244452",
+  "author": "milton.",
+  "path": "round3_data/environment/speech/244452.wav",
+  "sha256": "c9c2ef681289b116c6e1c3525657d384162bf4e6337dcefdc9bf78307eb8b2db"
+ },
+ {
+  "category": "speech",
+  "id": "174627",
+  "author": "altfuture",
+  "path": "round3_data/environment/speech/174627.wav",
+  "sha256": "ac6e1750888e834c07488abbae8e787caaaaf4e99638cb8ee006fc33755823eb"
+ },
+ {
+  "category": "train",
+  "id": "86753",
+  "author": "LG",
+  "path": "round3_data/environment/train/86753.wav",
+  "sha256": "8b541c1958dee1f908ed333302943ad425c156c91783c75c64d8439f6ed46381"
+ },
+ {
+  "category": "wind",
+  "id": "199926",
+  "author": "thedapperdan",
+  "path": "round3_data/environment/wind/199926.wav",
+  "sha256": "c5185c50ce392b5320151bf4e14bf1064f03a30a11eacf57e8b41c2a81504526"
+ },
+ {
+  "category": "wind",
+  "id": "219636",
+  "author": "andrescompovigo",
+  "path": "round3_data/environment/wind/219636.wav",
+  "sha256": "8611326478919739996ef96c7ce5f7ce975bdd38b3659edaf57656ca1f258f75"
+ },
+ {
+  "category": "wind",
+  "id": "186335",
+  "author": "barcelonetasonora",
+  "path": "round3_data/environment/wind/186335.wav",
+  "sha256": "80d0bb5e38689a5231628cc9b412cbed3aa16fcb44354646da038af0c411313b"
+ },
+ {
+  "category": "wind",
+  "id": "194842",
+  "author": "xspackets",
+  "path": "round3_data/environment/wind/194842.wav",
+  "sha256": "248c6647471be59088e6f66e8df9bce6931e41dc5dab1873f69df1e07331b7aa"
+ },
+ {
+  "category": "wind",
+  "id": "144141",
+  "author": "alukahn",
+  "path": "round3_data/environment/wind/144141.wav",
+  "sha256": "c07d2304ba954cad67e5af926ed587b9ad2954c918a170d3025c9e150644ddd6"
+ },
+ {
+  "category": "wind",
+  "id": "25908",
+  "author": "Percy Duke",
+  "path": "round3_data/environment/wind/25908.wav",
+  "sha256": "20bf545d15d1b398d89235aedfc1072460b0f6b198019bcfc4e0ef7e2bac029a"
+ },
+ {
+  "category": "wind",
+  "id": "121945",
+  "author": "hantorio",
+  "path": "round3_data/environment/wind/121945.wav",
+  "sha256": "8c8362e34a2055c5618d3a44205507bc6c2a380aaef74aafe79f98fe74f26520"
+ },
+ {
+  "category": "wind",
+  "id": "334903",
+  "author": "equiloud",
+  "path": "round3_data/environment/wind/334903.wav",
+  "sha256": "1f27c24a6795cce0fae8560e46aa233ec38ca5bc3a3b8be3d8f9cbe5eaf9fd99"
+ },
+ {
+  "category": "guitar",
+  "id": "37199",
+  "author": "UncleSigmund",
+  "path": "round3_data/environment/guitar/37199.wav",
+  "sha256": "33f956369b82f67708a86b3f4a3b7558cd16796cf4773c203ece61ae8231edf6"
+ },
+ {
+  "category": "guitar",
+  "id": "60138",
+  "author": "uzerx",
+  "path": "round3_data/environment/guitar/60138.wav",
+  "sha256": "9e0b508417daa7bf665c4eae44257e9cb71a88cd0700c25f36b2e57287d67125"
+ },
+ {
+  "category": "guitar",
+  "id": "60696",
+  "author": "alextundra",
+  "path": "round3_data/environment/guitar/60696.wav",
+  "sha256": "532084b55a98900d5f26f0ab61c9f66d98f57c12921c88fa23d7ea976f9f031a"
+ },
+ {
+  "category": "piano",
+  "id": "25488",
+  "author": "Raggaman",
+  "path": "round3_data/environment/piano/25488.wav",
+  "sha256": "e8c1b22ceeac568d58beb9dc7fe95525251e80f9fc25a77dd7657138ee873bde"
+ },
+ {
+  "category": "piano",
+  "id": "392399",
+  "author": "TheMineWay",
+  "path": "round3_data/environment/piano/392399.wav",
+  "sha256": "9d38f4d9cfd6540058deab1ad568fd7c1e5795a5cf30138b337c9c97774dbb2d"
+ },
+ {
+  "category": "piano",
+  "id": "85323",
+  "author": "RandyMcMillan",
+  "path": "round3_data/environment/piano/85323.wav",
+  "sha256": "edb7f801cc511b4ab69d830c603cf4315d35b7eb79545b2d18fcd3aca25a6dbe"
+ },
+ {
+  "category": "piano",
+  "id": "351327",
+  "author": "Zodoz",
+  "path": "round3_data/environment/piano/351327.wav",
+  "sha256": "3e9ce721bd3fa3c2ff67bafb552d71b4411ccce2348c6fe3697d5f5e813dbdf7"
+ },
+ {
+  "category": "piano",
+  "id": "433856",
+  "author": "Kardithron",
+  "path": "round3_data/environment/piano/433856.wav",
+  "sha256": "89794e264f2bea36a1b8dac49c17814dc1ebadd25967fb1c4aa1fa4ab57277f6"
+ },
+ {
+  "category": "piano",
+  "id": "428293",
+  "author": "Djeuphoria",
+  "path": "round3_data/environment/piano/428293.wav",
+  "sha256": "9b8bd7e1125c8f75fc3446b072f0200fa8b6092309760a7a462c445a669eb771"
+ },
+ {
+  "category": "piano",
+  "id": "334541",
+  "author": "Teddy_Frost",
+  "path": "round3_data/environment/piano/334541.wav",
+  "sha256": "0eb7de088493d2f778b39f5cb0fa853775929159fae96e4e20a57f4a1ef4d840"
+ },
+ {
+  "category": "piano",
+  "id": "363694",
+  "author": "Noedell",
+  "path": "round3_data/environment/piano/363694.wav",
+  "sha256": "8a8401971dd3ef6434bedb4db950d34620620dd5058ab08eaca3ab9d743e63d7"
+ },
+ {
+  "category": "speech",
+  "id": "400869",
+  "author": "Mystikuum",
+  "path": "round3_data/environment/speech/400869.wav",
+  "sha256": "965e1e3cde7088fe14c66b137ddde826d5b6440ce7b38e309b229c3dcb8051ac"
+ },
+ {
+  "category": "speech",
+  "id": "71600",
+  "author": "ghostcake",
+  "path": "round3_data/environment/speech/71600.wav",
+  "sha256": "3c5aab1c31ee1140ec8c71411ddaf93b96363a0a5a1d8df8e8f398f99d898856"
+ },
+ {
+  "category": "speech",
+  "id": "410274",
+  "author": "jimmyfisher",
+  "path": "round3_data/environment/speech/410274.wav",
+  "sha256": "2ebaf0a3880bd2bfd1887326c49390581fefcb1a577e08f0eb07f17287329971"
+ },
+ {
+  "category": "speech",
+  "id": "340165",
+  "author": "Cell31_Sound_Productions",
+  "path": "round3_data/environment/speech/340165.wav",
+  "sha256": "07d296dd7ddcd35d3260f61c3a0d8f2bf46d2d09fe61873926b71a9421fb8cfb"
+ },
+ {
+  "category": "speech",
+  "id": "232176",
+  "author": "nick121087",
+  "path": "round3_data/environment/speech/232176.wav",
+  "sha256": "c1270fe44e33f2b0eea8f493def4556a0345cb75001ed043ea34f03064a517bf"
+ },
+ {
+  "category": "speech",
+  "id": "529",
+  "author": "aloscos",
+  "path": "round3_data/environment/speech/529.wav",
+  "sha256": "2e937f48eebee67f9a0d0ad3cffcdb7a390d381c78114c57fc6d9af8d36cb9c5"
+ },
+ {
+  "category": "speech",
+  "id": "337723",
+  "author": "schroedel",
+  "path": "round3_data/environment/speech/337723.wav",
+  "sha256": "bbc928276faba2674372985d1bc81a4abece5c1db7a1a385515ea60a8d4213a9"
+ },
+ {
+  "category": "speech",
+  "id": "343165",
+  "author": "theatertech455",
+  "path": "round3_data/environment/speech/343165.wav",
+  "sha256": "adc1ada9c06298fdaac098d0f514b89eadee2af889695dd68260b08280a0b2fb"
+ },
+ {
+  "category": "speech",
+  "id": "249490",
+  "author": "Katiemullen",
+  "path": "round3_data/environment/speech/249490.wav",
+  "sha256": "6c638faaaf96e3b3bb2486e68343a35650e3729c230652d8f6baf8997b617a5c"
+ },
+ {
+  "category": "speech",
+  "id": "233261",
+  "author": "xavimuse",
+  "path": "round3_data/environment/speech/233261.wav",
+  "sha256": "96f7b849ffdc291ebf1d36c724f1960525aebbee6397d009853b196c6aa3208c"
+ },
+ {
+  "category": "speech",
+  "id": "402142",
+  "author": "Mickael_Leroi",
+  "path": "round3_data/environment/speech/402142.wav",
+  "sha256": "dc736e82778b20ebbb454c46744ad21ca1d154a767911369417f862965c83cef"
+ },
+ {
+  "category": "speech",
+  "id": "125717",
+  "author": "origin35",
+  "path": "round3_data/environment/speech/125717.wav",
+  "sha256": "5714e47a23ebad1b9040fea7847d91437f57240abe1b5a01100d05bb17c8896d"
+ },
+ {
+  "category": "speech",
+  "id": "346213",
+  "author": "FloydP",
+  "path": "round3_data/environment/speech/346213.wav",
+  "sha256": "408db18190fcd11b42b9727c5c7b1aeba1ed4428c22ecc47ef4d4e0bcd3805a9"
+ },
+ {
+  "category": "speech",
+  "id": "62966",
+  "author": "DjCHAOS",
+  "path": "round3_data/environment/speech/62966.wav",
+  "sha256": "258f3d2fc4efd765ef29ad8918b86b0fc02fbab0cf8e38565b1e72acb8e7318e"
+ },
+ {
+  "category": "guitar",
+  "id": "183792",
+  "author": "quartertone",
+  "path": "round3_data/environment/guitar/183792.wav",
+  "sha256": "8eb767adfc95814642fa7db1e5b5699dfd36f9508cffdbd00d23ab8240e91589"
+ },
+ {
+  "category": "piano",
+  "id": "28619",
+  "author": "thanvannispen",
+  "path": "round3_data/environment/piano/28619.wav",
+  "sha256": "79c93a7e14659e0c40f85040b7b86d891447143b0e2ff834bd5b0d633cceced0"
+ }
+]

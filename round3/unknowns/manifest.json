@@ -1,0 +1,536 @@
+[
+  {
+    "category": "Drip",
+    "author": "170129",
+    "id": "408263",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "https://freesound.org/s/408263/",
+    "title": "taking a leak.wav",
+    "labels": [
+      "Drip",
+      "Liquid"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/eval/408263.wav",
+    "path": "round3_data/unknown/408263.wav",
+    "sha256": "d13283ddb7078cbff32d78639995a8c605e48821948416cf55ab840c2b4de63a",
+    "sample_rate": 44100,
+    "frames": 1234800
+  },
+  {
+    "category": "Clock",
+    "author": "kruud",
+    "id": "342297",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "https://freesound.org/s/342297/",
+    "title": "Clock 128 bpm.wav",
+    "labels": [
+      "Clock",
+      "Mechanisms"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/342297.wav",
+    "path": "round3_data/unknown/342297.wav",
+    "sha256": "3cb03d1bcfc6c5ba4eb5667b520a4d2267a4f368b19967c913fb63eb35633f6a",
+    "sample_rate": 44100,
+    "frames": 166236
+  },
+  {
+    "category": "Church_bell",
+    "author": "cmusounddesign",
+    "id": "89059",
+    "license": "http://creativecommons.org/licenses/by/3.0/",
+    "url": "https://freesound.org/s/89059/",
+    "title": "jf Vietnam, CT.wav",
+    "labels": [
+      "Bell",
+      "Church_bell"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/89059.wav",
+    "path": "round3_data/unknown/89059.wav",
+    "sha256": "569a1b2168d07809a3c9b7df4892d24c18ab030c251f7d73534a181fd9d3f86b",
+    "sample_rate": 44100,
+    "frames": 788508
+  },
+  {
+    "category": "Clock",
+    "author": "fauxpress",
+    "id": "42134",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "https://freesound.org/s/42134/",
+    "title": "Old Scots Clock - Half Hour.wav",
+    "labels": [
+      "Clock",
+      "Mechanisms"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/42134.wav",
+    "path": "round3_data/unknown/42134.wav",
+    "sha256": "991554cfd5b32e2a6f655ca4bbfd7ab8c101703094d5bcb42f6f40c64ed1239b",
+    "sample_rate": 44100,
+    "frames": 432128
+  },
+  {
+    "category": "Church_bell",
+    "author": "Julien Matthey",
+    "id": "127858",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "https://freesound.org/s/127858/",
+    "title": "JM_AMB_EXT_Church Bell - 06PM.wav",
+    "labels": [
+      "Bell",
+      "Church_bell"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/eval/127858.wav",
+    "path": "round3_data/unknown/127858.wav",
+    "sha256": "32f20d5e4b085238e8d8ac8797192aa6d635b8df32a29b351f8df6d7025eeeac",
+    "sample_rate": 44100,
+    "frames": 491178
+  },
+  {
+    "category": "Clock",
+    "author": "Monkay",
+    "id": "81973",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "https://freesound.org/s/81973/",
+    "title": "ticking clock 2.WAV",
+    "labels": [
+      "Clock",
+      "Mechanisms"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/81973.wav",
+    "path": "round3_data/unknown/81973.wav",
+    "sha256": "fdd00bc014b0207ba2f3713d15d5f84e1e26aafc3ea24f9c2ac4e0d00aeb5a47",
+    "sample_rate": 44100,
+    "frames": 760341
+  },
+  {
+    "category": "Clock",
+    "author": "Manicciola",
+    "id": "120787",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "https://freesound.org/s/120787/",
+    "title": "CLOCK_MJH_01.WAV",
+    "labels": [
+      "Clock",
+      "Mechanisms"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/120787.wav",
+    "path": "round3_data/unknown/120787.wav",
+    "sha256": "28b97c6c05491900c55ae60822471ddc054ec6d8ff25f8b0cc1511f7e6b96e3a",
+    "sample_rate": 44100,
+    "frames": 340672
+  },
+  {
+    "category": "Clock",
+    "author": "jmdh",
+    "id": "388311",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "https://freesound.org/s/388311/",
+    "title": "Carriage chimes 6",
+    "labels": [
+      "Clock",
+      "Mechanisms"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/388311.wav",
+    "path": "round3_data/unknown/388311.wav",
+    "sha256": "00a44f0599c80f24a2461baaa9b3f460398436763fdeb8834085ffb36123dfbe",
+    "sample_rate": 44100,
+    "frames": 685172
+  },
+  {
+    "category": "Church_bell",
+    "author": "JarredGibb",
+    "id": "219052",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "https://freesound.org/s/219052/",
+    "title": "Church Clock Strikes 7.wav",
+    "labels": [
+      "Bell",
+      "Church_bell"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/219052.wav",
+    "path": "round3_data/unknown/219052.wav",
+    "sha256": "72e587b81506ce857a6d4f9b845c50b3b17768194883bdd1b59d35bb8909bdc8",
+    "sample_rate": 44100,
+    "frames": 858520
+  },
+  {
+    "category": "Clock",
+    "author": "Mortifreshman",
+    "id": "237210",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "https://freesound.org/s/237210/",
+    "title": "Clock ticking",
+    "labels": [
+      "Clock",
+      "Mechanisms"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/237210.wav",
+    "path": "round3_data/unknown/237210.wav",
+    "sha256": "d9864eebdc3218a33b7886373aa4f2aca7a24140361e7af9280eec61d00fff5c",
+    "sample_rate": 44100,
+    "frames": 1186560
+  },
+  {
+    "category": "Drip",
+    "author": "panfluterman",
+    "id": "376377",
+    "license": "http://creativecommons.org/licenses/by/3.0/",
+    "url": "https://freesound.org/s/376377/",
+    "title": "Water Drips.wav",
+    "labels": [
+      "Drip",
+      "Liquid"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/eval/376377.wav",
+    "path": "round3_data/unknown/376377.wav",
+    "sha256": "ced13d757c81bd8d1c1467be9fe14f6d25331f2973c0a8db050541a5d2b8fbe7",
+    "sample_rate": 44100,
+    "frames": 650475
+  },
+  {
+    "category": "Drip",
+    "author": "MWLANDI",
+    "id": "85874",
+    "license": "http://creativecommons.org/licenses/by/3.0/",
+    "url": "https://freesound.org/s/85874/",
+    "title": "Shower Driping Slow .aif",
+    "labels": [
+      "Drip",
+      "Liquid"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/85874.wav",
+    "path": "round3_data/unknown/85874.wav",
+    "sha256": "ef9012b8afd15269d6b3b19606f79cbd8e061683f6915bb656e1fdac514e342a",
+    "sample_rate": 44100,
+    "frames": 573300
+  },
+  {
+    "category": "Church_bell",
+    "author": "thecityrings",
+    "id": "152490",
+    "license": "http://creativecommons.org/licenses/by/3.0/",
+    "url": "https://freesound.org/s/152490/",
+    "title": "mySound_JPPT6_Church-Bells.wav",
+    "labels": [
+      "Bell",
+      "Church_bell"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/152490.wav",
+    "path": "round3_data/unknown/152490.wav",
+    "sha256": "ad5a9ee32475e3b1ee297a0dfabe78c444125d433df12372c74cbe20dfe0fb05",
+    "sample_rate": 44100,
+    "frames": 167424
+  },
+  {
+    "category": "Drip",
+    "author": "mugwood",
+    "id": "121357",
+    "license": "http://creativecommons.org/licenses/by/3.0/",
+    "url": "https://freesound.org/s/121357/",
+    "title": "shedDrips2.wav",
+    "labels": [
+      "Drip",
+      "Liquid"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/121357.wav",
+    "path": "round3_data/unknown/121357.wav",
+    "sha256": "3749ff65f09d1244404c0c67ea247a115700a4a8c7311ceb1f180d31816ec3f9",
+    "sample_rate": 44100,
+    "frames": 1061305
+  },
+  {
+    "category": "Drip",
+    "author": "narner",
+    "id": "73419",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "https://freesound.org/s/73419/",
+    "title": "Creaky Shower Head Sample One.mp3",
+    "labels": [
+      "Drip",
+      "Liquid"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/eval/73419.wav",
+    "path": "round3_data/unknown/73419.wav",
+    "sha256": "7e103f7c05b368d2f35f66f5d28c8c904492f7b6588646eb3409849416263077",
+    "sample_rate": 44100,
+    "frames": 319720
+  },
+  {
+    "category": "Church_bell",
+    "author": "Archeos",
+    "id": "174725",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "https://freesound.org/s/174725/",
+    "title": "bell_sound_B.wav",
+    "labels": [
+      "Bell",
+      "Church_bell"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/eval/174725.wav",
+    "path": "round3_data/unknown/174725.wav",
+    "sha256": "81a755b5f50f506a7fedd7401814e247b1c5ea69b5a09857e30fcf0c6dfca359",
+    "sample_rate": 44100,
+    "frames": 273154
+  },
+  {
+    "category": "Drip",
+    "author": "LampEight",
+    "id": "402461",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "https://freesound.org/s/402461/",
+    "title": "Button Click Switch Valve Water Drips",
+    "labels": [
+      "Drip",
+      "Liquid"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/402461.wav",
+    "path": "round3_data/unknown/402461.wav",
+    "sha256": "017e7f96839cf7f137da10decd34f5b6e8c2485c792e7efff30849338364f923",
+    "sample_rate": 44100,
+    "frames": 860770
+  },
+  {
+    "category": "Church_bell",
+    "author": "ducksingel",
+    "id": "425195",
+    "license": "http://creativecommons.org/licenses/by/3.0/",
+    "url": "https://freesound.org/s/425195/",
+    "title": "bells of Vlad.aiff",
+    "labels": [
+      "Bell",
+      "Church_bell"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/425195.wav",
+    "path": "round3_data/unknown/425195.wav",
+    "sha256": "02f65c43500f649d8918d2023aee1adb36111de7b307a7b9e1ba1072e4886d75",
+    "sample_rate": 44100,
+    "frames": 1243698
+  },
+  {
+    "category": "Bark",
+    "author": "14FPanskaZummer_Jakub",
+    "id": "418155",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "https://freesound.org/s/418155/",
+    "title": "Barking m dog.wav",
+    "labels": [
+      "Animal",
+      "Bark",
+      "Dog",
+      "Domestic_animals_and_pets"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/418155.wav",
+    "path": "round3_data/unknown/418155.wav",
+    "sha256": "4dfb77ad2a31527d1a1c27985662932bde9458fbcd800f3a774b8529c997bb64",
+    "sample_rate": 44100,
+    "frames": 590940
+  },
+  {
+    "category": "Bark",
+    "author": "SieuAmThanh",
+    "id": "400576",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "https://freesound.org/s/400576/",
+    "title": "ConChóSúa.wav",
+    "labels": [
+      "Animal",
+      "Bark",
+      "Dog",
+      "Domestic_animals_and_pets"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/400576.wav",
+    "path": "round3_data/unknown/400576.wav",
+    "sha256": "92d6f1fe923a66667bb4544ef7f2719467e4d978597ace32dcc1382e3ed55cef",
+    "sample_rate": 44100,
+    "frames": 473834
+  },
+  {
+    "category": "Meow",
+    "author": "missozzy",
+    "id": "169983",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "https://freesound.org/s/169983/",
+    "title": "Hungry cats",
+    "labels": [
+      "Animal",
+      "Cat",
+      "Domestic_animals_and_pets",
+      "Meow"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/169983.wav",
+    "path": "round3_data/unknown/169983.wav",
+    "sha256": "1c2ddd0b60a5d968aa2836b54374851a7d959d9bb90217d2c6cc13e4f75b4e83",
+    "sample_rate": 44100,
+    "frames": 280665
+  },
+  {
+    "category": "Bark",
+    "author": "NikoMyth",
+    "id": "348129",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "https://freesound.org/s/348129/",
+    "title": "Barking.wav",
+    "labels": [
+      "Animal",
+      "Bark",
+      "Dog",
+      "Domestic_animals_and_pets"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/eval/348129.wav",
+    "path": "round3_data/unknown/348129.wav",
+    "sha256": "1ed7b0dc11a7485ee57480d6fa76e1cf8cea84de21b6198f33e3371e930b12a3",
+    "sample_rate": 44100,
+    "frames": 226296
+  },
+  {
+    "category": "Meow",
+    "author": "essgglobal2016",
+    "id": "333779",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "https://freesound.org/s/333779/",
+    "title": "gata1.mp3",
+    "labels": [
+      "Animal",
+      "Cat",
+      "Domestic_animals_and_pets",
+      "Meow"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/eval/333779.wav",
+    "path": "round3_data/unknown/333779.wav",
+    "sha256": "2a73c7355de10175ae2f31108e7ebc4735b7fb76d7ec5aed9400e09194659e45",
+    "sample_rate": 44100,
+    "frames": 793728
+  },
+  {
+    "category": "Bark",
+    "author": "RafaStone",
+    "id": "264332",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "https://freesound.org/s/264332/",
+    "title": "Golden_Retriever.mp3",
+    "labels": [
+      "Animal",
+      "Bark",
+      "Dog",
+      "Domestic_animals_and_pets"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/264332.wav",
+    "path": "round3_data/unknown/264332.wav",
+    "sha256": "16c5af7e4cbdc483f41a539c36ac5cb10c728860ca70ae4684858b3be1c8f4de",
+    "sample_rate": 44100,
+    "frames": 264960
+  },
+  {
+    "category": "Meow",
+    "author": "whatsanickname4u",
+    "id": "107188",
+    "license": "http://creativecommons.org/licenses/by/3.0/",
+    "url": "https://freesound.org/s/107188/",
+    "title": "catgroan.aiff",
+    "labels": [
+      "Animal",
+      "Cat",
+      "Domestic_animals_and_pets",
+      "Meow"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/eval/107188.wav",
+    "path": "round3_data/unknown/107188.wav",
+    "sha256": "1a79596e706c26fc5df5a935f8b6b8201bba6aa8c671d05edf28da34f8e0cd23",
+    "sample_rate": 44100,
+    "frames": 928790
+  },
+  {
+    "category": "Bark",
+    "author": "saphe",
+    "id": "119420",
+    "license": "http://creativecommons.org/licenses/by/3.0/",
+    "url": "https://freesound.org/s/119420/",
+    "title": "dog barks",
+    "labels": [
+      "Animal",
+      "Bark",
+      "Dog",
+      "Domestic_animals_and_pets"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/119420.wav",
+    "path": "round3_data/unknown/119420.wav",
+    "sha256": "183fd05ebff2877e5505cb19792dab5f7688ed73c23c02777494a9fc396e6c2a",
+    "sample_rate": 44100,
+    "frames": 310456
+  },
+  {
+    "category": "Bark",
+    "author": "martinimeniscus",
+    "id": "164311",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "https://freesound.org/s/164311/",
+    "title": "ANIM Dog Barking1_csm01.wav",
+    "labels": [
+      "Animal",
+      "Bark",
+      "Dog",
+      "Domestic_animals_and_pets"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/164311.wav",
+    "path": "round3_data/unknown/164311.wav",
+    "sha256": "1697e31e99edb63514a3b989b6dd21a454e22d3ba9eb09438e78bef02c6d45d4",
+    "sample_rate": 44100,
+    "frames": 516500
+  },
+  {
+    "category": "Meow",
+    "author": "MaxDemianAGL",
+    "id": "130034",
+    "license": "http://creativecommons.org/licenses/by/3.0/",
+    "url": "https://freesound.org/s/130034/",
+    "title": "Meow_Kitten.wav",
+    "labels": [
+      "Animal",
+      "Cat",
+      "Domestic_animals_and_pets",
+      "Meow"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/130034.wav",
+    "path": "round3_data/unknown/130034.wav",
+    "sha256": "ccbc80d97fd0a8f633c69ffb228cebe8356088eac2bea31af53b34041a7d216b",
+    "sample_rate": 44100,
+    "frames": 511318
+  },
+  {
+    "category": "Meow",
+    "author": "ignotus",
+    "id": "26104",
+    "license": "http://creativecommons.org/licenses/by/3.0/",
+    "url": "https://freesound.org/s/26104/",
+    "title": "miau.flac",
+    "labels": [
+      "Animal",
+      "Cat",
+      "Domestic_animals_and_pets",
+      "Meow"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/26104.wav",
+    "path": "round3_data/unknown/26104.wav",
+    "sha256": "dcb532a59f0510a092ffd51b53827ac2f5a26427f53e31f5b67bc7fbc0263779",
+    "sample_rate": 44100,
+    "frames": 724931
+  },
+  {
+    "category": "Meow",
+    "author": "InSintesi",
+    "id": "348855",
+    "license": "http://creativecommons.org/licenses/by/3.0/",
+    "url": "https://freesound.org/s/348855/",
+    "title": "Cat and Rain.wav",
+    "labels": [
+      "Animal",
+      "Cat",
+      "Domestic_animals_and_pets",
+      "Meow"
+    ],
+    "download_url": "https://huggingface.co/datasets/Fhrozen/FSD50k/resolve/ccf1acaff12f3f4a4c10052dddafbb6d22152c9b/clips/dev/348855.wav",
+    "path": "round3_data/unknown/348855.wav",
+    "sha256": "29aa5b752365df1fc3078a4bc4d25e7d65cdcdbbc6bba18e55c67fe6437793ca",
+    "sample_rate": 44100,
+    "frames": 1227159
+  }
+]

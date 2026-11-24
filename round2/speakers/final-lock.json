@@ -1,0 +1,7 @@
+{
+  "voicehunter/speaker_identity.py": "500d104ebd89a0f41d68ac0ff87ba5e867b0b4f1c51c2d6a708a9fde00a0dbfb",
+  "voicehunter/speech.py": "9de8a31de18ee952002b141229f2d847c9f4159f66759a285bca367bf9c227fe",
+  "voicehunter/models/speaker-distance.json": "b6b09af6aca2a885945fc21fc1c96a9ba687cabf5d9637243828925bf4ab2d97",
+  "round2/speakers/evaluate.py": "f25fcfc2ec575258faef66820f2d85c2cef20fcd09bb27bed133dc4b1b8bcb84",
+  "round2/speakers/final-protocol.md": "eccdeeacce567d0c7234c0c078b37d9c393d4ebc1e93ded577ab35d58c374ba1"
+}

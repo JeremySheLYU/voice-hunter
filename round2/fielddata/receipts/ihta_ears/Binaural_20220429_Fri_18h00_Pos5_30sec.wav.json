@@ -1,0 +1,21 @@
+{
+  "id": "ihta_ears/Binaural_20220429_Fri_18h00_Pos5_30sec.wav",
+  "dataset": "ihta_ears",
+  "record": "11184517",
+  "member": "Binaural/20220429_Fri_18h00_Pos5_30sec.wav",
+  "source_offset_s": 0,
+  "duration_s": 4.0,
+  "rate": 48000,
+  "channels": 2,
+  "bytes": 670137,
+  "sha256": "d655142fb372e73721735551fde1600ff1474c1cc996c66cf20d39319ac8a79d",
+  "pcm_s32le_sha256": "2e93e13d96712020c45fe35da3809f6c15dd83cfee1706e21563859366060e66",
+  "archive_crc32": "0x357e4bfa",
+  "archive_range": [
+    661857095,
+    663362630
+  ],
+  "range_sha256": "90ae34b9dcc699a3f7c1ad60e0dfbfca9067239e735db0477e03e4860b0e8eef",
+  "path": "round2_data/field/ihta_ears/Binaural_20220429_Fri_18h00_Pos5_30sec.wav.flac",
+  "license": "CC-BY-4.0"
+}

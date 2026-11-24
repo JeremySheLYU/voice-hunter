@@ -1,0 +1,1184 @@
+{
+  "baseline": {
+    "n": 13,
+    "scene_pass": 3,
+    "track_pass": 22,
+    "mean_worst": -0.7951259371959325,
+    "median": 3.925111906116329,
+    "worst": -23.189662238709076,
+    "mean": 4.048139500800579
+  },
+  "estimate": {
+    "n": 13,
+    "scene_pass": 13,
+    "track_pass": 39,
+    "mean_worst": 11.438460855733528,
+    "median": 14.430072953358426,
+    "worst": 6.403270945869146,
+    "mean": 13.775580705283701
+  },
+  "model_sha": "d38c86403627c08f75726c6689b109a6bf0b16d278425d6c61882179d20df928",
+  "manifest_sha": "4a3be692a05099be49b7d64753d828ee45ed1437f981fbd22d0f4885fcab123a",
+  "cases": [
+    {
+      "scene": 0,
+      "split": "test",
+      "capture": "ILD",
+      "recordings": [
+        {
+          "track": "source1",
+          "asset": "173075",
+          "author": "shorthopper",
+          "category": "guitar",
+          "path": "round2_data/environment/guitar/173075.wav",
+          "sha256": "5be7d452bc099c199b4fd26ff24d321c98e59f7490577abff1634bf32df5fc0e",
+          "ref_held_start_samples": [
+            96000,
+            253440
+          ],
+          "pan_fraction": 0.48680440477615705,
+          "relative_db": -1.8060478894430383
+        },
+        {
+          "track": "source2",
+          "asset": "177828",
+          "author": "joabir",
+          "category": "piano",
+          "path": "round2_data/environment/piano/177828.flac",
+          "sha256": "45626d43ab876ce5400d60e93c2ede8f7273fc7237f9f5f9e37e50c9dc579090",
+          "ref_held_start_samples": [
+            122880,
+            245760
+          ],
+          "pan_fraction": 0.16374037604480873,
+          "relative_db": -0.5211758121837167
+        },
+        {
+          "track": "source3",
+          "asset": "207325",
+          "author": "SoundsExciting",
+          "category": "speech",
+          "path": "round2_data/environment/speech/207325.wav",
+          "sha256": "ac5068859e61f3c7184a3dafda27b6d80b44ea20adb409e3639a7a167769e125",
+          "ref_held_start_samples": [
+            0,
+            360960
+          ],
+          "pan_fraction": 0.7993987020404231,
+          "relative_db": 1.3582967481909152
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -5.816201291255329,
+          "estimated_sisdr": 1.9047801834717255,
+          "improvement": 7.720981474727054
+        },
+        {
+          "input_sisdr": -3.7439971786146624,
+          "estimated_sisdr": -3.6628536977417747,
+          "improvement": 0.0811434808728877
+        },
+        {
+          "input_sisdr": -0.42429589608652196,
+          "estimated_sisdr": -1.1451584863798958,
+          "improvement": -0.7208625902933739
+        }
+      ],
+      "candidates": {},
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -5.816201291255329,
+          "estimated_sisdr": 10.937673990766543,
+          "improvement": 16.753875282021873
+        },
+        {
+          "input_sisdr": -3.7439971786146624,
+          "estimated_sisdr": 10.806267471395458,
+          "improvement": 14.55026465001012
+        },
+        {
+          "input_sisdr": -0.42429589608652196,
+          "estimated_sisdr": 18.257459753599615,
+          "improvement": 18.68175564968614
+        }
+      ],
+      "additive_error": 1.862645149230957e-09
+    },
+    {
+      "scene": 1,
+      "split": "test",
+      "capture": "ITD + ILD",
+      "recordings": [
+        {
+          "track": "source1",
+          "asset": "42973",
+          "author": "Whateverthing",
+          "category": "wind",
+          "path": "round2_data/environment/wind/42973.wav",
+          "sha256": "e078d3e23bb0dba45ed5bb9620aa76209e7c59b2e74de3475119bb2984c7add8",
+          "ref_held_start_samples": [
+            34560,
+            195840
+          ],
+          "pan_fraction": 0.46658631692914015,
+          "relative_db": 1.940064281296281
+        },
+        {
+          "track": "source2",
+          "asset": "168741",
+          "author": "Khoon",
+          "category": "guitar",
+          "path": "round2_data/environment/guitar/168741.wav",
+          "sha256": "e373b699636810ee8435b522eaf1417e4c0f9f57af1a91f3ee35ffb6283eae67",
+          "ref_held_start_samples": [
+            130560,
+            199680
+          ],
+          "pan_fraction": 0.7863415339016665,
+          "relative_db": 0.3483126657607598
+        },
+        {
+          "track": "source3",
+          "asset": "170641",
+          "author": "unfa",
+          "category": "speech",
+          "path": "round2_data/environment/speech/170641.wav",
+          "sha256": "b0fb7b8e694fb666a2a27f65060b0a255da7388f0dc214894e56528344f0ce01",
+          "ref_held_start_samples": [
+            142080,
+            257280
+          ],
+          "pan_fraction": 0.2342119436336482,
+          "relative_db": -0.012341106890966902
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -0.9208325064596695,
+          "estimated_sisdr": -5.698110197802897,
+          "improvement": -4.777277691343228
+        },
+        {
+          "input_sisdr": -3.7404848206417367,
+          "estimated_sisdr": 0.1846270854745924,
+          "improvement": 3.925111906116329
+        },
+        {
+          "input_sisdr": -4.436064307671677,
+          "estimated_sisdr": -3.2407986432548705,
+          "improvement": 1.195265664416806
+        }
+      ],
+      "candidates": {},
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -0.9208325064596695,
+          "estimated_sisdr": 5.781583598131533,
+          "improvement": 6.702416104591203
+        },
+        {
+          "input_sisdr": -3.7404848206417367,
+          "estimated_sisdr": 6.624605260311117,
+          "improvement": 10.365090080952854
+        },
+        {
+          "input_sisdr": -4.436064307671677,
+          "estimated_sisdr": 7.426724484545577,
+          "improvement": 11.862788792217254
+        }
+      ],
+      "additive_error": 1.862645149230957e-09
+    },
+    {
+      "scene": 2,
+      "split": "test",
+      "capture": "ILD",
+      "recordings": [
+        {
+          "track": "source1",
+          "asset": "231920",
+          "author": "insdali",
+          "category": "wind",
+          "path": "round2_data/environment/wind/231920.wav",
+          "sha256": "edb060ee94551a149763265b36ab2ab7b9eebe22e54525d4aec0d491d35eef7e",
+          "ref_held_start_samples": [
+            0,
+            299520
+          ],
+          "pan_fraction": 0.18938415152792396,
+          "relative_db": -1.6921249180886693
+        },
+        {
+          "track": "source2",
+          "asset": "35058",
+          "author": "pcaeldries",
+          "category": "train",
+          "path": "round2_data/environment/train/35058.wav",
+          "sha256": "5ac69dd7319f24203c56c4d1ceda8e945dbf67b1fad264b2d4854e7c0e5051f8",
+          "ref_held_start_samples": [
+            30720,
+            499200
+          ],
+          "pan_fraction": 0.478763257165508,
+          "relative_db": -0.3131428557622895
+        },
+        {
+          "track": "source3",
+          "asset": "266005",
+          "author": "Toivo161",
+          "category": "piano",
+          "path": "round2_data/environment/piano/266005.wav",
+          "sha256": "b9103ef1ab310d08571418c01578d3fe5eb4c46b5761eebd1273e9431f2b8c2a",
+          "ref_held_start_samples": [
+            111360,
+            215040
+          ],
+          "pan_fraction": 0.8027288465829857,
+          "relative_db": 1.9288359214812503
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -5.953025165526239,
+          "estimated_sisdr": 5.769450039049349,
+          "improvement": 11.722475204575588
+        },
+        {
+          "input_sisdr": -3.3137525131561443,
+          "estimated_sisdr": -2.3594063373041534,
+          "improvement": 0.9543461758519909
+        },
+        {
+          "input_sisdr": 0.11555899410177081,
+          "estimated_sisdr": 0.47609838797909887,
+          "improvement": 0.36053939387732803
+        }
+      ],
+      "candidates": {},
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -5.953025165526239,
+          "estimated_sisdr": 13.007996006108362,
+          "improvement": 18.961021171634602
+        },
+        {
+          "input_sisdr": -3.3137525131561443,
+          "estimated_sisdr": 11.168901900632349,
+          "improvement": 14.482654413788493
+        },
+        {
+          "input_sisdr": 0.11555899410177081,
+          "estimated_sisdr": 17.007608756548585,
+          "improvement": 16.892049762446813
+        }
+      ],
+      "additive_error": 9.313225746154785e-10
+    },
+    {
+      "scene": 3,
+      "split": "test",
+      "capture": "ITD + ILD",
+      "recordings": [
+        {
+          "track": "source1",
+          "asset": "16799",
+          "author": "mattfl",
+          "category": "wind",
+          "path": "round2_data/environment/wind/16799.flac",
+          "sha256": "6d4dce8e0db681333daff77a284d75e9adec99541fa216b2c1361679d0892576",
+          "ref_held_start_samples": [
+            19200,
+            380160
+          ],
+          "pan_fraction": 0.5052861019948562,
+          "relative_db": 1.474510567153421
+        },
+        {
+          "track": "source2",
+          "asset": "254778",
+          "author": "GreekIrish",
+          "category": "train",
+          "path": "round2_data/environment/train/254778.flac",
+          "sha256": "13cf812595c063d089603fad5bfb5a925dd7b1d4e378ac2895c51ad3517f0dd0",
+          "ref_held_start_samples": [
+            142080,
+            199680
+          ],
+          "pan_fraction": 0.19733937688452458,
+          "relative_db": -1.0433144593596606
+        },
+        {
+          "track": "source3",
+          "asset": "52081",
+          "author": "guitarguy1985",
+          "category": "guitar",
+          "path": "round2_data/environment/guitar/52081.flac",
+          "sha256": "8e19463ffa486fa6fb80369e2ebc10650ca13956a5510a2d0301fbc43214684c",
+          "ref_held_start_samples": [
+            65280,
+            215356
+          ],
+          "pan_fraction": 0.8304166602182252,
+          "relative_db": -0.1441262463409716
+        },
+        {
+          "track": "unassigned",
+          "asset": "382591",
+          "author": "macdaddyno1",
+          "category": "wind",
+          "path": "round2_data/environment/wind/382591.flac",
+          "sha256": "68369cf1135bd958f2bf1155f08ce6eeeb208f2676e0c28cd0bbacb11e7237bc",
+          "ref_held_start_samples": [
+            72960,
+            637440
+          ],
+          "relative_db": -12,
+          "bed": "captured stereo retained"
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -1.4248720892666824,
+          "estimated_sisdr": 9.302241435434278,
+          "improvement": 10.72711352470096
+        },
+        {
+          "input_sisdr": -4.812142769623085,
+          "estimated_sisdr": 2.4602496667487346,
+          "improvement": 7.2723924363718195
+        },
+        {
+          "input_sisdr": -3.6636099651029808,
+          "estimated_sisdr": 2.5875994691977904,
+          "improvement": 6.251209434300771
+        }
+      ],
+      "candidates": {},
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -1.4248720892666824,
+          "estimated_sisdr": 8.984275090654508,
+          "improvement": 10.40914717992119
+        },
+        {
+          "input_sisdr": -4.812142769623085,
+          "estimated_sisdr": 6.052969988900823,
+          "improvement": 10.865112758523907
+        },
+        {
+          "input_sisdr": -3.6636099651029808,
+          "estimated_sisdr": 11.950604134510353,
+          "improvement": 15.614214099613335
+        }
+      ],
+      "additive_error": 1.862645149230957e-09
+    },
+    {
+      "scene": 4,
+      "split": "test",
+      "capture": "ILD",
+      "recordings": [
+        {
+          "track": "source1",
+          "asset": "146271",
+          "author": "gracebirkita",
+          "category": "piano",
+          "path": "round2_data/environment/piano/146271.wav",
+          "sha256": "f8e86b1b0e51c0ae9ea4fb905fbbcaefb0568b6b48418fb8cd59870ca7296d88",
+          "ref_held_start_samples": [
+            96000,
+            147840
+          ],
+          "pan_fraction": 0.776215387775933,
+          "relative_db": -1.087931850715158
+        },
+        {
+          "track": "source2",
+          "asset": "187698",
+          "author": "afrodrumming",
+          "category": "guitar",
+          "path": "round2_data/environment/guitar/187698.wav",
+          "sha256": "54867a7ae7b8a48c933cd3672fcb6342aa468cd4cd45935d9e1302e15e493fe8",
+          "ref_held_start_samples": [
+            0,
+            195840
+          ],
+          "pan_fraction": 0.20802346721818932,
+          "relative_db": -1.6115143563398862
+        },
+        {
+          "track": "source3",
+          "asset": "252653",
+          "author": "OnlyTheGhosts",
+          "category": "speech",
+          "path": "round2_data/environment/speech/252653.wav",
+          "sha256": "65959131add8a833300a46de4a9a441331746ce306285e9430e65e277d84a3e5",
+          "ref_held_start_samples": [
+            42240,
+            284160
+          ],
+          "pan_fraction": 0.5283198167448313,
+          "relative_db": -0.42572442998353477
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -4.090129331758431,
+          "estimated_sisdr": -27.279791570467506,
+          "improvement": -23.189662238709076
+        },
+        {
+          "input_sisdr": -3.605900011848341,
+          "estimated_sisdr": -2.516473953281835,
+          "improvement": 1.0894260585665059
+        },
+        {
+          "input_sisdr": -1.5610367684264101,
+          "estimated_sisdr": 3.8946939226217974,
+          "improvement": 5.455730691048208
+        }
+      ],
+      "candidates": {},
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -4.090129331758431,
+          "estimated_sisdr": 15.558979457089848,
+          "improvement": 19.649108788848277
+        },
+        {
+          "input_sisdr": -3.605900011848341,
+          "estimated_sisdr": 15.18815453118696,
+          "improvement": 18.7940545430353
+        },
+        {
+          "input_sisdr": -1.5610367684264101,
+          "estimated_sisdr": 13.321599606689155,
+          "improvement": 14.882636375115565
+        }
+      ],
+      "additive_error": 9.313225746154785e-10
+    },
+    {
+      "scene": 5,
+      "split": "test",
+      "capture": "ITD + ILD",
+      "recordings": [
+        {
+          "track": "source1",
+          "asset": "146270",
+          "author": "gracebirkita",
+          "category": "guitar",
+          "path": "round2_data/environment/guitar/146270.wav",
+          "sha256": "bc2d4e421af183e979d1c86cf6e51f3fa2f6fae9ac85d10049bba4f0df4095a5",
+          "ref_held_start_samples": [
+            96000,
+            147840
+          ],
+          "pan_fraction": 0.1778603420766216,
+          "relative_db": 0.08163755579825072
+        },
+        {
+          "track": "source2",
+          "asset": "245399",
+          "author": "peridactyloptrix",
+          "category": "train",
+          "path": "round2_data/environment/train/245399.wav",
+          "sha256": "ef855f3670487a3857aa9d3f0fa01605bbc5916f128731bc6848eb865c5d0834",
+          "ref_held_start_samples": [
+            142080,
+            464640
+          ],
+          "pan_fraction": 0.7847465862764074,
+          "relative_db": 1.29516419398598
+        },
+        {
+          "track": "source3",
+          "asset": "31225",
+          "author": "riwid",
+          "category": "piano",
+          "path": "round2_data/environment/piano/31225.wav",
+          "sha256": "ce66b8002c314169e782995b81a8fe1d75b1ecbba4affc048f1e0fe53d5137f3",
+          "ref_held_start_samples": [
+            142080,
+            395520
+          ],
+          "pan_fraction": 0.5074370350008252,
+          "relative_db": 1.689595291191241
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -4.214323931661209,
+          "estimated_sisdr": 2.7187728504354687,
+          "improvement": 6.933096782096678
+        },
+        {
+          "input_sisdr": -2.849941193707118,
+          "estimated_sisdr": 9.415488140852968,
+          "improvement": 12.265429334560086
+        },
+        {
+          "input_sisdr": -1.6239781584923632,
+          "estimated_sisdr": 5.670193632419789,
+          "improvement": 7.294171790912152
+        }
+      ],
+      "candidates": {},
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -4.214323931661209,
+          "estimated_sisdr": 12.56168408078958,
+          "improvement": 16.776008012450788
+        },
+        {
+          "input_sisdr": -2.849941193707118,
+          "estimated_sisdr": 13.88804982161033,
+          "improvement": 16.737991015317448
+        },
+        {
+          "input_sisdr": -1.6239781584923632,
+          "estimated_sisdr": 11.305812367744439,
+          "improvement": 12.929790526236802
+        }
+      ],
+      "additive_error": 1.6298145055770874e-09
+    },
+    {
+      "scene": 6,
+      "split": "test",
+      "capture": "ILD",
+      "recordings": [
+        {
+          "track": "source1",
+          "asset": "395684",
+          "author": "columbia23",
+          "category": "wind",
+          "path": "round2_data/environment/wind/395684.wav",
+          "sha256": "4332c59f38de93f3b4ee613da9be01b3153d464343c88f61167a3ff6e07cd090",
+          "ref_held_start_samples": [
+            134400,
+            330240
+          ],
+          "pan_fraction": 0.8411823662109537,
+          "relative_db": 1.9361604966180463
+        },
+        {
+          "track": "source2",
+          "asset": "217740",
+          "author": "DigiZoo",
+          "category": "speech",
+          "path": "round2_data/environment/speech/217740.wav",
+          "sha256": "6dbddadba7b8b709ec298b85ffba348456c8cd05e6cb3bdf079da4a5685b90da",
+          "ref_held_start_samples": [
+            72960,
+            714240
+          ],
+          "pan_fraction": 0.22212193109624037,
+          "relative_db": -0.09037424567116625
+        },
+        {
+          "track": "source3",
+          "asset": "219212",
+          "author": "SouthernUK",
+          "category": "piano",
+          "path": "round2_data/environment/piano/219212.wav",
+          "sha256": "3db65cd1a99c7d6b99fc9cbd917451faaa2e8921fc9c951e37d5e263e0384fad",
+          "ref_held_start_samples": [
+            57600,
+            135794
+          ],
+          "pan_fraction": 0.4761641910547395,
+          "relative_db": -0.6704131110094989
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -0.45267694885740944,
+          "estimated_sisdr": 2.281766530927895,
+          "improvement": 2.7344434797853046
+        },
+        {
+          "input_sisdr": -3.7249831643732945,
+          "estimated_sisdr": 4.441659993814792,
+          "improvement": 8.166643158188087
+        },
+        {
+          "input_sisdr": -4.9249792679515645,
+          "estimated_sisdr": -3.003331077857803,
+          "improvement": 1.9216481900937614
+        }
+      ],
+      "candidates": {},
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -0.45267694885740944,
+          "estimated_sisdr": 12.41823289953059,
+          "improvement": 12.870909848388
+        },
+        {
+          "input_sisdr": -3.7249831643732945,
+          "estimated_sisdr": 12.480670467782598,
+          "improvement": 16.205653632155894
+        },
+        {
+          "input_sisdr": -4.9249792679515645,
+          "estimated_sisdr": 7.529520839548461,
+          "improvement": 12.454500107500024
+        }
+      ],
+      "additive_error": 1.862645149230957e-09
+    },
+    {
+      "scene": 7,
+      "split": "test",
+      "capture": "ITD + ILD",
+      "recordings": [
+        {
+          "track": "source1",
+          "asset": "204347",
+          "author": "junkfood2121",
+          "category": "wind",
+          "path": "round2_data/environment/wind/204347.wav",
+          "sha256": "052f2aa3ab853f538df14b2446d9b2cbe57693a1d86556969cf77b59defb2fb8",
+          "ref_held_start_samples": [
+            38400,
+            591360
+          ],
+          "pan_fraction": 0.7659189664500312,
+          "relative_db": -0.9823260548613799
+        },
+        {
+          "track": "source2",
+          "asset": "352631",
+          "author": "macdaddyno1",
+          "category": "train",
+          "path": "round2_data/environment/train/352631.wav",
+          "sha256": "06f981e410617064f73c00f517ba78ab0f73d6b6a928671b569d509129bc3bd0",
+          "ref_held_start_samples": [
+            103680,
+            537600
+          ],
+          "pan_fraction": 0.4938174780367217,
+          "relative_db": 1.4158596639874377
+        },
+        {
+          "track": "source3",
+          "asset": "401692",
+          "author": "heitormar",
+          "category": "guitar",
+          "path": "round2_data/environment/guitar/401692.wav",
+          "sha256": "982c0597bc8a9993049a8f026365320b169287978ec07eff2a9b48d316ab9dc1",
+          "ref_held_start_samples": [
+            26880,
+            126589
+          ],
+          "pan_fraction": 0.18481033439697797,
+          "relative_db": 1.4773360336603458
+        },
+        {
+          "track": "unassigned",
+          "asset": "381702",
+          "author": "bengomori",
+          "category": "train",
+          "path": "round2_data/environment/train/381702.flac",
+          "sha256": "ee51272f4072fdb9c452cf543a352c4cea730db81a849c64379e6531ef5dd783",
+          "ref_held_start_samples": [
+            142080,
+            360960
+          ],
+          "relative_db": -12,
+          "bed": "captured stereo retained"
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -5.012436300581099,
+          "estimated_sisdr": 6.973705895899772,
+          "improvement": 11.98614219648087
+        },
+        {
+          "input_sisdr": -1.8304800828348347,
+          "estimated_sisdr": 5.814751688112549,
+          "improvement": 7.645231770947384
+        },
+        {
+          "input_sisdr": -2.917518784827946,
+          "estimated_sisdr": 8.791169139745591,
+          "improvement": 11.708687924573537
+        }
+      ],
+      "candidates": {},
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -5.012436300581099,
+          "estimated_sisdr": 10.040872740408046,
+          "improvement": 15.053309040989145
+        },
+        {
+          "input_sisdr": -1.8304800828348347,
+          "estimated_sisdr": 9.543854613896146,
+          "improvement": 11.37433469673098
+        },
+        {
+          "input_sisdr": -2.917518784827946,
+          "estimated_sisdr": 14.09109915406081,
+          "improvement": 17.008617938888754
+        }
+      ],
+      "additive_error": 4.656612873077393e-10
+    },
+    {
+      "scene": 8,
+      "split": "test",
+      "capture": "ILD",
+      "recordings": [
+        {
+          "track": "source1",
+          "asset": "341874",
+          "author": "Baldirideltasona",
+          "category": "wind",
+          "path": "round2_data/environment/wind/341874.wav",
+          "sha256": "b883504c89ea691c3484d1aba8238c3c13aecfd37a103c5c5b2710b7ecadeaf8",
+          "ref_held_start_samples": [
+            61440,
+            234240
+          ],
+          "pan_fraction": 0.21535521913566882,
+          "relative_db": -1.7374769699912185
+        },
+        {
+          "track": "source2",
+          "asset": "417658",
+          "author": "dersinnsspace",
+          "category": "train",
+          "path": "round2_data/environment/train/417658.wav",
+          "sha256": "3f43f63e73a20e51bd9bc121ac99356f257dd876b59d087e95a0580e0b519da1",
+          "ref_held_start_samples": [
+            61440,
+            334080
+          ],
+          "pan_fraction": 0.504996417435605,
+          "relative_db": 0.42827517419881156
+        },
+        {
+          "track": "source3",
+          "asset": "70214",
+          "author": "QLC",
+          "category": "piano",
+          "path": "round2_data/environment/piano/70214.wav",
+          "sha256": "978ab0fbd65de9286b77c0aa903991104a07eeb31d9c2cfb17258298335d4cfc",
+          "ref_held_start_samples": [
+            111360,
+            196430
+          ],
+          "pan_fraction": 0.8130116388445827,
+          "relative_db": -0.7827878720575452
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -4.386102981191861,
+          "estimated_sisdr": 5.7574269513526986,
+          "improvement": 10.14352993254456
+        },
+        {
+          "input_sisdr": -1.5899157983624366,
+          "estimated_sisdr": -6.512071932320732,
+          "improvement": -4.922156133958296
+        },
+        {
+          "input_sisdr": -3.471780212527256,
+          "estimated_sisdr": 0.8982645174849941,
+          "improvement": 4.37004473001225
+        }
+      ],
+      "candidates": {},
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -4.386102981191861,
+          "estimated_sisdr": 12.65495587188628,
+          "improvement": 17.04105885307814
+        },
+        {
+          "input_sisdr": -1.5899157983624366,
+          "estimated_sisdr": 8.951251375551934,
+          "improvement": 10.54116717391437
+        },
+        {
+          "input_sisdr": -3.471780212527256,
+          "estimated_sisdr": 9.398804568820019,
+          "improvement": 12.870584781347276
+        }
+      ],
+      "additive_error": 9.313225746154785e-10
+    },
+    {
+      "scene": 9,
+      "split": "test",
+      "capture": "ITD + ILD",
+      "recordings": [
+        {
+          "track": "source1",
+          "asset": "403931",
+          "author": "arundasstp",
+          "category": "train",
+          "path": "round2_data/environment/train/403931.wav",
+          "sha256": "b39280b2e714c66b0d8b618c8bfe8329f988c38ed1571a75df7a3516a8bf7212",
+          "ref_held_start_samples": [
+            49920,
+            226560
+          ],
+          "pan_fraction": 0.5184968747914619,
+          "relative_db": -1.021008263108556
+        },
+        {
+          "track": "source2",
+          "asset": "173075",
+          "author": "shorthopper",
+          "category": "guitar",
+          "path": "round2_data/environment/guitar/173075.wav",
+          "sha256": "5be7d452bc099c199b4fd26ff24d321c98e59f7490577abff1634bf32df5fc0e",
+          "ref_held_start_samples": [
+            96000,
+            253440
+          ],
+          "pan_fraction": 0.8274204356989969,
+          "relative_db": -0.19647004372331844
+        },
+        {
+          "track": "source3",
+          "asset": "177828",
+          "author": "joabir",
+          "category": "piano",
+          "path": "round2_data/environment/piano/177828.flac",
+          "sha256": "45626d43ab876ce5400d60e93c2ede8f7273fc7237f9f5f9e37e50c9dc579090",
+          "ref_held_start_samples": [
+            122880,
+            245760
+          ],
+          "pan_fraction": 0.20054422517456802,
+          "relative_db": 0.9449389963153809
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -4.258104170257966,
+          "estimated_sisdr": -1.0761711634764233,
+          "improvement": 3.1819330067815432
+        },
+        {
+          "input_sisdr": -3.73187893863578,
+          "estimated_sisdr": 3.677435314313478,
+          "improvement": 7.409314252949258
+        },
+        {
+          "input_sisdr": -1.2426993765806424,
+          "estimated_sisdr": -0.5821488221137088,
+          "improvement": 0.6605505544669337
+        }
+      ],
+      "candidates": {},
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -4.258104170257966,
+          "estimated_sisdr": 7.844681988046033,
+          "improvement": 12.102786158304
+        },
+        {
+          "input_sisdr": -3.73187893863578,
+          "estimated_sisdr": 10.963591254951062,
+          "improvement": 14.695470193586843
+        },
+        {
+          "input_sisdr": -1.2426993765806424,
+          "estimated_sisdr": 13.187373576777784,
+          "improvement": 14.430072953358426
+        }
+      ],
+      "additive_error": 1.862645149230957e-09
+    },
+    {
+      "scene": 10,
+      "split": "test",
+      "capture": "ILD",
+      "recordings": [
+        {
+          "track": "source1",
+          "asset": "396982",
+          "author": "macdaddyno1",
+          "category": "train",
+          "path": "round2_data/environment/train/396982.flac",
+          "sha256": "b9e5bc4d6fb18141d7acb27edc56c9daf17273d53350a5e7382d343a99028122",
+          "ref_held_start_samples": [
+            30720,
+            199680
+          ],
+          "pan_fraction": 0.2167465480496175,
+          "relative_db": -0.7891103029594868
+        },
+        {
+          "track": "source2",
+          "asset": "42973",
+          "author": "Whateverthing",
+          "category": "wind",
+          "path": "round2_data/environment/wind/42973.wav",
+          "sha256": "e078d3e23bb0dba45ed5bb9620aa76209e7c59b2e74de3475119bb2984c7add8",
+          "ref_held_start_samples": [
+            34560,
+            195840
+          ],
+          "pan_fraction": 0.7966708926742703,
+          "relative_db": 0.25824774959203856
+        },
+        {
+          "track": "source3",
+          "asset": "168741",
+          "author": "Khoon",
+          "category": "guitar",
+          "path": "round2_data/environment/guitar/168741.wav",
+          "sha256": "e373b699636810ee8435b522eaf1417e4c0f9f57af1a91f3ee35ffb6283eae67",
+          "ref_held_start_samples": [
+            130560,
+            199680
+          ],
+          "pan_fraction": 0.455647337333862,
+          "relative_db": 1.7613878785692858
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -4.988191854216122,
+          "estimated_sisdr": -3.0636859969414405,
+          "improvement": 1.9245058572746818
+        },
+        {
+          "input_sisdr": -3.2491965654128196,
+          "estimated_sisdr": -7.28226433675564,
+          "improvement": -4.03306777134282
+        },
+        {
+          "input_sisdr": -1.1189712198658877,
+          "estimated_sisdr": 2.452894825236359,
+          "improvement": 3.5718660451022464
+        }
+      ],
+      "candidates": {},
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -4.988191854216122,
+          "estimated_sisdr": 4.400141886106566,
+          "improvement": 9.38833374032269
+        },
+        {
+          "input_sisdr": -3.2491965654128196,
+          "estimated_sisdr": 9.48174176864096,
+          "improvement": 12.73093833405378
+        },
+        {
+          "input_sisdr": -1.1189712198658877,
+          "estimated_sisdr": 5.284299726003258,
+          "improvement": 6.403270945869146
+        }
+      ],
+      "additive_error": 1.862645149230957e-09
+    },
+    {
+      "scene": 11,
+      "split": "test",
+      "capture": "ITD + ILD",
+      "recordings": [
+        {
+          "track": "source1",
+          "asset": "177229",
+          "author": "HojnyTomasz",
+          "category": "piano",
+          "path": "round2_data/environment/piano/177229.flac",
+          "sha256": "fd16db6db2176d18fa014d7505540670a8cdff65458ba218d5f9f204f16eba7e",
+          "ref_held_start_samples": [
+            134400,
+            215040
+          ],
+          "pan_fraction": 0.775798531285776,
+          "relative_db": 0.8377542957075423
+        },
+        {
+          "track": "source2",
+          "asset": "231920",
+          "author": "insdali",
+          "category": "wind",
+          "path": "round2_data/environment/wind/231920.wav",
+          "sha256": "edb060ee94551a149763265b36ab2ab7b9eebe22e54525d4aec0d491d35eef7e",
+          "ref_held_start_samples": [
+            0,
+            299520
+          ],
+          "pan_fraction": 0.4899944719646232,
+          "relative_db": -1.0984578088898984
+        },
+        {
+          "track": "source3",
+          "asset": "35058",
+          "author": "pcaeldries",
+          "category": "train",
+          "path": "round2_data/environment/train/35058.wav",
+          "sha256": "5ac69dd7319f24203c56c4d1ceda8e945dbf67b1fad264b2d4854e7c0e5051f8",
+          "ref_held_start_samples": [
+            30720,
+            499200
+          ],
+          "pan_fraction": 0.2138148815228505,
+          "relative_db": 1.1331916105586277
+        },
+        {
+          "track": "unassigned",
+          "asset": "52081",
+          "author": "guitarguy1985",
+          "category": "guitar",
+          "path": "round2_data/environment/guitar/52081.flac",
+          "sha256": "8e19463ffa486fa6fb80369e2ebc10650ca13956a5510a2d0301fbc43214684c",
+          "ref_held_start_samples": [
+            65280,
+            215356
+          ],
+          "relative_db": -12,
+          "bed": "captured stereo retained"
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -2.5795827878980933,
+          "estimated_sisdr": -0.2902133605197115,
+          "improvement": 2.289369427378382
+        },
+        {
+          "input_sisdr": -5.488506194701732,
+          "estimated_sisdr": 3.0981703791392343,
+          "improvement": 8.586676573840966
+        },
+        {
+          "input_sisdr": -2.046874313829585,
+          "estimated_sisdr": -0.08649709072396766,
+          "improvement": 1.9603772231056171
+        }
+      ],
+      "candidates": {},
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -2.5795827878980933,
+          "estimated_sisdr": 7.835256942865524,
+          "improvement": 10.414839730763617
+        },
+        {
+          "input_sisdr": -5.488506194701732,
+          "estimated_sisdr": 2.8885790257142125,
+          "improvement": 8.377085220415944
+        },
+        {
+          "input_sisdr": -2.046874313829585,
+          "estimated_sisdr": 7.287933775825829,
+          "improvement": 9.334808089655414
+        }
+      ],
+      "additive_error": 1.862645149230957e-09
+    },
+    {
+      "scene": 12,
+      "split": "test",
+      "capture": "ILD",
+      "recordings": [
+        {
+          "track": "source1",
+          "asset": "16799",
+          "author": "mattfl",
+          "category": "wind",
+          "path": "round2_data/environment/wind/16799.flac",
+          "sha256": "6d4dce8e0db681333daff77a284d75e9adec99541fa216b2c1361679d0892576",
+          "ref_held_start_samples": [
+            19200,
+            380160
+          ],
+          "pan_fraction": 0.21214328834178423,
+          "relative_db": 1.8178586647083637
+        },
+        {
+          "track": "source2",
+          "asset": "254778",
+          "author": "GreekIrish",
+          "category": "train",
+          "path": "round2_data/environment/train/254778.flac",
+          "sha256": "13cf812595c063d089603fad5bfb5a925dd7b1d4e378ac2895c51ad3517f0dd0",
+          "ref_held_start_samples": [
+            142080,
+            199680
+          ],
+          "pan_fraction": 0.7707992470403802,
+          "relative_db": 0.4414948277163262
+        },
+        {
+          "track": "source3",
+          "asset": "266005",
+          "author": "Toivo161",
+          "category": "piano",
+          "path": "round2_data/environment/piano/266005.wav",
+          "sha256": "b9103ef1ab310d08571418c01578d3fe5eb4c46b5761eebd1273e9431f2b8c2a",
+          "ref_held_start_samples": [
+            111360,
+            215040
+          ],
+          "pan_fraction": 0.4576240120950426,
+          "relative_db": 0.75585096644499
+        }
+      ],
+      "baseline": [
+        {
+          "input_sisdr": -1.9475959654156796,
+          "estimated_sisdr": 15.988097563423679,
+          "improvement": 17.93569352883936
+        },
+        {
+          "input_sisdr": -3.659756652709208,
+          "estimated_sisdr": 0.8418832055890769,
+          "improvement": 4.501639858298285
+        },
+        {
+          "input_sisdr": -3.3087106495648815,
+          "estimated_sisdr": -1.7349747563536804,
+          "improvement": 1.573735893211201
+        }
+      ],
+      "candidates": {},
+      "projection": "Reference-conditioned stereo Wiener projection.",
+      "estimate": [
+        {
+          "input_sisdr": -1.9475959654156796,
+          "estimated_sisdr": 16.742190857935242,
+          "improvement": 18.68978682335092
+        },
+        {
+          "input_sisdr": -3.659756652709208,
+          "estimated_sisdr": 12.200445812131797,
+          "improvement": 15.860202464841004
+        },
+        {
+          "input_sisdr": -3.3087106495648815,
+          "estimated_sisdr": 10.181226922573128,
+          "improvement": 13.48993757213801
+        }
+      ],
+      "additive_error": 9.313225746154785e-10
+    }
+  ]
+}

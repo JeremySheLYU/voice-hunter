@@ -1,0 +1,21 @@
+{
+  "id": "eigenscape/Woodland.3.flac",
+  "dataset": "eigenscape",
+  "record": "2628463",
+  "member": "Woodland.3.flac",
+  "source_offset_s": 0,
+  "duration_s": 8.0,
+  "rate": 48000,
+  "channels": 4,
+  "bytes": 2485559,
+  "sha256": "412f359068870c83f891b49fd9696f660aef3f69a7152a8d406f2ab549112c7f",
+  "pcm_s32le_sha256": "f190b8fb8acba0335ecaf261609f3609e157e0cfd14e73b185f0f7985f63e7fe",
+  "archive_crc32": "0xa8da1dd0",
+  "archive_range": [
+    11511239879,
+    11516489414
+  ],
+  "range_sha256": "016a27f1f40f97bc36095097e47307332a95e48abc7b2065b74ad4123ed79608",
+  "path": "round2_data/field/eigenscape/Woodland.3.flac.flac",
+  "license": "CC-BY-4.0"
+}

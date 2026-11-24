@@ -1,0 +1,43 @@
+{
+  "checks": "passed",
+  "reference_unique_uploaders": 286,
+  "reference_unique_ids": 330,
+  "cohorts": {
+    "test": {
+      "files": 87,
+      "uploaders": 79,
+      "classes": {
+        "guitar": 15,
+        "piano": 12,
+        "speech": 20,
+        "train": 20,
+        "wind": 20
+      },
+      "seconds": 1179.1642630385488,
+      "bytes": 104009074,
+      "licenses": {
+        "http://creativecommons.org/licenses/by/3.0/": 41,
+        "http://creativecommons.org/publicdomain/zero/1.0/": 46
+      },
+      "manifest_sha256": "25f9f2275576b74fd220d2945913ecb71cd26f62da5f6c6b35e509c2c3bd94f0"
+    },
+    "train": {
+      "files": 450,
+      "uploaders": 308,
+      "classes": {
+        "guitar": 90,
+        "piano": 90,
+        "speech": 90,
+        "train": 90,
+        "wind": 90
+      },
+      "seconds": 4477.480068027211,
+      "bytes": 394948842,
+      "licenses": {
+        "http://creativecommons.org/licenses/by/3.0/": 183,
+        "http://creativecommons.org/publicdomain/zero/1.0/": 267
+      },
+      "manifest_sha256": "e574af231f307ca2c7c0b3c00331e40ee6dffbf5c5d7799573419b16019a9391"
+    }
+  }
+}

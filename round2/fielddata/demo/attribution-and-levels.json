@@ -1,0 +1,24 @@
+{
+  "source": "20220205_Sat_08h30_Pos1_30sec.wav.flac",
+  "original_creators": "Josep Llorca-Bofí, Jonas Heck, Christian Dreier, Michael Vorländer",
+  "source_url": "https://zenodo.org/records/11184517",
+  "license": "CC BY 4.0",
+  "modifications": "Opening 4s, virtual ±20° stereo, derived learned side-gain render, and original published binaural decode, each scaled by a frame-invariant gain to equal integrated loudness.",
+  "measurements": {
+    "virtualXY": {
+      "gain_db": 24.75,
+      "LUFS": -24.01,
+      "dBTP": -2.35
+    },
+    "learned": {
+      "gain_db": 23.759999999999998,
+      "LUFS": -23.99,
+      "dBTP": -1.29
+    },
+    "published_decode": {
+      "gain_db": 33.29,
+      "LUFS": -24.0,
+      "dBTP": -2.02
+    }
+  }
+}

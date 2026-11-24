@@ -1,0 +1,3441 @@
+{
+  "source": "https://www.iks.rwth-aachen.de/fileadmin/user_upload/downloads/forschung/tools-downloads/air_database_release_1_4.zip",
+  "paired_binaural_or_headless": [
+    {
+      "id": "booth_0_1",
+      "room": "booth",
+      "source_members_LR": [
+        "air_booth_1_0_1.wav",
+        "air_booth_0_0_1.wav"
+      ],
+      "source_sha256_LR": [
+        "6d88073b9c9a8cee874aa47f7d0e0a7cf458d91fded29718164109fc3e8bea7f",
+        "a03f1f2827db35959f7bfed5eed12b7d7626bd75e5468ec31a6d7b15245042a7"
+      ],
+      "file": "aachen/stereo/booth_0_1.wav",
+      "head": false,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "f2fc421a5dfbb8d49398a59b18300cfe9ee93188b31a3e44a409fd7aa8b9f5aa"
+    },
+    {
+      "id": "booth_0_2",
+      "room": "booth",
+      "source_members_LR": [
+        "air_booth_1_0_2.wav",
+        "air_booth_0_0_2.wav"
+      ],
+      "source_sha256_LR": [
+        "8abdb50796a3e15eaca1d6241b619ac321d1be4753ac0d76f22c64a3448cb94f",
+        "a65d5c1d7a6762d8f27158f1f8f61bbd1dd484974b8496f8a06bf6dec4364360"
+      ],
+      "file": "aachen/stereo/booth_0_2.wav",
+      "head": false,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "acda86178d75999fedc15977621cd257fb35124802978d7c5359047faf65da67"
+    },
+    {
+      "id": "booth_0_3",
+      "room": "booth",
+      "source_members_LR": [
+        "air_booth_1_0_3.wav",
+        "air_booth_0_0_3.wav"
+      ],
+      "source_sha256_LR": [
+        "543e8968c54fc15f34e727450fb67f4610b24db2b3a19f2c1f85ef5d9be9d276",
+        "506d1ada21e52c81852d2376fbcd14ebe98d2cf24c02a06df4cf43c6589e0ce8"
+      ],
+      "file": "aachen/stereo/booth_0_3.wav",
+      "head": false,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "e26c3ab4c23e54819a318e8773b14c7ae5aaee7b1551a4e21420812df5c1bc78"
+    },
+    {
+      "id": "booth_1_1",
+      "room": "booth",
+      "source_members_LR": [
+        "air_booth_1_1_1.wav",
+        "air_booth_0_1_1.wav"
+      ],
+      "source_sha256_LR": [
+        "c91a62a417c236b40c05126ac167a680c82dc4d875281aacab55a15a47b49309",
+        "fe60b2f9dd3934c04d703c043f868a36eb43810614650199354609b9c7558998"
+      ],
+      "file": "aachen/stereo/booth_1_1.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "ea2e5496faea87ef77735de11ae25f9338c7295dcba441544fcb69f11c47efb0"
+    },
+    {
+      "id": "booth_1_2",
+      "room": "booth",
+      "source_members_LR": [
+        "air_booth_1_1_2.wav",
+        "air_booth_0_1_2.wav"
+      ],
+      "source_sha256_LR": [
+        "250ad238aaa22fae06a35b2ad86c033b938b644614cbafcb8425cf5e2e05da1a",
+        "3b042dc2ebcd19ca33b4c8bceabeec81f9566b167855416a9ed9386594011bd4"
+      ],
+      "file": "aachen/stereo/booth_1_2.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "09ae8e0b5870f6b5b592743e5de2b8ec79828d7b463407a03adfac517f463a42"
+    },
+    {
+      "id": "booth_1_3",
+      "room": "booth",
+      "source_members_LR": [
+        "air_booth_1_1_3.wav",
+        "air_booth_0_1_3.wav"
+      ],
+      "source_sha256_LR": [
+        "a01a1a34d1e59426dd1a8cb887c4e90b427de5696a80166872cd72625d3d8973",
+        "66d33d760cb0afa4278cbbd448a4b10807c35e246d5fcf241af74955f048c876"
+      ],
+      "file": "aachen/stereo/booth_1_3.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "b84c4baf969af6cd712e2580f8ce6a3c93599ae3231e2f365503cd19e038590e"
+    },
+    {
+      "id": "lecture_0_1",
+      "room": "lecture",
+      "source_members_LR": [
+        "air_lecture_1_0_1.wav",
+        "air_lecture_0_0_1.wav"
+      ],
+      "source_sha256_LR": [
+        "de9ef57df9294126853f5bde30ec85ff8b7d04ee2bfa00b9d9b4cfe79d606a98",
+        "5d3444f4dd79ef835b21eb363dc1141fb17641d34b1808d8d3d9a3644754c8b6"
+      ],
+      "file": "aachen/stereo/lecture_0_1.wav",
+      "head": false,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "c0600c89843670bf0fa9184a4a278d58331369302916dbeb0cf995ac1229a217"
+    },
+    {
+      "id": "lecture_0_2",
+      "room": "lecture",
+      "source_members_LR": [
+        "air_lecture_1_0_2.wav",
+        "air_lecture_0_0_2.wav"
+      ],
+      "source_sha256_LR": [
+        "3ee7bf969d0e9a03fca004a0c3ac719f5420ae9c3d866fed951edb4b0e6e79ac",
+        "55c4c649b3efc22010ca74d354716dce9e1eb24b08e30ffd9930378b8e44c669"
+      ],
+      "file": "aachen/stereo/lecture_0_2.wav",
+      "head": false,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "5b14cb90f8abc9b650b6c7f641bfdfc0c6c8835c6e7c8ca15087ce14edbc36cf"
+    },
+    {
+      "id": "lecture_0_3",
+      "room": "lecture",
+      "source_members_LR": [
+        "air_lecture_1_0_3.wav",
+        "air_lecture_0_0_3.wav"
+      ],
+      "source_sha256_LR": [
+        "00ea644bd385ec7cdad7978b7a56b97d5d877a90a0b6ea7d5a66736e431a895f",
+        "534e4438cc04f4d73d4a2dd753a7fa89798cf8bf947fcb521b6312513a69162d"
+      ],
+      "file": "aachen/stereo/lecture_0_3.wav",
+      "head": false,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "ac41f0b19911821f7d1e904835da689f8684c60efe319045814e8bd08f5d0fcc"
+    },
+    {
+      "id": "lecture_0_4",
+      "room": "lecture",
+      "source_members_LR": [
+        "air_lecture_1_0_4.wav",
+        "air_lecture_0_0_4.wav"
+      ],
+      "source_sha256_LR": [
+        "90dc33595ae640aed846e52711688d9fdec9acde1bb2ac428cb1a6f5589e6d43",
+        "ac5ec35ed79fe46b605435c1c49a3df536e6d95adf00a2ac8b22161b50710b14"
+      ],
+      "file": "aachen/stereo/lecture_0_4.wav",
+      "head": false,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "8f365bcd8a14b3106b0236302663343644c22d85d8afb396ba565215a6f940ef"
+    },
+    {
+      "id": "lecture_0_5",
+      "room": "lecture",
+      "source_members_LR": [
+        "air_lecture_1_0_5.wav",
+        "air_lecture_0_0_5.wav"
+      ],
+      "source_sha256_LR": [
+        "552f454b8f98b0e0245f66a5365080c7ecee1d99521e9aea1b8dda3dc41f24c3",
+        "3164cb9b015a705c588cdf9365204e2341eda78dc50e02139bf39e68d18c56da"
+      ],
+      "file": "aachen/stereo/lecture_0_5.wav",
+      "head": false,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "c365edbf4724c5b1fc491e7fa795f2fdc6fd89df3c3c95fa76bd855de5500fa6"
+    },
+    {
+      "id": "lecture_0_6",
+      "room": "lecture",
+      "source_members_LR": [
+        "air_lecture_1_0_6.wav",
+        "air_lecture_0_0_6.wav"
+      ],
+      "source_sha256_LR": [
+        "fb7c9a77ab39794ebc5f0ef0f8465e54f9e7afb4ae2d12d05da938fdae5eb478",
+        "143277e16c30d7642f4e8a86f214260080741263fc695b025ddf71f24ec8073a"
+      ],
+      "file": "aachen/stereo/lecture_0_6.wav",
+      "head": false,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "07cb6abb9763858d0dd41dec4b8114a497d06ee3b3ba7cdc9a2383af2e8e0180"
+    },
+    {
+      "id": "lecture_1_1",
+      "room": "lecture",
+      "source_members_LR": [
+        "air_lecture_1_1_1.wav",
+        "air_lecture_0_1_1.wav"
+      ],
+      "source_sha256_LR": [
+        "d44b971f652f092b3e01fe8c4d42cc748757c64d37034a4c53d7557189c405b3",
+        "de349918b2d9ff6c6c9c1e1ab0fec6c1744da42864ae10acfa5cd5dcd1c87297"
+      ],
+      "file": "aachen/stereo/lecture_1_1.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "e8606e41a2db01630b99f2a5d1173f6f42c4238ec829d7220ad6676dff7593cd"
+    },
+    {
+      "id": "lecture_1_2",
+      "room": "lecture",
+      "source_members_LR": [
+        "air_lecture_1_1_2.wav",
+        "air_lecture_0_1_2.wav"
+      ],
+      "source_sha256_LR": [
+        "c36458d65ad683dec14fae8d4cc5e64a211fbdfe0bfec419590cbf01ec56fecb",
+        "c0c8f98f80f8527640f40045dc83b48e1d867a382244c5c3a9c327d072c4e24f"
+      ],
+      "file": "aachen/stereo/lecture_1_2.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "44fe23b4c2f28b7a7387eaefe21377d0f5148e33989566be36fd262af05a392b"
+    },
+    {
+      "id": "lecture_1_3",
+      "room": "lecture",
+      "source_members_LR": [
+        "air_lecture_1_1_3.wav",
+        "air_lecture_0_1_3.wav"
+      ],
+      "source_sha256_LR": [
+        "d83a0b31191357168d6ddc7a8444789ca6030ffbf55dcdd9d0738bc9051b8c84",
+        "c56b1ee7e786b29f89b9f06e18972168087e9231f351acbcf0317e08715627e6"
+      ],
+      "file": "aachen/stereo/lecture_1_3.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "87baf281474b6f91698d2d3bd36ea43fd9f932efeb1d63c30be5741b1233a6a9"
+    },
+    {
+      "id": "lecture_1_4",
+      "room": "lecture",
+      "source_members_LR": [
+        "air_lecture_1_1_4.wav",
+        "air_lecture_0_1_4.wav"
+      ],
+      "source_sha256_LR": [
+        "e1705bdd606a180f60643d88a46c5ed88fe93228521d76d10b2b13fa19a8d620",
+        "345dc442b1d4a6ec62ccce579022657228dfebf4dfe3a724ada53d3391bc315f"
+      ],
+      "file": "aachen/stereo/lecture_1_4.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "ca6d8e795eaa0d71418a60adc09175b2884ea8f5bf327816b1d53a119fa0d058"
+    },
+    {
+      "id": "lecture_1_5",
+      "room": "lecture",
+      "source_members_LR": [
+        "air_lecture_1_1_5.wav",
+        "air_lecture_0_1_5.wav"
+      ],
+      "source_sha256_LR": [
+        "7438374a9fdb5934a7e94499145ff4d07afed039df8ffe8c8f4ebcd98758fde8",
+        "9d12f667be81d48a2eb72f3c0c9fc94b37e58bd2bf7d4ea67493a31016b82b68"
+      ],
+      "file": "aachen/stereo/lecture_1_5.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "94a805be9e5e8cae87597ecbcd780248d7e5f3e7f38d34ade54273a64c8dafbe"
+    },
+    {
+      "id": "lecture_1_6",
+      "room": "lecture",
+      "source_members_LR": [
+        "air_lecture_1_1_6.wav",
+        "air_lecture_0_1_6.wav"
+      ],
+      "source_sha256_LR": [
+        "ac62055b2a3fd712dfebc69eb58ecb8622089a7ffdb114b1534e4c9939843230",
+        "e19c9c7bfad2d77483132bd1a01d8d5e10c83d846f637dff755725bc8f5058f7"
+      ],
+      "file": "aachen/stereo/lecture_1_6.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "9cecf03a8d0fbb99fa4b0e6acdc8d5ca4cebd24b877c40df65c2e457af77cc56"
+    },
+    {
+      "id": "meeting_0_1",
+      "room": "meeting",
+      "source_members_LR": [
+        "air_meeting_1_0_1.wav",
+        "air_meeting_0_0_1.wav"
+      ],
+      "source_sha256_LR": [
+        "314651b2f6e6302892d1ffe7e1f4e68b9906d42425c99a994ebe9e3c5de75904",
+        "28110e3285e58304b5ecb326665dfb2c33b191a8ff5879dc094c666545390f9d"
+      ],
+      "file": "aachen/stereo/meeting_0_1.wav",
+      "head": false,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "ce921ec30780b59b5eea5f68367b4782102f7c2783db34fb31ce41267c9c9884"
+    },
+    {
+      "id": "meeting_0_2",
+      "room": "meeting",
+      "source_members_LR": [
+        "air_meeting_1_0_2.wav",
+        "air_meeting_0_0_2.wav"
+      ],
+      "source_sha256_LR": [
+        "67397d7bb5567ad5279c57abb9b832f95c1671424f9fccd97cb3d53e86947750",
+        "2138741b8bb634d571482892bdd717f93fda4fbab25b952932c747069ce14898"
+      ],
+      "file": "aachen/stereo/meeting_0_2.wav",
+      "head": false,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "6581c24c9395eb427025f293ffb927245b1d1356835e49f63035744853acf64a"
+    },
+    {
+      "id": "meeting_0_3",
+      "room": "meeting",
+      "source_members_LR": [
+        "air_meeting_1_0_3.wav",
+        "air_meeting_0_0_3.wav"
+      ],
+      "source_sha256_LR": [
+        "f205d178b7ae4c9fe83047da2ae64514536de1c2e875a9247207f5df6722d064",
+        "8ba8f43df143d8b3255d4c12595f8ed5017651a68a2bd9a1ace6838cc971a7f4"
+      ],
+      "file": "aachen/stereo/meeting_0_3.wav",
+      "head": false,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "8dae1f283ce34d1adb8d2998ccc68d64ce273d646080cfffff515b97f2d52920"
+    },
+    {
+      "id": "meeting_0_4",
+      "room": "meeting",
+      "source_members_LR": [
+        "air_meeting_1_0_4.wav",
+        "air_meeting_0_0_4.wav"
+      ],
+      "source_sha256_LR": [
+        "0f56b2ab4bf3a6574003f259ff88023f6bdd774e7192fe47c2e9f20e98e4f8ba",
+        "360d57e4f5c5ae06be67752a1ab254a4653cbdf29d2b40c789a61d76dd1aec83"
+      ],
+      "file": "aachen/stereo/meeting_0_4.wav",
+      "head": false,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "e4a95ab7f1f9b5b9853dfc3360d7f86ee11e94f34a62edb0ccee7420b095c220"
+    },
+    {
+      "id": "meeting_0_5",
+      "room": "meeting",
+      "source_members_LR": [
+        "air_meeting_1_0_5.wav",
+        "air_meeting_0_0_5.wav"
+      ],
+      "source_sha256_LR": [
+        "33fba457bec04e9a0a9a11c54cf25fe9bfe0ff812d65f07ae3d91815ccc54e16",
+        "837e64b699ca67f0d041edc7e39f06794c89f8e8f2f4bde4507629fa30c29990"
+      ],
+      "file": "aachen/stereo/meeting_0_5.wav",
+      "head": false,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "c47f8459fecce847d976cdbdc695138dfebaf5ff751992efb4ca2948ce3282ae"
+    },
+    {
+      "id": "meeting_1_1",
+      "room": "meeting",
+      "source_members_LR": [
+        "air_meeting_1_1_1.wav",
+        "air_meeting_0_1_1.wav"
+      ],
+      "source_sha256_LR": [
+        "23117507093380643317e9daf74263a8261d53c920ae7d62e68389a5579eaa42",
+        "a25462df70d93978505b0985c4dc54e63fb5c35ff0f038daabfd57a97741888a"
+      ],
+      "file": "aachen/stereo/meeting_1_1.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "690ba7deb5b760be81d982a1e811bf9db1e45fdc30e09f62353a6f8a2588a5ec"
+    },
+    {
+      "id": "meeting_1_2",
+      "room": "meeting",
+      "source_members_LR": [
+        "air_meeting_1_1_2.wav",
+        "air_meeting_0_1_2.wav"
+      ],
+      "source_sha256_LR": [
+        "6d217d2977bbab176fd8dba40a7e763586ddcb8f827f46a6621cc84270ebac89",
+        "4b645216fa4aff44bc96c3588e880ce9c090d5f84b00eb5ff6f80e11013dca80"
+      ],
+      "file": "aachen/stereo/meeting_1_2.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "f63ab52649cac3900dd0b5f478573b8de24f8216fb3513501dc2f9aa21d99236"
+    },
+    {
+      "id": "meeting_1_3",
+      "room": "meeting",
+      "source_members_LR": [
+        "air_meeting_1_1_3.wav",
+        "air_meeting_0_1_3.wav"
+      ],
+      "source_sha256_LR": [
+        "791ed8eb26940d42647153ee66955ce8f5e461bf127c17f59785dfc57939a00a",
+        "596d36e1a06f151033728b848ffa995eaa9470b78657f907e3bdbd7ad67b77db"
+      ],
+      "file": "aachen/stereo/meeting_1_3.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "1b6a93f461893fb659d0ba81708b2a2ea3461e3349631eadd69935a41f86233c"
+    },
+    {
+      "id": "meeting_1_4",
+      "room": "meeting",
+      "source_members_LR": [
+        "air_meeting_1_1_4.wav",
+        "air_meeting_0_1_4.wav"
+      ],
+      "source_sha256_LR": [
+        "e7554d9abd26effa52a19ef67372a968ff19aef13980b6e5d9565face6688b0a",
+        "89d6eb7b6cee7997f7916a31d52fb0a587298eac406baea30678b119d565f926"
+      ],
+      "file": "aachen/stereo/meeting_1_4.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "619b5bd015546218b209ccac7fba667bb9f1d06751401a9ebbf6dd277c8b9b46"
+    },
+    {
+      "id": "meeting_1_5",
+      "room": "meeting",
+      "source_members_LR": [
+        "air_meeting_1_1_5.wav",
+        "air_meeting_0_1_5.wav"
+      ],
+      "source_sha256_LR": [
+        "4a62c886205fab6b232a12fe71f907878ae96ee32e2c72c3633392f0b35908f6",
+        "8d135400b8d8de742f8f9b5c4e84c6c80ff5414d38e9016419e32d8f61707053"
+      ],
+      "file": "aachen/stereo/meeting_1_5.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "35fecf9bbc3ec9ca8161dc67b8cd41c5fb1bef7f30fbe80e22d77a2a3c2c82a4"
+    },
+    {
+      "id": "office_0_1",
+      "room": "office",
+      "source_members_LR": [
+        "air_office_1_0_1.wav",
+        "air_office_0_0_1.wav"
+      ],
+      "source_sha256_LR": [
+        "74665c9804ab720b7d4e8c167400e6659aa0e3cb070d728c032618cd580c2080",
+        "22f3603836f4e0278bc8e3d89f528e5fb10f609fcdfa6efb6973446be5f88912"
+      ],
+      "file": "aachen/stereo/office_0_1.wav",
+      "head": false,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "682e7a6d871c293bcfefd5f37ec2ba5b0e7b5423477de3031f128f7177a06321"
+    },
+    {
+      "id": "office_0_2",
+      "room": "office",
+      "source_members_LR": [
+        "air_office_1_0_2.wav",
+        "air_office_0_0_2.wav"
+      ],
+      "source_sha256_LR": [
+        "1e4cc611f602fe51ceeb1580006b19fe73e0f8b8d4c28c3cfde6a189d5552553",
+        "3453a1f851984cc18a4d350fd547d4fc786a3042b9e963eb985e3b6854b47833"
+      ],
+      "file": "aachen/stereo/office_0_2.wav",
+      "head": false,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "df1100996ccb290ddf310a133d1a942107a653f03464a08bce38b22f0e65460d"
+    },
+    {
+      "id": "office_0_3",
+      "room": "office",
+      "source_members_LR": [
+        "air_office_1_0_3.wav",
+        "air_office_0_0_3.wav"
+      ],
+      "source_sha256_LR": [
+        "cfc19860feb2436da18eb5a3e8dffd59987470083b5fe6bb666f6a07d5f4321f",
+        "ae6ca5c693a18f064ce470dc4a6d04afa5046ff5f7df6240f2fcc9501be13f3a"
+      ],
+      "file": "aachen/stereo/office_0_3.wav",
+      "head": false,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "fda0d805c583e2b67dc40e5345a96e6de008770190016d77ff9ee7e426e48764"
+    },
+    {
+      "id": "office_1_1",
+      "room": "office",
+      "source_members_LR": [
+        "air_office_1_1_1.wav",
+        "air_office_0_1_1.wav"
+      ],
+      "source_sha256_LR": [
+        "93e4d301df633ba06346fad73242363abdf11a75d7b211faf2689ad614651a5c",
+        "2a8fc0f5fe57afb976a5c3e91b2e0b5c3c99a9feb470fc4c7cbba7cd768c7cc3"
+      ],
+      "file": "aachen/stereo/office_1_1.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "df97632b4167ede3ab1a1e5deeae35c48ecdf2a2b7003af599ca0c48a6b5b756"
+    },
+    {
+      "id": "office_1_2",
+      "room": "office",
+      "source_members_LR": [
+        "air_office_1_1_2.wav",
+        "air_office_0_1_2.wav"
+      ],
+      "source_sha256_LR": [
+        "a986b6410305059c6ce7347c7dc649fde87f1f3616f6a7101ff42b60dc398d2a",
+        "3c89d63625cd51261c222ba0ce1dd0c77fb63a3df4922fbcfba1fab22d28295c"
+      ],
+      "file": "aachen/stereo/office_1_2.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "9ec48963685dc695a596ab603515d1941af354dd7c0d06d23367562e10651a5f"
+    },
+    {
+      "id": "office_1_3",
+      "room": "office",
+      "source_members_LR": [
+        "air_office_1_1_3.wav",
+        "air_office_0_1_3.wav"
+      ],
+      "source_sha256_LR": [
+        "2f906d4fd03e44272b0651c6df8fbbc3af44a22c0bade35818378c86b5481e95",
+        "599c830083a1d2a216027bb9531b343203620cd09d82f262263add9cf17e5f02"
+      ],
+      "file": "aachen/stereo/office_1_3.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 32767,
+      "bits": 24,
+      "sha256": "eaee54fdb18e9e58a7dfa6456f19e31a79fcc8980bb41869a6f7ae64650bfa01"
+    },
+    {
+      "id": "stairway_1_1_0_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_0_logsweep.wav",
+        "air_stairway_0_1_1_0_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "1d0c5df66af479cf2b9a0a92b8e8c94bbe3c67586350aa9353057d1e4e10de88",
+        "a2184954b087bcad6fea81525f50bf63ff43c96c07dd40577fdc6f54ecc7bae7"
+      ],
+      "file": "aachen/stereo/stairway_1_1_0_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "99e4516e97a8bc89195099b0fdfabd9f80fbaface0205ea0a8a07080d7cc2c3d",
+      "distance_m": 1,
+      "az_deg_right": -90,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_1_0_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_0_mls.wav",
+        "air_stairway_0_1_1_0_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "d7a10eba2c6515f5bed164abf6066b990adfba3a072e8afbf88400f2bb4a72b7",
+        "a3d5032653368391cd9099fc63e4fa37ca13b9fa69b572f734fcfca00a6cb7db"
+      ],
+      "file": "aachen/stereo/stairway_1_1_0_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "d3b01900cba8027b728134a1f099de85e112adee1f839742cd46c7788c69e168",
+      "distance_m": 1,
+      "az_deg_right": -90,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_1_105_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_105_logsweep.wav",
+        "air_stairway_0_1_1_105_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "31ee3481778e89d11bb91ddb07894ce714d1d9505342a54c4a36f81630dd90a2",
+        "5b1e2de542504b9dfa1e95d88e47e87f159c63769fe53ef652e5ef8e8cc81e41"
+      ],
+      "file": "aachen/stereo/stairway_1_1_105_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "35cc101d91072f46db58824b030090b0115561e1a54464f93e355711cbe8e388",
+      "distance_m": 1,
+      "az_deg_right": 15,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_1_105_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_105_mls.wav",
+        "air_stairway_0_1_1_105_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "274deb9e36fc68a94e51792d480b28809fb59ddc6fa379e9f0a9e314d068f0f4",
+        "100e20ecd7cb3aec20fa8d90abdd1bfb264c18845c18718ddce872bcf7523e30"
+      ],
+      "file": "aachen/stereo/stairway_1_1_105_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "f6557b30ec54bbc68beb719e81fc586954b23f9792c2447a5fcbf745e038f93d",
+      "distance_m": 1,
+      "az_deg_right": 15,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_1_120_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_120_logsweep.wav",
+        "air_stairway_0_1_1_120_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "93b240cf352ca63f548243f4357bba7d9f9ff02f4e02be9d455554d72fb2c3bb",
+        "cd74f6807a16da9237908ffa6f3fbac4b1a4b189a84c22913fd4ea05a84ede23"
+      ],
+      "file": "aachen/stereo/stairway_1_1_120_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "682f149a1b698b08dfc476fa756b9db4143ec60dd7ae8b3ad0563493d663faa7",
+      "distance_m": 1,
+      "az_deg_right": 30,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_1_120_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_120_mls.wav",
+        "air_stairway_0_1_1_120_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "6be42107be053bd61861dcec70bef3e2774bdb78410c8585a7024602db61db6f",
+        "123f657ef3719c223a5fc2e2a3c8e2c0faa80e87c7b0f6fbb9e60422ded6dcf7"
+      ],
+      "file": "aachen/stereo/stairway_1_1_120_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "4108715cef758a660dc55535545fd488a7d8dc2cecd3b5e9f6cf9cc3d05762d6",
+      "distance_m": 1,
+      "az_deg_right": 30,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_1_135_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_135_logsweep.wav",
+        "air_stairway_0_1_1_135_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "6b1a48fc946155bd9402587db39a6020f64bdb32663b23cf81dc2d52fd3aa1f2",
+        "9a5684f05a686e756fb0598a16067d5b6b5050da006c4ab9a44684507a114815"
+      ],
+      "file": "aachen/stereo/stairway_1_1_135_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "0ed2544a2222580f11606e4c1a8aac3c0716a810855b327aec1217c9c2f8ee1c",
+      "distance_m": 1,
+      "az_deg_right": 45,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_1_135_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_135_mls.wav",
+        "air_stairway_0_1_1_135_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "b0289e8f7ffd76e70412767c4c36e17767b3b0817a0053f8b9d693dd5e266cea",
+        "ef58a9fa5149cbc76c0447d3db71744fb93dea763ad74696b0d29437391b66c6"
+      ],
+      "file": "aachen/stereo/stairway_1_1_135_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "f3ece31f0969daf627cee1d8a207d998c5547d430d6f53efb38f082a28af1d7b",
+      "distance_m": 1,
+      "az_deg_right": 45,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_1_150_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_150_logsweep.wav",
+        "air_stairway_0_1_1_150_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "a247628191fe3a26c41a6f47f423bb3010cba5df1ec5e6e8ece9fbea55efb5df",
+        "25f976a52133828ceb86845002bc364f2fd9978e39d1199a1db55445192c8d32"
+      ],
+      "file": "aachen/stereo/stairway_1_1_150_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "f8735606f67d361314a03e4f5be6d969833cdb7bce334122b163504e32234d15",
+      "distance_m": 1,
+      "az_deg_right": 60,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_1_150_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_150_mls.wav",
+        "air_stairway_0_1_1_150_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "ca1b9f6d0291808a7888582e83810a2c94d70e7439b7871a4791d52a341d7d3f",
+        "a4d6df3b65147b009a1fddf9bd4fc6a8c2dda1010a9e706220821693aa5c3a4c"
+      ],
+      "file": "aachen/stereo/stairway_1_1_150_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "7118b504403efaaa5f76f1dcb75599866dc0eeb41f99d23a882d43b4a4a38782",
+      "distance_m": 1,
+      "az_deg_right": 60,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_1_15_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_15_logsweep.wav",
+        "air_stairway_0_1_1_15_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "25bea6bb10e5c98f5923ae5356fb852e0d2d94ccaefee4e58bba75cead12a4f1",
+        "cc41e9262d7ecf3ef55d54613d91318320439ffd91ec7aeb16b7f9770e7c551d"
+      ],
+      "file": "aachen/stereo/stairway_1_1_15_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "6409a587b492f7c90127068a2010c0d84f05eccbab051d7253943011a3e5142e",
+      "distance_m": 1,
+      "az_deg_right": -75,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_1_15_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_15_mls.wav",
+        "air_stairway_0_1_1_15_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "b59b24ccece0320b840c6b4e597af24770c9358efb9da18c67b12ec025dedd9e",
+        "d1a9d0d4a29998c0078570f804b633874e3b47df688bc8af266d4d827c1b0b47"
+      ],
+      "file": "aachen/stereo/stairway_1_1_15_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "14c1bb76e85ccfdcdfebcf26f8833fc04e07fcae5cb8d5090611dda790ebcc57",
+      "distance_m": 1,
+      "az_deg_right": -75,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_1_165_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_165_logsweep.wav",
+        "air_stairway_0_1_1_165_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "3de83f3742c319bf4742f1a132d118c4d9dc32d6c145d82b3954d20cab7fed4c",
+        "0521b2874d49c2376e0cdb6008a4c56a858cfcfb5950ed4f50e7adac456cb7b2"
+      ],
+      "file": "aachen/stereo/stairway_1_1_165_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "a928e9fdb936aac6f0ace56055d115e298137921ea8ad924d420588438c69ce6",
+      "distance_m": 1,
+      "az_deg_right": 75,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_1_165_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_165_mls.wav",
+        "air_stairway_0_1_1_165_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "787b8420905766c9fecbf6a71d23b0d536854ea2535453d897d7ef774aa57e77",
+        "c7f6a8f77d1f9b3b1c24e34e12153cb7f6723f83c27b883143a2e7f8a4494983"
+      ],
+      "file": "aachen/stereo/stairway_1_1_165_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "8c548209a0c287db4c99458a0f3a1d2a6ea8523aa823cb1f8bef138f97d4de4c",
+      "distance_m": 1,
+      "az_deg_right": 75,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_1_180_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_180_logsweep.wav",
+        "air_stairway_0_1_1_180_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "79b1620c6c393d184ef2ee8ab637a910527e6251f24a92faf843424dbad8adb2",
+        "df76b33cf6141c747adc0cecdd5d128e15b225a284fd5fcde73e559d2368b3a7"
+      ],
+      "file": "aachen/stereo/stairway_1_1_180_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "ee27f9b07e664f086bffca60ce9b770a7531e0046962df105d7ef5ae7898cb82",
+      "distance_m": 1,
+      "az_deg_right": 90,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_1_180_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_180_mls.wav",
+        "air_stairway_0_1_1_180_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "8e3e9635a2c9f564885c142730e79339f32698e12bda608ef43f664e1d55b7f3",
+        "cbfb2f164779e38fa2b60f89e5fc8c1fd8503b96a15e7b09cf0151c8ca54308f"
+      ],
+      "file": "aachen/stereo/stairway_1_1_180_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "79c3fdc0065f96133246fec7a712c61fc7d794f1f6c64696cb1f1be96154ce32",
+      "distance_m": 1,
+      "az_deg_right": 90,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_1_30_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_30_logsweep.wav",
+        "air_stairway_0_1_1_30_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "3e50de17e3626851c6cf681752ff106302b3955334680f7e6ec4209442b756f6",
+        "8a6f17793b5aadc6a987fb912a42a44584b4f59d129663033cd415195c012283"
+      ],
+      "file": "aachen/stereo/stairway_1_1_30_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "25d1d9ee0e3a4e4bbf5735d824b76d4c323cfd2d0a9ff2439a38dfb287f55f40",
+      "distance_m": 1,
+      "az_deg_right": -60,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_1_30_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_30_mls.wav",
+        "air_stairway_0_1_1_30_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "4e0a6b7f9fab0b5d97fff14ed55b191bbb0554ef1e45169627336ff11013b596",
+        "767cc1021aa86e21052960f781f1c8b00ebc89ee9d50cbccbb058375b0800496"
+      ],
+      "file": "aachen/stereo/stairway_1_1_30_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "f52b21a2c211c89dce757e1f62992899920412da49bd1a219e138bc7c5946768",
+      "distance_m": 1,
+      "az_deg_right": -60,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_1_45_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_45_logsweep.wav",
+        "air_stairway_0_1_1_45_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "a089f62b79e96b75f2bcfb6c90b78056506b295d092c950104a2f5c4d3f3a205",
+        "f39d23abee7eacf48802c07663fe182c50bf61ea95736e09fd276a4c3efc6a15"
+      ],
+      "file": "aachen/stereo/stairway_1_1_45_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "83aa2e904ec935c6cb031215c32915a858daa1d948bfe27272f8f5ff6a7233fe",
+      "distance_m": 1,
+      "az_deg_right": -45,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_1_45_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_45_mls.wav",
+        "air_stairway_0_1_1_45_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "344818e8a1150135774092a4ea4e0e23890ba8c4fd703876ef3dcab2029eda0f",
+        "e674ac1380a93777b14d94a2668b596904b41af2688b865d4331bb874b5afaa6"
+      ],
+      "file": "aachen/stereo/stairway_1_1_45_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "028a218b3677981f3440beff7024fa378383ca33c29e9672894139615758b393",
+      "distance_m": 1,
+      "az_deg_right": -45,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_1_60_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_60_logsweep.wav",
+        "air_stairway_0_1_1_60_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "09ed321b1d7fa666f99157bc4d7c278cb1d21476a38918b8b362a8b1471aad61",
+        "e55de774177ed45b4142e68fd134f6cc883fd44c320776afead8c4f1b7bf0be2"
+      ],
+      "file": "aachen/stereo/stairway_1_1_60_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "d7138dde4ce6fcddadd11a0a0c36a297de359de0654a1c0125f93882c84c2787",
+      "distance_m": 1,
+      "az_deg_right": -30,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_1_60_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_60_mls.wav",
+        "air_stairway_0_1_1_60_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "039364dd8a525dc10ee534ca8bfd1ef6e4f7e2c3742dd806619484e613426774",
+        "36b3acdca296d7505d0c7c3de7e18ba5fce80f2fe4f94a024129326422e5d925"
+      ],
+      "file": "aachen/stereo/stairway_1_1_60_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "86b40c28db94afefa68c4b3c434a1c018a37d0b88cb8f9c056ea384a3e33bbb6",
+      "distance_m": 1,
+      "az_deg_right": -30,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_1_75_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_75_logsweep.wav",
+        "air_stairway_0_1_1_75_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "94474330f4cf3589cfd65362d5b93daf67a644ff5eda2ea5d7629b7aba4345ab",
+        "793fccb4e455b27b30155971666bba6d4a9d62e564313550451fba8be5228161"
+      ],
+      "file": "aachen/stereo/stairway_1_1_75_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "cb80dfe791e70a2863a16df83014e82f114595cebdacb7a363407dfa9e15223b",
+      "distance_m": 1,
+      "az_deg_right": -15,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_1_75_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_75_mls.wav",
+        "air_stairway_0_1_1_75_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "9966287b760eb72f55128aae2e9e27d1cc98d79dd8f60f6ea43883c4f892494b",
+        "fc29922fbaafb0b148d7d79c61867f4c6207782137a61fbeaf9d2551b0d2b04d"
+      ],
+      "file": "aachen/stereo/stairway_1_1_75_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "f848990cdb1f2e594ab180cb5d1fc3ebe9b77c7df4d7ccbcbe320178f84abd3a",
+      "distance_m": 1,
+      "az_deg_right": -15,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_1_90_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_90_logsweep.wav",
+        "air_stairway_0_1_1_90_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "d6e684b9fee94e86abf6df8b278c12ee6238bdf0707399b979993843939e37a6",
+        "3fc60430b63d724499cd5027d6ca1d7f4b414ec76ebcd53685285cd303fd2cc3"
+      ],
+      "file": "aachen/stereo/stairway_1_1_90_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "5fbc5bd65cfa2ca2c6ed784957afa04155530a0a72aa7b4f17d882f6520f8025",
+      "distance_m": 1,
+      "az_deg_right": 0,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_1_90_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_1_90_mls.wav",
+        "air_stairway_0_1_1_90_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "f6ee137c3d3c24b278d401d6bfa513587bf996c3bbf53444a63d5a273199261d",
+        "1d8177c3690736669b6bb1f4ee7c4e501e32ffd2401a9ea4791d43f1a646bad8"
+      ],
+      "file": "aachen/stereo/stairway_1_1_90_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "7bc3c2f15a7a17638fbc00f5c11cb9fb879914d3c008b21144a3a9273d00f54d",
+      "distance_m": 1,
+      "az_deg_right": 0,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_2_0_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_0_logsweep.wav",
+        "air_stairway_0_1_2_0_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "131a389595d6891186d0baf2fe8d0a1c49deef57039e3fa66efc71f4a803c71f",
+        "391752691f89c68c1ce74c47c9ee3b68090a61b931fd4756e9efa0c31b206c12"
+      ],
+      "file": "aachen/stereo/stairway_1_2_0_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "a026f27fdcb29201be99033520a01ed7a17a980c61b0686dde5df3433a68166f",
+      "distance_m": 2,
+      "az_deg_right": -90,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_2_0_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_0_mls.wav",
+        "air_stairway_0_1_2_0_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "0c246eb9e1c92e5f7700b40fd4190f940972535c3f99cae346fe71f28dd26f71",
+        "4e8f9611860093aec75486687855b7fa92213922cfbb765d70a0464f42b344f9"
+      ],
+      "file": "aachen/stereo/stairway_1_2_0_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "8efcfb815297ffc2bdd015ce6edad23c15465bb8a04c24b0c3731dfc02b536a6",
+      "distance_m": 2,
+      "az_deg_right": -90,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_2_105_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_105_logsweep.wav",
+        "air_stairway_0_1_2_105_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "1963bf0483e3dbd58df9371529182d882b739afafe6c75a76d44c53432f042c8",
+        "4daa1a9c753ae860493171d540e6b1e6b00d3bab1bbb3c2885966fd2a8ce8cc7"
+      ],
+      "file": "aachen/stereo/stairway_1_2_105_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "6686aa52509cc7503572768a50beb8c1cce679bf73cf10d817654a594270f052",
+      "distance_m": 2,
+      "az_deg_right": 15,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_2_105_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_105_mls.wav",
+        "air_stairway_0_1_2_105_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "60bd9966e8343a0aa42fc0fae42394ab4ae7bece9bb516aa664dff9167a9d651",
+        "60d245e87b644ff05454e7581c398f92a0c1fb98e79b612e0470991182808509"
+      ],
+      "file": "aachen/stereo/stairway_1_2_105_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "10e909b1dc262a86998e1af41782b192885fbb612385181d6c698a55b1a842da",
+      "distance_m": 2,
+      "az_deg_right": 15,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_2_120_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_120_logsweep.wav",
+        "air_stairway_0_1_2_120_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "4ce0aa6c07a9376687a8917ee6b4b85d70ac3d7ceb7c6859971832fa58292987",
+        "4f66c2d61292fa2ba0052cff6beaa76cb6dad4a87c2bb1cc3c9fbc41ac3c0751"
+      ],
+      "file": "aachen/stereo/stairway_1_2_120_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "9d5414ac1480502fe35bf192315879132c0a7350b0f174171251f2a1cd3bfcd6",
+      "distance_m": 2,
+      "az_deg_right": 30,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_2_120_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_120_mls.wav",
+        "air_stairway_0_1_2_120_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "c6827583bbde7f4b3f909863f75137c6eb0b478ee117c865c6cb6c49770e94dd",
+        "727c1f323628b63f6fd1467962e4aa4c94513b1dcee1a1990c119da1edfa2555"
+      ],
+      "file": "aachen/stereo/stairway_1_2_120_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "0586da83a50a354d0ec416c5181db4f8511dd13dde37dfc10d67b9f2c0f32fcd",
+      "distance_m": 2,
+      "az_deg_right": 30,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_2_135_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_135_logsweep.wav",
+        "air_stairway_0_1_2_135_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "c830ceeb2429c8cc22f3e607b9721404bbf9c6a4bb7681cd856606d3b303faad",
+        "e112878f1ca88b928c2de1588bcb7b6435d05430b8542108104a98d8c29fbc15"
+      ],
+      "file": "aachen/stereo/stairway_1_2_135_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "08e852bd28150d454360a036fe18546dc2232e30d5df3cb1e572ebce5b2b09e4",
+      "distance_m": 2,
+      "az_deg_right": 45,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_2_135_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_135_mls.wav",
+        "air_stairway_0_1_2_135_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "445f7f9380cbad47c5e73faa4d1637dd7c25bd430df516f3c9395e0e160789e1",
+        "19f5baf01e6e3b8f86ba17197d1adda398e1fa4001a49c380bff9d93d16f1e20"
+      ],
+      "file": "aachen/stereo/stairway_1_2_135_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "1cdbf6afbbb6d48291ca138f79aed96fb88a9ae2c90943529520707e34591e36",
+      "distance_m": 2,
+      "az_deg_right": 45,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_2_150_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_150_logsweep.wav",
+        "air_stairway_0_1_2_150_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "a266b38f2fe571308c450b5e85eece4f3edd4fc28e53b3ff1d4ab22e6d939040",
+        "5af5d6d0d9636590f47f8a085f93e97f31ed00c31e3656432449f57d65964305"
+      ],
+      "file": "aachen/stereo/stairway_1_2_150_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "67712c6a2e146deb8c919026691ba7a4ab1f8f4b6cbf449d494dab0053001ac9",
+      "distance_m": 2,
+      "az_deg_right": 60,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_2_150_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_150_mls.wav",
+        "air_stairway_0_1_2_150_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "1cb29c5bac09b91ebdb3005870969e78de7755505bc9acff4f0c808d5831a2e5",
+        "9a94a1f920b6eae979c690d5c847730d3841361cef16a19dad763a9428a73a64"
+      ],
+      "file": "aachen/stereo/stairway_1_2_150_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "b9d8a047099b73a4a484c8f0d5e789fe6b18f8263e8e48326fa511373b499d36",
+      "distance_m": 2,
+      "az_deg_right": 60,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_2_15_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_15_logsweep.wav",
+        "air_stairway_0_1_2_15_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "4529365b43e2049a67a2face70c4870c2919ad89cb7111f395b641c8a1cb5778",
+        "a1db1cf60c1ea32456a8d0999be6179acb1a463d0f80209e1acfc3d26472e141"
+      ],
+      "file": "aachen/stereo/stairway_1_2_15_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "0ea6ae6ef687d7466a8abdaee01a2897ec3a9849f39cb70c2bde2fe2ce7fa14e",
+      "distance_m": 2,
+      "az_deg_right": -75,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_2_15_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_15_mls.wav",
+        "air_stairway_0_1_2_15_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "82f03c3d57164f8ac1da23c4f502000b2fed45d67ab5c2a3e4c5ffd08e455539",
+        "a4802bda49b8548b743def9414a5d1bf7303be4d519e56735cec079daab7e578"
+      ],
+      "file": "aachen/stereo/stairway_1_2_15_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "7039b20e94d8c9a18e11097373f2024d8d64c0aa6bc730747de96eb0d59cbb2a",
+      "distance_m": 2,
+      "az_deg_right": -75,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_2_165_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_165_logsweep.wav",
+        "air_stairway_0_1_2_165_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "3b6399e448e7334205ba7e09d3e9056d0697f92f4b6e2b73d6b279be3d2848c3",
+        "d1d38d1e7ea28896d5645d222042a314dfc8778fcb56d34a7f11db1f46656797"
+      ],
+      "file": "aachen/stereo/stairway_1_2_165_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "5ce2427a24ab0cad38e01ab321f0585fa18d1c81604c4d892926c86b25fd72b0",
+      "distance_m": 2,
+      "az_deg_right": 75,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_2_165_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_165_mls.wav",
+        "air_stairway_0_1_2_165_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "ada8957d13c7503d6fba606ac092815eda8e423c4b2501cdc026fd0d82ee2672",
+        "11a3821796aecf51476368bd23c135a1c0cb6a89643fa00b8291057937bb76ad"
+      ],
+      "file": "aachen/stereo/stairway_1_2_165_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "b99361f0b226e604cc1708ec8e3385d04a05c4a2a9157ecdf0b7b226d3c2b163",
+      "distance_m": 2,
+      "az_deg_right": 75,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_2_180_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_180_logsweep.wav",
+        "air_stairway_0_1_2_180_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "3b94f091f85f98db8c0c5f80d4be74b3ebba7446ce2bb726bf3875b1a88ff1a9",
+        "4b4ec5d6c180aac6f236b4e7b27656ed74c8d4f850c22796fd5f6f5564e839bf"
+      ],
+      "file": "aachen/stereo/stairway_1_2_180_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "62d6d0b10e8b7555b23e2492469ed9219daba714d4ef65b41d7e4a668dafcb22",
+      "distance_m": 2,
+      "az_deg_right": 90,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_2_180_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_180_mls.wav",
+        "air_stairway_0_1_2_180_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "d0ab6ab152aec93eddb9cdc40efeb6076d81cbcc6011df34b59181135c111253",
+        "00571b734d2d8eec1ef3e0f4aae388e9f45461db899fa2d5fa740feffc4d3a88"
+      ],
+      "file": "aachen/stereo/stairway_1_2_180_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "53f3c94b29a51f8b7818b8cb3627663b2b1e88c997aa523b0d67bb4a23334093",
+      "distance_m": 2,
+      "az_deg_right": 90,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_2_30_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_30_logsweep.wav",
+        "air_stairway_0_1_2_30_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "4960d7ba2b9a800f209fb44704edc1f605f62d95bf9d522aabcb636aa1998456",
+        "7743959bb7354cf308f33c7cc0f7fa9d7076ff03f1491d5ad8d2e283db05a51a"
+      ],
+      "file": "aachen/stereo/stairway_1_2_30_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "d99acf25d433e87239232304309037383e499b16878c71c55625f872bbd66614",
+      "distance_m": 2,
+      "az_deg_right": -60,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_2_30_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_30_mls.wav",
+        "air_stairway_0_1_2_30_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "b66141e25d1dc2c5359612ef3bda635a861c99f90d15a339fc6cd97552187a71",
+        "7e8e15e0fed4c99578517d155940ee679df421ca2c2f1be44c31e032c44d29b0"
+      ],
+      "file": "aachen/stereo/stairway_1_2_30_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "59882f30a16f09b9983e20a6bcc38e02870e3893c3e85403104d0ea1712d656c",
+      "distance_m": 2,
+      "az_deg_right": -60,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_2_45_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_45_logsweep.wav",
+        "air_stairway_0_1_2_45_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "16be824350c0a54833af1999479ffa683f18ef3f4b805a2b594f041c1c7e7056",
+        "e0f85f11643541c8cb356f6ea1237fed5f315ac8e98b6c7551381dc22823a1f0"
+      ],
+      "file": "aachen/stereo/stairway_1_2_45_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "e832a692aab36f1a0a0d085f104c78be13881bf33099cfe8a098e40d6ab53a43",
+      "distance_m": 2,
+      "az_deg_right": -45,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_2_45_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_45_mls.wav",
+        "air_stairway_0_1_2_45_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "abda375a51df3331edccede8622cd51c56fee9ce7033ea74486d40884fa1ba61",
+        "99e706fb7a6da2ce475fff3f6d4dc3d7f6989bbd82b26783b5359d3a3cc3b85b"
+      ],
+      "file": "aachen/stereo/stairway_1_2_45_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "3134941bf252f2092e43260bbb3e4076325774b437e1e36fdef88da55d924244",
+      "distance_m": 2,
+      "az_deg_right": -45,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_2_60_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_60_logsweep.wav",
+        "air_stairway_0_1_2_60_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "fae458227eea6140fc6bd21591ee30221adfab6e1c9147ecf8528e8184516a63",
+        "bf2fec486354bbc99dc52df3d36d58ba6216cfa029e9a46dbbe37d5c326e4833"
+      ],
+      "file": "aachen/stereo/stairway_1_2_60_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "ec7cfbe0a8733ac5606afbe8559adca697d9cd0f66c490472fbdb79043c042ca",
+      "distance_m": 2,
+      "az_deg_right": -30,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_2_60_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_60_mls.wav",
+        "air_stairway_0_1_2_60_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "c69f5a87d969ada75eb1f70daf03c717213aeb0034810fc8c5451b5414bb737c",
+        "adaf8fb4e575d3b2ac444e1742eba40b79afc9b411732529820fe82154e643aa"
+      ],
+      "file": "aachen/stereo/stairway_1_2_60_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "3754f62f08a7697516b3f7f31b3f6be2cf562f8180784e1a9825287175d1dc7f",
+      "distance_m": 2,
+      "az_deg_right": -30,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_2_75_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_75_logsweep.wav",
+        "air_stairway_0_1_2_75_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "0de2dc127a97352994783724abe79b6d17c5bf9ae41ec5692ee4d306dfdff183",
+        "57a082228f1b6d3719fd0a35c807be95113f1acccea313694891b119c5a95bd5"
+      ],
+      "file": "aachen/stereo/stairway_1_2_75_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "90e2ee886f82f85fd318a7e7887a017bafdec74a3897419eff619ed02bc5781c",
+      "distance_m": 2,
+      "az_deg_right": -15,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_2_75_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_75_mls.wav",
+        "air_stairway_0_1_2_75_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "c60c5c32c6f86ff1710876195b4723fc187e585976df2e42f0eb54bd49e27e5f",
+        "dd3cb3cedbffc4d3a9382dfae500cf79a9a2815d3fa78aace1b92da141831cee"
+      ],
+      "file": "aachen/stereo/stairway_1_2_75_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "a75a4d727da853728d839a3f63911dd1a09cb751fa82e506282159f855b1d59e",
+      "distance_m": 2,
+      "az_deg_right": -15,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_2_90_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_90_logsweep.wav",
+        "air_stairway_0_1_2_90_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "cbec221e5f3b5376ee36549c44e9292292dccf3fbc931c77b44bd498a7764e7f",
+        "cd73bb2f7f5ead31f2dfeb0a81b48ce9747c3b7f10aa751add6e634259cbae36"
+      ],
+      "file": "aachen/stereo/stairway_1_2_90_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "182bc89a22f546e652096823ed8aeb657ac7a1ffe968d0429051f2acfb8bb440",
+      "distance_m": 2,
+      "az_deg_right": 0,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_2_90_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_2_90_mls.wav",
+        "air_stairway_0_1_2_90_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "e18210fdbea27572eda7be6fd7e4d66af913ce9e52df8c33bbbc6a82468319ac",
+        "653f559e131666e1dbe66232b1537ed141f4ce0131ce6dce1e2c220a9947312c"
+      ],
+      "file": "aachen/stereo/stairway_1_2_90_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "387dc03a7afca3601c43b2496cb08370d9e35e89ad5a54115453e7dcd6c98421",
+      "distance_m": 2,
+      "az_deg_right": 0,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_3_0_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_0_logsweep.wav",
+        "air_stairway_0_1_3_0_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "879f6f9c02b08c00b9074bb2c0cda04ba50ca7ce56538208307e8832f4aac04f",
+        "6076e60b8d6f8972bdd8bda6caf0c0a525bc8753796462afdd73adb285639a33"
+      ],
+      "file": "aachen/stereo/stairway_1_3_0_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "a07fb06b82fa1ac22325b14e93e1de0b2623cdeecc430df157793e26094cc771",
+      "distance_m": 3,
+      "az_deg_right": -90,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_3_0_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_0_mls.wav",
+        "air_stairway_0_1_3_0_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "c9acfea832b5e31dba92dc0138fb136f486938765a07af3443e58bb4a3dcf505",
+        "4b5a0b1bf8bb0cd1ffcb4c79110b21e86dfb7273a6bf728bd5d17786ecd4225b"
+      ],
+      "file": "aachen/stereo/stairway_1_3_0_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "0ae3788981ac9378e5b36de0e6dd6ec977d4f9aad1485f8b6ed54cd5bd606e7a",
+      "distance_m": 3,
+      "az_deg_right": -90,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_3_105_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_105_logsweep.wav",
+        "air_stairway_0_1_3_105_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "a6cd7326451813b1ce7116fe6513a6d6dd39bb6ae3a7c439b074143b2e4b6518",
+        "6fccbdba03070378c1212fb81a24b94aa9c0b0dff25b30bb3539ef1048bdb4aa"
+      ],
+      "file": "aachen/stereo/stairway_1_3_105_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "b18c3342ac99c90bd1ebb599080390a6e907e2f6bfb7f4ef063aae2ca6791437",
+      "distance_m": 3,
+      "az_deg_right": 15,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_3_105_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_105_mls.wav",
+        "air_stairway_0_1_3_105_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "c961f75c0ae620b10ec2db58741164c17eaf7d3cc7a50e39dffaacec2e5f0eb5",
+        "284c9e5c677c5ed1128f4f79d68b8ba9684c4fe84f5cdb6ed399e693a0768ab9"
+      ],
+      "file": "aachen/stereo/stairway_1_3_105_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "333929f601330519fb2c1cb33ea6dee1f81dd57b0f3195b2ede698839b2f21d4",
+      "distance_m": 3,
+      "az_deg_right": 15,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_3_120_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_120_logsweep.wav",
+        "air_stairway_0_1_3_120_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "ed3f1078baa00ad5fc868155fa2bda3cf142a2d1b17860c0209335b932311b15",
+        "2251159dd5d71fa1b94c832462643e85bb0e780976c96a4644176c08d29ffce9"
+      ],
+      "file": "aachen/stereo/stairway_1_3_120_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "6033b51e88b6161ad525061ec6d5627f179b2208d38db00722b28b254a667a71",
+      "distance_m": 3,
+      "az_deg_right": 30,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_3_120_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_120_mls.wav",
+        "air_stairway_0_1_3_120_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "e1d58a4d7c11fc17fafc0dbe1164f1e7c98bd18486ac0199ad3ff3a870c8d193",
+        "3762782e65bdf28073ad57831c210c0ba93083ad2da6db4508afa9c0872af539"
+      ],
+      "file": "aachen/stereo/stairway_1_3_120_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "4729f4742892df734d45469bf482bc1213634eba25829d848b2bb0533a405b0a",
+      "distance_m": 3,
+      "az_deg_right": 30,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_3_135_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_135_logsweep.wav",
+        "air_stairway_0_1_3_135_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "209d713f91159d039b9527a91e9fad8b12e730fc89fd5834bc808e323f388142",
+        "46a89fa92ac8f1c9c6b81dc6b6816589d5a4778a05e582716c6f76c41a4dd1eb"
+      ],
+      "file": "aachen/stereo/stairway_1_3_135_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "1dd67cd6c4110a779c1c23813bfb117a29b8a9f7c87f3569bddd2df16f2aaa2f",
+      "distance_m": 3,
+      "az_deg_right": 45,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_3_135_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_135_mls.wav",
+        "air_stairway_0_1_3_135_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "91067c9575ca3e8b2b5be0f921ecf8b1d6e6850b7697acfd3340dacce58b21fd",
+        "704336335fb043eb3befc4014b243462b77f4301b2b5d2d3c0ee16126dda33e3"
+      ],
+      "file": "aachen/stereo/stairway_1_3_135_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "7deac4c13f3ff28117340d6d8141126c9511e12d7475b5660000c6bea098f926",
+      "distance_m": 3,
+      "az_deg_right": 45,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_3_150_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_150_logsweep.wav",
+        "air_stairway_0_1_3_150_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "7f717506fac6fd12e929a86634d0fe903bbf908a1046dd54f2f8a221469cf5bd",
+        "b4f343836084aeb7258ebeee68e46b227b075908597a6b1d7474b2a8b1b3b267"
+      ],
+      "file": "aachen/stereo/stairway_1_3_150_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "94971b0076c13e1515f40042570459f58f6497d258647473f5c49214e6113a9a",
+      "distance_m": 3,
+      "az_deg_right": 60,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_3_150_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_150_mls.wav",
+        "air_stairway_0_1_3_150_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "a315210291a7b196797ad8184a2e44b0a660b772cf1443dcff7a7999e4fbf195",
+        "b5826e58874a1a841c2b85b75e29f2a18346bde07c919dd3e6dd2e2e010f5df6"
+      ],
+      "file": "aachen/stereo/stairway_1_3_150_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "8bffff806cd2952bdd7f59179ac7c324111d4c44d0486ae313049d0f7f8799c5",
+      "distance_m": 3,
+      "az_deg_right": 60,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_3_15_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_15_logsweep.wav",
+        "air_stairway_0_1_3_15_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "18725d5babb8780f43132b32d2aa04495ea0a98d842ee024b74888d7a8362527",
+        "2a3b51643762b3e0a89e79a054ab185c9d53e1c970fca3ba3fa0ffa38aa05da4"
+      ],
+      "file": "aachen/stereo/stairway_1_3_15_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "9170bc922e6bd29694f1f585bd48e9d976d8eb08504c7d4d9151185c616245b9",
+      "distance_m": 3,
+      "az_deg_right": -75,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_3_15_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_15_mls.wav",
+        "air_stairway_0_1_3_15_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "266d83c8ac992f85d5d7a7be40337f78b52dc072f63d9baf48179171101ba1f5",
+        "251f43a33573a08843f9b164df20af85e7628479273666ca26a0a031a5140055"
+      ],
+      "file": "aachen/stereo/stairway_1_3_15_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "066f1b1059087a9d07f82017aa02c350f98053550bef88ca310d742ab28111c6",
+      "distance_m": 3,
+      "az_deg_right": -75,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_3_165_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_165_logsweep.wav",
+        "air_stairway_0_1_3_165_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "dbe341ce73b9de4ed2932dbccaf44fc5728a272a8b5202a5536d308fa2d06290",
+        "1b1f1b8e0a16ddea915c293a57e5720e9fb83160a52b895e4a69f3563bbd5295"
+      ],
+      "file": "aachen/stereo/stairway_1_3_165_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "6e664830a5886216aeabcb4a3dc94a5f320932d381a968547f8a2c83ef738e3c",
+      "distance_m": 3,
+      "az_deg_right": 75,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_3_165_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_165_mls.wav",
+        "air_stairway_0_1_3_165_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "3a4aa29a43a7277e252b2ad43004a73498b7b69f9b1daf5d5a4fb87fc700f163",
+        "ae8510d90e687a0fd159247e19f5f6650e45a67ec2490d9ab211711d54175504"
+      ],
+      "file": "aachen/stereo/stairway_1_3_165_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "66fb8d7eef2edd100e50fcba331e63788fcebc72bffa5cfab6d399729c186b88",
+      "distance_m": 3,
+      "az_deg_right": 75,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_3_180_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_180_logsweep.wav",
+        "air_stairway_0_1_3_180_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "28c0d2a9028ca85ffd4cf4123a3f61e2f059ca8abf341005e85e56e4ffea6f7c",
+        "a7cfab5033b18dc01842ce9527f0bb0be15b40d2aac303e1d0b2e3e309fe360a"
+      ],
+      "file": "aachen/stereo/stairway_1_3_180_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "8c030b74e4dafdf4dc4e10151087a3b730b939cafc9f7fff34e193b4c80d01b3",
+      "distance_m": 3,
+      "az_deg_right": 90,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_3_180_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_180_mls.wav",
+        "air_stairway_0_1_3_180_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "b41c39416ddb9d0aeeacb3d66ac4794abc66d978ae0266145dfa2e44d4a17a31",
+        "2ed1cc4ceee4073f585f1d487f9c2342685093777ec14a7999902da4f79c9e6a"
+      ],
+      "file": "aachen/stereo/stairway_1_3_180_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "c83704e6663cc54a284c46fb28cd9ee1a210cf5cef591afd4dabcaf1453cd40c",
+      "distance_m": 3,
+      "az_deg_right": 90,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_3_30_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_30_logsweep.wav",
+        "air_stairway_0_1_3_30_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "5221e9783ead469acfbe675b72a83562c6954ee280d91701ea51a5333dcb9145",
+        "67ebf77496634f3fd24f7ed008e376c7248afa070dbbff79195275f2a592381e"
+      ],
+      "file": "aachen/stereo/stairway_1_3_30_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "89b6eb126957d7936511620d06ab201fc543fa2a62085f81b99927c2d4edead6",
+      "distance_m": 3,
+      "az_deg_right": -60,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_3_30_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_30_mls.wav",
+        "air_stairway_0_1_3_30_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "0fee810b18e67c611b1d704c4d1caa32773f8b8b0a59a04586b7a8360ff901a1",
+        "3adacae134fc29d1ed956f8f2627bac292259b645cb97943014d897881a96825"
+      ],
+      "file": "aachen/stereo/stairway_1_3_30_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "189fc1777c2181cbcf6b2bdd7fe29a4af28869851d07708c4f6c57b87db693bd",
+      "distance_m": 3,
+      "az_deg_right": -60,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_3_45_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_45_logsweep.wav",
+        "air_stairway_0_1_3_45_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "62c2e1eea9754f8712828d0acfc75529101f20c79038e8792d0fd9912a7b9e19",
+        "0c7ef31aaa5d0c8f07ebcfade4c4c2da718c8edb3c6f74a707aaa5f64e81c14b"
+      ],
+      "file": "aachen/stereo/stairway_1_3_45_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "7021e28eb5cff3f8f61ad00de3a9f7afdeb1ed95b7976e9f09e556ed27eb25ef",
+      "distance_m": 3,
+      "az_deg_right": -45,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_3_45_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_45_mls.wav",
+        "air_stairway_0_1_3_45_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "e49e35cc2430e2ca6dbabbbb4245d8e0412113753a09f863b763388f9d4a4374",
+        "08bf2f10150b25af82734eda2495fdad72a8d407c3eca992bd3171547dde9597"
+      ],
+      "file": "aachen/stereo/stairway_1_3_45_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "b6e212fbf3476580f5cead585994a1fbd48b95cd8476296412540d7a5a23c501",
+      "distance_m": 3,
+      "az_deg_right": -45,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_3_60_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_60_logsweep.wav",
+        "air_stairway_0_1_3_60_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "d0cfa792adbad13d16410ca2eb9c99060171e2fd43318eec1673d0cf85c54b47",
+        "09a3e14c61176e71174721eb223aeb137e114f63f58348e15ed79de8b4774832"
+      ],
+      "file": "aachen/stereo/stairway_1_3_60_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "8b5a03170f97fbce8835d334820ef91f8e325c618467d352a234063c9913bf63",
+      "distance_m": 3,
+      "az_deg_right": -30,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_3_60_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_60_mls.wav",
+        "air_stairway_0_1_3_60_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "863292b0940eb1b69720a1270a8d28d8b4a1cf2968fa876e1a9af55ecd02ede1",
+        "c7feab3dad7c60dfb6897719a1a34c204a8c0ebefcd3c08ae8c89af8adae76a5"
+      ],
+      "file": "aachen/stereo/stairway_1_3_60_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "7415a6b6bc3df16cd529c5c68388a5090690a84e2551d9738b9db80fe8b87112",
+      "distance_m": 3,
+      "az_deg_right": -30,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_3_75_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_75_logsweep.wav",
+        "air_stairway_0_1_3_75_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "78346f7e3e2108a1d042ebf75eb9f0ee520f943fb0abe93d7c19e108730937b5",
+        "cd967a8b30f44e345d0a51d46acc6751416b27ae45b3eabeb615989f436164e4"
+      ],
+      "file": "aachen/stereo/stairway_1_3_75_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "970d5b0899410922102c4dbc6dabbb52fc8bf89808869b3046b38f7988388f1d",
+      "distance_m": 3,
+      "az_deg_right": -15,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_3_75_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_75_mls.wav",
+        "air_stairway_0_1_3_75_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "66893fdc639517709348ff5b477668d6f5d379e0e79d0072fbe1c96b4775ceb5",
+        "511dd43a45508db8345e73c4b4a57e8128a1130ac864279fadf2409b405f33a8"
+      ],
+      "file": "aachen/stereo/stairway_1_3_75_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "094f3e21c57edb619f63c6b8bcd2b2334c9f89d05b7f3e226abf7f714b0dca88",
+      "distance_m": 3,
+      "az_deg_right": -15,
+      "measurement": "mls"
+    },
+    {
+      "id": "stairway_1_3_90_logsweep",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_90_logsweep.wav",
+        "air_stairway_0_1_3_90_logsweep.wav"
+      ],
+      "source_sha256_LR": [
+        "2d94feacb12b28fd6a43a9cea48207d7889fd71afcca953fdbfacdaa6d43ddc9",
+        "5eeaa40033bb3993e01f315c8fd5e091fac4b0d5e7214a770cdcef2f10a469c5"
+      ],
+      "file": "aachen/stereo/stairway_1_3_90_logsweep.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 96000,
+      "bits": 24,
+      "sha256": "440f010be7e95f569bf91d9d317f1f307d425e3e386e3b0df194ad0ee4682e39",
+      "distance_m": 3,
+      "az_deg_right": 0,
+      "measurement": "logsweep"
+    },
+    {
+      "id": "stairway_1_3_90_mls",
+      "room": "stairway",
+      "source_members_LR": [
+        "air_stairway_1_1_3_90_mls.wav",
+        "air_stairway_0_1_3_90_mls.wav"
+      ],
+      "source_sha256_LR": [
+        "90adca7fdbbaa0335c594b794649e1e1f4132b174b13375829790a09dd7e9755",
+        "485c4c15d8b019e19136e56108299e9737cb784db7c0e692b72f2c28e24989fa"
+      ],
+      "file": "aachen/stereo/stairway_1_3_90_mls.wav",
+      "head": true,
+      "split": "external-room-eval",
+      "channels": 2,
+      "sr": 48000,
+      "frames": 65535,
+      "bits": 24,
+      "sha256": "c43f6c34a4bbc2205afc5cb6a4757061139d9e8090ed3d0e11bb6b853db7f937",
+      "distance_m": 3,
+      "az_deg_right": 0,
+      "measurement": "mls"
+    }
+  ],
+  "other_phone_single_channel_wavs": [
+    {
+      "member": "air_phone_bathroom_hfrp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "1b138b8f6aeee0dec719afbb71b7c3772a69594cdbecdc2c737c0ad0c7f8c687"
+    },
+    {
+      "member": "air_phone_bathroom_hfrp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "d272abf0ddcb2bebc5edfd857b4f10c63126863803919c3d3e86d9778487f335"
+    },
+    {
+      "member": "air_phone_bathroom_hfrp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "f50d1ce283c145644f7715163883cbf79d0531fa6f0bf57b2bd8b116cf3103d4"
+    },
+    {
+      "member": "air_phone_bathroom_hfrp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "def7c274fad1417c733ca45fa39b789076541859b04afbb4d07db89c49eee9c7"
+    },
+    {
+      "member": "air_phone_bathroom_hfrp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "37efae6f35516fdba6f695b528b073da81d8ed9210576f536a13f4b70604cef2"
+    },
+    {
+      "member": "air_phone_bathroom_hfrp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "7c1e8aa0b5ba3cf6911d6218cd1263a41c6f698614266ee03b25023a9065171d"
+    },
+    {
+      "member": "air_phone_bathroom_hhp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "d9e121d69fef3358089645b2d4d1077424b46afb983c1305899b1e451faa2eaf"
+    },
+    {
+      "member": "air_phone_bathroom_hhp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "7706244bdef899fe77628c0cbd9f0f4efad78646a3b4f43cd227b9b25756a4bb"
+    },
+    {
+      "member": "air_phone_bathroom_hhp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "aaa4bad3d7e776e4fe263ba146fca223f5fb11882bd4ee9471fb90c4eb5fa93f"
+    },
+    {
+      "member": "air_phone_bathroom_hhp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "cbe4f84c14eff94d91ed0028b7820726b3ef03bc58f7d16b9f1692ac93cd22f2"
+    },
+    {
+      "member": "air_phone_bathroom_hhp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "edb605bfa042807700f07736b369e24fbf1f1ff64fcca844bec42ce1407afc72"
+    },
+    {
+      "member": "air_phone_bathroom_hhp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "ab984723413f756c6956ac8da1e3c8b318f9e4c839bfcd3dbf30f6dc735d3f18"
+    },
+    {
+      "member": "air_phone_kitchen_hfrp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "504dcf050c197294369cf07f1d9b7ab7f45aee50c117f2b1d1a104e7db5f8103"
+    },
+    {
+      "member": "air_phone_kitchen_hfrp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "215d1bad9237cc6b100db627b9edd5ae35c90860e7fd493bf65fe72adfa5cbfc"
+    },
+    {
+      "member": "air_phone_kitchen_hfrp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "952138ff78041787a717f16a2ae451d6d705102b2b3944403525c02eebb9138a"
+    },
+    {
+      "member": "air_phone_kitchen_hfrp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "472eb48cf97463300fc07cc77881f70a751dde6aa6bce15cf60fec7891738efe"
+    },
+    {
+      "member": "air_phone_kitchen_hfrp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "9711cf41bc89d3fbea2c4c8b44135465dc1a5817d4a46f3c386f5853984a0ac6"
+    },
+    {
+      "member": "air_phone_kitchen_hfrp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "c035cf8f41322a3e401e1c25442d44e854a78bd90bafd5166367db29eed851f7"
+    },
+    {
+      "member": "air_phone_kitchen_hhp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "362a76745de9902ed6d1e98c35dcb6917eb4e0ff48723859e9c2ec39ac8ded6f"
+    },
+    {
+      "member": "air_phone_kitchen_hhp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "059a06d53e3ce6333256936d80c5dd3c858971556d81dff4f8bbdedd39dc2471"
+    },
+    {
+      "member": "air_phone_kitchen_hhp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "a50d364ffe3419be2175a9dc72a030019581406c47b9fb231b6a60dbff689080"
+    },
+    {
+      "member": "air_phone_kitchen_hhp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "342cf5e42e89547ccadbf38f49258f21c48c642b5383b817e0e01c881cd7f609"
+    },
+    {
+      "member": "air_phone_kitchen_hhp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "aa10d13965248ce4edb13dfa9b52beac03d5b0bf752f987eb41dc8a37cf86ffe"
+    },
+    {
+      "member": "air_phone_kitchen_hhp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "d51a185f6ff8f3c77541c556ffe511991ef16ae75e04206809f06d4ff162af77"
+    },
+    {
+      "member": "air_phone_lecture2_hfrp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "6290791de82d1903ef5a948bf0e8338c211a1d215abbf08eabc7a5a7fd3ce68b"
+    },
+    {
+      "member": "air_phone_lecture2_hfrp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "5be74cc768777eb8ef9f36f0da197595aa5f2d3099d37711af383bebf1c170d3"
+    },
+    {
+      "member": "air_phone_lecture2_hfrp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "807208229cdb72641c4a2839b419d7f69f669b9fcb3a9b5177ed4bbaf7f11b93"
+    },
+    {
+      "member": "air_phone_lecture2_hfrp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "aa8820601755ab6dcd1e734aa32fdd4b14a6fb961621cc3d2d9e0eac36b99ed3"
+    },
+    {
+      "member": "air_phone_lecture2_hfrp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "b24ef3d7f44427e0d5f0a6e2575f9e03840b64652b2a8032541daec31d538686"
+    },
+    {
+      "member": "air_phone_lecture2_hfrp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "7b55bd58f49a05fefff26cb0d8d10c1f19555645fbe47e37929c06afd4abcc18"
+    },
+    {
+      "member": "air_phone_lecture2_hhp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "bed0a69fd62a5883b37dc2db055278533eb4ca3624cd2b6a37acf60e7e50f8ad"
+    },
+    {
+      "member": "air_phone_lecture2_hhp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "7f9961211a845e554f6dfec8833a6a0baa7b8fc2617d11036dd9357de703f6e1"
+    },
+    {
+      "member": "air_phone_lecture2_hhp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "2859cc5ef627d4710427af687e6a5f3ba11ffe98ed78f6e07a57079784fefbdf"
+    },
+    {
+      "member": "air_phone_lecture2_hhp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "68397a0343d66d1a08d8be959e3cb2547d2261ab6cd28f258b57c06259ada3cb"
+    },
+    {
+      "member": "air_phone_lecture2_hhp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "9a48f38a079001903f30ac5ab53ab51ef7a80f492e363bfd9997e925c6b54fff"
+    },
+    {
+      "member": "air_phone_lecture2_hhp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "861cf4ed6fef8f621feb323e6828b035e6610de8e988481c02ce390017d7cd85"
+    },
+    {
+      "member": "air_phone_lecutre1_hfrp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "446dd5c9de822a8518fd8539f455d89fb19515415fc7b04ec1b34ce6c1780b9b"
+    },
+    {
+      "member": "air_phone_lecutre1_hfrp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "533b85bc82529b96b40f0d2fe66c425fb90b5cd5cc9bf4b4849addf31adb42ab"
+    },
+    {
+      "member": "air_phone_lecutre1_hfrp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "313bb426eca6686f916088565e0f807fc079779d0fbff6a63ba442deaaa8dafe"
+    },
+    {
+      "member": "air_phone_lecutre1_hfrp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "a0dd08e4ab2093eb6d17b7d5a258850abfd864bea52361f10d990d787a069947"
+    },
+    {
+      "member": "air_phone_lecutre1_hfrp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "d05399e00ea7cfc9d6c19537ab74b310102fbaefcdf01b6893e165113361212a"
+    },
+    {
+      "member": "air_phone_lecutre1_hfrp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "21be089b6f8d69e7df0e747c7b34f79995410961b9ca19db969cdaa3d42d8511"
+    },
+    {
+      "member": "air_phone_lecutre1_hhp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "45db77500a781cb548690fd80fd1e48bcfe98b22d9c0e3ceef7ce2706e7da1f5"
+    },
+    {
+      "member": "air_phone_lecutre1_hhp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "1b9a6236510df3ee2ebd2611c66c7d3b2577f06a0def5156fda194479503620d"
+    },
+    {
+      "member": "air_phone_lecutre1_hhp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "d2343b35a4b176f7379dd66d158dc118cc8cd74a9342ba61172fd1fca1aa221f"
+    },
+    {
+      "member": "air_phone_lecutre1_hhp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "45257bea0dc51ed9c428a3e5cd5d54fd72170df95bd280cfce3703df0045a956"
+    },
+    {
+      "member": "air_phone_lecutre1_hhp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "b3c9fa5293ca1b807b7dc1af0e19256feb16fc1eb5dc5ebea55e703208f644a6"
+    },
+    {
+      "member": "air_phone_lecutre1_hhp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "2eefc376dbac7bb1325d7a9b391ce58263e36e279d89d8d9704dd52a42d867d9"
+    },
+    {
+      "member": "air_phone_meeting_hfrp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "0a121affdcb513c500f86cfb241c5a2b5692a24e8fdc079ebc4fc6a3a39bb73f"
+    },
+    {
+      "member": "air_phone_meeting_hfrp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "38fa743b257e24e32589452441547a46e53ecebf71961c05ef3f1ccf2bdfb003"
+    },
+    {
+      "member": "air_phone_meeting_hfrp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "14d0228b8ec5502904227b8a99cc5896a5830a29515a07ad785050cb52b452a6"
+    },
+    {
+      "member": "air_phone_meeting_hfrp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "73cf7aab74c8788ed5241953a4b8c7f248784f91cafe84cd916bcbec7eb33008"
+    },
+    {
+      "member": "air_phone_meeting_hfrp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "57adec9812c90a81f94bd536a2d40de15c3da91feea35e4691e48e13fa837730"
+    },
+    {
+      "member": "air_phone_meeting_hfrp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "15af2e8ffca42966bc9deb487af021e59cfab6ec86dc6913f22ec2fe443c465f"
+    },
+    {
+      "member": "air_phone_meeting_hhp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "69c44b0658b78e0c2b42fcdd1ecfe92ffd0cfdc4138367d65d866802976b2020"
+    },
+    {
+      "member": "air_phone_meeting_hhp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "558729cd35a3083dafebe4791eb8b45ed2018e5bdb3b118621b35bf810a348ba"
+    },
+    {
+      "member": "air_phone_meeting_hhp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "676cd5fa14f39c1f37a97160281354476f3cf94fab7903748cc0378613ff4ae1"
+    },
+    {
+      "member": "air_phone_meeting_hhp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "2636b775d64562966777a58a1f072d58a02b556307c142ef4f5d434a2e69097f"
+    },
+    {
+      "member": "air_phone_meeting_hhp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "3824c514ae950956cd7859d1da1c539820c351231f220fd66b4346e32648f67b"
+    },
+    {
+      "member": "air_phone_meeting_hhp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "a0a47c872d89fe2d4c09fbc330e2376330ef5dfaa03b55fa79e29efffbf64fa8"
+    },
+    {
+      "member": "air_phone_office1_hfrp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "666b75b7c7b5ef18954a9209e4a43c6a98bbde8497af74f0852a5b20b8a7e353"
+    },
+    {
+      "member": "air_phone_office1_hfrp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "e3ca893a49c74871e96a7782ec11578797d6baf5d179cdb5f3283e199376bd26"
+    },
+    {
+      "member": "air_phone_office1_hfrp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "044f26d5d50fb4b73565a6058781620cbc8165bc0ae0c4425c494cc1ebbdee11"
+    },
+    {
+      "member": "air_phone_office1_hfrp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "baf4c7f2f6b92c62bfa63ac0feef94a4e40bc5138b5a04381f7273400a39a1a7"
+    },
+    {
+      "member": "air_phone_office1_hfrp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "a6e407c91920f64e45321baa6478b9dfd93937aa5f740a3466a5172ccf359c58"
+    },
+    {
+      "member": "air_phone_office1_hfrp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "27cce104ed076c8df4eca59836b40d7b634d79f6dc7a25ba8f4971c0d08a5182"
+    },
+    {
+      "member": "air_phone_office1_hhp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "d327ca71f71a1a707e96473ad8c85c73b1bd8bc185316371be1c4f707693f8ea"
+    },
+    {
+      "member": "air_phone_office1_hhp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "d53883ab9cb2c7b080a1ea3c1d5a4181eccdd189b35d878865f9a989909d7d2b"
+    },
+    {
+      "member": "air_phone_office1_hhp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "9e55ac66aae0be6d3ae9cb5e4b0c5f60bd33c5d7fa0eb15d36b3a2a7cd9f1a5d"
+    },
+    {
+      "member": "air_phone_office1_hhp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "dc91ee48596561d2c52b42ff65baf3baf32ebc5a08a3740e2315eee2da8186fc"
+    },
+    {
+      "member": "air_phone_office1_hhp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "5fc422c9fc37000b81d804299b6474dd7cc9b1b4a6a852e4698bd9d39767e1a8"
+    },
+    {
+      "member": "air_phone_office1_hhp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "349b42e1adbfec8128f8ea281aebe2053a7c117fb6a887b46a34e14d2b8aff60"
+    },
+    {
+      "member": "air_phone_stairway1_hfrp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "2587d974b9bcb84da9089837576c0dec9fdb6c16d00d9582fed4e3428c7a1eb5"
+    },
+    {
+      "member": "air_phone_stairway1_hfrp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "e161153485d5d2771bcc029b1d4e2b2bfd2267176fcec26c6d097f527e93a07e"
+    },
+    {
+      "member": "air_phone_stairway1_hfrp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "eb1f45e2deb6e1e6e1add62b94205bd1baf77733cee655336d4878e59124624c"
+    },
+    {
+      "member": "air_phone_stairway1_hfrp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "dd779368ff754b86738387717baa13480bff83de615aaa197bd65aeea28b371f"
+    },
+    {
+      "member": "air_phone_stairway1_hfrp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "101d4a5c339f565b5523d27382de2d56d42bab38c21bf3a71c58b752139c96f3"
+    },
+    {
+      "member": "air_phone_stairway1_hfrp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "60edeb53aaa6188a4218c6a432698987496bbd8c9db6b4513c29a7ba2887519b"
+    },
+    {
+      "member": "air_phone_stairway1_hhp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "5c46aa419d63a18d0b0bf2d365b52729b37f7c20bb7136933bf5142ea374acca"
+    },
+    {
+      "member": "air_phone_stairway1_hhp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "5b9d9875f18147d2dd2a1f5e1549bb0734d5e51a693ff231f26cc60814d56279"
+    },
+    {
+      "member": "air_phone_stairway1_hhp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "78af1abb85d1ef294cc386cd5fb9488706b934a8b41eb5660ebd15c3fc328fae"
+    },
+    {
+      "member": "air_phone_stairway1_hhp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "91ac905807724bc610923257c472f06e0f2a1c5a0355739cfc3379a4eee07233"
+    },
+    {
+      "member": "air_phone_stairway1_hhp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "ee4a7aa6fc7b815e0647aa83c437e1c4c4cf84d8f1e24baeead3eeddd8d243bd"
+    },
+    {
+      "member": "air_phone_stairway1_hhp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "aca422bbf96d10baf9ba289673d5034b9837aae6d52ffacdcffd3db52b20b816"
+    },
+    {
+      "member": "air_phone_stairway2_hfrp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "aa8e442ae99bf0674cb0a98e7899aaf2e1e655af25fca062c42340f568278a93"
+    },
+    {
+      "member": "air_phone_stairway2_hfrp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "63d01bdf8be6e9b2f7dda545cfde32872e431df6f2b93189494b8393fb5e155a"
+    },
+    {
+      "member": "air_phone_stairway2_hfrp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "4cdf5f10b0c47fd4c7d8651810a4bf1bcb9fe8019995f6ee2cba4809c6bd5bac"
+    },
+    {
+      "member": "air_phone_stairway2_hfrp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "2830643e70779bba663380677a604d75e852babe6c0d9728bd95773cfd882781"
+    },
+    {
+      "member": "air_phone_stairway2_hfrp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "308ab93fa14202986086fdb2a5ade6a332bb4c6bc2409335a782935fca29a0da"
+    },
+    {
+      "member": "air_phone_stairway2_hfrp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "20a21fc26d93b5d6ea15e2a0fba77f967f84295d0d79dfcae02a8e0661744011"
+    },
+    {
+      "member": "air_phone_stairway2_hhp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "5bf145ebd2f19d13eafd0cf4db2525dac35e3ccf59fe986f33d856198a2a14f3"
+    },
+    {
+      "member": "air_phone_stairway2_hhp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "b7d7d32d596dc50ef227dace4ada223257e53c9fcd3763edcb71d40f2117a8b1"
+    },
+    {
+      "member": "air_phone_stairway2_hhp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "a53a82bd6055bf3bb6393cb9e87cd35bf7ba33e3a1bbd05bb92dbf8f3fca9c13"
+    },
+    {
+      "member": "air_phone_stairway2_hhp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "0deaa7fbc9962cc31562ab4013db481bb1143b3d0bb4ce8dd45e5dc0d4b3eee2"
+    },
+    {
+      "member": "air_phone_stairway2_hhp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "c87f9e77dcb2af39453de7e0c56c471d33111fb919f724d0c7e9d1082d5be1fa"
+    },
+    {
+      "member": "air_phone_stairway2_hhp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "e58495dd96856354c8f331a9fcc2818e9e8066b56d4a27e783f49da7be4b5b29"
+    },
+    {
+      "member": "air_phone_stairway3_hfrp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "ea900df605890834e10436617a04fa575218a28be8af7e1cdafb7209297fb0fd"
+    },
+    {
+      "member": "air_phone_stairway3_hfrp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "40dfe51dbba930ec4ccd54c7cbe4605147e10cc904920de69a94b0a85c1f8450"
+    },
+    {
+      "member": "air_phone_stairway3_hfrp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "b88fb4e2174278c7b59a55d57a4688a4f7fbb10eb1f6b91acdbfcbc22458c7f9"
+    },
+    {
+      "member": "air_phone_stairway3_hfrp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "0776caf9bc2675f0f8bc0ac2bdadbcb8f149b4bd1f8eed622e8e8405728d7f99"
+    },
+    {
+      "member": "air_phone_stairway3_hfrp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "a7b5c1ca795a42ebbf51cdf2d97525a94db3d4c3b4959945f83d55900797fb01"
+    },
+    {
+      "member": "air_phone_stairway3_hfrp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "3610e6d0ef5dd69e2c22efe3f108e445a123265d8b1ddf8853bbf28922a1da6d"
+    },
+    {
+      "member": "air_phone_stairway3_hhp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "54411ea497c0e08b50a9065dd4e3a948375581d3b73e3189c6d25bb53135a9f9"
+    },
+    {
+      "member": "air_phone_stairway3_hhp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "d0bc9e0d516c1badd106a525384d816f1271c1a9f56610e251608e23256d309b"
+    },
+    {
+      "member": "air_phone_stairway3_hhp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "d37eceffeca53368e802592ef6a5f2de1ee0098d9f299617a56897103d0475b2"
+    },
+    {
+      "member": "air_phone_stairway3_hhp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "a314b567db131c41c184f713bc51c31ac7241dea02720aac82103f79ddeb8f84"
+    },
+    {
+      "member": "air_phone_stairway3_hhp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "bbe41421c0357c9a288c09eb5e2bda747024ebb497195b1140834247ae171ffb"
+    },
+    {
+      "member": "air_phone_stairway3_hhp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "8b50020fbc862d300f2cbb24126af23921564934792d7916fe78b05944f3dbac"
+    },
+    {
+      "member": "air_phone_stairway4_hfrp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "b11354d489c30f4879bafeb62f18131f008f6d59f56e83d7c22f0c7dede94e3f"
+    },
+    {
+      "member": "air_phone_stairway4_hfrp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "a0680f26e9274436363505b89a5b478a001b395769bb2d7a9022822744f5e8ed"
+    },
+    {
+      "member": "air_phone_stairway4_hfrp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "d7b21ea9706cda61016ffc540c304f18a1f7fed3a77e081794cf1ca08ce734ba"
+    },
+    {
+      "member": "air_phone_stairway4_hfrp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "3092e30bac7adb8f74d29982576b7f157d44dd26d634102b8a3c95292a7d4ea0"
+    },
+    {
+      "member": "air_phone_stairway4_hfrp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "14f4a6111c11aa25c0137de19ebb181ea0eb3e1664bf27e1783ee777afc37e0d"
+    },
+    {
+      "member": "air_phone_stairway4_hfrp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "8329ad94c46bfcb89f1c3a55c299ae707d372b78aa20a3de2cf84e673a0f0f02"
+    },
+    {
+      "member": "air_phone_stairway4_hhp_1_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "76513e014f66dc5689ac743e7d51d648930428917fdabf5a3c788eab7ca1e576"
+    },
+    {
+      "member": "air_phone_stairway4_hhp_1_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "62ce64b301dd025ba1ebbde0f70da92fcab8486258bc955463116637300db097"
+    },
+    {
+      "member": "air_phone_stairway4_hhp_2_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "b2a31717c7cde659e37c8026b1df96d5aa911ee88d46e987fa70d68de62cb1c8"
+    },
+    {
+      "member": "air_phone_stairway4_hhp_2_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "bc8538daa6e6a1083114d3ab55c66be0526bcbc0e2f36f2e563417fbaec724ef"
+    },
+    {
+      "member": "air_phone_stairway4_hhp_3_1.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "ac6d1547477fcf142f1b5af20ddeef5de88048c1cd6d796b949247dab6aca497"
+    },
+    {
+      "member": "air_phone_stairway4_hhp_3_2.wav",
+      "channels": 1,
+      "sr": 48000,
+      "frames": 144000,
+      "bits": 24,
+      "sha256": "7b417a4c9935b8722f99369b58707e769c9caf714757b52b703d014bfbaaec4b"
+    }
+  ]
+}

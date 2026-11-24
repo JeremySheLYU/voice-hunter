@@ -1,0 +1,4988 @@
+[
+ {
+  "id": "83790",
+  "category": "train",
+  "author": "Maarten Otto",
+  "duration": 1.4240136054421768,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "336398",
+  "category": "guitar",
+  "author": "chrisderweg",
+  "duration": 2.7,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "316899",
+  "category": "piano",
+  "author": "Jaz_the_MAN_2",
+  "duration": 1.6590702947845806,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420317",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.8950113378684807,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "44476",
+  "category": "speech",
+  "author": "sidewerm",
+  "duration": 4.479637188208617,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "134766",
+  "category": "train",
+  "author": "touchassembly",
+  "duration": 0.6031519274376417,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "47864",
+  "category": "guitar",
+  "author": "godlesswonder",
+  "duration": 3.9822448979591836,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "405829",
+  "category": "piano",
+  "author": "penetrermind",
+  "duration": 2.106848072562358,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420301",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.5310657596371882,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "93882",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.615328798185941,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "140036",
+  "category": "train",
+  "author": "Oscar de Ávila",
+  "duration": 4.165759637188208,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "346493",
+  "category": "guitar",
+  "author": "_def",
+  "duration": 2.312698412698413,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "316908",
+  "category": "piano",
+  "author": "Jaz_the_MAN_2",
+  "duration": 0.49541950113378685,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "392137",
+  "category": "wind",
+  "author": "Darkech",
+  "duration": 3.0,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "433704",
+  "category": "speech",
+  "author": "dersuperanton",
+  "duration": 1.4628571428571429,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "316689",
+  "category": "train",
+  "author": "AMBIOSIS",
+  "duration": 4.330340136054422,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "47866",
+  "category": "guitar",
+  "author": "godlesswonder",
+  "duration": 4.011269841269841,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "203479",
+  "category": "piano",
+  "author": "Tesabob2001",
+  "duration": 0.5663492063492064,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "178615",
+  "category": "wind",
+  "author": "Montacue",
+  "duration": 1.1145804988662131,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "275795",
+  "category": "speech",
+  "author": "hatchetgirl",
+  "duration": 1.2002267573696146,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "388569",
+  "category": "train",
+  "author": "totalcult",
+  "duration": 24.61607709750567,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "115670",
+  "category": "guitar",
+  "author": "SpaceTigers",
+  "duration": 0.9630385487528345,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "405958",
+  "category": "piano",
+  "author": "penetrermind",
+  "duration": 0.4781859410430839,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "405070",
+  "category": "wind",
+  "author": "seanpclarey",
+  "duration": 19.526530612244898,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "235019",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.47598639455782316,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "149211",
+  "category": "train",
+  "author": "orginaljun",
+  "duration": 1.6979591836734693,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "328169",
+  "category": "guitar",
+  "author": "Volrak",
+  "duration": 3.9604535147392292,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "203472",
+  "category": "piano",
+  "author": "Tesabob2001",
+  "duration": 0.5365532879818594,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "380807",
+  "category": "wind",
+  "author": "TheoMachine",
+  "duration": 2.66,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "333659",
+  "category": "speech",
+  "author": "micadoe",
+  "duration": 5.468095238095238,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "127451",
+  "category": "train",
+  "author": "arfei",
+  "duration": 4.3933333333333335,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "21712",
+  "category": "guitar",
+  "author": "matiasromero",
+  "duration": 1.6522222222222223,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "316907",
+  "category": "piano",
+  "author": "Jaz_the_MAN_2",
+  "duration": 1.3436507936507935,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420298",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.7359183673469387,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "369247",
+  "category": "speech",
+  "author": "gabirel",
+  "duration": 11.228004535147392,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "388568",
+  "category": "train",
+  "author": "totalcult",
+  "duration": 3.707732426303855,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "158651",
+  "category": "guitar",
+  "author": "johnnypanic",
+  "duration": 1.0710204081632653,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "316901",
+  "category": "piano",
+  "author": "Jaz_the_MAN_2",
+  "duration": 0.48324263038548754,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420315",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.071201814058957,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "191487",
+  "category": "speech",
+  "author": "Alteration",
+  "duration": 2.103015873015873,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "388565",
+  "category": "train",
+  "author": "totalcult",
+  "duration": 4.723038548752834,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "328666",
+  "category": "guitar",
+  "author": "bzamecnik",
+  "duration": 4.675918367346939,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "68446",
+  "category": "piano",
+  "author": "pinkyfinger",
+  "duration": 1.540498866213152,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420318",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 2.3453514739229027,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "93877",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.6617687074829932,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "160682",
+  "category": "train",
+  "author": "antique98",
+  "duration": 1.1338548752834468,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "47851",
+  "category": "guitar",
+  "author": "godlesswonder",
+  "duration": 4.022879818594104,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "406029",
+  "category": "piano",
+  "author": "penetrermind",
+  "duration": 0.4961678004535147,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "136052",
+  "category": "wind",
+  "author": "taurindb",
+  "duration": 14.448004535147392,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "433701",
+  "category": "speech",
+  "author": "dersuperanton",
+  "duration": 1.1883673469387754,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "380772",
+  "category": "train",
+  "author": "cosmo235",
+  "duration": 30.0,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "275366",
+  "category": "guitar",
+  "author": "n_audioman",
+  "duration": 4.165102040816326,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "405980",
+  "category": "piano",
+  "author": "penetrermind",
+  "duration": 0.5340816326530612,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420294",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.0154421768707482,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "197450",
+  "category": "speech",
+  "author": "everythingsounds",
+  "duration": 28.354467120181408,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "423356",
+  "category": "train",
+  "author": "troycavas",
+  "duration": 2.0,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "47852",
+  "category": "guitar",
+  "author": "godlesswonder",
+  "duration": 4.011269841269841,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "416425",
+  "category": "piano",
+  "author": "flerlagekr",
+  "duration": 1.6524263038548752,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "68891",
+  "category": "wind",
+  "author": "simongray",
+  "duration": 11.368344671201815,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "360851",
+  "category": "speech",
+  "author": "Deathstardude",
+  "duration": 1.1043990929705216,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "423355",
+  "category": "train",
+  "author": "troycavas",
+  "duration": 2.0,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "115671",
+  "category": "guitar",
+  "author": "SpaceTigers",
+  "duration": 1.792562358276644,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "203483",
+  "category": "piano",
+  "author": "Tesabob2001",
+  "duration": 0.4769160997732426,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "427245",
+  "category": "wind",
+  "author": "GET_Accel",
+  "duration": 1.3235374149659864,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "259674",
+  "category": "speech",
+  "author": "nooc",
+  "duration": 2.647074829931973,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "423357",
+  "category": "train",
+  "author": "troycavas",
+  "duration": 2.0,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "44298",
+  "category": "guitar",
+  "author": "wakey",
+  "duration": 2.0358503401360544,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "203501",
+  "category": "piano",
+  "author": "Tesabob2001",
+  "duration": 0.566734693877551,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "252276",
+  "category": "wind",
+  "author": "Reitanna",
+  "duration": 4.841360544217687,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "242626",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.8126984126984127,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "423358",
+  "category": "train",
+  "author": "troycavas",
+  "duration": 2.0,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "328880",
+  "category": "guitar",
+  "author": "oso79",
+  "duration": 2.725079365079365,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "369906",
+  "category": "piano",
+  "author": "denis_obrezkov",
+  "duration": 2.3868934240362814,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420293",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.6029024943310657,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "402642",
+  "category": "speech",
+  "author": "theuncertainman",
+  "duration": 3.628208616780045,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "257418",
+  "category": "guitar",
+  "author": "AJlekceu",
+  "duration": 4.440408163265306,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "203490",
+  "category": "piano",
+  "author": "Tesabob2001",
+  "duration": 0.536530612244898,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420305",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.374829931972789,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "277595",
+  "category": "speech",
+  "author": "Coral_Island_Studios",
+  "duration": 2.7689795918367346,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "47847",
+  "category": "guitar",
+  "author": "godlesswonder",
+  "duration": 4.046099773242631,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "322535",
+  "category": "piano",
+  "author": "Fran89",
+  "duration": 1.163061224489796,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "391859",
+  "category": "wind",
+  "author": "Darkech",
+  "duration": 1.0,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "260933",
+  "category": "speech",
+  "author": "shadoWisp",
+  "duration": 7.958208616780046,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "277254",
+  "category": "guitar",
+  "author": "DonCalderone",
+  "duration": 0.5380045351473923,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "203482",
+  "category": "piano",
+  "author": "Tesabob2001",
+  "duration": 0.5663265306122449,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420307",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.0813378684807256,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "275154",
+  "category": "speech",
+  "author": "Bird_man",
+  "duration": 1.6534013605442177,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "47863",
+  "category": "guitar",
+  "author": "godlesswonder",
+  "duration": 3.964829931972789,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "54279",
+  "category": "piano",
+  "author": "bootsy",
+  "duration": 0.46530612244897956,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420323",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 2.843877551020408,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "266186",
+  "category": "speech",
+  "author": "pan14",
+  "duration": 23.505351473922904,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "338741",
+  "category": "guitar",
+  "author": "cabled_mess",
+  "duration": 0.41294784580498867,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "30964",
+  "category": "piano",
+  "author": "junggle",
+  "duration": 1.1913832199546486,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "204449",
+  "category": "wind",
+  "author": "ludist",
+  "duration": 0.9803174603174604,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "124886",
+  "category": "speech",
+  "author": "Greencouch",
+  "duration": 0.45240362811791385,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "158649",
+  "category": "guitar",
+  "author": "johnnypanic",
+  "duration": 1.0187755102040816,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "203465",
+  "category": "piano",
+  "author": "Tesabob2001",
+  "duration": 0.6259637188208617,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420314",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 2.445736961451247,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "87709",
+  "category": "speech",
+  "author": "dardue",
+  "duration": 1.2158956916099772,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "328665",
+  "category": "guitar",
+  "author": "bzamecnik",
+  "duration": 4.675918367346939,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "416437",
+  "category": "piano",
+  "author": "flerlagekr",
+  "duration": 1.4382086167800454,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "115759",
+  "category": "wind",
+  "author": "warwickallison",
+  "duration": 1.4682766439909296,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "62951",
+  "category": "speech",
+  "author": "clivew",
+  "duration": 5.714965986394557,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "47848",
+  "category": "guitar",
+  "author": "godlesswonder",
+  "duration": 3.964829931972789,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "416429",
+  "category": "piano",
+  "author": "flerlagekr",
+  "duration": 1.6524036281179137,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "153412",
+  "category": "wind",
+  "author": "Kyodon",
+  "duration": 1.640702947845805,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "337632",
+  "category": "speech",
+  "author": "anaphy",
+  "duration": 18.724603174603175,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "16773",
+  "category": "guitar",
+  "author": "brucie",
+  "duration": 0.3796825396825397,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "203473",
+  "category": "piano",
+  "author": "Tesabob2001",
+  "duration": 0.5961451247165533,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "106130",
+  "category": "wind",
+  "author": "j1987",
+  "duration": 1.1653514739229025,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "338168",
+  "category": "speech",
+  "author": "edranil",
+  "duration": 12.84,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "158650",
+  "category": "guitar",
+  "author": "johnnypanic",
+  "duration": 0.9926530612244898,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "265982",
+  "category": "piano",
+  "author": "oneOddEgg",
+  "duration": 1.110453514739229,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420303",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.0159863945578231,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "93885",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.5224489795918368,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "47850",
+  "category": "guitar",
+  "author": "godlesswonder",
+  "duration": 4.017074829931973,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "68439",
+  "category": "piano",
+  "author": "pinkyfinger",
+  "duration": 1.540498866213152,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420316",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 0.9371655328798186,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "231957",
+  "category": "speech",
+  "author": "INS_Ribera_Baixa",
+  "duration": 15.439591836734694,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "221904",
+  "category": "guitar",
+  "author": "Medicfinland",
+  "duration": 1.7964399092970522,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "405921",
+  "category": "piano",
+  "author": "penetrermind",
+  "duration": 0.44117913832199546,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "250380",
+  "category": "wind",
+  "author": "lostphosphene",
+  "duration": 7.732244897959184,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "266185",
+  "category": "speech",
+  "author": "pan14",
+  "duration": 21.521337868480725,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "248176",
+  "category": "guitar",
+  "author": "johnnypanic",
+  "duration": 9.694331065759638,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "328545",
+  "category": "piano",
+  "author": "hmartelb",
+  "duration": 1.8430839002267574,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420321",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.7698412698412698,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "48052",
+  "category": "speech",
+  "author": "JohnnyDiamond",
+  "duration": 8.885351473922903,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "330901",
+  "category": "guitar",
+  "author": "shadowcast303",
+  "duration": 3.8603174603174604,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "68440",
+  "category": "piano",
+  "author": "pinkyfinger",
+  "duration": 1.540498866213152,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420302",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.507845804988662,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "234987",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 1.4512471655328798,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "277258",
+  "category": "guitar",
+  "author": "DonCalderone",
+  "duration": 0.546530612244898,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "316912",
+  "category": "piano",
+  "author": "Jaz_the_MAN_2",
+  "duration": 0.5012018140589569,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "57654",
+  "category": "wind",
+  "author": "jih",
+  "duration": 3.9428798185941045,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "242689",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 1.7763492063492063,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "31901",
+  "category": "guitar",
+  "author": "bloomypetal",
+  "duration": 1.9930385487528344,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "316904",
+  "category": "piano",
+  "author": "Jaz_the_MAN_2",
+  "duration": 0.497437641723356,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "275466",
+  "category": "wind",
+  "author": "adharca",
+  "duration": 10.184013605442177,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "316440",
+  "category": "speech",
+  "author": "LittleRobotSoundFactory",
+  "duration": 0.6826530612244898,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "44299",
+  "category": "guitar",
+  "author": "wakey",
+  "duration": 0.6931972789115646,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "203492",
+  "category": "piano",
+  "author": "Tesabob2001",
+  "duration": 0.4769160997732426,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "346237",
+  "category": "wind",
+  "author": "helhel",
+  "duration": 2.555918367346939,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "93878",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.5108390022675737,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "256126",
+  "category": "guitar",
+  "author": "rgla",
+  "duration": 4.436371882086168,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "361106",
+  "category": "piano",
+  "author": "mattdiazz",
+  "duration": 2.0203854875283445,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420322",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 2.2033106575963717,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "241579",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 2.037528344671202,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "47845",
+  "category": "guitar",
+  "author": "godlesswonder",
+  "duration": 4.040294784580499,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "406030",
+  "category": "piano",
+  "author": "penetrermind",
+  "duration": 2.007755102040816,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "424792",
+  "category": "wind",
+  "author": "bolkmar",
+  "duration": 11.56,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "234996",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.6617913832199547,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "255721",
+  "category": "guitar",
+  "author": "jlevenfeld",
+  "duration": 4.3769614512471655,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "203476",
+  "category": "piano",
+  "author": "Tesabob2001",
+  "duration": 0.6259637188208617,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420300",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.0125850340136053,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "415341",
+  "category": "speech",
+  "author": "prucanada",
+  "duration": 0.49151927437641724,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "47853",
+  "category": "guitar",
+  "author": "godlesswonder",
+  "duration": 3.9967573696145124,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "316910",
+  "category": "piano",
+  "author": "Jaz_the_MAN_2",
+  "duration": 1.5633106575963718,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420296",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.4839909297052154,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "17118",
+  "category": "speech",
+  "author": "dcaudio",
+  "duration": 23.72265306122449,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "121189",
+  "category": "guitar",
+  "author": "gusgus26",
+  "duration": 2.8658956916099774,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "122672",
+  "category": "piano",
+  "author": "acollier123",
+  "duration": 0.6268027210884354,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420319",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.0012244897959184,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "235030",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 1.6253968253968254,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "203462",
+  "category": "piano",
+  "author": "Tesabob2001",
+  "duration": 0.6557823129251701,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "392725",
+  "category": "wind",
+  "author": "Envywolf",
+  "duration": 4.5,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "124878",
+  "category": "speech",
+  "author": "Greencouch",
+  "duration": 1.2833333333333334,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "316902",
+  "category": "piano",
+  "author": "Jaz_the_MAN_2",
+  "duration": 0.5004761904761905,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "56306",
+  "category": "wind",
+  "author": "Q.K.",
+  "duration": 25.761632653061223,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "397299",
+  "category": "speech",
+  "author": "theuncertainman",
+  "duration": 3.20437641723356,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "405920",
+  "category": "piano",
+  "author": "penetrermind",
+  "duration": 0.44117913832199546,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420310",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.0574149659863945,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "124818",
+  "category": "speech",
+  "author": "Greencouch",
+  "duration": 2.8333333333333335,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "409480",
+  "category": "piano",
+  "author": "dwengomes",
+  "duration": 1.006780045351474,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420304",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.001655328798186,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "345466",
+  "category": "speech",
+  "author": "Artmasterrich",
+  "duration": 1.1609977324263039,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "203460",
+  "category": "piano",
+  "author": "Tesabob2001",
+  "duration": 0.5961451247165533,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420313",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.3685260770975056,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "242861",
+  "category": "speech",
+  "author": "HarryPeeks",
+  "duration": 24.90049886621315,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "416424",
+  "category": "piano",
+  "author": "flerlagekr",
+  "duration": 1.6217913832199546,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420320",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 2.259138321995465,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "377270",
+  "category": "speech",
+  "author": "johnnypanic",
+  "duration": 0.7966213151927438,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "203464",
+  "category": "piano",
+  "author": "Tesabob2001",
+  "duration": 0.4769160997732426,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420308",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.000453514739229,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "198612",
+  "category": "speech",
+  "author": "extrafonia",
+  "duration": 7.569705215419501,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "316911",
+  "category": "piano",
+  "author": "Jaz_the_MAN_2",
+  "duration": 1.3358956916099773,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "352811",
+  "category": "wind",
+  "author": "sim2710",
+  "duration": 29.97061224489796,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "421690",
+  "category": "speech",
+  "author": "pörnill",
+  "duration": 2.0,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "203466",
+  "category": "piano",
+  "author": "Tesabob2001",
+  "duration": 0.3875056689342404,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420309",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.0010204081632652,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "331327",
+  "category": "speech",
+  "author": "sim2710",
+  "duration": 20.1043537414966,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "409435",
+  "category": "piano",
+  "author": "dwengomes",
+  "duration": 0.9545351473922903,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "239492",
+  "category": "wind",
+  "author": "lonemonk",
+  "duration": 25.356190476190477,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "124873",
+  "category": "speech",
+  "author": "Greencouch",
+  "duration": 12.120022675736962,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "416430",
+  "category": "piano",
+  "author": "flerlagekr",
+  "duration": 1.6524036281179137,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420312",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 12.701315192743763,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "151150",
+  "category": "speech",
+  "author": "johannes_peschke",
+  "duration": 26.56798185941043,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "68445",
+  "category": "piano",
+  "author": "pinkyfinger",
+  "duration": 1.540498866213152,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "238522",
+  "category": "wind",
+  "author": "ggc9",
+  "duration": 3.9542403628117913,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "235110",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 1.3815873015873017,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "328546",
+  "category": "piano",
+  "author": "hmartelb",
+  "duration": 1.8430839002267574,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "156943",
+  "category": "wind",
+  "author": "AAEPGranollers",
+  "duration": 3.053424036281179,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "235149",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.789501133786848,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "369814",
+  "category": "piano",
+  "author": "denis_obrezkov",
+  "duration": 2.3868934240362814,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420299",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.633718820861678,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "433703",
+  "category": "speech",
+  "author": "dersuperanton",
+  "duration": 6.478367346938776,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "316898",
+  "category": "piano",
+  "author": "Jaz_the_MAN_2",
+  "duration": 0.49866213151927435,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420311",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.0051927437641723,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "362569",
+  "category": "speech",
+  "author": "phatkatz4",
+  "duration": 1.5223356009070295,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "405992",
+  "category": "piano",
+  "author": "penetrermind",
+  "duration": 4.33047619047619,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "409727",
+  "category": "wind",
+  "author": "las98",
+  "duration": 1.3773242630385487,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "321753",
+  "category": "speech",
+  "author": "Skjor1",
+  "duration": 16.298684807256237,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "409512",
+  "category": "piano",
+  "author": "dwengomes",
+  "duration": 0.8500453514739229,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420297",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 2.1699773242630385,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "30550",
+  "category": "speech",
+  "author": "Gvido",
+  "duration": 0.6406802721088435,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "203491",
+  "category": "piano",
+  "author": "Tesabob2001",
+  "duration": 0.536530612244898,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "381151",
+  "category": "wind",
+  "author": "16coreyn",
+  "duration": 1.9824716553287982,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "173946",
+  "category": "speech",
+  "author": "JohnsonBrandEditing",
+  "duration": 28.77793650793651,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "416438",
+  "category": "piano",
+  "author": "flerlagekr",
+  "duration": 1.53,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "170107",
+  "category": "wind",
+  "author": "RackhamsReverse",
+  "duration": 22.035736961451246,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "24220",
+  "category": "speech",
+  "author": ".milan",
+  "duration": 1.7567120181405895,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "316913",
+  "category": "piano",
+  "author": "Jaz_the_MAN_2",
+  "duration": 0.497437641723356,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "168730",
+  "category": "wind",
+  "author": "murkertrer",
+  "duration": 27.40244897959184,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "232274",
+  "category": "speech",
+  "author": "wikusv",
+  "duration": 6.796394557823129,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "405937",
+  "category": "piano",
+  "author": "penetrermind",
+  "duration": 2.8327437641723354,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "381154",
+  "category": "wind",
+  "author": "16coreyn",
+  "duration": 1.3148752834467121,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "422098",
+  "category": "speech",
+  "author": "jallenq",
+  "duration": 27.48081632653061,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "328547",
+  "category": "piano",
+  "author": "hmartelb",
+  "duration": 1.8459637188208617,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420324",
+  "category": "wind",
+  "author": "tonik-95",
+  "duration": 1.46140589569161,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "268011",
+  "category": "speech",
+  "author": "shadoWisp",
+  "duration": 7.107891156462585,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "405934",
+  "category": "piano",
+  "author": "penetrermind",
+  "duration": 3.985124716553288,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "381152",
+  "category": "wind",
+  "author": "16coreyn",
+  "duration": 14.741337868480725,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "185050",
+  "category": "speech",
+  "author": "justeluis",
+  "duration": 6.46124716553288,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "203480",
+  "category": "piano",
+  "author": "Tesabob2001",
+  "duration": 0.5663492063492064,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "127113",
+  "category": "wind",
+  "author": "Grigore",
+  "duration": 15.02578231292517,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "235048",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.7662585034013606,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "416434",
+  "category": "piano",
+  "author": "flerlagekr",
+  "duration": 1.5606122448979591,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "426907",
+  "category": "speech",
+  "author": "dersuperanton",
+  "duration": 0.592108843537415,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "203481",
+  "category": "piano",
+  "author": "Tesabob2001",
+  "duration": 0.5663265306122449,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "379757",
+  "category": "speech",
+  "author": "MicrosoftSam",
+  "duration": 24.806825396825396,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "203468",
+  "category": "piano",
+  "author": "Tesabob2001",
+  "duration": 0.536530612244898,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "50357",
+  "category": "speech",
+  "author": "secondbody",
+  "duration": 23.764308390022677,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "68437",
+  "category": "piano",
+  "author": "pinkyfinger",
+  "duration": 1.540498866213152,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "371382",
+  "category": "speech",
+  "author": "marcello777",
+  "duration": 0.7067346938775511,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "406022",
+  "category": "piano",
+  "author": "penetrermind",
+  "duration": 0.5906802721088436,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "380759",
+  "category": "speech",
+  "author": "Sempoo",
+  "duration": 18.862471655328797,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "68438",
+  "category": "piano",
+  "author": "pinkyfinger",
+  "duration": 1.540498866213152,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "241571",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 1.2913832199546484,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "316903",
+  "category": "piano",
+  "author": "Jaz_the_MAN_2",
+  "duration": 1.4291836734693877,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "393359",
+  "category": "speech",
+  "author": "rebecca.valdez3@gmail.com",
+  "duration": 3.205736961451247,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "68444",
+  "category": "piano",
+  "author": "pinkyfinger",
+  "duration": 1.540498866213152,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "275798",
+  "category": "speech",
+  "author": "hatchetgirl",
+  "duration": 1.240453514739229,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "405981",
+  "category": "piano",
+  "author": "penetrermind",
+  "duration": 0.9515419501133787,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "433721",
+  "category": "speech",
+  "author": "dazza007",
+  "duration": 1.3944671201814058,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "203488",
+  "category": "piano",
+  "author": "Tesabob2001",
+  "duration": 0.4769387755102041,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "328660",
+  "category": "speech",
+  "author": "bzamecnik",
+  "duration": 3.9938321995464854,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "416435",
+  "category": "piano",
+  "author": "flerlagekr",
+  "duration": 1.4382086167800454,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "424295",
+  "category": "speech",
+  "author": "Douglas711",
+  "duration": 25.33151927437642,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "346956",
+  "category": "piano",
+  "author": "alexlancemx",
+  "duration": 1.8557596371882086,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "395124",
+  "category": "speech",
+  "author": "ptrflr",
+  "duration": 19.24800453514739,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "416423",
+  "category": "piano",
+  "author": "flerlagekr",
+  "duration": 1.7136054421768707,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "153170",
+  "category": "speech",
+  "author": "noemicp",
+  "duration": 7.604897959183673,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "68448",
+  "category": "piano",
+  "author": "pinkyfinger",
+  "duration": 1.555736961451247,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "345836",
+  "category": "speech",
+  "author": "krzysiunet",
+  "duration": 3.7035827664399092,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "416420",
+  "category": "piano",
+  "author": "flerlagekr",
+  "duration": 1.407596371882086,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "416732",
+  "category": "speech",
+  "author": "patrickgiraldo",
+  "duration": 12.696009070294785,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "316900",
+  "category": "piano",
+  "author": "Jaz_the_MAN_2",
+  "duration": 1.1415646258503402,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "273929",
+  "category": "speech",
+  "author": "lemonjolly",
+  "duration": 1.4268253968253968,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "398057",
+  "category": "speech",
+  "author": "DRFX",
+  "duration": 4.27734693877551,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "338169",
+  "category": "speech",
+  "author": "edranil",
+  "duration": 14.88,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "402711",
+  "category": "speech",
+  "author": "JapanYoshiTheGamer",
+  "duration": 0.4527891156462585,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "166416",
+  "category": "speech",
+  "author": "pmedig",
+  "duration": 29.49451247165533,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "101857",
+  "category": "speech",
+  "author": "thebigracket",
+  "duration": 4.000521541950113,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "47276",
+  "category": "speech",
+  "author": "impy4ever",
+  "duration": 5.526349206349207,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "47338",
+  "category": "speech",
+  "author": "gelo_papas",
+  "duration": 19.582902494331066,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "425662",
+  "category": "speech",
+  "author": "Rebecca_f",
+  "duration": 8.672653061224489,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "153185",
+  "category": "speech",
+  "author": "noemicp",
+  "duration": 4.2719727891156465,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "73752",
+  "category": "speech",
+  "author": "exhadley",
+  "duration": 14.0,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "93894",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.7082086167800453,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "241477",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.37732426303854877,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420464",
+  "category": "speech",
+  "author": "CussinSailor",
+  "duration": 29.129319727891158,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "400736",
+  "category": "speech",
+  "author": "Fynixx",
+  "duration": 2.1500680272108843,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "393504",
+  "category": "speech",
+  "author": "rubekolo",
+  "duration": 1.777392290249433,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "124831",
+  "category": "speech",
+  "author": "Greencouch",
+  "duration": 1.7763265306122449,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "402643",
+  "category": "speech",
+  "author": "theuncertainman",
+  "duration": 1.6924036281179138,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "93854",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.6733786848072563,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "429037",
+  "category": "speech",
+  "author": "theuncertainman",
+  "duration": 1.1261678004535147,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "124857",
+  "category": "speech",
+  "author": "Greencouch",
+  "duration": 1.95,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "345463",
+  "category": "speech",
+  "author": "Artmasterrich",
+  "duration": 1.7531065759637188,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "256091",
+  "category": "speech",
+  "author": "SoundEffectsPodcast_com",
+  "duration": 1.2640589569160998,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "260983",
+  "category": "speech",
+  "author": "iccleste",
+  "duration": 28.797460317460317,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "242653",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 1.4396371882086167,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "425929",
+  "category": "speech",
+  "author": "AhmadMRagab",
+  "duration": 29.102993197278913,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "377265",
+  "category": "speech",
+  "author": "johnnypanic",
+  "duration": 0.4901587301587302,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "124810",
+  "category": "speech",
+  "author": "Greencouch",
+  "duration": 4.0,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "334991",
+  "category": "speech",
+  "author": "paulocorona",
+  "duration": 3.526530612244898,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "420830",
+  "category": "speech",
+  "author": "IsaacRoman",
+  "duration": 11.735986394557823,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "128013",
+  "category": "speech",
+  "author": "kaonaya",
+  "duration": 21.75421768707483,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "93883",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.626938775510204,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "343614",
+  "category": "speech",
+  "author": "dpsa",
+  "duration": 3.436553287981859,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "328711",
+  "category": "speech",
+  "author": "fawkes1118",
+  "duration": 3.9909297052154193,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "341507",
+  "category": "speech",
+  "author": "dpsa",
+  "duration": 1.8460770975056688,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "241583",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.9039909297052154,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "131265",
+  "category": "speech",
+  "author": "bettsashl",
+  "duration": 0.8591383219954648,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "343613",
+  "category": "speech",
+  "author": "dpsa",
+  "duration": 3.436553287981859,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "135718",
+  "category": "speech",
+  "author": "ikbenraar",
+  "duration": 28.591678004535147,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "398059",
+  "category": "speech",
+  "author": "DRFX",
+  "duration": 3.9680045351473923,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "242624",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 1.9156462585034013,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "338147",
+  "category": "speech",
+  "author": "ArtOrDie",
+  "duration": 1.1112925170068026,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "71560",
+  "category": "speech",
+  "author": "Lindsayanng",
+  "duration": 1.7182766439909296,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "345424",
+  "category": "speech",
+  "author": "Artmasterrich",
+  "duration": 0.5572789115646258,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "417608",
+  "category": "speech",
+  "author": "mawalters",
+  "duration": 20.62281179138322,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "328712",
+  "category": "speech",
+  "author": "fawkes1118",
+  "duration": 3.9909297052154193,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "124834",
+  "category": "speech",
+  "author": "Greencouch",
+  "duration": 160.11065759637188,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "131267",
+  "category": "speech",
+  "author": "bettsashl",
+  "duration": 0.9868480725623583,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "241581",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.6887301587301587,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "93870",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 1.0100680272108844,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "338167",
+  "category": "speech",
+  "author": "edranil",
+  "duration": 9.528004535147392,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "163443",
+  "category": "speech",
+  "author": "Under7dude",
+  "duration": 1.7647165532879818,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "377268",
+  "category": "speech",
+  "author": "johnnypanic",
+  "duration": 0.7002267573696145,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "334980",
+  "category": "speech",
+  "author": "paulocorona",
+  "duration": 21.133061224489797,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "124812",
+  "category": "speech",
+  "author": "Greencouch",
+  "duration": 4.0,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "209990",
+  "category": "speech",
+  "author": "kellieskitchen",
+  "duration": 19.879909297052155,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "186431",
+  "category": "speech",
+  "author": "jar jar vince",
+  "duration": 1.010612244897959,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "186147",
+  "category": "speech",
+  "author": "COSP_LCS13",
+  "duration": 9.75156462585034,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "275791",
+  "category": "speech",
+  "author": "hatchetgirl",
+  "duration": 1.253877551020408,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "263078",
+  "category": "speech",
+  "author": "SoundProject123456789",
+  "duration": 12.025351473922903,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "241502",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 2.3916780045351476,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "242636",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.8127210884353742,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "235126",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.9984580498866213,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "156091",
+  "category": "speech",
+  "author": "marcolo91",
+  "duration": 2.9692743764172334,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "242873",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 1.43281179138322,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "93889",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.8475283446712019,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "242661",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.6850113378684807,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "221639",
+  "category": "speech",
+  "author": "dafiles",
+  "duration": 17.580408163265307,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "58323",
+  "category": "speech",
+  "author": "pomp1o",
+  "duration": 18.729795918367348,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "402021",
+  "category": "speech",
+  "author": "theuncertainman",
+  "duration": 1.3465986394557823,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "273050",
+  "category": "speech",
+  "author": "shadoWisp",
+  "duration": 2.720498866213152,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "277593",
+  "category": "speech",
+  "author": "Coral_Island_Studios",
+  "duration": 1.8546938775510204,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "393379",
+  "category": "speech",
+  "author": "rebecca.valdez3@gmail.com",
+  "duration": 3.4723809523809526,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "235620",
+  "category": "speech",
+  "author": "vmgraw",
+  "duration": 7.9786848072562355,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "223002",
+  "category": "speech",
+  "author": "atracy",
+  "duration": 11.842176870748299,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "255166",
+  "category": "speech",
+  "author": "zendata",
+  "duration": 3.282721088435374,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "433702",
+  "category": "speech",
+  "author": "dersuperanton",
+  "duration": 2.1189342403628117,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "263076",
+  "category": "speech",
+  "author": "SoundProject123456789",
+  "duration": 7.795986394557823,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "93880",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.5804988662131519,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "194460",
+  "category": "speech",
+  "author": "Mafon2",
+  "duration": 21.32,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "400744",
+  "category": "speech",
+  "author": "Fynixx",
+  "duration": 4.469909297052154,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "77026",
+  "category": "speech",
+  "author": "Hotmailer",
+  "duration": 6.093378684807257,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "163050",
+  "category": "speech",
+  "author": "ikbenraar",
+  "duration": 27.0,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "219355",
+  "category": "speech",
+  "author": "ptp8ss",
+  "duration": 6.6250113378684805,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "118565",
+  "category": "speech",
+  "author": "antwash",
+  "duration": 8.846802721088435,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "104420",
+  "category": "speech",
+  "author": "gandhi2",
+  "duration": 22.130068027210886,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "426908",
+  "category": "speech",
+  "author": "dersuperanton",
+  "duration": 0.5804988662131519,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "415343",
+  "category": "speech",
+  "author": "prucanada",
+  "duration": 1.0747165532879819,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "433706",
+  "category": "speech",
+  "author": "dersuperanton",
+  "duration": 2.0253061224489795,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "347034",
+  "category": "speech",
+  "author": "gladkiy",
+  "duration": 8.901564625850341,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "275788",
+  "category": "speech",
+  "author": "hatchetgirl",
+  "duration": 1.2673015873015874,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "320234",
+  "category": "speech",
+  "author": "Kukensius",
+  "duration": 19.150090702947846,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "199340",
+  "category": "speech",
+  "author": "s9ames",
+  "duration": 25.57387755102041,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "327996",
+  "category": "speech",
+  "author": "fyac44",
+  "duration": 3.9909297052154193,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "93899",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.4876190476190476,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "371153",
+  "category": "speech",
+  "author": "microsome",
+  "duration": 29.22,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "242647",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.7662585034013606,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "241484",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.7082086167800453,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "115869",
+  "category": "speech",
+  "author": "nigelcoop",
+  "duration": 10.982947845804988,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "147692",
+  "category": "speech",
+  "author": "ATG142",
+  "duration": 7.627505668934241,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "233208",
+  "category": "speech",
+  "author": "polanko",
+  "duration": 9.555918367346939,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "93874",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.8010884353741496,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "93853",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.4876190476190476,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "131199",
+  "category": "speech",
+  "author": "TheGertz",
+  "duration": 2.5,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "174924",
+  "category": "speech",
+  "author": "ibm5155",
+  "duration": 0.9215419501133787,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "334990",
+  "category": "speech",
+  "author": "paulocorona",
+  "duration": 11.023673469387756,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "193784",
+  "category": "speech",
+  "author": "jhumbucker",
+  "duration": 13.954489795918366,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "100426",
+  "category": "speech",
+  "author": "nfrae",
+  "duration": 3.396598639455782,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "93856",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.4527891156462585,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "316443",
+  "category": "speech",
+  "author": "LittleRobotSoundFactory",
+  "duration": 0.6720181405895692,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "400753",
+  "category": "speech",
+  "author": "Fynixx",
+  "duration": 3.1606349206349207,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "260802",
+  "category": "speech",
+  "author": "daenerys",
+  "duration": 12.0,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "233766",
+  "category": "speech",
+  "author": "TheWorkingBamboo",
+  "duration": 28.546666666666667,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "265110",
+  "category": "speech",
+  "author": "nickrave",
+  "duration": 9.39734693877551,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "325701",
+  "category": "speech",
+  "author": "__O",
+  "duration": 29.256961451247165,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "395241",
+  "category": "speech",
+  "author": "DigPro120",
+  "duration": 17.89387755102041,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "93850",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.5688888888888889,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "260992",
+  "category": "speech",
+  "author": "GregTheHun",
+  "duration": 1.649546485260771,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "398058",
+  "category": "speech",
+  "author": "DRFX",
+  "duration": 2.9706802721088437,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "124829",
+  "category": "speech",
+  "author": "Greencouch",
+  "duration": 4.0,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "413758",
+  "category": "speech",
+  "author": "lala_davis554",
+  "duration": 8.867120181405896,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "402644",
+  "category": "speech",
+  "author": "theuncertainman",
+  "duration": 3.20437641723356,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "186475",
+  "category": "speech",
+  "author": "jar jar vince",
+  "duration": 7.1965532879818594,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "268015",
+  "category": "speech",
+  "author": "jjamespacap",
+  "duration": 9.476145124716552,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "145362",
+  "category": "speech",
+  "author": "kleanthism",
+  "duration": 0.39705215419501133,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "156098",
+  "category": "speech",
+  "author": "marcolo91",
+  "duration": 1.7062131519274377,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "316438",
+  "category": "speech",
+  "author": "LittleRobotSoundFactory",
+  "duration": 0.48,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "78382",
+  "category": "speech",
+  "author": "Peaveycroquette",
+  "duration": 20.77675736961451,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "334982",
+  "category": "speech",
+  "author": "paulocorona",
+  "duration": 3.6310204081632653,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "316436",
+  "category": "speech",
+  "author": "LittleRobotSoundFactory",
+  "duration": 0.7786848072562358,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "242663",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.4527891156462585,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "235042",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 1.4628571428571429,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "125125",
+  "category": "speech",
+  "author": "Tim Thaler",
+  "duration": 28.73455782312925,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "87705",
+  "category": "speech",
+  "author": "dardue",
+  "duration": 1.4071655328798185,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "131266",
+  "category": "speech",
+  "author": "bettsashl",
+  "duration": 1.0913378684807256,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "377264",
+  "category": "speech",
+  "author": "johnnypanic",
+  "duration": 0.4901587301587302,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "265224",
+  "category": "speech",
+  "author": "matze73",
+  "duration": 3.716575963718821,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "393380",
+  "category": "speech",
+  "author": "rebecca.valdez3@gmail.com",
+  "duration": 2.7409750566893423,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "124855",
+  "category": "speech",
+  "author": "Greencouch",
+  "duration": 16.207437641723356,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "241517",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 1.195827664399093,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "402020",
+  "category": "speech",
+  "author": "theuncertainman",
+  "duration": 1.5098185941043083,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "235009",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 1.9040589569160997,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "170786",
+  "category": "speech",
+  "author": "esperar",
+  "duration": 2.754489795918367,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "338171",
+  "category": "speech",
+  "author": "edranil",
+  "duration": 1.872018140589569,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "249168",
+  "category": "speech",
+  "author": "goingnowhereeatingthings",
+  "duration": 1.6718820861678005,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "213286",
+  "category": "speech",
+  "author": "AderuMoro",
+  "duration": 0.777891156462585,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "235105",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 1.1494104308390023,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "273450",
+  "category": "speech",
+  "author": "joshs",
+  "duration": 1.8685260770975056,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "242645",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.5688888888888889,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "112519",
+  "category": "speech",
+  "author": "nickrave",
+  "duration": 2.308843537414966,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "62947",
+  "category": "speech",
+  "author": "clivew",
+  "duration": 6.346916099773242,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "93869",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.7198185941043084,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "147543",
+  "category": "speech",
+  "author": "nickrave",
+  "duration": 18.60265306122449,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "93863",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.5456689342403628,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "250383",
+  "category": "speech",
+  "author": "lostphosphene",
+  "duration": 25.132698412698414,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "241552",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 2.089795918367347,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "398341",
+  "category": "speech",
+  "author": "johonbravo",
+  "duration": 6.912018140589569,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "219766",
+  "category": "speech",
+  "author": "MadamVicious",
+  "duration": 4.063492063492063,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "87704",
+  "category": "speech",
+  "author": "dardue",
+  "duration": 1.2796825396825398,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "112342",
+  "category": "speech",
+  "author": "alyceobvious",
+  "duration": 22.543673469387755,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "235016",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 1.1958503401360545,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "425905",
+  "category": "speech",
+  "author": "NatalieTre",
+  "duration": 10.80204081632653,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "117606",
+  "category": "speech",
+  "author": "mefrancis13",
+  "duration": 4.488004535147392,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "371384",
+  "category": "speech",
+  "author": "marcello777",
+  "duration": 0.822108843537415,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "277596",
+  "category": "speech",
+  "author": "Coral_Island_Studios",
+  "duration": 4.388571428571429,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "411014",
+  "category": "speech",
+  "author": "krismar1230",
+  "duration": 3.628730158730159,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "93886",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.8591383219954648,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "250378",
+  "category": "speech",
+  "author": "lostphosphene",
+  "duration": 9.88734693877551,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "235114",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 1.0100907029478459,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "192172",
+  "category": "speech",
+  "author": "phatkatz4",
+  "duration": 0.6753968253968254,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "115523",
+  "category": "speech",
+  "author": "panta_rei",
+  "duration": 20.297142857142855,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "422718",
+  "category": "speech",
+  "author": "Grubzyy",
+  "duration": 2.040566893424036,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "93872",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 1.0681179138321995,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "235020",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.5572789115646258,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "235128",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.626938775510204,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "393358",
+  "category": "speech",
+  "author": "rebecca.valdez3@gmail.com",
+  "duration": 3.1440362811791385,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "197947",
+  "category": "speech",
+  "author": "mpwarne",
+  "duration": 0.3294784580498866,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "156946",
+  "category": "speech",
+  "author": "AAEPGranollers",
+  "duration": 22.522539682539684,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "93865",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.603718820861678,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "277594",
+  "category": "speech",
+  "author": "Coral_Island_Studios",
+  "duration": 3.996734693877551,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "242697",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 1.2190476190476192,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "68272",
+  "category": "speech",
+  "author": "rychc",
+  "duration": 29.630748299319727,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "369913",
+  "category": "speech",
+  "author": "germanio",
+  "duration": 1.3990702947845806,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "369908",
+  "category": "speech",
+  "author": "germanio",
+  "duration": 3.154467120181406,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "426906",
+  "category": "speech",
+  "author": "dersuperanton",
+  "duration": 0.626938775510204,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "431604",
+  "category": "speech",
+  "author": "prucanada",
+  "duration": 1.5746938775510204,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "345423",
+  "category": "speech",
+  "author": "Artmasterrich",
+  "duration": 0.4876190476190476,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "93868",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.615328798185941,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "421591",
+  "category": "speech",
+  "author": "Vospi",
+  "duration": 24.70106575963719,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "145364",
+  "category": "speech",
+  "author": "kleanthism",
+  "duration": 1.5728344671201815,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "398001",
+  "category": "speech",
+  "author": "Suvo",
+  "duration": 29.44,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "124883",
+  "category": "speech",
+  "author": "Greencouch",
+  "duration": 1.1666666666666667,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "331024",
+  "category": "speech",
+  "author": "alextk145",
+  "duration": 29.78049886621315,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "180174",
+  "category": "speech",
+  "author": "Veridiansunrise",
+  "duration": 23.968231292517007,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "93879",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.7778684807256235,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "233514",
+  "category": "speech",
+  "author": "ggc9",
+  "duration": 12.430657596371882,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "328635",
+  "category": "speech",
+  "author": "tpatishnock",
+  "duration": 1.9848299319727891,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "156638",
+  "category": "speech",
+  "author": "lonemonk",
+  "duration": 23.405714285714286,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "371385",
+  "category": "speech",
+  "author": "marcello777",
+  "duration": 0.8124943310657596,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "347033",
+  "category": "speech",
+  "author": "gladkiy",
+  "duration": 9.36077097505669,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "368380",
+  "category": "speech",
+  "author": "MadamVicious",
+  "duration": 9.810430839002267,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "348324",
+  "category": "speech",
+  "author": "BlackNeon1234",
+  "duration": 19.057981859410432,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "181187",
+  "category": "speech",
+  "author": "Ears68",
+  "duration": 24.887256235827664,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "349401",
+  "category": "speech",
+  "author": "zheng142326",
+  "duration": 26.865351473922903,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "324783",
+  "category": "speech",
+  "author": "miguel2613",
+  "duration": 23.62485260770975,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "235031",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 1.0100907029478459,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "372236",
+  "category": "speech",
+  "author": "orginaljun",
+  "duration": 1.4424943310657596,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "241476",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 1.230657596371882,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "400727",
+  "category": "speech",
+  "author": "Fynixx",
+  "duration": 3.5859410430839,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "250983",
+  "category": "speech",
+  "author": "ThaisMontanariCabral",
+  "duration": 7.280589569160997,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "321456",
+  "category": "speech",
+  "author": "cartoonrob",
+  "duration": 27.115102040816325,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "124858",
+  "category": "speech",
+  "author": "Greencouch",
+  "duration": 550.2490476190476,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "391214",
+  "category": "speech",
+  "author": "Owl",
+  "duration": 29.016326530612243,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "422724",
+  "category": "speech",
+  "author": "Grubzyy",
+  "duration": 1.0873242630385487,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "241495",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 2.1826530612244897,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "259675",
+  "category": "speech",
+  "author": "nooc",
+  "duration": 1.253877551020408,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "242688",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 1.5905668934240362,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "164057",
+  "category": "speech",
+  "author": "willibald7",
+  "duration": 24.006145124716554,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "378365",
+  "category": "speech",
+  "author": "13GPanska_Lakota_Jan",
+  "duration": 28.68,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "124838",
+  "category": "speech",
+  "author": "Greencouch",
+  "duration": 16.0,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "241577",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 2.0662131519274376,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "176132",
+  "category": "speech",
+  "author": "LukeIRL",
+  "duration": 25.406167800453513,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "192171",
+  "category": "speech",
+  "author": "phatkatz4",
+  "duration": 1.757437641723356,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "392839",
+  "category": "speech",
+  "author": "sebbas414",
+  "duration": 15.177142857142858,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "424786",
+  "category": "speech",
+  "author": "barbara.raposo",
+  "duration": 15.27873015873016,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "242683",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.5689115646258504,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "128005",
+  "category": "speech",
+  "author": "kaonaya",
+  "duration": 13.55,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "393356",
+  "category": "speech",
+  "author": "rebecca.valdez3@gmail.com",
+  "duration": 3.1739455782312924,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "234994",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 1.4512698412698413,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "249170",
+  "category": "speech",
+  "author": "goingnowhereeatingthings",
+  "duration": 1.5885034013605441,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "410995",
+  "category": "speech",
+  "author": "chucklez22",
+  "duration": 8.997732426303855,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "241578",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.9490022675736961,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "264611",
+  "category": "speech",
+  "author": "shadoWisp",
+  "duration": 8.69342403628118,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "87703",
+  "category": "speech",
+  "author": "dardue",
+  "duration": 1.243219954648526,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "334978",
+  "category": "speech",
+  "author": "paulocorona",
+  "duration": 8.124081632653061,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "184833",
+  "category": "speech",
+  "author": "Gauraa",
+  "duration": 8.45061224489796,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "242629",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.6966213151927437,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "256557",
+  "category": "speech",
+  "author": "Skiggz",
+  "duration": 0.5061904761904762,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "338170",
+  "category": "speech",
+  "author": "edranil",
+  "duration": 2.472018140589569,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "433700",
+  "category": "speech",
+  "author": "dersuperanton",
+  "duration": 1.6486167800453515,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "325451",
+  "category": "speech",
+  "author": "lunnaris",
+  "duration": 8.273219954648527,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "424791",
+  "category": "speech",
+  "author": "bolkmar",
+  "duration": 28.6,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "400742",
+  "category": "speech",
+  "author": "Fynixx",
+  "duration": 1.8626303854875284,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "216009",
+  "category": "speech",
+  "author": "brainwaves8",
+  "duration": 8.665351473922902,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "424601",
+  "category": "speech",
+  "author": "Daniela-Santos",
+  "duration": 13.14,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "429038",
+  "category": "speech",
+  "author": "theuncertainman",
+  "duration": 0.9810430839002268,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "235053",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.9636507936507936,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "277598",
+  "category": "speech",
+  "author": "Coral_Island_Studios",
+  "duration": 3.2653061224489797,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "78396",
+  "category": "speech",
+  "author": "Paper Jam",
+  "duration": 23.777233560090703,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "400734",
+  "category": "speech",
+  "author": "Fynixx",
+  "duration": 3.1606349206349207,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "250098",
+  "category": "speech",
+  "author": "pbrechler",
+  "duration": 0.77,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "190033",
+  "category": "speech",
+  "author": "eizzof",
+  "duration": 25.92265306122449,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "345465",
+  "category": "speech",
+  "author": "Artmasterrich",
+  "duration": 0.603718820861678,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "200809",
+  "category": "speech",
+  "author": "WebbFilmsUK",
+  "duration": 28.0,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "377266",
+  "category": "speech",
+  "author": "johnnypanic",
+  "duration": 0.35011337868480724,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "93876",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.6965986394557823,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "219772",
+  "category": "speech",
+  "author": "MadamVicious",
+  "duration": 4.462494331065759,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "252043",
+  "category": "speech",
+  "author": "shadoWisp",
+  "duration": 1.1176190476190475,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "398885",
+  "category": "speech",
+  "author": "PHetish",
+  "duration": 10.443786848072563,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "156641",
+  "category": "speech",
+  "author": "lonemonk",
+  "duration": 16.184308390022675,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "426909",
+  "category": "speech",
+  "author": "dersuperanton",
+  "duration": 1.18421768707483,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "400733",
+  "category": "speech",
+  "author": "Fynixx",
+  "duration": 4.404897959183674,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "320167",
+  "category": "speech",
+  "author": "joshs",
+  "duration": 2.7110657596371883,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "242628",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.8475283446712019,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "334987",
+  "category": "speech",
+  "author": "paulocorona",
+  "duration": 16.431020408163267,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "266184",
+  "category": "speech",
+  "author": "pan14",
+  "duration": 21.713333333333335,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "386902",
+  "category": "speech",
+  "author": "hatchetgirl",
+  "duration": 15.269569160997733,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "393376",
+  "category": "speech",
+  "author": "rebecca.valdez3@gmail.com",
+  "duration": 3.2730385487528344,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "188058",
+  "category": "speech",
+  "author": "Calcuttan",
+  "duration": 29.98090702947846,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "131264",
+  "category": "speech",
+  "author": "bettsashl",
+  "duration": 0.8477777777777777,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "153268",
+  "category": "speech",
+  "author": "sankalp",
+  "duration": 12.425510204081633,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "183456",
+  "category": "speech",
+  "author": "severaltimes",
+  "duration": 20.526439909297054,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "93873",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.592108843537415,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "400589",
+  "category": "speech",
+  "author": "misjoc",
+  "duration": 13.699319727891156,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "328659",
+  "category": "speech",
+  "author": "bzamecnik",
+  "duration": 3.9938321995464854,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "93895",
+  "category": "speech",
+  "author": "SteveG2008",
+  "duration": 0.4992290249433107,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "341756",
+  "category": "speech",
+  "author": "kb7clx",
+  "duration": 0.5210430839002268,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "367744",
+  "category": "speech",
+  "author": "altazor80",
+  "duration": 29.135986394557822,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "27071",
+  "category": "speech",
+  "author": "philippe b",
+  "duration": 15.618321995464852,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "336029",
+  "category": "speech",
+  "author": "ipaghost",
+  "duration": 0.7294557823129252,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "341568",
+  "category": "speech",
+  "author": "dggrunzweig",
+  "duration": 24.288027210884355,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "413462",
+  "category": "speech",
+  "author": "ThatMisfit",
+  "duration": 23.832018140589568,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "121801",
+  "category": "speech",
+  "author": "BOSS MUSIC",
+  "duration": 14.8,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "71558",
+  "category": "speech",
+  "author": "Lindsayanng",
+  "duration": 0.8341950113378684,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "400726",
+  "category": "speech",
+  "author": "Fynixx",
+  "duration": 4.690907029478458,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ },
+ {
+  "id": "402022",
+  "category": "speech",
+  "author": "theuncertainman",
+  "duration": 1.4533786848072563,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "235123",
+  "category": "speech",
+  "author": "Reitanna",
+  "duration": 0.9171882086167801,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": false
+ },
+ {
+  "id": "263079",
+  "category": "speech",
+  "author": "SoundProject123456789",
+  "duration": 19.91201814058957,
+  "channels": 1,
+  "sample_rate": 44100,
+  "eligible": true
+ }
+]

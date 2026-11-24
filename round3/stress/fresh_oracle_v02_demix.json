@@ -1,0 +1,694 @@
+{
+  "plan_sha256": "bc979bd850b95afbb4400552adb805a357cd7d5b8a26a31d08611ec796fb7c74",
+  "summary": {
+    "positive": 76,
+    "directions_detected": 25,
+    "ideal_label_useful": 3
+  },
+  "rows": [
+    {
+      "source_id": "2396",
+      "background_id": "68133",
+      "target": "wind",
+      "distractor": "guitar",
+      "absent": "piano",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "2396",
+      "background_id": "417331",
+      "target": "wind",
+      "distractor": "piano",
+      "absent": "speech",
+      "kind": "fresh_native",
+      "best_db": -10.432794449033459
+    },
+    {
+      "source_id": "2396",
+      "background_id": "220835",
+      "target": "wind",
+      "distractor": "speech",
+      "absent": "train",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "2396",
+      "background_id": "263396",
+      "target": "wind",
+      "distractor": "train",
+      "absent": "guitar",
+      "kind": "fresh_native",
+      "best_db": -5.568410558394088
+    },
+    {
+      "source_id": "65150",
+      "background_id": "361579",
+      "target": "piano",
+      "distractor": "guitar",
+      "absent": "wind",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "65150",
+      "background_id": "146432",
+      "target": "piano",
+      "distractor": "speech",
+      "absent": "train",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "65150",
+      "background_id": "209969",
+      "target": "piano",
+      "distractor": "train",
+      "absent": "wind",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "65150",
+      "background_id": "169693",
+      "target": "piano",
+      "distractor": "wind",
+      "absent": "speech",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "68133",
+      "background_id": "65150",
+      "target": "guitar",
+      "distractor": "piano",
+      "absent": "train",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "68133",
+      "background_id": "328842",
+      "target": "guitar",
+      "distractor": "speech",
+      "absent": "piano",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "68133",
+      "background_id": "91557",
+      "target": "guitar",
+      "distractor": "train",
+      "absent": "speech",
+      "kind": "fresh_native",
+      "best_db": -7.399065120287946
+    },
+    {
+      "source_id": "68133",
+      "background_id": "2396",
+      "target": "guitar",
+      "distractor": "wind",
+      "absent": "piano",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "91557",
+      "background_id": "434629",
+      "target": "train",
+      "distractor": "guitar",
+      "absent": "wind",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "91557",
+      "background_id": "340998",
+      "target": "train",
+      "distractor": "piano",
+      "absent": "guitar",
+      "kind": "fresh_native",
+      "best_db": -7.909547308152054
+    },
+    {
+      "source_id": "91557",
+      "background_id": "379302",
+      "target": "train",
+      "distractor": "speech",
+      "absent": "guitar",
+      "kind": "fresh_native",
+      "best_db": -1.9283936356707392
+    },
+    {
+      "source_id": "91557",
+      "background_id": "417998",
+      "target": "train",
+      "distractor": "wind",
+      "absent": "speech",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "91559",
+      "background_id": "339982",
+      "target": "train",
+      "distractor": "guitar",
+      "absent": "piano",
+      "kind": "fresh_native",
+      "best_db": -4.968903726606524
+    },
+    {
+      "source_id": "91559",
+      "background_id": "65150",
+      "target": "train",
+      "distractor": "piano",
+      "absent": "wind",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "91559",
+      "background_id": "379302",
+      "target": "train",
+      "distractor": "speech",
+      "absent": "guitar",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "91559",
+      "background_id": "380806",
+      "target": "train",
+      "distractor": "wind",
+      "absent": "speech",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "146432",
+      "background_id": "339982",
+      "target": "speech",
+      "distractor": "guitar",
+      "absent": "train",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "146432",
+      "background_id": "340998",
+      "target": "speech",
+      "distractor": "piano",
+      "absent": "train",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "146432",
+      "background_id": "91559",
+      "target": "speech",
+      "distractor": "train",
+      "absent": "guitar",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "146432",
+      "background_id": "2396",
+      "target": "speech",
+      "distractor": "wind",
+      "absent": "piano",
+      "kind": "fresh_native",
+      "best_db": -1.8276258086162573
+    },
+    {
+      "source_id": "169693",
+      "background_id": "434629",
+      "target": "wind",
+      "distractor": "guitar",
+      "absent": "speech",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "169693",
+      "background_id": "417331",
+      "target": "wind",
+      "distractor": "piano",
+      "absent": "train",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "169693",
+      "background_id": "146432",
+      "target": "wind",
+      "distractor": "speech",
+      "absent": "piano",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "169693",
+      "background_id": "209969",
+      "target": "wind",
+      "distractor": "train",
+      "absent": "guitar",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "209969",
+      "background_id": "361579",
+      "target": "train",
+      "distractor": "guitar",
+      "absent": "wind",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "209969",
+      "background_id": "65150",
+      "target": "train",
+      "distractor": "piano",
+      "absent": "wind",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "209969",
+      "background_id": "220835",
+      "target": "train",
+      "distractor": "speech",
+      "absent": "piano",
+      "kind": "fresh_native",
+      "best_db": 7.5823111552855424
+    },
+    {
+      "source_id": "209969",
+      "background_id": "417998",
+      "target": "train",
+      "distractor": "wind",
+      "absent": "speech",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "220835",
+      "background_id": "68133",
+      "target": "speech",
+      "distractor": "guitar",
+      "absent": "wind",
+      "kind": "fresh_native",
+      "best_db": -2.4741530241624266
+    },
+    {
+      "source_id": "220835",
+      "background_id": "417331",
+      "target": "speech",
+      "distractor": "piano",
+      "absent": "train",
+      "kind": "fresh_native",
+      "best_db": 2.908002398562698
+    },
+    {
+      "source_id": "220835",
+      "background_id": "91559",
+      "target": "speech",
+      "distractor": "train",
+      "absent": "guitar",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "220835",
+      "background_id": "380806",
+      "target": "speech",
+      "distractor": "wind",
+      "absent": "train",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "263396",
+      "background_id": "434629",
+      "target": "train",
+      "distractor": "guitar",
+      "absent": "speech",
+      "kind": "fresh_native",
+      "best_db": 3.5955794140184305
+    },
+    {
+      "source_id": "263396",
+      "background_id": "340998",
+      "target": "train",
+      "distractor": "piano",
+      "absent": "guitar",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "263396",
+      "background_id": "328842",
+      "target": "train",
+      "distractor": "speech",
+      "absent": "piano",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "263396",
+      "background_id": "169693",
+      "target": "train",
+      "distractor": "wind",
+      "absent": "piano",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "328842",
+      "background_id": "68133",
+      "target": "speech",
+      "distractor": "guitar",
+      "absent": "wind",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "328842",
+      "background_id": "340998",
+      "target": "speech",
+      "distractor": "piano",
+      "absent": "train",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "328842",
+      "background_id": "91557",
+      "target": "speech",
+      "distractor": "train",
+      "absent": "wind",
+      "kind": "fresh_native",
+      "best_db": -5.7305511262931645
+    },
+    {
+      "source_id": "328842",
+      "background_id": "417998",
+      "target": "speech",
+      "distractor": "wind",
+      "absent": "guitar",
+      "kind": "fresh_native",
+      "best_db": -6.221735528046876
+    },
+    {
+      "source_id": "339982",
+      "background_id": "65150",
+      "target": "guitar",
+      "distractor": "piano",
+      "absent": "speech",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "339982",
+      "background_id": "328842",
+      "target": "guitar",
+      "distractor": "speech",
+      "absent": "train",
+      "kind": "fresh_native",
+      "best_db": -7.838187081307077
+    },
+    {
+      "source_id": "339982",
+      "background_id": "263396",
+      "target": "guitar",
+      "distractor": "train",
+      "absent": "speech",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "339982",
+      "background_id": "169693",
+      "target": "guitar",
+      "distractor": "wind",
+      "absent": "piano",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "340998",
+      "background_id": "361579",
+      "target": "piano",
+      "distractor": "guitar",
+      "absent": "wind",
+      "kind": "fresh_native",
+      "best_db": -13.468244062668044
+    },
+    {
+      "source_id": "340998",
+      "background_id": "220835",
+      "target": "piano",
+      "distractor": "speech",
+      "absent": "guitar",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "340998",
+      "background_id": "91557",
+      "target": "piano",
+      "distractor": "train",
+      "absent": "speech",
+      "kind": "fresh_native",
+      "best_db": -7.595070017454759
+    },
+    {
+      "source_id": "340998",
+      "background_id": "2396",
+      "target": "piano",
+      "distractor": "wind",
+      "absent": "guitar",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "361579",
+      "background_id": "417331",
+      "target": "guitar",
+      "distractor": "piano",
+      "absent": "wind",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "361579",
+      "background_id": "146432",
+      "target": "guitar",
+      "distractor": "speech",
+      "absent": "train",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "361579",
+      "background_id": "91559",
+      "target": "guitar",
+      "distractor": "train",
+      "absent": "piano",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "361579",
+      "background_id": "380806",
+      "target": "guitar",
+      "distractor": "wind",
+      "absent": "piano",
+      "kind": "fresh_native",
+      "best_db": -14.201311543048543
+    },
+    {
+      "source_id": "379302",
+      "background_id": "339982",
+      "target": "speech",
+      "distractor": "guitar",
+      "absent": "train",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "379302",
+      "background_id": "340998",
+      "target": "speech",
+      "distractor": "piano",
+      "absent": "guitar",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "379302",
+      "background_id": "263396",
+      "target": "speech",
+      "distractor": "train",
+      "absent": "wind",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "379302",
+      "background_id": "380806",
+      "target": "speech",
+      "distractor": "wind",
+      "absent": "train",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "380806",
+      "background_id": "339982",
+      "target": "wind",
+      "distractor": "guitar",
+      "absent": "speech",
+      "kind": "fresh_native",
+      "best_db": -12.805772649177682
+    },
+    {
+      "source_id": "380806",
+      "background_id": "65150",
+      "target": "wind",
+      "distractor": "piano",
+      "absent": "speech",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "380806",
+      "background_id": "379302",
+      "target": "wind",
+      "distractor": "speech",
+      "absent": "guitar",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "380806",
+      "background_id": "209969",
+      "target": "wind",
+      "distractor": "train",
+      "absent": "piano",
+      "kind": "fresh_native",
+      "best_db": -13.605176757513307
+    },
+    {
+      "source_id": "417331",
+      "background_id": "68133",
+      "target": "piano",
+      "distractor": "guitar",
+      "absent": "wind",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "417331",
+      "background_id": "379302",
+      "target": "piano",
+      "distractor": "speech",
+      "absent": "train",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "417331",
+      "background_id": "209969",
+      "target": "piano",
+      "distractor": "train",
+      "absent": "wind",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "417331",
+      "background_id": "2396",
+      "target": "piano",
+      "distractor": "wind",
+      "absent": "speech",
+      "kind": "fresh_native",
+      "best_db": -8.295249304294828
+    },
+    {
+      "source_id": "417998",
+      "background_id": "361579",
+      "target": "wind",
+      "distractor": "guitar",
+      "absent": "piano",
+      "kind": "fresh_native",
+      "best_db": -16.1876105154372
+    },
+    {
+      "source_id": "417998",
+      "background_id": "417331",
+      "target": "wind",
+      "distractor": "piano",
+      "absent": "guitar",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "417998",
+      "background_id": "328842",
+      "target": "wind",
+      "distractor": "speech",
+      "absent": "train",
+      "kind": "fresh_native",
+      "best_db": -10.50904588421238
+    },
+    {
+      "source_id": "417998",
+      "background_id": "91559",
+      "target": "wind",
+      "distractor": "train",
+      "absent": "speech",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "434629",
+      "background_id": "417331",
+      "target": "guitar",
+      "distractor": "piano",
+      "absent": "wind",
+      "kind": "fresh_native",
+      "best_db": 2.596168354631129
+    },
+    {
+      "source_id": "434629",
+      "background_id": "146432",
+      "target": "guitar",
+      "distractor": "speech",
+      "absent": "piano",
+      "kind": "fresh_native",
+      "best_db": 6.332070767329864
+    },
+    {
+      "source_id": "434629",
+      "background_id": "91557",
+      "target": "guitar",
+      "distractor": "train",
+      "absent": "speech",
+      "kind": "fresh_native",
+      "best_db": null
+    },
+    {
+      "source_id": "434629",
+      "background_id": "417998",
+      "target": "guitar",
+      "distractor": "wind",
+      "absent": "train",
+      "kind": "fresh_native",
+      "best_db": -0.11147634493407683
+    }
+  ]
+}

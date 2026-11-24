@@ -1,0 +1,30 @@
+{
+  "id": "eigenscape_hoa/Park.1",
+  "dataset": "eigenscape_hoa",
+  "record": "2628463",
+  "member": "Park.1.wav",
+  "archive": "Park.zip",
+  "archive_checksum": "md5:c5d638518b4f7d597dd410ee5bb48b67",
+  "url": "https://zenodo.org/api/records/2628463/files/Park.zip/content",
+  "archive_range": [
+    0,
+    8199999
+  ],
+  "range_sha256": "1dc046b2dc42bee49740deb0fa998618d75b92ecfdcd6e6d7ba489aa7235dbd1",
+  "source_offset_s": 0,
+  "duration_s": 2,
+  "rate": 48000,
+  "channels": 25,
+  "format": "ACN/SN3D order 4",
+  "bytes": 7200102,
+  "sha256": "a10b9925d579d1037a44577170d6845e3f29690e1edc20c0fa38a3a566bad666",
+  "pcm_s32le_sha256": "334f4ee4a1472737e769e5e1cc2252ca6810cfbd82837329822e77a6199c3f27",
+  "first_four_vs_lite_correlation": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "path": "round2_data/field/eigenscape_hoa/Park-01.wav",
+  "license": "CC-BY-4.0"
+}

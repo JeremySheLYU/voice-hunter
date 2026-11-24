@@ -1,0 +1,36 @@
+{
+  "sources": [
+    {
+      "id": "15753",
+      "title": "clean riff.mp3",
+      "author": "eriatarka",
+      "url": "https://freesound.org/s/15753/",
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "sha256": "22800d52344007f30a8302613be0746a94e2c57663a7f5011a3f47a5bb9f8aef",
+      "category": "guitar",
+      "start_seconds": 0.4,
+      "duration_seconds": 4.5,
+      "equal_power_pan_degrees": 12,
+      "split": "historical training"
+    },
+    {
+      "id": "5997",
+      "title": "wind.poplar.02.wav",
+      "author": "dobroide",
+      "url": "https://freesound.org/s/5997/",
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "sha256": "30568ad2b8a5a492bd2c0247297bfec13531f89eb409ab35b10a3d19fb1e9317",
+      "category": "wind",
+      "start_seconds": 0.4,
+      "duration_seconds": 4.5,
+      "equal_power_pan_degrees": 72,
+      "split": "historical training"
+    }
+  ],
+  "samples": 216000,
+  "sample_rate": 48000,
+  "channels": 2,
+  "requested": "guitar",
+  "sha256": "7b08418d6043be65624177d8bd9ebd7a757394aae09a6ca282e293b1cf640764",
+  "description": "Non-evaluation plumbing fixture; cropped, RMS-matched, panned, mixed and FLAC encoded."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "eigenscape/Beach.6.flac",
+  "dataset": "eigenscape",
+  "record": "2628463",
+  "member": "Beach.6.flac",
+  "source_offset_s": 0,
+  "duration_s": 8.0,
+  "rate": 48000,
+  "channels": 4,
+  "bytes": 2860957,
+  "sha256": "7157e244ecb9a4cc68103bf95e4bdc9b7ace9a699f9bdff2a40588c90a5eead7",
+  "pcm_s32le_sha256": "568abbdfda7353a95d8ebc7d8faa9e147188c33a8e452e2398d5a0138ca351f0",
+  "archive_crc32": "0x96ac901f",
+  "archive_range": [
+    958348135,
+    963597670
+  ],
+  "range_sha256": "e429cb4d872fe1fde49f9ca7179aeba0181340ed40a206baaef73fa9a0fb6004",
+  "path": "round2_data/field/eigenscape/Beach.6.flac.flac",
+  "license": "CC-BY-4.0"
+}

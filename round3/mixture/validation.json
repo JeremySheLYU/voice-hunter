@@ -1,0 +1,60 @@
+{
+  "validation": {
+    "room": {
+      "accuracy": 0.509090909090909,
+      "f1": 0.3076923076923077,
+      "useful": 1,
+      "n_pos": 55,
+      "tp": 12,
+      "fp": 11,
+      "threshold": 0.5
+    },
+    "colocated": {
+      "accuracy": 0.5818181818181818,
+      "f1": 0.4523809523809524,
+      "useful": 5,
+      "n_pos": 55,
+      "tp": 19,
+      "fp": 10,
+      "threshold": 0.5
+    },
+    "persistent": {
+      "accuracy": 0.5909090909090909,
+      "f1": 0.5054945054945055,
+      "useful": 18,
+      "n_pos": 55,
+      "tp": 23,
+      "fp": 13,
+      "threshold": 0.5
+    }
+  },
+  "calibration": {
+    "iva": {
+      "accuracy": 0.55,
+      "f1": 0.41420118343195267,
+      "useful": 19,
+      "n_pos": 110,
+      "tp": 35,
+      "fp": 24,
+      "threshold": 0.35
+    },
+    "dict": {
+      "accuracy": 0.5818181818181818,
+      "f1": 0.4523809523809524,
+      "useful": 5,
+      "n_pos": 55,
+      "tp": 19,
+      "fp": 10,
+      "threshold": 0.475
+    }
+  },
+  "seconds": 0.01,
+  "train_sources": 175,
+  "classes": [
+    "guitar",
+    "piano",
+    "speech",
+    "train",
+    "wind"
+  ]
+}

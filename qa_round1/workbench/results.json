@@ -1,0 +1,175 @@
+{
+  "ran": "2026-11-21T21:26:49.410310+00:00",
+  "fixture": "Synthetic stereo studio.wav + generated 160x96 color pattern MOV; the optional iPhone demo route was configured with the same synthetic MOV",
+  "isolated_server": "ephemeral localhost port and temporary clip storage",
+  "browser": {
+    "execution": "not-tested",
+    "attempts": [
+      {
+        "name": "system Chrome",
+        "started": false,
+        "error": "- [pid=90551] <process did exit: exitCode=null, signal=SIGABRT>"
+      },
+      {
+        "name": "Playwright Chromium",
+        "started": false,
+        "error": "[pid=90558][err] [1121/162644.262814:FATAL:base/apple/mach_port_rendezvous_mac.cc:159] Check failed: kr == KERN_SUCCESS. bootstrap_check_in org.chromium.Chromium.MachPortRendezvousServer.90558: Permission denied (1100)"
+      },
+      {
+        "name": "Playwright WebKit (not Safari)",
+        "started": false,
+        "error": "- [pid=90617] <process did exit: exitCode=134, signal=null>"
+      }
+    ],
+    "checks": []
+  },
+  "dom_http": {
+    "execution": "DOM event/handler simulation + real HTTP/FFmpeg; layout and real playback unverified here",
+    "checks": [
+      {
+        "id": "sample-link-studio",
+        "status": "pass",
+        "selected": "example",
+        "syntheticPhoneFixture": false
+      },
+      {
+        "id": "sample-link-duet",
+        "status": "pass",
+        "selected": "speakers",
+        "syntheticPhoneFixture": false
+      },
+      {
+        "id": "sample-link-iphone",
+        "status": "pass",
+        "selected": "rnnoise",
+        "syntheticPhoneFixture": true
+      },
+      {
+        "id": "unicode-mov-upload",
+        "status": "pass"
+      },
+      {
+        "id": "mono-error-and-prior-clip-usable",
+        "status": "pass"
+      },
+      {
+        "id": "invalid-span-before-first-separation",
+        "status": "pass"
+      },
+      {
+        "id": "overlapping-spans-error",
+        "status": "pass"
+      },
+      {
+        "id": "valid-separation-after-error",
+        "status": "pass"
+      },
+      {
+        "id": "solo-target-residual-URL-switch",
+        "status": "pass"
+      },
+      {
+        "id": "AB-source-and-position-request",
+        "status": "pass",
+        "seek": 3.25
+      },
+      {
+        "id": "stale-render-explicit",
+        "status": "pass"
+      },
+      {
+        "id": "current-render-file",
+        "status": "pass"
+      },
+      {
+        "id": "complete-downloads",
+        "status": "pass",
+        "files": 5,
+        "videoDownloadName": "%E8%A8%AA%E8%AB%87%20QA-mix.mov"
+      },
+      {
+        "id": "stale-after-target-reference-edit",
+        "status": "fail",
+        "retainedTarget": true,
+        "soloEnabled": true,
+        "renderEnabled": true,
+        "downloadVisible": true,
+        "statusMessage": "混音影片已可下載。"
+      },
+      {
+        "id": "stale-after-method-change",
+        "status": "fail",
+        "selected": "rnnoise",
+        "retainedTarget": true,
+        "soloEnabled": true,
+        "renderEnabled": true,
+        "downloadVisible": true,
+        "statusMessage": "混音影片已可下載。"
+      },
+      {
+        "id": "new-separation-clears-prior-render",
+        "status": "pass"
+      },
+      {
+        "id": "headphone-render",
+        "status": "pass"
+      },
+      {
+        "id": "switch-clip-clears-old-stems-and-mix",
+        "status": "pass"
+      },
+      {
+        "id": "private-fixture-button-hidden-when-unconfigured",
+        "status": "pass"
+      },
+      {
+        "id": "static-responsive-and-control-markup",
+        "status": "pass",
+        "checkedControls": 29,
+        "unlabelled": [],
+        "scope": "markup and CSS rules only; real layout and taps not measured"
+      }
+    ],
+    "capabilities": [
+      "example",
+      "speakers",
+      "auto",
+      "rnnoise"
+    ]
+  },
+  "exports": {
+    "original_samples_per_channel": 460800,
+    "target_samples_per_channel": 460800,
+    "residual_samples_per_channel": 460800,
+    "remix_samples_per_channel": 460800,
+    "muxed_decoded_samples_per_channel": 460800,
+    "max_abs_additive_error": 2.9802322387695312e-08,
+    "remix_vs_original_rms_difference": 0.05101553864546079,
+    "decoded_mov_vs_downloaded_mix_correlation": 0.9998100069866304,
+    "decoded_mov_vs_original_correlation": 0.8651811486334502,
+    "mov_streams": [
+      {
+        "codec_name": "mpeg4",
+        "codec_type": "video",
+        "duration": "9.583333"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "channels": 2,
+        "duration": "9.600000"
+      }
+    ],
+    "wav_streams": [
+      {
+        "codec_name": "pcm_s24le",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "channels": 2,
+        "duration": "9.600000"
+      }
+    ],
+    "pass": true
+  }
+}
